@@ -1,0 +1,68 @@
+{
+  "0": {
+    "keywords": [
+      "says",
+      "syria",
+      "russia",
+      "leader",
+      "israel"
+    ],
+    "label": "says, syria, russia",
+    "article_count": 330
+  },
+  "1": {
+    "keywords": [
+      "glance",
+      "conference",
+      "expanded conference",
+      "conference glance",
+      "expanded"
+    ],
+    "label": "glance, conference, expanded conference",
+    "article_count": 371
+  },
+  "2": {
+    "keywords": [
+      "trump",
+      "says",
+      "latest",
+      "state",
+      "house"
+    ],
+    "label": "trump, says, latest",
+    "article_count": 309
+  },
+  "3": {
+    "keywords": [
+      "league",
+      "win",
+      "cup",
+      "major",
+      "league linescores"
+    ],
+    "label": "league, win, cup",
+    "article_count": 254
+  },
+  "4": {
+    "keywords": [
+      "police",
+      "man",
+      "latest",
+      "shooting",
+      "woman"
+    ],
+    "label": "police, man, latest",
+    "article_count": 306
+  },
+  "5": {
+    "keywords": [
+      "new",
+      "market",
+      "global",
+      "data",
+      "says"
+    ],
+    "label": "new, market, global",
+    "article_count": 331
+  }
+}

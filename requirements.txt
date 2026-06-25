@@ -1,0 +1,10 @@
+sentence-transformers==5.5.1
+faiss-cpu==1.14.2
+scikit-learn==1.9.0
+umap-learn==0.5.9.post2
+streamlit==1.49.1
+plotly==6.2.0
+datasets==4.0.0
+pandas==2.3.0
+faker==37.3.0
+python-dateutil==2.9.0.post0

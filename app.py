@@ -74,10 +74,21 @@ def _format_pipeline_output(output: str, limit: int = PIPELINE_OUTPUT_LIMIT) -> 
     )
 
 
-def _safe_caption(domain: str, date: str) -> None:
+def _display_str(value: object, fallback: str = "") -> str:
+    if value is None:
+        return fallback
+    text = str(value).strip()
+    return text if text else fallback
+
+
+def _escape_text(value: object, fallback: str = "") -> str:
+    return escape(_display_str(value, fallback))
+
+
+def _safe_caption(domain: object, date: object) -> None:
     st.markdown(
         f'<p style="color:#9ca3af;font-size:0.85rem;margin:0;">'
-        f"{escape(domain)} · {escape(date)}</p>",
+        f"{_escape_text(domain, 'unknown')} · {_escape_text(date, '—')}</p>",
         unsafe_allow_html=True,
     )
 
@@ -336,7 +347,7 @@ def _render_result_card(
     article_id = _article_id_for_url(engine, url)
 
     with st.container(border=True):
-        st.markdown(f"**{rank}.** [{escape(title)}]({url})")
+        st.markdown(f"**{rank}.** [{_escape_text(title, 'Untitled')}]({url})")
         _safe_caption(domain, date)
         _render_score_bar(score)
 
@@ -478,7 +489,7 @@ def _render_cluster_article_card(article: dict) -> None:
     date = article.get("date", "—")
 
     with st.container(border=True):
-        st.markdown(f"[{escape(title)}]({url})")
+        st.markdown(f"[{_escape_text(title, 'Untitled')}]({url})")
         _safe_caption(domain, date)
 
 
@@ -566,10 +577,10 @@ def _enrich_duplicate_article(article: dict, meta_lookup: dict[str, dict]) -> di
     meta = meta_lookup.get(article_id, {})
     return {
         "id": article_id,
-        "title": article.get("title", meta.get("title", "Untitled")),
-        "url": article.get("url", meta.get("url", "")),
-        "domain": meta.get("domain", "unknown"),
-        "date": meta.get("date", "—"),
+        "title": _display_str(article.get("title") or meta.get("title"), "Untitled"),
+        "url": _display_str(article.get("url") or meta.get("url"), ""),
+        "domain": _display_str(article.get("domain") or meta.get("domain"), "unknown"),
+        "date": _display_str(article.get("date") or meta.get("date"), "—"),
     }
 
 
@@ -586,7 +597,7 @@ def _render_duplicate_article(article: dict) -> None:
     url = article.get("url", "")
     domain = article.get("domain", "unknown")
     date = article.get("date", "—")
-    st.markdown(f"**[{escape(title)}]({url})**")
+    st.markdown(f"**[{_escape_text(title, 'Untitled')}]({url})**")
     _safe_caption(domain, date)
 
 
@@ -714,7 +725,7 @@ def _pill_font_size(score: float, min_score: float, max_score: float) -> int:
 
 
 def _render_trending_pill(label: str, score: float, font_size: int) -> None:
-    safe_label = escape(label)
+    safe_label = _escape_text(label, "Cluster")
     st.markdown(
         f"""
         <div style="margin-bottom:0.75rem;">
@@ -840,9 +851,9 @@ def _render_topics_trends_tab(engine: IntelligenceEngine) -> None:
                 date = article.get("date", "—")
                 st.markdown(
                     f'<p style="margin:0 0 0.5rem 0;font-size:0.85rem;">'
-                    f'<a href="{escape(url)}" target="_blank" style="color:#93c5fd;text-decoration:none;">'
-                    f"{escape(title)}</a><br>"
-                    f'<span style="color:#9ca3af;">{escape(date)}</span></p>',
+                    f'<a href="{_escape_text(url)}" target="_blank" style="color:#93c5fd;text-decoration:none;">'
+                    f"{_escape_text(title, 'Untitled')}</a><br>"
+                    f'<span style="color:#9ca3af;">{_escape_text(date, '—')}</span></p>',
                     unsafe_allow_html=True,
                 )
 

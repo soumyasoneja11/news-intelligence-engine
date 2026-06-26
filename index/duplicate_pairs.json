@@ -14,32 +14,6 @@
   },
   {
     "article_a": {
-      "id": "105",
-      "title": "Subodh and I have decided to separate!",
-      "url": "http://banglalive.com/subodh-and-i-have-decided-to-separate-nulldita-das-confirms-split-with-husband/"
-    },
-    "article_b": {
-      "id": "1902",
-      "title": "Subodh and I have decided to separate!",
-      "url": "http://banglalive.com/subodh-and-i-have-decided-to-separate-nandita-das-confirms-split-with-husband/"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
-      "id": "138",
-      "title": "McFeely: UND president goes high-falutin'...and there is silence",
-      "url": "http://www.grandforksherald.com/opinion/columnists/4218038-mcfeely-und-president-goes-high-falutinulld-there-silence"
-    },
-    "article_b": {
-      "id": "1903",
-      "title": "McFeely: UND president goes high-falutin'...and there is silence",
-      "url": "http://www.grandforksherald.com/opinion/columnists/4218038-mcfeely-und-president-goes-high-falutinand-there-silence"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
       "id": "413",
       "title": "Peloton Names Pamela Thomas-Graham to Its Board of Directors",
       "url": "https://www.taiwannews.com.tw/en/news/3413598"
@@ -144,52 +118,13 @@
   },
   {
     "article_a": {
-      "id": "92",
-      "title": "সোশ্যাল মিডিয়ায় ছবি দিয়ে কি বয়ফ্রেন্ডের কথাই সবাইকে জানাতে চাইছেন সোনম?",
-      "url": "http://banglalive.com/is-sonam-kapoor-finally-making-her-relationship-with-anulld-ahuja-public-with-this-pic/"
-    },
-    "article_b": {
-      "id": "1901",
-      "title": "সোশ্যাল মিডিয়ায় ছবি দিয়ে কি বয়ফ্রেন্ডের কথাই সবাইকে জানাতে চাইছেন সোনম?",
-      "url": "http://banglalive.com/is-sonam-kapoor-finally-making-her-relationship-with-anand-ahuja-public-with-this-pic/"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "148",
-      "title": "Jamestown lawmaker seeks to keep highway maintenullce shops o...",
-      "url": "http://www.grandforksherald.com/news/4218137-jamestown-lawmaker-seeks-keep-highway-maintenullce-shops-open"
-    },
-    "article_b": {
-      "id": "1904",
-      "title": "Jamestown lawmaker seeks to keep highway maintenance shops o...",
-      "url": "http://www.grandforksherald.com/news/4218137-jamestown-lawmaker-seeks-keep-highway-maintenance-shops-open"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "170",
-      "title": "City Seeks Public Input On San Antonio Animal Ordinullces",
-      "url": "http://tpr.org/post/city-seeks-public-input-san-antonio-animal-ordinullces"
-    },
-    "article_b": {
-      "id": "1905",
-      "title": "City Seeks Public Input On San Antonio Animal Ordinances",
-      "url": "http://tpr.org/post/city-seeks-public-input-san-antonio-animal-ordinances"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
       "id": "249",
-      "title": "Real time energy finullcing and trading news",
+      "title": "Real time energy financing and trading news",
       "url": "http://www.sparkspread.com/login.php?return=%2Fsparkspread.php%3Fsparkspread_concept%3Dstory%26id%3D20878"
     },
     "article_b": {
       "id": "252",
-      "title": "Real time energy finullcing and trading news",
+      "title": "Real time energy financing and trading news",
       "url": "http://www.sparkspread.com/login.php?return=%2Fsparkspread.php%3Fsparkspread_concept%3Dstory%26id%3D20254"
     },
     "similarity": 1.0
@@ -197,12 +132,12 @@
   {
     "article_a": {
       "id": "249",
-      "title": "Real time energy finullcing and trading news",
+      "title": "Real time energy financing and trading news",
       "url": "http://www.sparkspread.com/login.php?return=%2Fsparkspread.php%3Fsparkspread_concept%3Dstory%26id%3D20878"
     },
     "article_b": {
       "id": "251",
-      "title": "Real time energy finullcing and trading news",
+      "title": "Real time energy financing and trading news",
       "url": "http://www.sparkspread.com/login.php?return=%2Fsparkspread.php%3Fsparkspread_concept%3Dstory%26id%3D20881"
     },
     "similarity": 1.0
@@ -210,12 +145,12 @@
   {
     "article_a": {
       "id": "249",
-      "title": "Real time energy finullcing and trading news",
+      "title": "Real time energy financing and trading news",
       "url": "http://www.sparkspread.com/login.php?return=%2Fsparkspread.php%3Fsparkspread_concept%3Dstory%26id%3D20878"
     },
     "article_b": {
       "id": "250",
-      "title": "Real time energy finullcing and trading news",
+      "title": "Real time energy financing and trading news",
       "url": "http://www.sparkspread.com/login.php?return=%2Fsparkspread.php%3Fsparkspread_concept%3Dstory%26id%3D20879"
     },
     "similarity": 1.0
@@ -223,12 +158,12 @@
   {
     "article_a": {
       "id": "250",
-      "title": "Real time energy finullcing and trading news",
+      "title": "Real time energy financing and trading news",
       "url": "http://www.sparkspread.com/login.php?return=%2Fsparkspread.php%3Fsparkspread_concept%3Dstory%26id%3D20879"
     },
     "article_b": {
       "id": "252",
-      "title": "Real time energy finullcing and trading news",
+      "title": "Real time energy financing and trading news",
       "url": "http://www.sparkspread.com/login.php?return=%2Fsparkspread.php%3Fsparkspread_concept%3Dstory%26id%3D20254"
     },
     "similarity": 1.0
@@ -236,12 +171,12 @@
   {
     "article_a": {
       "id": "250",
-      "title": "Real time energy finullcing and trading news",
+      "title": "Real time energy financing and trading news",
       "url": "http://www.sparkspread.com/login.php?return=%2Fsparkspread.php%3Fsparkspread_concept%3Dstory%26id%3D20879"
     },
     "article_b": {
       "id": "251",
-      "title": "Real time energy finullcing and trading news",
+      "title": "Real time energy financing and trading news",
       "url": "http://www.sparkspread.com/login.php?return=%2Fsparkspread.php%3Fsparkspread_concept%3Dstory%26id%3D20881"
     },
     "similarity": 1.0
@@ -249,12 +184,12 @@
   {
     "article_a": {
       "id": "251",
-      "title": "Real time energy finullcing and trading news",
+      "title": "Real time energy financing and trading news",
       "url": "http://www.sparkspread.com/login.php?return=%2Fsparkspread.php%3Fsparkspread_concept%3Dstory%26id%3D20881"
     },
     "article_b": {
       "id": "252",
-      "title": "Real time energy finullcing and trading news",
+      "title": "Real time energy financing and trading news",
       "url": "http://www.sparkspread.com/login.php?return=%2Fsparkspread.php%3Fsparkspread_concept%3Dstory%26id%3D20254"
     },
     "similarity": 1.0
@@ -3169,7 +3104,7 @@
       "title": "Feminism; the Merriam-Webster Word of the Year for 2017",
       "url": "https://www.taiwannews.com.tw/en/news/3318568"
     },
-    "similarity": 0.9335389733314514
+    "similarity": 0.9335390329360962
   },
   {
     "article_a": {

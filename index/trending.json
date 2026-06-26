@@ -1,64 +1,577 @@
 [
   {
-    "cluster_id": "4",
-    "label": "police, man, latest",
-    "trending_score": 0.3322,
-    "count_24h": 20,
-    "count_7d": 21,
+    "cluster_id": "11",
+    "label": "people, killed, earthquakes",
+    "trending_score": 0.754,
+    "count_24h": 9,
+    "count_7d": 11,
     "top_articles": [
       {
-        "id": "1023",
-        "title": "Arrests after 'Abolish ICE' sign hung from Statue of Liberty",
-        "url": "https://www.taiwannews.com.tw/en/news/3474409",
-        "date": "2018-07-05 04:16:00"
+        "id": "1904",
+        "title": "Venezuela earthquakes kill 920 people as families desperate for news",
+        "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 21:15:37"
       },
       {
-        "id": "451",
-        "title": "Police: Mom drove over baby in car seat in apparent accident",
-        "url": "https://www.taiwannews.com.tw/en/news/3474394",
-        "date": "2018-07-05 02:50:00"
+        "id": "1912",
+        "title": "UK search team joins Venezuela earthquake rescue effort",
+        "url": "https://www.bbc.co.uk/news/articles/cr7xlr2ndxno?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 20:50:33"
       },
       {
-        "id": "1680",
-        "title": "The Latest: Branch fell from 100-year-old tree, killing 2",
-        "url": "https://www.taiwannews.com.tw/en/news/3474386",
-        "date": "2018-07-05 02:47:00"
+        "id": "1910",
+        "title": "Debris falls after plane hits Beijing's tallest building",
+        "url": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 18:36:42"
+      }
+    ]
+  },
+  {
+    "cluster_id": "13",
+    "label": "forecast, climate, heat",
+    "trending_score": 0.6852,
+    "count_24h": 7,
+    "count_7d": 8,
+    "top_articles": [
+      {
+        "id": "1901",
+        "title": "Hottest June day record broken for third day in row as temperature hits 37.3C",
+        "url": "https://www.bbc.co.uk/news/articles/cn4d0n1l8zno?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 19:40:07"
+      },
+      {
+        "id": "1916",
+        "title": "Europe's deadly heatwave breaks German record and halts public events",
+        "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 18:14:36"
+      },
+      {
+        "id": "1937",
+        "title": "Boiling point: The week of extreme heat",
+        "url": "https://www.bbc.co.uk/iplayer/episode/m002ypkf?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 16:00:00"
       }
     ]
   },
   {
     "cluster_id": "0",
-    "label": "says, syria, russia",
-    "trending_score": 0.3212,
-    "count_24h": 20,
-    "count_7d": 26,
+    "label": "says, eu, uk",
+    "trending_score": 0.5437,
+    "count_24h": 7,
+    "count_7d": 12,
     "top_articles": [
       {
-        "id": "1183",
-        "title": "Holocaust law: Poland, Israel reconcile in German media",
-        "url": "https://www.taiwannews.com.tw/en/news/3474433",
-        "date": "2018-07-05 06:02:00"
+        "id": "1990",
+        "title": "Trump threatens 100% tariff on European nations over tech tax",
+        "url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 21:29:38"
       },
       {
-        "id": "1622",
-        "title": "Is Viktor Orban the EU's hardline hero or villain?",
-        "url": "https://www.taiwannews.com.tw/en/news/3474435",
-        "date": "2018-07-05 06:02:00"
+        "id": "1909",
+        "title": "Conservatives offer tax incentive as part of 50,000 reservist pledge",
+        "url": "https://www.bbc.co.uk/news/articles/c9v219gx79wo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 21:00:56"
       },
       {
-        "id": "1148",
-        "title": "Guatemala ups number of missing to 332 in volcano eruption",
-        "url": "https://www.taiwannews.com.tw/en/news/3474380",
-        "date": "2018-07-05 01:57:00"
+        "id": "1933",
+        "title": "David Miliband says he is optimistic about potential Burnham government",
+        "url": "https://www.bbc.co.uk/news/articles/cy04k0kd7q4o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 19:04:10"
+      }
+    ]
+  },
+  {
+    "cluster_id": "19",
+    "label": "man, school, arrested",
+    "trending_score": 0.4041,
+    "count_24h": 5,
+    "count_7d": 8,
+    "top_articles": [
+      {
+        "id": "1906",
+        "title": "Man who punched female police officers at Manchester Airport jailed",
+        "url": "https://www.bbc.co.uk/news/articles/c1my31rr1vno?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 16:47:10"
+      },
+      {
+        "id": "1947",
+        "title": "Four men held over child marriage in Sierra Leone appear in landmark court case",
+        "url": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 15:34:39"
+      },
+      {
+        "id": "1903",
+        "title": "Court rules 13 men who allegedly helped rapist drug and abuse wife can be named",
+        "url": "https://www.bbc.co.uk/news/articles/cnv9er181lno?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 12:51:21"
+      }
+    ]
+  },
+  {
+    "cluster_id": "18",
+    "label": "world, world cup, cup",
+    "trending_score": 0.3333,
+    "count_24h": 5,
+    "count_7d": 5,
+    "top_articles": [
+      {
+        "id": "1943",
+        "title": "Brilliant Dembele hat-trick helps France see off Norway to top group",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cr47d0g9v4yo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 21:34:57"
+      },
+      {
+        "id": "1926",
+        "title": "World Cup fans frustrated by 'confusing and expensive' tipping culture in US",
+        "url": "https://www.bbc.co.uk/news/articles/clyxgjykx7lo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 18:20:04"
+      },
+      {
+        "id": "1925",
+        "title": "Why has Trump stayed away from matches?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0myxevn3emo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 14:35:00"
+      }
+    ]
+  },
+  {
+    "cluster_id": "14",
+    "label": "dies, death, man",
+    "trending_score": 0.2469,
+    "count_24h": 4,
+    "count_7d": 4,
+    "top_articles": [
+      {
+        "id": "1930",
+        "title": "Nicholas Rossi: Rapist who faked death and fled to Scotland dies in US hospital",
+        "url": "https://www.bbc.co.uk/news/articles/cz75px7zl0wo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 18:19:24"
+      },
+      {
+        "id": "1935",
+        "title": "Disgraced newsreader Huw Edwards' blog shows staggering lack of awareness, campaigners say",
+        "url": "https://www.bbc.co.uk/news/articles/cvgm7j41d3ro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 17:03:02"
+      },
+      {
+        "id": "1945",
+        "title": "Christmas market attacker jailed for life for murdering six in Germany",
+        "url": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 10:49:11"
+      }
+    ]
+  },
+  {
+    "cluster_id": "16",
+    "label": "leader, president, egypt",
+    "trending_score": 0.2317,
+    "count_24h": 3,
+    "count_7d": 5,
+    "top_articles": [
+      {
+        "id": "1944",
+        "title": "DR Congo takes Rwanda to international court over decades of conflict",
+        "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 17:05:22"
+      },
+      {
+        "id": "1948",
+        "title": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
+        "url": "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 12:54:18"
+      },
+      {
+        "id": "1952",
+        "title": "Row over alleged theft of donations from India's landmark Ram temple",
+        "url": "https://www.bbc.co.uk/news/articles/cn07gl6wx6go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 01:02:36"
+      }
+    ]
+  },
+  {
+    "cluster_id": "20",
+    "label": "energy, new, care",
+    "trending_score": 0.2069,
+    "count_24h": 4,
+    "count_7d": 6,
+    "top_articles": [
+      {
+        "id": "1923",
+        "title": "What's happening to petrol prices now oil is back to pre-Iran war levels?",
+        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 13:51:15"
+      },
+      {
+        "id": "1964",
+        "title": "The abundant but expensive energy source that's under your feet",
+        "url": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 10:12:42"
+      },
+      {
+        "id": "1922",
+        "title": "How male infertility is still not getting enough attention",
+        "url": "https://www.bbc.co.uk/news/articles/cx2w4kz7z1ko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 01:05:11"
+      }
+    ]
+  },
+  {
+    "cluster_id": "4",
+    "label": "open, french, french open",
+    "trending_score": 0.1942,
+    "count_24h": 4,
+    "count_7d": 4,
+    "top_articles": [
+      {
+        "id": "1940",
+        "title": "James injury concerns grow but Rice back in training",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckg4kv0kkgeo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 21:04:10"
+      },
+      {
+        "id": "1941",
+        "title": "'I started running' - how fitter Duckett got back to his best",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c621nr8zj80o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 19:54:44"
+      },
+      {
+        "id": "1942",
+        "title": "Usyk vacates belts but is not retiring",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/c6210pk8klro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 17:29:56"
+      }
+    ]
+  },
+  {
+    "cluster_id": "6",
+    "label": "london, high, california",
+    "trending_score": 0.1829,
+    "count_24h": 3,
+    "count_7d": 3,
+    "top_articles": [
+      {
+        "id": "1917",
+        "title": "Watch: Lightning strikes seen across UK",
+        "url": "https://www.bbc.co.uk/news/videos/c74y1l9kkryo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 19:26:58"
+      },
+      {
+        "id": "1911",
+        "title": "Even if you're fit and young, avoid runs and too many beers in the heat, experts say",
+        "url": "https://www.bbc.co.uk/news/articles/cgjxdpp4qzeo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 10:24:26"
+      },
+      {
+        "id": "1991",
+        "title": "Power banks and vapes now biggest fire risk on planes",
+        "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-25 23:28:13"
+      }
+    ]
+  },
+  {
+    "cluster_id": "8",
+    "label": "market, global, time",
+    "trending_score": 0.1375,
+    "count_24h": 1,
+    "count_7d": 9,
+    "top_articles": [
+      {
+        "id": "2013",
+        "title": "New ISA and Lifetime ISA changes explained",
+        "url": "https://www.bbc.co.uk/news/videos/cj0ge52n80ro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 17:09:53"
+      },
+      {
+        "id": "1972",
+        "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
+        "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-25 19:41:22"
+      },
+      {
+        "id": "1998",
+        "title": "Ferrari marketing boss quits just weeks after EV launch backlash",
+        "url": "https://www.bbc.co.uk/news/articles/cnv9edrjjn4o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-25 11:26:25"
+      }
+    ]
+  },
+  {
+    "cluster_id": "21",
+    "label": "trump, abortion, senate",
+    "trending_score": 0.1316,
+    "count_24h": 2,
+    "count_7d": 2,
+    "top_articles": [
+      {
+        "id": "1951",
+        "title": "Housing board votes to freeze New York rents in victory for Mamdani",
+        "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 09:42:26"
+      },
+      {
+        "id": "1955",
+        "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
+        "url": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 02:18:04"
+      },
+      {
+        "id": "486",
+        "title": "Renewable energy push in sunny Arizona draws political fight",
+        "url": "https://www.taiwannews.com.tw/en/news/3474376",
+        "date": "2018-07-05 00:00:00"
+      }
+    ]
+  },
+  {
+    "cluster_id": "5",
+    "label": "glance, expanded, expanded conference",
+    "trending_score": 0.1299,
+    "count_24h": 2,
+    "count_7d": 2,
+    "top_articles": [
+      {
+        "id": "1950",
+        "title": "Asia stock markets slide as tech shares slump",
+        "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 07:33:10"
+      },
+      {
+        "id": "1966",
+        "title": "A Chinese box office hit sparks a debate about identity in Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-25 22:19:08"
+      },
+      {
+        "id": "655",
+        "title": "1st batch of fuel rods for 4th Nuclear Power Plant likely has been transported out of Taiwan",
+        "url": "https://www.taiwannews.com.tw/en/news/3474254",
+        "date": "2018-07-04 21:22:00"
+      }
+    ]
+  },
+  {
+    "cluster_id": "15",
+    "label": "new, ballet, year",
+    "trending_score": 0.1203,
+    "count_24h": 3,
+    "count_7d": 5,
+    "top_articles": [
+      {
+        "id": "1907",
+        "title": "Canada eligible to join Eurovision competition",
+        "url": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 13:41:36"
+      },
+      {
+        "id": "2015",
+        "title": "Charity celebrates 50 years of 'transformative' holidays",
+        "url": "https://www.bbc.co.uk/news/articles/cy4ejeq40nvo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 05:17:15"
+      },
+      {
+        "id": "1920",
+        "title": "Missing Glastonbury? There's a festival on your doorstep this weekend",
+        "url": "https://www.bbc.co.uk/news/articles/cj4gyz21wyko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-25 23:50:10"
+      }
+    ]
+  },
+  {
+    "cluster_id": "12",
+    "label": "judge, court, says",
+    "trending_score": 0.1016,
+    "count_24h": 2,
+    "count_7d": 4,
+    "top_articles": [
+      {
+        "id": "1929",
+        "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+        "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 16:45:21"
+      },
+      {
+        "id": "1949",
+        "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
+        "url": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 06:16:01"
+      },
+      {
+        "id": "2003",
+        "title": "The legal fight to get equal pay for Germany's disabled workers",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0v1d24elo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-24 23:10:28"
+      }
+    ]
+  },
+  {
+    "cluster_id": "2",
+    "label": "attack, latest, texas",
+    "trending_score": 0.0781,
+    "count_24h": 1,
+    "count_7d": 1,
+    "top_articles": [
+      {
+        "id": "1902",
+        "title": "US conducts strikes on Iran after attack on cargo ship",
+        "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 21:30:59"
+      },
+      {
+        "id": "1194",
+        "title": "Pakistani officials: Suspected US drone kills militants",
+        "url": "https://www.taiwannews.com.tw/en/news/3474341",
+        "date": "2018-07-04 23:19:00"
+      },
+      {
+        "id": "881",
+        "title": "Philippine troops foil IS-linked attempt to attack town",
+        "url": "https://www.taiwannews.com.tw/en/news/3474277",
+        "date": "2018-07-04 21:23:00"
       }
     ]
   },
   {
     "cluster_id": "3",
-    "label": "league, win, cup",
-    "trending_score": 0.252,
-    "count_24h": 12,
-    "count_7d": 14,
+    "label": "israel, charlottesville, syria",
+    "trending_score": 0.0574,
+    "count_24h": 1,
+    "count_7d": 2,
+    "top_articles": [
+      {
+        "id": "1932",
+        "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
+        "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 21:33:34"
+      },
+      {
+        "id": "1957",
+        "title": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
+        "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-25 16:53:51"
+      },
+      {
+        "id": "2011",
+        "title": "Could humanoid robots be heading for the battlefield?",
+        "url": "https://www.bbc.co.uk/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-08 23:06:30"
+      }
+    ]
+  },
+  {
+    "cluster_id": "1",
+    "label": "tech, new, data",
+    "trending_score": 0.0552,
+    "count_24h": 0,
+    "count_7d": 7,
+    "top_articles": [
+      {
+        "id": "1961",
+        "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
+        "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-25 10:04:43"
+      },
+      {
+        "id": "1999",
+        "title": "Find out which university degrees could earn you most across your lifetime",
+        "url": "https://www.bbc.co.uk/news/articles/c892dv0qy2jo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-25 08:32:12"
+      },
+      {
+        "id": "1994",
+        "title": "I've spent 30 years in recruitment - this is how to get a job",
+        "url": "https://www.bbc.co.uk/news/articles/c8r2vljglgno?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-25 07:24:08"
+      }
+    ]
+  },
+  {
+    "cluster_id": "7",
+    "label": "trump, latest, russia",
+    "trending_score": 0.0339,
+    "count_24h": 0,
+    "count_7d": 2,
+    "top_articles": [
+      {
+        "id": "1924",
+        "title": "Weekly quiz: Who did Donald Trump anger after saying they begged for a photo with him?",
+        "url": "https://www.bbc.co.uk/news/articles/c1lyqd6e7ypo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-25 17:42:35"
+      },
+      {
+        "id": "1956",
+        "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
+        "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-25 09:06:59"
+      },
+      {
+        "id": "1139",
+        "title": "Trump says gas prices are up, OPEC 'doing little to help'",
+        "url": "https://www.taiwannews.com.tw/en/news/3474425",
+        "date": "2018-07-05 05:24:00"
+      }
+    ]
+  },
+  {
+    "cluster_id": "10",
+    "label": "shooting, police, man",
+    "trending_score": 0.0299,
+    "count_24h": 0,
+    "count_7d": 1,
+    "top_articles": [
+      {
+        "id": "1934",
+        "title": "Watch: Driver gives lift to armed officer chasing suspect",
+        "url": "https://www.bbc.co.uk/news/articles/clyxg76527po?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-25 21:09:16"
+      },
+      {
+        "id": "554",
+        "title": "City mayor in Azerbaijan shot and wounded",
+        "url": "https://www.taiwannews.com.tw/en/news/3474368",
+        "date": "2018-07-05 01:01:00"
+      },
+      {
+        "id": "948",
+        "title": "The Latest: Police ID gunman killed in Illinois standoff",
+        "url": "https://www.taiwannews.com.tw/en/news/3474363",
+        "date": "2018-07-05 00:27:00"
+      }
+    ]
+  },
+  {
+    "cluster_id": "9",
+    "label": "win, beat, lead",
+    "trending_score": 0.0,
+    "count_24h": 0,
+    "count_7d": 0,
+    "top_articles": [
+      {
+        "id": "1689",
+        "title": "Ovechkin helps Capitals beat Golden Knights 3-2, even series",
+        "url": "https://www.taiwannews.com.tw/en/news/3444738",
+        "date": "2018-05-31 21:00:00"
+      },
+      {
+        "id": "1899",
+        "title": "Anticipated or anticlimactic? Warriors-Cavs 4 in NBA Finals",
+        "url": "https://www.taiwannews.com.tw/en/news/3444972",
+        "date": "2018-05-31 15:58:00"
+      },
+      {
+        "id": "564",
+        "title": "Hollingshead's goal, assist lead FC Dallas past Galaxy",
+        "url": "https://www.taiwannews.com.tw/en/news/3444876",
+        "date": "2018-05-31 13:37:00"
+      }
+    ]
+  },
+  {
+    "cluster_id": "17",
+    "label": "league, linescores, league linescores",
+    "trending_score": 0.0,
+    "count_24h": 0,
+    "count_7d": 0,
     "top_articles": [
       {
         "id": "674",
@@ -73,91 +586,10 @@
         "date": "2018-07-05 05:40:00"
       },
       {
-        "id": "345",
-        "title": "Costa Rica says coach out after disappointing World Cup",
-        "url": "https://www.taiwannews.com.tw/en/news/3474417",
-        "date": "2018-07-05 04:36:00"
-      }
-    ]
-  },
-  {
-    "cluster_id": "5",
-    "label": "new, market, global",
-    "trending_score": 0.2334,
-    "count_24h": 15,
-    "count_7d": 17,
-    "top_articles": [
-      {
-        "id": "461",
-        "title": "Mexico's Lopez Obrador sets $7.5 billion for youths, elderly",
-        "url": "https://www.taiwannews.com.tw/en/news/3474367",
-        "date": "2018-07-05 01:17:00"
-      },
-      {
-        "id": "1333",
-        "title": "Ohio official says e-school's founder should repay millions",
-        "url": "https://www.taiwannews.com.tw/en/news/3474351",
-        "date": "2018-07-04 23:47:00"
-      },
-      {
-        "id": "970",
-        "title": "Global Stretchable Conductive Materials Market 2018-2022",
-        "url": "https://www.taiwannews.com.tw/en/news/3474338",
-        "date": "2018-07-04 23:08:00"
-      }
-    ]
-  },
-  {
-    "cluster_id": "1",
-    "label": "glance, conference, expanded conference",
-    "trending_score": 0.1689,
-    "count_24h": 11,
-    "count_7d": 15,
-    "top_articles": [
-      {
-        "id": "1258",
-        "title": "Froome calls on skeptical fans to let him ride Tour in peace",
-        "url": "https://www.taiwannews.com.tw/en/news/3474384",
-        "date": "2018-07-05 13:00:00"
-      },
-      {
-        "id": "1136",
-        "title": "AUTO RACING: Auto Racing Glance",
-        "url": "https://www.taiwannews.com.tw/en/news/3474381",
-        "date": "2018-07-05 02:03:00"
-      },
-      {
-        "id": "1746",
-        "title": "Scientists create hybrids in race to save rhino sub-species",
-        "url": "https://www.taiwannews.com.tw/en/news/3474370",
-        "date": "2018-07-05 01:07:00"
-      }
-    ]
-  },
-  {
-    "cluster_id": "2",
-    "label": "trump, says, latest",
-    "trending_score": 0.1468,
-    "count_24h": 9,
-    "count_7d": 10,
-    "top_articles": [
-      {
-        "id": "1139",
-        "title": "Trump says gas prices are up, OPEC 'doing little to help'",
-        "url": "https://www.taiwannews.com.tw/en/news/3474425",
-        "date": "2018-07-05 05:24:00"
-      },
-      {
-        "id": "1217",
-        "title": "US Rep. Jordan denies claims he knew of Ohio State sex abuse",
-        "url": "https://www.taiwannews.com.tw/en/news/3474422",
-        "date": "2018-07-05 05:09:00"
-      },
-      {
-        "id": "1448",
-        "title": "Spokeswoman says US Rep. Hoyer hospitalized with pneumonia",
-        "url": "https://www.taiwannews.com.tw/en/news/3474408",
-        "date": "2018-07-05 04:11:00"
+        "id": "1347",
+        "title": "Wednesday's Major League Linescores",
+        "url": "https://www.taiwannews.com.tw/en/news/3474413",
+        "date": "2018-07-05 04:26:00"
       }
     ]
   }

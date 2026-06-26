@@ -2,67 +2,243 @@
   "0": {
     "keywords": [
       "says",
-      "syria",
-      "russia",
-      "leader",
-      "israel"
+      "eu",
+      "uk",
+      "deal",
+      "economy"
     ],
-    "label": "says, syria, russia",
-    "article_count": 330
+    "label": "says, eu, uk",
+    "article_count": 80
   },
   "1": {
     "keywords": [
-      "glance",
-      "conference",
-      "expanded conference",
-      "conference glance",
-      "expanded"
+      "tech",
+      "new",
+      "data",
+      "ai",
+      "business"
     ],
-    "label": "glance, conference, expanded conference",
-    "article_count": 371
+    "label": "tech, new, data",
+    "article_count": 145
   },
   "2": {
     "keywords": [
-      "trump",
-      "says",
+      "attack",
       "latest",
-      "state",
-      "house"
+      "texas",
+      "kills",
+      "terror"
     ],
-    "label": "trump, says, latest",
-    "article_count": 309
+    "label": "attack, latest, texas",
+    "article_count": 64
   },
   "3": {
     "keywords": [
-      "league",
-      "win",
-      "cup",
-      "major",
-      "league linescores"
+      "israel",
+      "charlottesville",
+      "syria",
+      "says",
+      "white"
     ],
-    "label": "league, win, cup",
-    "article_count": 254
+    "label": "israel, charlottesville, syria",
+    "article_count": 122
   },
   "4": {
     "keywords": [
-      "police",
-      "man",
-      "latest",
-      "shooting",
-      "woman"
+      "open",
+      "french",
+      "french open",
+      "coach",
+      "wins"
     ],
-    "label": "police, man, latest",
-    "article_count": 306
+    "label": "open, french, french open",
+    "article_count": 103
   },
   "5": {
     "keywords": [
-      "new",
-      "market",
-      "global",
-      "data",
+      "glance",
+      "expanded",
+      "expanded conference",
+      "conference glance",
+      "conference"
+    ],
+    "label": "glance, expanded, expanded conference",
+    "article_count": 77
+  },
+  "6": {
+    "keywords": [
+      "london",
+      "high",
+      "california",
+      "10 things",
+      "things"
+    ],
+    "label": "london, high, california",
+    "article_count": 82
+  },
+  "7": {
+    "keywords": [
+      "trump",
+      "latest",
+      "russia",
+      "president",
       "says"
     ],
-    "label": "new, market, global",
-    "article_count": 331
+    "label": "trump, latest, russia",
+    "article_count": 118
+  },
+  "8": {
+    "keywords": [
+      "market",
+      "global",
+      "time",
+      "sales",
+      "apple"
+    ],
+    "label": "market, global, time",
+    "article_count": 120
+  },
+  "9": {
+    "keywords": [
+      "win",
+      "beat",
+      "lead",
+      "game",
+      "past"
+    ],
+    "label": "win, beat, lead",
+    "article_count": 72
+  },
+  "10": {
+    "keywords": [
+      "shooting",
+      "police",
+      "man",
+      "gun",
+      "shot"
+    ],
+    "label": "shooting, police, man",
+    "article_count": 67
+  },
+  "11": {
+    "keywords": [
+      "people",
+      "killed",
+      "earthquakes",
+      "home",
+      "man"
+    ],
+    "label": "people, killed, earthquakes",
+    "article_count": 63
+  },
+  "12": {
+    "keywords": [
+      "judge",
+      "court",
+      "says",
+      "trump",
+      "ex"
+    ],
+    "label": "judge, court, says",
+    "article_count": 123
+  },
+  "13": {
+    "keywords": [
+      "forecast",
+      "climate",
+      "heat",
+      "forecast fahrenheit",
+      "global"
+    ],
+    "label": "forecast, climate, heat",
+    "article_count": 54
+  },
+  "14": {
+    "keywords": [
+      "dies",
+      "death",
+      "man",
+      "latest",
+      "killing"
+    ],
+    "label": "dies, death, man",
+    "article_count": 81
+  },
+  "15": {
+    "keywords": [
+      "new",
+      "ballet",
+      "year",
+      "week",
+      "black"
+    ],
+    "label": "new, ballet, year",
+    "article_count": 158
+  },
+  "16": {
+    "keywords": [
+      "leader",
+      "president",
+      "egypt",
+      "graft",
+      "election"
+    ],
+    "label": "leader, president, egypt",
+    "article_count": 82
+  },
+  "17": {
+    "keywords": [
+      "league",
+      "linescores",
+      "league linescores",
+      "major",
+      "major league"
+    ],
+    "label": "league, linescores, league linescores",
+    "article_count": 73
+  },
+  "18": {
+    "keywords": [
+      "world",
+      "world cup",
+      "cup",
+      "olympics",
+      "olympic"
+    ],
+    "label": "world, world cup, cup",
+    "article_count": 75
+  },
+  "19": {
+    "keywords": [
+      "man",
+      "school",
+      "arrested",
+      "teen",
+      "case"
+    ],
+    "label": "man, school, arrested",
+    "article_count": 73
+  },
+  "20": {
+    "keywords": [
+      "energy",
+      "new",
+      "care",
+      "major",
+      "health"
+    ],
+    "label": "energy, new, care",
+    "article_count": 116
+  },
+  "21": {
+    "keywords": [
+      "trump",
+      "abortion",
+      "senate",
+      "latest",
+      "state"
+    ],
+    "label": "trump, abortion, senate",
+    "article_count": 76
   }
 }

@@ -853,7 +853,7 @@ def _render_topics_trends_tab(engine: IntelligenceEngine) -> None:
                     f'<p style="margin:0 0 0.5rem 0;font-size:0.85rem;">'
                     f'<a href="{_escape_text(url)}" target="_blank" style="color:#93c5fd;text-decoration:none;">'
                     f"{_escape_text(title, 'Untitled')}</a><br>"
-                    f'<span style="color:#9ca3af;">{_escape_text(date, '—')}</span></p>',
+                    f"<span style=\"color:#9ca3af;\">{_escape_text(date, '—')}</span></p>",
                     unsafe_allow_html=True,
                 )
 

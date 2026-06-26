@@ -20,10 +20,66 @@ if str(PROJECT_ROOT) not in sys.path:
 os.chdir(PROJECT_ROOT)
 
 from src.intelligence import IntelligenceEngine, load_intelligence_engine
+from src.config import rebuild_allowed
+from src.index_status import (
+    articles_csv_present,
+    index_is_ready,
+    index_status_message,
+    missing_artifacts,
+)
 from src.paths import FAISS_PATH
 from src.utils import as_id, parse_date
 
 PIPELINE_SCRIPT = PROJECT_ROOT / "src" / "pipeline.py"
+PIPELINE_OUTPUT_LIMIT = 8000
+
+
+def _app_password() -> str:
+    try:
+        secret = st.secrets.get("APP_PASSWORD", "")
+        if secret:
+            return str(secret)
+    except (AttributeError, FileNotFoundError, KeyError):
+        pass
+    return os.environ.get("APP_PASSWORD", "")
+
+
+def _check_password() -> bool:
+    """Optional gate when APP_PASSWORD is set (env or Streamlit secrets)."""
+    password = _app_password()
+    if not password:
+        return True
+    if st.session_state.get("authenticated"):
+        return True
+    st.title("News Intelligence Engine")
+    st.caption("Authentication required")
+    entered = st.text_input("Password", type="password", key="app_password_input")
+    if st.button("Sign in", type="primary"):
+        if entered == password:
+            st.session_state.authenticated = True
+            st.rerun()
+        else:
+            st.error("Incorrect password.")
+    return False
+
+
+def _format_pipeline_output(output: str, limit: int = PIPELINE_OUTPUT_LIMIT) -> str:
+    if len(output) <= limit:
+        return output
+    half = limit // 2
+    return (
+        output[:half]
+        + "\n\n... [middle truncated] ...\n\n"
+        + output[-half:]
+    )
+
+
+def _safe_caption(domain: str, date: str) -> None:
+    st.markdown(
+        f'<p style="color:#9ca3af;font-size:0.85rem;margin:0;">'
+        f"{escape(domain)} · {escape(date)}</p>",
+        unsafe_allow_html=True,
+    )
 
 
 st.set_page_config(
@@ -51,6 +107,8 @@ def _clear_perf_caches() -> None:
     st.session_state.similar_cache = {}
     st.session_state.pop("cluster_scatter_fig", None)
     st.session_state.pop("clusters_chart_loaded", None)
+    st.session_state.pop("duplicates_cache", None)
+    st.session_state.pop("topics_cache", None)
 
 
 def _index_age_text() -> str:
@@ -72,7 +130,11 @@ def _cached_search(engine: IntelligenceEngine, query: str, k: int = 10) -> tuple
 
     with st.spinner("Searching..."):
         start = time.perf_counter()
-        results = engine.search(query.strip(), k=k)
+        try:
+            results = engine.search(query.strip(), k=k)
+        except FileNotFoundError as exc:
+            st.error(f"Search unavailable: {exc}")
+            return [], 0.0
         latency_ms = (time.perf_counter() - start) * 1000
 
     st.session_state.search_cache[cache_key] = (results, latency_ms)
@@ -90,7 +152,11 @@ def _cached_find_similar(
 
     with st.spinner("Searching..."):
         start = time.perf_counter()
-        results = engine.find_similar(cache_key, k=k)
+        try:
+            results = engine.find_similar(cache_key, k=k)
+        except (FileNotFoundError, IndexError) as exc:
+            st.error(f"Similar-articles lookup failed: {exc}")
+            return [], 0.0
         latency_ms = (time.perf_counter() - start) * 1000
 
     st.session_state.similar_cache[cache_key] = (results, latency_ms)
@@ -143,12 +209,21 @@ def _safe_stats(engine: IntelligenceEngine) -> tuple[int, int, int]:
         return 0, 0, 0
 
 
-def _render_sidebar(engine: IntelligenceEngine) -> None:
+def _render_sidebar(engine: IntelligenceEngine | None, *, ready: bool) -> None:
     st.sidebar.markdown("# 📰 News Intelligence")
     st.sidebar.caption("Semantic search · clustering · deduplication")
 
     index_age_slot = st.sidebar.empty()
     index_age_slot.caption(_index_age_text())
+
+    if not ready or engine is None:
+        st.sidebar.error(index_status_message(missing_artifacts()))
+        st.sidebar.caption(
+            "Build locally with `python src/pipeline.py`, then push index artifacts."
+        )
+        if rebuild_allowed() and articles_csv_present():
+            st.sidebar.info("Rebuild is enabled but index files are missing.")
+        return
 
     total_articles, cluster_count, duplicate_count = _safe_stats(engine)
     col1, col2, col3 = st.sidebar.columns(3)
@@ -158,18 +233,21 @@ def _render_sidebar(engine: IntelligenceEngine) -> None:
 
     st.sidebar.divider()
 
-    if st.sidebar.button("Rebuild Index", type="primary", use_container_width=True):
-        with st.sidebar.status("Running pipeline…", expanded=True) as status:
-            ok, output = _run_pipeline()
-            if output.strip():
-                st.code(output[-4000:], language="text")
-            if ok:
-                status.update(label="Rebuild complete", state="complete")
-                get_engine.clear()
-                _clear_perf_caches()
-                st.rerun()
-            else:
-                status.update(label="Rebuild failed", state="error")
+    if rebuild_allowed():
+        if st.sidebar.button("Rebuild Index", type="primary", use_container_width=True):
+            with st.sidebar.status("Running pipeline…", expanded=True) as status:
+                ok, output = _run_pipeline()
+                if output.strip():
+                    st.code(_format_pipeline_output(output), language="text")
+                if ok:
+                    status.update(label="Rebuild complete", state="complete")
+                    get_engine.clear()
+                    _clear_perf_caches()
+                    st.rerun()
+                else:
+                    status.update(label="Rebuild failed", state="error")
+    else:
+        st.sidebar.caption("Index rebuild disabled on this deployment.")
 
     st.sidebar.divider()
     st.sidebar.subheader("Trending Now")
@@ -258,11 +336,8 @@ def _render_result_card(
     article_id = _article_id_for_url(engine, url)
 
     with st.container(border=True):
-        st.markdown(f"**{rank}.** [{title}]({url})")
-        st.markdown(
-            f'<p style="color:#9ca3af;font-size:0.85rem;margin:0;">{domain} · {date}</p>',
-            unsafe_allow_html=True,
-        )
+        st.markdown(f"**{rank}.** [{escape(title)}]({url})")
+        _safe_caption(domain, date)
         _render_score_bar(score)
 
         if article_id is not None:
@@ -274,8 +349,17 @@ def _render_result_card(
                 st.session_state.pending_similar_title = title
 
 
-def _render_search_tab(engine: IntelligenceEngine) -> None:
+def _render_search_tab(engine: IntelligenceEngine, *, ready: bool) -> None:
     _init_search_state()
+
+    if not ready:
+        st.subheader("Semantic Search")
+        st.warning("Search index is not available on this deployment.")
+        st.info(
+            "Run `python src/pipeline.py` locally, commit `index/` artifacts, "
+            "and redeploy. See DEPLOY.md for details."
+        )
+        return
 
     pending_id = st.session_state.pending_similar_id
     if pending_id is not None:
@@ -394,11 +478,8 @@ def _render_cluster_article_card(article: dict) -> None:
     date = article.get("date", "—")
 
     with st.container(border=True):
-        st.markdown(f"[{title}]({url})")
-        st.markdown(
-            f'<p style="color:#9ca3af;font-size:0.85rem;margin:0;">{domain} · {date}</p>',
-            unsafe_allow_html=True,
-        )
+        st.markdown(f"[{escape(title)}]({url})")
+        _safe_caption(domain, date)
 
 
 def _recent_cluster_articles(articles: list[dict], limit: int = 10) -> list[dict]:
@@ -505,11 +586,8 @@ def _render_duplicate_article(article: dict) -> None:
     url = article.get("url", "")
     domain = article.get("domain", "unknown")
     date = article.get("date", "—")
-    st.markdown(f"**[{title}]({url})**")
-    st.markdown(
-        f'<p style="color:#9ca3af;font-size:0.85rem;margin:0;">{domain} · {date}</p>',
-        unsafe_allow_html=True,
-    )
+    st.markdown(f"**[{escape(title)}]({url})**")
+    _safe_caption(domain, date)
 
 
 def _duplicate_pairs_to_csv(pairs: list[dict]) -> str:
@@ -538,9 +616,11 @@ def _duplicate_pairs_to_csv(pairs: list[dict]) -> str:
 def _render_duplicates_tab(engine: IntelligenceEngine) -> None:
     st.subheader("Near-Duplicate Articles")
     try:
-        with st.spinner("Loading duplicates..."):
-            duplicates = engine.get_duplicates()
-            total_articles = len(engine.metadata)
+        if "duplicates_cache" not in st.session_state:
+            with st.spinner("Loading duplicates..."):
+                st.session_state.duplicates_cache = engine.get_duplicates()
+        duplicates = st.session_state.duplicates_cache
+        total_articles = len(engine.metadata)
     except FileNotFoundError as exc:
         st.warning(f"Duplicate data unavailable: {exc}")
         return
@@ -656,9 +736,12 @@ def _render_topics_trends_tab(engine: IntelligenceEngine) -> None:
     st.subheader("Topics & Trends")
 
     try:
-        with st.spinner("Loading topics and trends..."):
-            clusters = engine.get_clusters()
-            trending = engine.get_trending(n=len(clusters))
+        if "topics_cache" not in st.session_state:
+            with st.spinner("Loading topics and trends..."):
+                clusters = engine.get_clusters()
+                trending = engine.get_trending(n=len(clusters))
+                st.session_state.topics_cache = (clusters, trending)
+        clusters, trending = st.session_state.topics_cache
     except FileNotFoundError as exc:
         st.warning(f"Topics and trends data unavailable: {exc}")
         return
@@ -757,37 +840,55 @@ def _render_topics_trends_tab(engine: IntelligenceEngine) -> None:
                 date = article.get("date", "—")
                 st.markdown(
                     f'<p style="margin:0 0 0.5rem 0;font-size:0.85rem;">'
-                    f'<a href="{url}" target="_blank" style="color:#93c5fd;text-decoration:none;">'
-                    f"{title}</a><br>"
-                    f'<span style="color:#9ca3af;">{date}</span></p>',
+                    f'<a href="{escape(url)}" target="_blank" style="color:#93c5fd;text-decoration:none;">'
+                    f"{escape(title)}</a><br>"
+                    f'<span style="color:#9ca3af;">{escape(date)}</span></p>',
                     unsafe_allow_html=True,
                 )
 
 
+@st.fragment
+def _render_duplicates_tab_fragment(engine: IntelligenceEngine) -> None:
+    _render_duplicates_tab(engine)
+
+
+@st.fragment
+def _render_topics_trends_tab_fragment(engine: IntelligenceEngine) -> None:
+    _render_topics_trends_tab(engine)
+
+
 def main() -> None:
     _init_perf_state()
-    engine = get_engine()
+    if not _check_password():
+        return
 
-    _render_sidebar(engine)
+    ready = index_is_ready()
+    engine = get_engine() if ready else None
+
+    _render_sidebar(engine, ready=ready)
 
     st.title("News Intelligence Engine")
     st.caption("Explore semantic search results, topic clusters, and duplicate coverage.")
+
+    if not ready:
+        st.error(index_status_message(missing_artifacts()))
+        return
 
     search_tab, clusters_tab, duplicates_tab, topics_tab = st.tabs(
         ["Search", "Clusters", "Duplicates", "Topics & Trends"]
     )
 
     with search_tab:
-        _render_search_tab(engine)
+        _render_search_tab(engine, ready=ready)
 
     with clusters_tab:
         _render_clusters_tab_fragment(engine)
 
     with duplicates_tab:
-        _render_duplicates_tab(engine)
+        _render_duplicates_tab_fragment(engine)
 
     with topics_tab:
-        _render_topics_trends_tab(engine)
+        _render_topics_trends_tab_fragment(engine)
 
 
 if __name__ == "__main__":

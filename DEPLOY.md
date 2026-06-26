@@ -31,12 +31,15 @@ git push -u origin main
 
 1. Go to [share.streamlit.io](https://share.streamlit.io) and sign in with GitHub.
 2. **New app** → select your repo, branch `main`, main file path **`app.py`**.
-3. Advanced settings → Python **3.11**.
-4. Deploy. First load may take 1–2 minutes while the embedding model loads into memory.
+3. Advanced settings → Python **3.11** (repo includes `.python-version`).
+4. Optional secrets (see `.streamlit/secrets.toml.example`):
+   - `ALLOW_REBUILD = "false"`
+   - `APP_PASSWORD = "your-password"`
+5. Deploy. First load may take 1–2 minutes while the embedding model loads into memory.
 
 ### Notes
 
-- **Rebuild Index** in the sidebar runs `src/pipeline.py` as a subprocess; on Streamlit Cloud this may hit memory/time limits. Prefer rebuilding locally and re-pushing artifacts.
+- **Rebuild Index** is disabled by default in Docker (`ALLOW_REBUILD=false`). On Streamlit Cloud, set the same in secrets — rebuilding in the cloud often exceeds free-tier RAM.
 - Optional: set `HF_TOKEN` in app secrets for faster HuggingFace downloads if you rebuild in the cloud.
 
 ---

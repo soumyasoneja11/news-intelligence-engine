@@ -62,6 +62,8 @@ source .venv/bin/activate
 
 pip install -r requirements.txt
 
+# Full pipeline build (ingest, cluster, UMAP):
+pip install -r requirements-build.txt
 python src/pipeline.py
 streamlit run app.py
 ```
@@ -134,4 +136,18 @@ python tests/test_intelligence.py
 
 ## Requirements
 
-Python 3.10+ recommended. Key dependencies: `sentence-transformers`, `faiss-cpu`, `scikit-learn`, `umap-learn`, `streamlit`, `plotly`.
+Python **3.11** recommended (see `.python-version`). 
+
+- **App runtime:** `pip install -r requirements.txt`
+- **Full pipeline build:** `pip install -r requirements-build.txt`
+
+Key dependencies: `sentence-transformers`, `faiss-cpu`, `scikit-learn`, `streamlit`, `plotly`.
+
+### Environment variables
+
+| Variable | Default | Purpose |
+|----------|---------|---------|
+| `TRENDING_REFERENCE` | `auto` | Trending "now" anchor (`auto` = latest article date) |
+| `ALLOW_REBUILD` | `true` | Show sidebar Rebuild Index button |
+| `APP_PASSWORD` | — | Optional dashboard password |
+| `FAISS_INDEX_MODE` | `auto` | `flat`, `hnsw`, or `auto` (HNSW when n ≥ 5000) |

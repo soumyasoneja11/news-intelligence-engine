@@ -19,7 +19,7 @@ from src.utils import as_id
 
 DUPLICATE_PAIRS_PATH = INDEX_DIR / "duplicate_pairs.json"
 
-K_NEIGHBORS = 5
+K_NEIGHBORS = 10
 SIMILARITY_THRESHOLD = 0.92
 
 
@@ -83,9 +83,9 @@ def find_duplicate_pairs(
             f"metadata entries ({len(metadata)})."
         )
 
-    if not isinstance(index, faiss.IndexFlatIP):
+    if not isinstance(index, (faiss.IndexFlatIP, faiss.IndexHNSWFlat)):
         raise ValueError(
-            "Expected faiss.IndexFlatIP for cosine similarity; "
+            "Expected faiss.IndexFlatIP or IndexHNSWFlat for cosine similarity; "
             f"got {type(index).__name__}."
         )
 

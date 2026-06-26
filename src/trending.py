@@ -12,6 +12,7 @@ if str(_ROOT) not in sys.path:
     sys.path.insert(0, str(_ROOT))
 
 from src.cluster import CLUSTER_LABELS_PATH
+from src.config import trending_reference_datetime
 from src.paths import INDEX_DIR, METADATA_PATH
 from src.topics import CLUSTER_TOPICS_PATH
 from src.utils import as_id, parse_date
@@ -139,7 +140,7 @@ def build_trending(
     metadata = _load_metadata(metadata_path)
     cluster_labels = _load_cluster_labels(cluster_labels_path)
     label_map = _load_cluster_labels_map(cluster_topics_path)
-    now = reference or datetime.now()
+    now = reference or trending_reference_datetime(metadata)
 
     results: list[dict] = []
     for cluster_id, indices in cluster_labels.items():

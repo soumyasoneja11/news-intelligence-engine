@@ -9,12 +9,18 @@ from pathlib import Path
 import faiss
 import numpy as np
 import pandas as pd
-from sentence_transformers import SentenceTransformer
 
 _ROOT = Path(__file__).resolve().parent.parent
 if str(_ROOT) not in sys.path:
     sys.path.insert(0, str(_ROOT))
 
+from src.config import (
+    FAISS_HNSW_EF_CONSTRUCTION,
+    FAISS_HNSW_M,
+    FAISS_HNSW_MIN_VECTORS,
+    FAISS_INDEX_MODE,
+)
+from src.models import get_sentence_model
 from src.paths import (
     ARTICLES_PATH,
     EMBEDDINGS_PATH,
@@ -60,7 +66,7 @@ def encode_texts(
     batch_size: int = BATCH_SIZE,
 ) -> np.ndarray:
     """Encode texts into a float32 embedding matrix."""
-    model = SentenceTransformer(model_name)
+    model = get_sentence_model(model_name)
     embeddings = model.encode(
         texts,
         batch_size=batch_size,
@@ -70,30 +76,47 @@ def encode_texts(
     return np.asarray(embeddings, dtype=np.float32)
 
 
-def build_faiss_index(embeddings: np.ndarray) -> faiss.IndexFlatIP:
+def _use_hnsw(n_vectors: int) -> bool:
+    if FAISS_INDEX_MODE == "hnsw":
+        return True
+    if FAISS_INDEX_MODE == "flat":
+        return False
+    return n_vectors >= FAISS_HNSW_MIN_VECTORS
+
+
+def build_faiss_index(embeddings: np.ndarray) -> faiss.Index:
     """Build an inner-product index on L2-normalized vectors."""
     dim = embeddings.shape[1]
-    index = faiss.IndexFlatIP(dim)
+    n_vectors = embeddings.shape[0]
     vectors = embeddings.copy()
     faiss.normalize_L2(vectors)
-    index.add(vectors)
+
+    if _use_hnsw(n_vectors):
+        index = faiss.IndexHNSWFlat(dim, FAISS_HNSW_M, faiss.METRIC_INNER_PRODUCT)
+        index.hnsw.efConstruction = FAISS_HNSW_EF_CONSTRUCTION
+        index.add(vectors)
+        print(f"Built FAISS IndexHNSWFlat (M={FAISS_HNSW_M}, n={n_vectors}).")
+    else:
+        index = faiss.IndexFlatIP(dim)
+        index.add(vectors)
+        print(f"Built FAISS IndexFlatIP (n={n_vectors}).")
     return index
 
 
-def add_to_faiss_index(index: faiss.IndexFlatIP, embeddings: np.ndarray) -> None:
+def add_to_faiss_index(index: faiss.Index, embeddings: np.ndarray) -> None:
     """Append L2-normalized vectors to an existing FAISS index."""
     vectors = np.asarray(embeddings, dtype=np.float32).copy()
     faiss.normalize_L2(vectors)
     index.add(vectors)
 
 
-def build_metadata(df: pd.DataFrame, start_id: int = 0) -> list[dict]:
-    """Extract searchable article metadata aligned with embedding rows."""
+def build_metadata(df: pd.DataFrame) -> list[dict]:
+    """Extract searchable article metadata aligned with embedding row indices."""
     metadata = []
-    for offset, (_, row) in enumerate(df.iterrows()):
+    for row_idx, (_, row) in enumerate(df.iterrows()):
         metadata.append(
             {
-                "id": as_id(start_id + offset),
+                "id": as_id(row_idx),
                 "title": _as_str(row["title"]),
                 "url": _as_str(row["url"]),
                 "date": _as_str(row["date"]),
@@ -130,7 +153,7 @@ def _load_existing_embeddings(embeddings_path: Path) -> np.ndarray:
     return np.asarray(embeddings, dtype=np.float32)
 
 
-def _load_existing_index(faiss_path: Path) -> faiss.IndexFlatIP:
+def _load_existing_index(faiss_path: Path) -> faiss.Index:
     if not faiss_path.is_file():
         raise FileNotFoundError(f"FAISS index not found: {faiss_path}")
 
@@ -147,7 +170,7 @@ def _save_embeddings(embeddings_path: Path, embeddings: np.ndarray) -> None:
         raise OSError(f"Failed to save embeddings to {embeddings_path}") from exc
 
 
-def _save_index(faiss_path: Path, index: faiss.IndexFlatIP) -> None:
+def _save_index(faiss_path: Path, index: faiss.Index) -> None:
     try:
         faiss.write_index(index, str(faiss_path))
     except Exception as exc:
@@ -164,7 +187,7 @@ def _save_metadata(metadata_path: Path, metadata: list[dict]) -> None:
 
 def _validate_index_consistency(
     embeddings: np.ndarray,
-    index: faiss.IndexFlatIP,
+    index: faiss.Index,
     metadata: list[dict],
 ) -> None:
     if embeddings.shape[0] != len(metadata):
@@ -181,6 +204,21 @@ def _validate_index_consistency(
 
 def _known_urls(metadata: list[dict]) -> set[str]:
     return {_as_str(entry["url"]) for entry in metadata if entry.get("url")}
+
+
+def _csv_urls(df: pd.DataFrame) -> list[str]:
+    return df["url"].map(_as_str).tolist()
+
+
+def _metadata_urls(metadata: list[dict]) -> list[str]:
+    return [_as_str(entry.get("url")) for entry in metadata]
+
+
+def csv_matches_index(df: pd.DataFrame, metadata: list[dict]) -> bool:
+    """True when CSV rows align 1:1 with indexed metadata (same URLs, same order)."""
+    if len(df) != len(metadata):
+        return False
+    return _csv_urls(df) == _metadata_urls(metadata)
 
 
 def _filter_new_articles(df: pd.DataFrame, known_urls: set[str]) -> pd.DataFrame:
@@ -205,11 +243,18 @@ def _embed_incremental(
     embeddings_path: Path,
     faiss_path: Path,
     metadata_path: Path,
-) -> tuple[np.ndarray, faiss.IndexFlatIP, list[dict]]:
+) -> tuple[np.ndarray, faiss.Index, list[dict]]:
     index = _load_existing_index(faiss_path)
     metadata = _load_existing_metadata(metadata_path)
     embeddings = _load_existing_embeddings(embeddings_path)
     _validate_index_consistency(embeddings, index, metadata)
+
+    if not csv_matches_index(df, metadata):
+        print(
+            "CSV and index are out of sync (row count or URL order mismatch). "
+            "Performing full rebuild."
+        )
+        return _embed_full(df, embeddings_path, faiss_path, metadata_path)
 
     known = _known_urls(metadata)
     new_df = _filter_new_articles(df, known)
@@ -232,7 +277,19 @@ def _embed_incremental(
     _save_index(faiss_path, index)
     print(f"Saved FAISS index to {faiss_path} (size {index.ntotal})")
 
-    metadata.extend(build_metadata(new_df, start_id=len(metadata)))
+    start_idx = len(metadata)
+    for offset, (_, row) in enumerate(new_df.iterrows()):
+        row_idx = start_idx + offset
+        metadata.append(
+            {
+                "id": as_id(row_idx),
+                "title": _as_str(row["title"]),
+                "url": _as_str(row["url"]),
+                "date": _as_str(row["date"]),
+                "domain": _as_str(row["domain"]),
+            }
+        )
+
     _validate_index_consistency(embeddings, index, metadata)
     _save_metadata(metadata_path, metadata)
     print(f"Saved metadata for {len(metadata)} articles to {metadata_path}")
@@ -245,7 +302,7 @@ def _embed_full(
     embeddings_path: Path,
     faiss_path: Path,
     metadata_path: Path,
-) -> tuple[np.ndarray, faiss.IndexFlatIP, list[dict]]:
+) -> tuple[np.ndarray, faiss.Index, list[dict]]:
     print(f"Encoding text with {MODEL_NAME} (batch_size={BATCH_SIZE})...")
     embeddings = encode_texts(_texts_from_df(df))
     print(f"Embedding matrix shape: {embeddings.shape}")
@@ -253,7 +310,7 @@ def _embed_full(
     _save_embeddings(embeddings_path, embeddings)
     print(f"Saved embeddings to {embeddings_path}")
 
-    print("Building FAISS IndexFlatIP...")
+    print("Building FAISS index...")
     index = build_faiss_index(embeddings)
     _save_index(faiss_path, index)
     print(f"Saved FAISS index to {faiss_path}")
@@ -271,7 +328,7 @@ def embed(
     embeddings_path: Path = EMBEDDINGS_PATH,
     faiss_path: Path = FAISS_PATH,
     metadata_path: Path = METADATA_PATH,
-) -> tuple[np.ndarray, faiss.IndexFlatIP, list[dict]]:
+) -> tuple[np.ndarray, faiss.Index, list[dict]]:
     """Load articles, encode, persist embeddings, FAISS index, and metadata."""
     try:
         INDEX_DIR.mkdir(parents=True, exist_ok=True)

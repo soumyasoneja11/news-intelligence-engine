@@ -8,13 +8,13 @@ from pathlib import Path
 
 import faiss
 import numpy as np
-from sentence_transformers import SentenceTransformer
 
 _ROOT = Path(__file__).resolve().parent.parent
 if str(_ROOT) not in sys.path:
     sys.path.insert(0, str(_ROOT))
 
 from src.embedder import MODEL_NAME
+from src.models import get_sentence_model
 from src.paths import EMBEDDINGS_PATH, FAISS_PATH, METADATA_PATH
 from src.utils import as_id
 
@@ -41,7 +41,7 @@ class NewsRetriever:
         self.metadata = self._load_metadata(metadata_path)
         self.embeddings = self._load_embeddings(embeddings_path)
         self._validate_assets()
-        self.model = SentenceTransformer(model_name)
+        self.model = get_sentence_model(model_name)
 
     @staticmethod
     def _load_index(faiss_path: Path) -> faiss.IndexFlatIP:

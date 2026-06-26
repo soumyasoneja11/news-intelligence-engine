@@ -1,0 +1,7 @@
+# Full pipeline build (ingest, cluster, deploy). Install after requirements.txt:
+#   pip install -r requirements.txt -r requirements-build.txt
+-r requirements.txt
+umap-learn==0.5.9.post2
+datasets==4.0.0
+faker==37.3.0
+kneed==0.8.5

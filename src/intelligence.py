@@ -15,6 +15,12 @@ if str(_ROOT) not in sys.path:
 from src.cluster import CLUSTER_DATA_PATH, CLUSTER_LABELS_PATH
 from src.dedup import DUPLICATE_PAIRS_PATH
 from src.embedder import EMBEDDINGS_PATH, FAISS_PATH, METADATA_PATH, MODEL_NAME
+from src.index_status import (
+    DASHBOARD_ARTIFACTS,
+    SEARCH_ARTIFACTS,
+    index_is_ready,
+    missing_artifacts,
+)
 from src.paths import PROJECT_ROOT
 from src.retriever import NewsRetriever
 from src.topics import CLUSTER_TOPICS_PATH
@@ -123,16 +129,34 @@ class IntelligenceEngine:
             raise ValueError(f"Trending data must be a JSON list at {self.trending_path}")
         return data
 
+    def index_is_ready(self, minimal: bool = False) -> bool:
+        """Return True when required on-disk artifacts exist."""
+        return index_is_ready(minimal=minimal)
+
+    def missing_artifacts(self) -> list[Path]:
+        return missing_artifacts()
+
+    def require_index(self, minimal: bool = False) -> None:
+        paths = SEARCH_ARTIFACTS if minimal else DASHBOARD_ARTIFACTS
+        missing = missing_artifacts(paths)
+        if missing:
+            raise FileNotFoundError(
+                f"Required artifact not found: {missing[0]}"
+            )
+
     def search(self, query: str, k: int = 10) -> list[dict]:
         """Semantic search over indexed articles."""
+        self.require_index(minimal=True)
         return self.retriever.search(query, k=k)
 
     def find_similar(self, article_id: str | int, k: int = 10) -> list[dict]:
         """Find articles similar to a given article id."""
+        self.require_index(minimal=True)
         return self.retriever.find_similar(article_id, k=k)
 
     def get_clusters(self) -> list[dict]:
         """Return cluster summaries with labels, counts, and 2D coordinates."""
+        self.require_index(minimal=False)
         clusters: list[dict] = []
         for cluster_id in sorted(self.cluster_labels, key=int):
             topic = self.cluster_topics.get(str(cluster_id), {})
@@ -169,14 +193,17 @@ class IntelligenceEngine:
 
     def get_trending(self, n: int = 10) -> list[dict]:
         """Return the top-n trending clusters."""
+        self.require_index(minimal=False)
         return self.trending[: max(n, 0)]
 
     def get_duplicates(self) -> list[dict]:
         """Return detected near-duplicate article pairs."""
+        self.require_index(minimal=False)
         return self.duplicate_pairs
 
     def get_cluster_articles(self, cluster_id: str | int) -> list[dict]:
         """Return full article metadata for a cluster."""
+        self.require_index(minimal=False)
         key = str(cluster_id)
         if key not in self.cluster_labels:
             raise KeyError(f"Unknown cluster_id: {cluster_id}")

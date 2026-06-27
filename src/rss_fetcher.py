@@ -66,6 +66,8 @@ def resolve_canonical_url(url: str, timeout: int = 5) -> str:
         resolved = response.url or cleaned_input
     except requests.RequestException:
         resolved = cleaned_input
+    except Exception:
+        resolved = cleaned_input
 
     return _clean_url(resolved)
 

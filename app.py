@@ -23,7 +23,7 @@ os.chdir(PROJECT_ROOT)
 
 from src.intelligence import IntelligenceEngine, load_intelligence_engine
 from src.config import rebuild_allowed
-from src.feeds import SOURCE_SLUGS
+from src.feeds import SOURCE_SLUGS, matches_source_filter
 from src.index_status import (
     articles_csv_present,
     index_is_ready,
@@ -40,7 +40,10 @@ PIPELINE_OUTPUT_LIMIT = 8000
 
 
 def _inject_app_styles() -> None:
-    css = STYLES_PATH.read_text(encoding="utf-8")
+    try:
+        css = STYLES_PATH.read_text(encoding="utf-8")
+    except OSError:
+        return
     st.markdown(
         (
             '<link rel="preconnect" href="https://fonts.googleapis.com">'
@@ -247,7 +250,21 @@ def _sync_source_filter_caches() -> None:
         st.session_state.pop("cluster_scatter_fig", None)
         st.session_state.pop("clusters_chart_loaded", None)
         st.session_state.pop("topics_cache", None)
+        st.session_state.pop("duplicates_cache", None)
         st.session_state._source_filter_cache_key = current
+
+
+def _filter_articles_by_source(
+    articles: list[dict],
+    selected_sources: list[str],
+) -> list[dict]:
+    if not selected_sources:
+        return articles
+    return [
+        article
+        for article in articles
+        if matches_source_filter(article.get("domain", ""), selected_sources)
+    ]
 
 
 def _cached_search(
@@ -449,7 +466,7 @@ def _render_sidebar_metrics(articles: int, clusters: int, duplicates: int) -> No
     )
 
 
-def  _render_sidebar_trending_pill(rank: int, label: str, article_count: object, score: float) -> None:
+def _render_sidebar_trending_pill(rank: int, label: str, article_count: object, score: float) -> None:
     st.sidebar.markdown(
         (
             f'<div class="trending-pill-item">'
@@ -462,7 +479,12 @@ def  _render_sidebar_trending_pill(rank: int, label: str, article_count: object,
     )
 
 
-def _render_sidebar(engine: IntelligenceEngine | None, *, ready: bool) -> list[str]:
+def _render_sidebar(
+    engine: IntelligenceEngine | None,
+    *,
+    ready: bool,
+    load_failed: bool = False,
+) -> list[str]:
     st.sidebar.markdown("# 📰 News Intelligence")
     st.sidebar.caption("Semantic search · clustering · deduplication")
 
@@ -506,11 +528,17 @@ def _render_sidebar(engine: IntelligenceEngine | None, *, ready: bool) -> list[s
     _sync_source_filter_caches()
 
     if not ready or engine is None:
-        st.sidebar.error(index_status_message(missing_artifacts()))
-        st.sidebar.caption(
-            "Build locally with `python src/pipeline.py`, then push index artifacts."
-        )
-        if rebuild_allowed() and articles_csv_present():
+        if load_failed:
+            st.sidebar.caption(
+                "Index files are present but the engine failed to load. "
+                "Check Streamlit Cloud logs for memory or model errors."
+            )
+        else:
+            st.sidebar.error(index_status_message(missing_artifacts()))
+            st.sidebar.caption(
+                "Build locally with `python src/pipeline.py`, then push index artifacts."
+            )
+        if rebuild_allowed() and articles_csv_present() and not load_failed:
             st.sidebar.info("Rebuild is enabled but index files are missing.")
         return selected_sources
 
@@ -540,7 +568,7 @@ def _render_sidebar(engine: IntelligenceEngine | None, *, ready: bool) -> list[s
 
     try:
         with st.spinner("Loading stats..."):
-            clusters = {c["cluster_id"]: c for c in engine.get_clusters()}
+            clusters = {str(c["cluster_id"]): c for c in engine.get_clusters()}
             trending = engine.get_trending(n=5)
         if not trending:
             st.sidebar.caption("No trending data yet.")
@@ -552,6 +580,8 @@ def _render_sidebar(engine: IntelligenceEngine | None, *, ready: bool) -> list[s
             _render_sidebar_trending_pill(rank, label, article_count, score)
     except FileNotFoundError:
         st.sidebar.caption("Run **Rebuild Index** to populate trending data.")
+    except Exception as exc:
+        st.sidebar.caption(f"Trending unavailable: {exc}")
 
     return selected_sources
 
@@ -902,10 +932,14 @@ def _render_clusters_tab(engine: IntelligenceEngine, selected_sources: list[str]
 
     with st.spinner("Loading cluster articles..."):
         articles = engine.get_cluster_articles(cluster_id)
+    articles = _filter_articles_by_source(articles, selected_sources)
     recent_articles = _recent_cluster_articles(articles, limit=10)
 
     st.markdown("**Most recent articles**")
-    _render_cluster_articles_morph(recent_articles, len(articles))
+    if not recent_articles and selected_sources:
+        st.info("No articles from the selected sources in this cluster.")
+    else:
+        _render_cluster_articles_morph(recent_articles, len(articles))
 
 
 @st.fragment
@@ -1096,14 +1130,21 @@ def _render_topic_cloud_pill(label: str, score: float, font_size: int) -> None:
     )
 
 
-def _render_topics_trends_tab(engine: IntelligenceEngine) -> None:
+def _render_topics_trends_tab(engine: IntelligenceEngine, selected_sources: list[str]) -> None:
     render_heading("Topics & Trends", level=2)
 
     try:
         if "topics_cache" not in st.session_state:
             with st.spinner("Loading topics and trends..."):
-                clusters = engine.get_clusters()
-                trending = engine.get_trending(n=len(clusters))
+                clusters = engine.get_clusters(sources=selected_sources or None)
+                trending = engine.get_trending(n=len(clusters) or 50)
+                if selected_sources:
+                    cluster_ids = {str(c["cluster_id"]) for c in clusters}
+                    trending = [
+                        item
+                        for item in trending
+                        if str(item.get("cluster_id", "")) in cluster_ids
+                    ]
                 st.session_state.topics_cache = (clusters, trending)
         clusters, trending = st.session_state.topics_cache
     except FileNotFoundError as exc:
@@ -1217,8 +1258,11 @@ def _render_duplicates_tab_fragment(engine: IntelligenceEngine) -> None:
 
 
 @st.fragment
-def _render_topics_trends_tab_fragment(engine: IntelligenceEngine) -> None:
-    _render_topics_trends_tab(engine)
+def _render_topics_trends_tab_fragment(
+    engine: IntelligenceEngine,
+    selected_sources: list[str],
+) -> None:
+    _render_topics_trends_tab(engine, selected_sources)
 
 
 def main() -> None:
@@ -1228,15 +1272,24 @@ def main() -> None:
         return
 
     ready = index_is_ready()
-    engine = get_engine() if ready else None
+    engine = None
+    load_failed = False
+    if ready:
+        try:
+            engine = get_engine()
+        except Exception as exc:
+            st.error(f"Failed to load the intelligence engine: {exc}")
+            load_failed = True
+            ready = False
 
-    selected_sources = _render_sidebar(engine, ready=ready)
+    selected_sources = _render_sidebar(engine, ready=ready, load_failed=load_failed)
 
     render_heading("News Intelligence Engine", level=1, calligraphic=True)
     st.caption("Explore semantic search results, topic clusters, and duplicate coverage.")
 
     if not ready:
-        st.error(index_status_message(missing_artifacts()))
+        if not load_failed:
+            st.error(index_status_message(missing_artifacts()))
         return
 
     search_tab, clusters_tab, duplicates_tab, topics_tab = st.tabs(
@@ -1253,7 +1306,7 @@ def main() -> None:
         _render_duplicates_tab_fragment(engine)
 
     with topics_tab:
-        _render_topics_trends_tab_fragment(engine)
+        _render_topics_trends_tab_fragment(engine, selected_sources)
 
 
 if __name__ == "__main__":

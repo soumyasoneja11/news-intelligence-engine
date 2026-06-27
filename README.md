@@ -30,9 +30,9 @@ Six processing layers feed a unified `IntelligenceEngine` facade consumed by the
 │ trending  │ duplicate │ cluster_      │ cluster_  │ embeddings  │ articles_
 │ .json     │ _pairs    │ topics.json   │ data.json │ + FAISS     │ clean.csv
 │           │ .json     │               │           │             │
-│ recency-  │ FAISS k-  │ TF-IDF per    │ KMeans +  │ MiniLM-L6   │ cc_news /
-│ weighted  │ NN cosine │ cluster       │ UMAP 2D   │ v2 vectors  │ CSV /
-│ scores    │ ≥ 0.92    │ keywords      │ elbow k   │ IndexFlatIP │ synthetic
+│ recency-  │ FAISS k-  │ TF-IDF per    │ KMeans +  │ MiniLM-L6   │ BBC RSS
+│ weighted  │ NN cosine │ cluster       │ UMAP 2D   │ v2 vectors  │ feeds
+│ scores    │ ≥ 0.92    │ keywords      │ elbow k   │ IndexFlatIP │ append
 └───────────┴───────────┴───────────────┴───────────┴─────────────┘
                                 ▲
                                 │
@@ -41,7 +41,7 @@ Six processing layers feed a unified `IntelligenceEngine` facade consumed by the
 
 | Layer | Module | Output |
 |-------|--------|--------|
-| 1 — Ingest | `src/ingest.py` | `data/articles_clean.csv` |
+| 1 — Ingest | `src/ingest.py`, `src/rss_ingest.py` | `data/articles_clean.csv` |
 | 2 — Embed | `src/embedder.py` | `index/faiss.index`, `embeddings.npy`, `metadata.json` |
 | 3 — Cluster | `src/cluster.py` | `cluster_data.json`, `cluster_labels.json` |
 | 4 — Topics | `src/topics.py` | `cluster_topics.json` |
@@ -68,10 +68,11 @@ python src/pipeline.py
 streamlit run app.py
 ```
 
-The first pipeline run downloads ~2,000 articles from HuggingFace (`vblagoje/cc_news`), encodes them, and writes all index artifacts. Subsequent runs can skip steps:
+The first pipeline run fetches BBC RSS feeds (see `data/rss_feeds.json`), encodes them, and writes all index artifacts. Scheduled GitHub Actions refresh the index every 30 minutes.
 
 ```bash
-python src/pipeline.py --skip-ingest          # reuse existing CSV
+python src/pipeline.py --rss-refresh --skip-cluster   # fast RSS refresh
+python src/pipeline.py --rss-refresh --full-rebuild # daily full rebuild
 python src/pipeline.py --skip-ingest --skip-embed   # ML-only rebuild
 ```
 
@@ -85,7 +86,8 @@ python src/pipeline.py --skip-ingest --skip-embed   # ML-only rebuild
 | **Cluster explorer** | Pick a cluster to see its TF-IDF keywords and ten most recent member articles. |
 | **Near-duplicate detection** | Surface article pairs above a cosine-similarity threshold, with CSV export. |
 | **Topics & trends** | Bar charts of largest clusters and a trending-topic view weighted by publication recency. |
-| **Rebuild index** | One-click sidebar button to rerun the full pipeline and refresh all artifacts. |
+| **Live BBC RSS** | GitHub Actions polls BBC feeds every 30 min; daily full cluster rebuild at 03:00 UTC. |
+| **Rebuild index** | One-click sidebar button to rerun the full pipeline (local dev; disabled on cloud). |
 
 ## How it works
 
@@ -95,6 +97,10 @@ python src/pipeline.py --skip-ingest --skip-embed   # ML-only rebuild
 
 Downstream layers reuse those same vectors: KMeans groups them into topics, TF-IDF names each cluster, neighbor search flags duplicates, and recency-weighted counts drive trending scores.
 
+**Live ingestion.** BBC RSS feeds (Top Stories, World, Technology, Business) are polled every 30 minutes by [`.github/workflows/rss-refresh.yml`](.github/workflows/rss-refresh.yml). New articles append to the CSV, get incrementally embedded, and dedup/trending refresh without re-clustering. A daily full rebuild ([`.github/workflows/rss-full.yml`](.github/workflows/rss-full.yml)) re-runs clustering and topics. Updated `data/` and `index/` artifacts are committed back to the repo so Streamlit Cloud redeploys automatically.
+
+> **BBC content:** This demo indexes publicly available RSS summaries for educational use. For a public deployment, review [BBC Terms of Use](https://www.bbc.co.uk/usingthebbc/terms) and provide appropriate attribution.
+
 ## Project layout
 
 ```
@@ -102,11 +108,13 @@ news-intelligence-engine/
 ├── app.py                  # Streamlit dashboard
 ├── requirements.txt
 ├── data/
-│   └── articles_clean.csv
+│   ├── articles_clean.csv
+│   └── rss_feeds.json
 ├── index/                  # generated artifacts (gitignored contents)
 ├── src/
 │   ├── pipeline.py         # build orchestrator
 │   ├── intelligence.py     # unified API facade
+│   ├── rss_ingest.py       # BBC RSS fetch + CSV append
 │   ├── ingest.py · embedder.py · retriever.py
 │   ├── cluster.py · topics.py · dedup.py · trending.py
 │   └── paths.py · utils.py
@@ -115,21 +123,21 @@ news-intelligence-engine/
 
 ## Known limitations
 
-- **Batch-only ingestion** — articles are fetched once at build time; there is no live RSS or API polling.
+- **RSS summaries only** — BBC feed entries use short descriptions; full article text is not scraped (respect BBC ToS in production demos).
 - **Exhaustive index** — `IndexFlatIP` scans every vector on each query, which is fine for thousands of articles but does not scale to millions.
-- **Historical demo data** — the default `cc_news` corpus is from 2017–2018, so trending scores are often zero because nothing falls in the last 24 hours.
-- **Incremental embed drift** — re-embedding only new URLs can leave the FAISS index slightly out of sync with the CSV row count.
+- **Cluster staleness** — fast RSS refreshes skip clustering; UMAP/cluster labels refresh on the daily full rebuild.
 - **No generative summaries** — cluster labels come from TF-IDF keywords, not an LLM.
 
 ## Ideas for v2
 
-- **HNSW index** — swap `IndexFlatIP` for `IndexHNSWFlat` to get sub-linear search as the corpus grows.
 - **LLM-based summaries** — generate human-readable cluster digests and per-article blurbs with a local or API-backed model.
-- **Real-time RSS ingestion** — poll feeds on a schedule, incrementally embed new articles, and refresh trending on a rolling window.
+- **Full-text fetch** — optional article-page extraction for richer embeddings (with publisher ToS compliance).
+- **API layer** — FastAPI service separate from the Streamlit UI.
 
 ## Tests
 
 ```bash
+python tests/test_rss_ingest.py
 python tests/test_retrieval.py
 python tests/test_intelligence.py
 ```
@@ -147,7 +155,9 @@ Key dependencies: `sentence-transformers`, `faiss-cpu`, `scikit-learn`, `streaml
 
 | Variable | Default | Purpose |
 |----------|---------|---------|
-| `TRENDING_REFERENCE` | `auto` | Trending "now" anchor (`auto` = latest article date) |
+| `TRENDING_REFERENCE` | `auto` | Trending anchor (`auto` = latest article date; `""` = wall-clock now for live RSS) |
 | `ALLOW_REBUILD` | `true` | Show sidebar Rebuild Index button |
 | `APP_PASSWORD` | — | Optional dashboard password |
 | `FAISS_INDEX_MODE` | `auto` | `flat`, `hnsw`, or `auto` (HNSW when n ≥ 5000) |
+| `MAX_ARTICLES` | `5000` | Cap corpus size after RSS append |
+| `INGEST_FALLBACK` | — | Set to `synthetic` for offline dev without network |

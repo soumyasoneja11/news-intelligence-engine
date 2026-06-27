@@ -9,7 +9,8 @@ Best if you want a quick shareable link and already use GitHub.
 ### 1. Build locally
 
 ```bash
-python src/pipeline.py
+pip install -r requirements.txt -r requirements-build.txt
+python src/pipeline.py --rss-refresh --full-rebuild
 python scripts/prepare_cloud_deploy.py
 ```
 
@@ -40,7 +41,9 @@ git push -u origin main
 ### Notes
 
 - **Rebuild Index** is disabled by default in Docker (`ALLOW_REBUILD=false`). On Streamlit Cloud, set the same in secrets — rebuilding in the cloud often exceeds free-tier RAM.
-- Optional: set `HF_TOKEN` in app secrets for faster HuggingFace downloads if you rebuild in the cloud.
+- **Live updates:** Enable GitHub Actions workflow write permission (Settings → Actions → General → Workflow permissions: Read and write). Workflows `RSS Refresh` (every 30 min) and `RSS Full Rebuild` (daily 03:00 UTC) commit updated `data/` and `index/` back to the repo; Streamlit Cloud redeploys on push.
+- Set `TRENDING_REFERENCE=""` in workflow env (already configured) so trending scores use real wall-clock recency for live BBC articles.
+- Optional: set `HF_TOKEN` in app secrets for faster HuggingFace model downloads on first boot.
 
 ---
 

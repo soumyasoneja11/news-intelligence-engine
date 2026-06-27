@@ -26,6 +26,7 @@ jobs:
       - name: Run unit tests
         run: |
           python tests/test_ingest_unit.py
+          python tests/test_rss_ingest.py
           python tests/test_trending_unit.py
           python tests/test_embedder_unit.py
           python tests/test_index_status.py

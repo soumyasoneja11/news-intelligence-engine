@@ -5,3 +5,5 @@ umap-learn==0.5.9.post2
 datasets==4.0.0
 faker==37.3.0
 kneed==0.8.5
+feedparser>=6.0.0
+requests>=2.31.0

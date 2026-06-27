@@ -37,6 +37,21 @@ def _parse_args() -> argparse.Namespace:
         action="store_true",
         help="Skip embedding/index build and use existing index artifacts.",
     )
+    parser.add_argument(
+        "--rss-refresh",
+        action="store_true",
+        help="Append new BBC RSS articles before embedding (implies ingest unless --skip-ingest).",
+    )
+    parser.add_argument(
+        "--skip-cluster",
+        action="store_true",
+        help="Skip clustering and topic labeling (fast RSS refresh path).",
+    )
+    parser.add_argument(
+        "--full-rebuild",
+        action="store_true",
+        help="Force full embed rebuild instead of incremental update.",
+    )
     return parser.parse_args()
 
 
@@ -95,23 +110,49 @@ def _print_summary(
     print(f"{'Total elapsed':<24} {total_elapsed:.1f}s")
 
 
+def _run_ingest(args: argparse.Namespace) -> pd.DataFrame | None:
+    if args.skip_ingest and not args.rss_refresh:
+        print("Skipping ingest; using existing articles_clean.csv.\n")
+        return None
+
+    refresh = args.rss_refresh or ARTICLES_PATH.is_file()
+    source = "rss" if args.rss_refresh else "hf"
+    step_name = "Step 1: Ingest (RSS)" if source == "rss" else "Step 1: Ingest (HuggingFace)"
+    return _run_step(step_name, lambda: ingest(source=source, refresh=refresh))
+
+
+def _run_embed(args: argparse.Namespace) -> None:
+    if args.skip_embed:
+        print("Skipping embed; using existing index artifacts.\n")
+        return
+
+    if args.full_rebuild:
+        from src.paths import EMBEDDINGS_PATH, FAISS_PATH, INDEX_DIR, METADATA_PATH
+
+        for path in (FAISS_PATH, METADATA_PATH, EMBEDDINGS_PATH):
+            if path.is_file():
+                path.unlink()
+                print(f"Removed {path} for full rebuild.")
+
+    _run_step("Step 2: Embed", embed)
+
+
 def main() -> None:
     args = _parse_args()
     total_start = time.perf_counter()
     df: pd.DataFrame | None = None
+    clusters_found = 0
+    trending: list[dict] = []
 
-    if not args.skip_ingest:
-        df = _run_step("Step 1: Ingest", ingest)
+    df = _run_ingest(args)
+    _run_embed(args)
+
+    if not args.skip_cluster:
+        _, _, _, clusters_found = _run_step("Step 3: Cluster", cluster)
+        _run_step("Step 4: Topics", generate_topics)
     else:
-        print("Skipping ingest; using existing articles_clean.csv.\n")
+        print("Skipping cluster and topics (--skip-cluster).\n")
 
-    if not args.skip_embed:
-        _run_step("Step 2: Embed", embed)
-    else:
-        print("Skipping embed; using existing index artifacts.\n")
-
-    _, _, _, clusters_found = _run_step("Step 3: Cluster", cluster)
-    _run_step("Step 4: Topics", generate_topics)
     duplicate_pairs = _run_step("Step 5: Dedup", find_duplicate_pairs)
     trending = _run_step("Step 6: Trending", generate_trending)
 

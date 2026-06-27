@@ -1,22 +1,23 @@
-"""Ingest and clean news articles from HuggingFace cc_news or fallbacks."""
+"""Ingest and clean news articles from HuggingFace cc_news or RSS feeds."""
 
 from __future__ import annotations
 
+import argparse
 import re
 import sys
+from datetime import datetime
 from html import unescape
 from itertools import islice
 from pathlib import Path
 from urllib.parse import urlparse
 
 import pandas as pd
-from datasets import load_dataset
-from faker import Faker
 
 _ROOT = Path(__file__).resolve().parent.parent
 if str(_ROOT) not in sys.path:
     sys.path.insert(0, str(_ROOT))
 
+from src.config import MAX_ARTICLES
 from src.paths import ARTICLES_PATH
 from src.utils import format_date
 
@@ -24,6 +25,7 @@ OUTPUT_PATH = ARTICLES_PATH
 MIN_TEXT_LEN = 50
 STREAM_LIMIT = 2000
 SYNTHETIC_FALLBACK_COUNT = 500
+RSS_BODY_FETCH_LIMIT = 200
 
 # Public news CSV used when HuggingFace is unreachable (NewsAPI-compatible field mapping).
 NEWSAPI_SAMPLE_CSV_URL = (
@@ -82,7 +84,17 @@ def _domain_from_url(url: str) -> str:
     return urlparse(url).netloc.strip() if url else ""
 
 
+def _published_to_str(published: object) -> str:
+    if published is None:
+        return ""
+    if isinstance(published, datetime):
+        return format_date(published.strftime("%Y-%m-%d %H:%M:%S"))
+    return format_date(str(published))
+
+
 def _load_from_huggingface(limit: int) -> list[dict]:
+    from datasets import load_dataset
+
     dataset = load_dataset("vblagoje/cc_news", split="train", streaming=True)
     records = []
     for row in islice(dataset, limit):
@@ -158,6 +170,8 @@ def _load_from_newsapi_csv(url: str, limit: int) -> list[dict]:
 
 
 def _load_synthetic_records(count: int = SYNTHETIC_FALLBACK_COUNT) -> list[dict]:
+    from faker import Faker
+
     fake = Faker()
     Faker.seed(42)
     fake.seed_instance(42)
@@ -198,6 +212,34 @@ def load_raw_records(limit: int = STREAM_LIMIT) -> list[dict]:
     return _load_synthetic_records(min(limit, SYNTHETIC_FALLBACK_COUNT))
 
 
+def _normalize_rss_articles(articles: list[dict]) -> list[dict]:
+    from src.rss_fetcher import get_article_body
+
+    records: list[dict] = []
+    for index, article in enumerate(articles):
+        title = _as_str(article.get("title"))
+        link = _as_str(article.get("link"))
+        summary = _as_str(article.get("summary"))
+        if not title or not link:
+            continue
+
+        if index < RSS_BODY_FETCH_LIMIT:
+            body = get_article_body(link, summary=summary)
+        else:
+            body = summary
+
+        records.append(
+            {
+                "title": title,
+                "description": body,
+                "url": link,
+                "date": _published_to_str(article.get("published")),
+                "domain": _domain_from_url(link),
+            }
+        )
+    return records
+
+
 def clean_records(records: list[dict]) -> list[dict]:
     """Build cleaned text, filter short articles, and deduplicate by URL."""
     seen_urls: set[str] = set()
@@ -208,19 +250,22 @@ def clean_records(records: list[dict]) -> list[dict]:
         if not url or url in seen_urls:
             continue
 
-        text = combine_text(_as_str(record.get("title")), _as_str(record.get("description")))
+        title = strip_html(_as_str(record.get("title")))
+        body = strip_html(_as_str(record.get("description")))
+        text = f"{title} {body}".strip()
         if len(text) < MIN_TEXT_LEN:
             continue
 
         seen_urls.add(url)
         raw_date = _as_str(record.get("date"))
+        domain = _as_str(record.get("domain")) or _domain_from_url(url)
         cleaned.append(
             {
-                "title": strip_html(_as_str(record.get("title"))),
-                "description": strip_html(_as_str(record.get("description"))),
+                "title": title,
+                "description": body,
                 "url": url,
                 "date": format_date(raw_date),
-                "domain": _as_str(record.get("domain")),
+                "domain": domain,
                 "text": text,
             }
         )
@@ -228,14 +273,15 @@ def clean_records(records: list[dict]) -> list[dict]:
     return cleaned
 
 
-def ingest(limit: int = STREAM_LIMIT, output_path: Path = OUTPUT_PATH) -> pd.DataFrame:
-    """Load, clean, and save articles to CSV."""
-    try:
-        output_path.parent.mkdir(parents=True, exist_ok=True)
-    except OSError as exc:
-        raise OSError(f"Failed to create data directory {output_path.parent}") from exc
+def _cap_dataframe(df: pd.DataFrame, max_articles: int) -> pd.DataFrame:
+    if len(df) <= max_articles:
+        return df
+    return df.iloc[:max_articles].copy()
 
-    print(f"Loading articles (up to {limit} records)...")
+
+def ingest_hf(limit: int = STREAM_LIMIT, output_path: Path = OUTPUT_PATH) -> pd.DataFrame:
+    """Load HuggingFace articles and replace the CSV."""
+    print(f"Loading articles from HuggingFace (up to {limit} records)...")
     raw = load_raw_records(limit=limit)
     print(f"Loaded {len(raw)} raw records.")
 
@@ -247,14 +293,97 @@ def ingest(limit: int = STREAM_LIMIT, output_path: Path = OUTPUT_PATH) -> pd.Dat
         raise ValueError("No articles remained after cleaning; refusing to write empty CSV.")
 
     df = pd.DataFrame(cleaned)
-    try:
-        df.to_csv(output_path, index=False)
-    except OSError as exc:
-        raise OSError(f"Failed to write articles to {output_path}") from exc
-    print(f"Saved to {output_path}")
-
+    df.to_csv(output_path, index=False)
+    print(f"Saved {len(df)} articles to {output_path}")
     return df
 
 
+def ingest_rss(
+    output_path: Path = OUTPUT_PATH,
+    refresh: bool = False,
+    articles: list[dict] | None = None,
+) -> pd.DataFrame:
+    """Fetch live RSS feeds, normalize, and append to or create the CSV."""
+    from src.rss_fetcher import fetch_all_feeds
+
+    if articles is None:
+        print("Fetching articles from RSS feeds...")
+        articles = fetch_all_feeds()
+        print(f"Fetched {len(articles)} unique feed entries.")
+    else:
+        print(f"Saving {len(articles)} fetched RSS entries.")
+
+    print(f"Normalizing RSS records (full body fetch for top {RSS_BODY_FETCH_LIMIT})...")
+    cleaned = clean_records(_normalize_rss_articles(articles))
+    if not cleaned:
+        raise ValueError("No articles remained after RSS cleaning; refusing to write empty CSV.")
+
+    existing_df: pd.DataFrame | None = None
+    known_urls: set[str] = set()
+    if refresh or output_path.is_file():
+        existing_df = pd.read_csv(output_path)
+        known_urls = set(existing_df["url"].map(_as_str))
+
+    new_rows = [row for row in cleaned if row["url"] not in known_urls]
+    duplicate_count = len(cleaned) - len(new_rows)
+    new_count = len(new_rows)
+
+    if new_count == 0 and existing_df is not None:
+        print(
+            f"Added {new_count} new articles, {duplicate_count} duplicates skipped "
+            f"({len(existing_df)} total)."
+        )
+        return existing_df
+
+    if existing_df is not None and not existing_df.empty:
+        combined = pd.concat([existing_df, pd.DataFrame(new_rows)], ignore_index=True)
+    else:
+        combined = pd.DataFrame(new_rows if new_rows else cleaned)
+
+    combined = _cap_dataframe(combined, MAX_ARTICLES)
+    combined.to_csv(output_path, index=False)
+    from src.rss_fetcher import write_feed_stats
+
+    write_feed_stats()
+    print(
+        f"Added {new_count} new articles, {duplicate_count} duplicates skipped "
+        f"({len(combined)} total)."
+    )
+    return combined
+
+
+def ingest(
+    limit: int = STREAM_LIMIT,
+    output_path: Path = OUTPUT_PATH,
+    source: str = "hf",
+    refresh: bool = False,
+) -> pd.DataFrame:
+    """Load, clean, and save articles to CSV."""
+    try:
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+    except OSError as exc:
+        raise OSError(f"Failed to create data directory {output_path.parent}") from exc
+
+    if source == "rss":
+        return ingest_rss(output_path=output_path, refresh=refresh)
+    if source != "hf":
+        raise ValueError(f"Unknown ingest source: {source}")
+
+    return ingest_hf(limit=limit, output_path=output_path)
+
+
+def _parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Ingest news articles into articles_clean.csv.")
+    parser.add_argument(
+        "--source",
+        choices=("hf", "rss"),
+        default="hf",
+        help="Article source: HuggingFace dataset (hf) or live RSS feeds (rss).",
+    )
+    return parser.parse_args()
+
+
 if __name__ == "__main__":
-    ingest()
+    args = _parse_args()
+    refresh = args.source == "rss" and ARTICLES_PATH.is_file()
+    ingest(source=args.source, refresh=refresh)

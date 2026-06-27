@@ -1,0 +1,48 @@
+name: RSS Refresh
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: rss-refresh
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+env:
+  TRENDING_REFERENCE: ""
+  ALLOW_REBUILD: "false"
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt -r requirements-build.txt
+
+      - name: RSS refresh pipeline
+        run: python src/pipeline.py --rss-refresh --skip-cluster
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/articles_clean.csv index/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: RSS refresh [skip ci]"
+          git push

@@ -25,6 +25,7 @@ from src.paths import PROJECT_ROOT
 from src.retriever import NewsRetriever
 from src.topics import CLUSTER_TOPICS_PATH
 from src.trending import TRENDING_PATH
+from src.feeds import matches_source_filter
 from src.utils import as_id
 
 
@@ -144,17 +145,27 @@ class IntelligenceEngine:
                 f"Required artifact not found: {missing[0]}"
             )
 
-    def search(self, query: str, k: int = 10) -> list[dict]:
+    def search(self, query: str, k: int = 10, sources: list[str] | None = None) -> list[dict]:
         """Semantic search over indexed articles."""
         self.require_index(minimal=True)
-        return self.retriever.search(query, k=k)
+        if not sources:
+            return self.retriever.search(query, k=k)
+
+        fetch_k = min(len(self.metadata), max(k * 10, 50))
+        results = self.retriever.search(query, k=fetch_k)
+        filtered = [
+            result
+            for result in results
+            if matches_source_filter(result.get("domain", ""), sources)
+        ]
+        return filtered[:k]
 
     def find_similar(self, article_id: str | int, k: int = 10) -> list[dict]:
         """Find articles similar to a given article id."""
         self.require_index(minimal=True)
         return self.retriever.find_similar(article_id, k=k)
 
-    def get_clusters(self) -> list[dict]:
+    def get_clusters(self, sources: list[str] | None = None) -> list[dict]:
         """Return cluster summaries with labels, counts, and 2D coordinates."""
         self.require_index(minimal=False)
         clusters: list[dict] = []
@@ -162,12 +173,17 @@ class IntelligenceEngine:
             topic = self.cluster_topics.get(str(cluster_id), {})
             article_indices = self.cluster_labels[str(cluster_id)]
             points: list[dict] = []
+            filtered_indices: list[int] = []
 
             for article_idx in article_indices:
                 if not (0 <= article_idx < len(self.cluster_data)):
                     continue
-                coords = self.cluster_data[article_idx]
                 meta = self.metadata[article_idx] if article_idx < len(self.metadata) else {}
+                if sources and not matches_source_filter(meta.get("domain", ""), sources):
+                    continue
+
+                filtered_indices.append(article_idx)
+                coords = self.cluster_data[article_idx]
                 points.append(
                     {
                         "article_idx": article_idx,
@@ -179,12 +195,15 @@ class IntelligenceEngine:
                     }
                 )
 
+            if sources and not filtered_indices:
+                continue
+
             clusters.append(
                 {
                     "cluster_id": str(cluster_id),
                     "label": _as_str(topic.get("label")) or f"Cluster {cluster_id}",
                     "keywords": list(topic.get("keywords", [])),
-                    "article_count": len(article_indices),
+                    "article_count": len(filtered_indices) if sources else len(article_indices),
                     "points": points,
                 }
             )

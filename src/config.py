@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import os
 from datetime import datetime
+from pathlib import Path
 
 from src.utils import parse_date
 
@@ -19,13 +20,25 @@ ALLOW_REBUILD = os.environ.get("ALLOW_REBUILD", "true").lower() in ("1", "true",
 # Optional app password (APP_PASSWORD env or Streamlit secrets)
 APP_PASSWORD = os.environ.get("APP_PASSWORD", "")
 
-# Trending reference: ISO date string, or "auto" to anchor on latest article date
+# Trending reference: ISO date string, "auto" for latest article date, empty for now()
 TRENDING_REFERENCE = os.environ.get("TRENDING_REFERENCE", "auto")
+
+# RSS ingestion
+RSS_FEED_CONFIG_PATH = os.environ.get(
+    "RSS_FEED_CONFIG_PATH",
+    str(Path(__file__).resolve().parent.parent / "data" / "rss_feeds.json"),
+)
+MAX_ARTICLES = int(os.environ.get("MAX_ARTICLES", "5000"))
+RSS_POLL_ENABLED = os.environ.get("RSS_POLL_ENABLED", "true").lower() in ("1", "true", "yes")
+INGEST_FALLBACK = os.environ.get("INGEST_FALLBACK", "").lower()
 
 
 def trending_reference_datetime(metadata: list[dict] | None = None) -> datetime:
     """Resolve the 'now' anchor used for trending recency windows."""
-    if TRENDING_REFERENCE and TRENDING_REFERENCE.lower() not in ("auto", ""):
+    ref = TRENDING_REFERENCE.strip().lower()
+    if ref in ("", "now"):
+        return datetime.now()
+    if ref != "auto":
         parsed = parse_date(TRENDING_REFERENCE)
         if parsed is not None:
             return parsed

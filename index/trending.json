@@ -56,8 +56,8 @@
   {
     "cluster_id": "0",
     "label": "says, eu, uk",
-    "trending_score": 0.4875,
-    "count_24h": 6,
+    "trending_score": 0.45,
+    "count_24h": 5,
     "count_7d": 12,
     "top_articles": [
       {
@@ -162,33 +162,6 @@
     ]
   },
   {
-    "cluster_id": "16",
-    "label": "leader, president, egypt",
-    "trending_score": 0.1768,
-    "count_24h": 2,
-    "count_7d": 5,
-    "top_articles": [
-      {
-        "id": "1944",
-        "title": "DR Congo takes Rwanda to international court over decades of conflict",
-        "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 17:05:22"
-      },
-      {
-        "id": "1948",
-        "title": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
-        "url": "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 12:54:18"
-      },
-      {
-        "id": "1952",
-        "title": "Row over alleged theft of donations from India's landmark Ram temple",
-        "url": "https://www.bbc.co.uk/news/articles/cn07gl6wx6go?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 01:02:36"
-      }
-    ]
-  },
-  {
     "cluster_id": "14",
     "label": "dies, death, man",
     "trending_score": 0.1728,
@@ -216,6 +189,33 @@
     ]
   },
   {
+    "cluster_id": "16",
+    "label": "leader, president, egypt",
+    "trending_score": 0.122,
+    "count_24h": 1,
+    "count_7d": 5,
+    "top_articles": [
+      {
+        "id": "1944",
+        "title": "DR Congo takes Rwanda to international court over decades of conflict",
+        "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 17:05:22"
+      },
+      {
+        "id": "1948",
+        "title": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
+        "url": "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 12:54:18"
+      },
+      {
+        "id": "1952",
+        "title": "Row over alleged theft of donations from India's landmark Ram temple",
+        "url": "https://www.bbc.co.uk/news/articles/cn07gl6wx6go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 01:02:36"
+      }
+    ]
+  },
+  {
     "cluster_id": "6",
     "label": "london, high, california",
     "trending_score": 0.1098,
@@ -239,33 +239,6 @@
         "title": "Power banks and vapes now biggest fire risk on planes",
         "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
         "date": "2026-06-25 23:28:13"
-      }
-    ]
-  },
-  {
-    "cluster_id": "20",
-    "label": "energy, new, care",
-    "trending_score": 0.1034,
-    "count_24h": 1,
-    "count_7d": 6,
-    "top_articles": [
-      {
-        "id": "1923",
-        "title": "What's happening to petrol prices now oil is back to pre-Iran war levels?",
-        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 13:51:15"
-      },
-      {
-        "id": "1964",
-        "title": "The abundant but expensive energy source that's under your feet",
-        "url": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 10:12:42"
-      },
-      {
-        "id": "1922",
-        "title": "How male infertility is still not getting enough attention",
-        "url": "https://www.bbc.co.uk/news/articles/cx2w4kz7z1ko?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 01:05:11"
       }
     ]
   },
@@ -324,29 +297,29 @@
     ]
   },
   {
-    "cluster_id": "15",
-    "label": "new, ballet, year",
-    "trending_score": 0.0728,
-    "count_24h": 1,
-    "count_7d": 5,
+    "cluster_id": "20",
+    "label": "energy, new, care",
+    "trending_score": 0.0776,
+    "count_24h": 0,
+    "count_7d": 6,
     "top_articles": [
       {
-        "id": "1907",
-        "title": "Canada eligible to join Eurovision competition",
-        "url": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 13:41:36"
+        "id": "1923",
+        "title": "What's happening to petrol prices now oil is back to pre-Iran war levels?",
+        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 13:51:15"
       },
       {
-        "id": "2015",
-        "title": "Charity celebrates 50 years of 'transformative' holidays",
-        "url": "https://www.bbc.co.uk/news/articles/cy4ejeq40nvo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 05:17:15"
+        "id": "1964",
+        "title": "The abundant but expensive energy source that's under your feet",
+        "url": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 10:12:42"
       },
       {
-        "id": "1920",
-        "title": "Missing Glastonbury? There's a festival on your doorstep this weekend",
-        "url": "https://www.bbc.co.uk/news/articles/cj4gyz21wyko?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-25 23:50:10"
+        "id": "1922",
+        "title": "How male infertility is still not getting enough attention",
+        "url": "https://www.bbc.co.uk/news/articles/cx2w4kz7z1ko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 01:05:11"
       }
     ]
   },
@@ -401,6 +374,33 @@
         "title": "Could humanoid robots be heading for the battlefield?",
         "url": "https://www.bbc.co.uk/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
         "date": "2026-06-08 23:06:30"
+      }
+    ]
+  },
+  {
+    "cluster_id": "15",
+    "label": "new, ballet, year",
+    "trending_score": 0.0538,
+    "count_24h": 0,
+    "count_7d": 5,
+    "top_articles": [
+      {
+        "id": "1907",
+        "title": "Canada eligible to join Eurovision competition",
+        "url": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 13:41:36"
+      },
+      {
+        "id": "2015",
+        "title": "Charity celebrates 50 years of 'transformative' holidays",
+        "url": "https://www.bbc.co.uk/news/articles/cy4ejeq40nvo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 05:17:15"
+      },
+      {
+        "id": "1920",
+        "title": "Missing Glastonbury? There's a festival on your doorstep this weekend",
+        "url": "https://www.bbc.co.uk/news/articles/cj4gyz21wyko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-25 23:50:10"
       }
     ]
   },

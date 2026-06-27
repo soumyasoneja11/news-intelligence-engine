@@ -2,8 +2,8 @@
   {
     "cluster_id": "11",
     "label": "people, killed, earthquakes",
-    "trending_score": 0.5397,
-    "count_24h": 5,
+    "trending_score": 0.3968,
+    "count_24h": 2,
     "count_7d": 11,
     "top_articles": [
       {
@@ -29,8 +29,8 @@
   {
     "cluster_id": "13",
     "label": "forecast, climate, heat",
-    "trending_score": 0.3796,
-    "count_24h": 2,
+    "trending_score": 0.3241,
+    "count_24h": 1,
     "count_7d": 8,
     "top_articles": [
       {
@@ -81,33 +81,6 @@
     ]
   },
   {
-    "cluster_id": "18",
-    "label": "world, world cup, cup",
-    "trending_score": 0.2133,
-    "count_24h": 2,
-    "count_7d": 5,
-    "top_articles": [
-      {
-        "id": "1943",
-        "title": "Brilliant Dembele hat-trick helps France see off Norway to top group",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cr47d0g9v4yo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 21:34:57"
-      },
-      {
-        "id": "1926",
-        "title": "World Cup fans frustrated by 'confusing and expensive' tipping culture in US",
-        "url": "https://www.bbc.co.uk/news/articles/clyxgjykx7lo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 18:20:04"
-      },
-      {
-        "id": "1925",
-        "title": "Why has Trump stayed away from matches?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c0myxevn3emo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 14:35:00"
-      }
-    ]
-  },
-  {
     "cluster_id": "19",
     "label": "man, school, arrested",
     "trending_score": 0.1781,
@@ -135,10 +108,37 @@
     ]
   },
   {
+    "cluster_id": "18",
+    "label": "world, world cup, cup",
+    "trending_score": 0.1733,
+    "count_24h": 1,
+    "count_7d": 5,
+    "top_articles": [
+      {
+        "id": "1943",
+        "title": "Brilliant Dembele hat-trick helps France see off Norway to top group",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cr47d0g9v4yo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 21:34:57"
+      },
+      {
+        "id": "1926",
+        "title": "World Cup fans frustrated by 'confusing and expensive' tipping culture in US",
+        "url": "https://www.bbc.co.uk/news/articles/clyxgjykx7lo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 18:20:04"
+      },
+      {
+        "id": "1925",
+        "title": "Why has Trump stayed away from matches?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0myxevn3emo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 14:35:00"
+      }
+    ]
+  },
+  {
     "cluster_id": "4",
     "label": "open, french, french open",
-    "trending_score": 0.165,
-    "count_24h": 3,
+    "trending_score": 0.1359,
+    "count_24h": 2,
     "count_7d": 4,
     "top_articles": [
       {
@@ -158,33 +158,6 @@
         "title": "Usyk vacates belts but is not retiring",
         "url": "https://www.bbc.co.uk/sport/boxing/articles/c6210pk8klro?at_medium=RSS&at_campaign=rss",
         "date": "2026-06-26 17:29:56"
-      }
-    ]
-  },
-  {
-    "cluster_id": "14",
-    "label": "dies, death, man",
-    "trending_score": 0.1358,
-    "count_24h": 1,
-    "count_7d": 4,
-    "top_articles": [
-      {
-        "id": "1930",
-        "title": "Nicholas Rossi: Rapist who faked death and fled to Scotland dies in US hospital",
-        "url": "https://www.bbc.co.uk/news/articles/cz75px7zl0wo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 18:19:24"
-      },
-      {
-        "id": "1935",
-        "title": "Disgraced newsreader Huw Edwards' blog shows staggering lack of awareness, campaigners say",
-        "url": "https://www.bbc.co.uk/news/articles/cvgm7j41d3ro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 17:03:02"
-      },
-      {
-        "id": "1945",
-        "title": "Christmas market attacker jailed for life for murdering six in Germany",
-        "url": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 10:49:11"
       }
     ]
   },
@@ -216,29 +189,29 @@
     ]
   },
   {
-    "cluster_id": "8",
-    "label": "market, global, time",
-    "trending_score": 0.0875,
-    "count_24h": 1,
-    "count_7d": 9,
+    "cluster_id": "14",
+    "label": "dies, death, man",
+    "trending_score": 0.0988,
+    "count_24h": 0,
+    "count_7d": 4,
     "top_articles": [
       {
-        "id": "2013",
-        "title": "New ISA and Lifetime ISA changes explained",
-        "url": "https://www.bbc.co.uk/news/videos/cj0ge52n80ro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 17:09:53"
+        "id": "1930",
+        "title": "Nicholas Rossi: Rapist who faked death and fled to Scotland dies in US hospital",
+        "url": "https://www.bbc.co.uk/news/articles/cz75px7zl0wo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 18:19:24"
       },
       {
-        "id": "1972",
-        "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
-        "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-25 19:41:22"
+        "id": "1935",
+        "title": "Disgraced newsreader Huw Edwards' blog shows staggering lack of awareness, campaigners say",
+        "url": "https://www.bbc.co.uk/news/articles/cvgm7j41d3ro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 17:03:02"
       },
       {
-        "id": "1998",
-        "title": "Ferrari marketing boss quits just weeks after EV launch backlash",
-        "url": "https://www.bbc.co.uk/news/articles/cnv9edrjjn4o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-25 11:26:25"
+        "id": "1945",
+        "title": "Christmas market attacker jailed for life for murdering six in Germany",
+        "url": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 10:49:11"
       }
     ]
   },
@@ -320,6 +293,33 @@
         "title": "How male infertility is still not getting enough attention",
         "url": "https://www.bbc.co.uk/news/articles/cx2w4kz7z1ko?at_medium=RSS&at_campaign=rss",
         "date": "2026-06-26 01:05:11"
+      }
+    ]
+  },
+  {
+    "cluster_id": "8",
+    "label": "market, global, time",
+    "trending_score": 0.0625,
+    "count_24h": 0,
+    "count_7d": 9,
+    "top_articles": [
+      {
+        "id": "2013",
+        "title": "New ISA and Lifetime ISA changes explained",
+        "url": "https://www.bbc.co.uk/news/videos/cj0ge52n80ro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 17:09:53"
+      },
+      {
+        "id": "1972",
+        "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
+        "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-25 19:41:22"
+      },
+      {
+        "id": "1998",
+        "title": "Ferrari marketing boss quits just weeks after EV launch backlash",
+        "url": "https://www.bbc.co.uk/news/articles/cnv9edrjjn4o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-25 11:26:25"
       }
     ]
   },
@@ -515,7 +515,7 @@
   {
     "cluster_id": "7",
     "label": "trump, latest, russia",
-    "trending_score": 0.0212,
+    "trending_score": 0.0085,
     "count_24h": 0,
     "count_7d": 2,
     "top_articles": [

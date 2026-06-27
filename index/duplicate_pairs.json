@@ -1,6 +1,19 @@
 [
   {
     "article_a": {
+      "id": "1119",
+      "title": "GOP congressman, Capitol police, others wounded in shooting",
+      "url": "http://www.taiwannews.com.tw/en/news/3188064"
+    },
+    "article_b": {
+      "id": "1829",
+      "title": "GOP congressman, Capitol police, others wounded in shooting",
+      "url": "http://www.taiwannews.com.tw/en/news/3188539"
+    },
+    "similarity": 1.000000238418579
+  },
+  {
+    "article_a": {
       "id": "3",
       "title": "dance shoes",
       "url": "https://www.pointemagazine.com/dance-shoes-2562960796.html"
@@ -9,6 +22,32 @@
       "id": "9",
       "title": "dance shoes",
       "url": "https://www.pointemagazine.com/so-danca-is-taking-musical-theatre-to-the-next-level-2562960796.html"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "268",
+      "title": "Counting the times Kevin Durant’s shoe came off during games",
+      "url": "http://flowingdata.com/2018/05/30/counting-the-times-kevin-durants-shoe-came-off-during-games/"
+    },
+    "article_b": {
+      "id": "269",
+      "title": "Counting the times Kevin Durant’s shoe came off during games",
+      "url": "https://flowingdata.com/2018/05/30/counting-the-times-kevin-durants-shoe-came-off-during-games/"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "388",
+      "title": "Dallas man set to die for killing daughters, 9 and 6",
+      "url": "https://www.taiwannews.com.tw/en/news/3354964"
+    },
+    "article_b": {
+      "id": "1391",
+      "title": "Dallas man set to die for killing daughters, 9 and 6",
+      "url": "https://www.taiwannews.com.tw/en/news/3355191"
     },
     "similarity": 1.0000001192092896
   },
@@ -27,32 +66,6 @@
   },
   {
     "article_a": {
-      "id": "646",
-      "title": "AP source: Ex-FBI No. 2 official wrote memo on Comey firing",
-      "url": "https://www.taiwannews.com.tw/en/news/3444830"
-    },
-    "article_b": {
-      "id": "950",
-      "title": "AP source: Ex-FBI No. 2 official wrote memo on Comey firing",
-      "url": "https://www.taiwannews.com.tw/en/news/3444689"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
-      "id": "673",
-      "title": "Long history of security incidents, violence at Capitol",
-      "url": "http://www.taiwannews.com.tw/en/news/3188543"
-    },
-    "article_b": {
-      "id": "746",
-      "title": "Long history of security incidents, violence at Capitol",
-      "url": "http://www.taiwannews.com.tw/en/news/3188109"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
       "id": "782",
       "title": "The top iPhone and iPad apps on App Store",
       "url": "https://www.taiwannews.com.tw/en/news/3354448"
@@ -66,27 +79,27 @@
   },
   {
     "article_a": {
-      "id": "1119",
-      "title": "GOP congressman, Capitol police, others wounded in shooting",
-      "url": "http://www.taiwannews.com.tw/en/news/3188064"
+      "id": "799",
+      "title": "BC-TEN--French Open Results",
+      "url": "https://www.taiwannews.com.tw/en/news/3444468"
     },
     "article_b": {
-      "id": "1829",
-      "title": "GOP congressman, Capitol police, others wounded in shooting",
-      "url": "http://www.taiwannews.com.tw/en/news/3188539"
+      "id": "1594",
+      "title": "BC-TEN--French Open Results",
+      "url": "https://www.taiwannews.com.tw/en/news/3444499"
     },
     "similarity": 1.0000001192092896
   },
   {
     "article_a": {
-      "id": "1311",
-      "title": "New offshore wind farm project will dwarf nation's 1st one",
-      "url": "https://www.taiwannews.com.tw/en/news/3444549"
+      "id": "799",
+      "title": "BC-TEN--French Open Results",
+      "url": "https://www.taiwannews.com.tw/en/news/3444468"
     },
     "article_b": {
-      "id": "1610",
-      "title": "New offshore wind farm project will dwarf nation's 1st one",
-      "url": "https://www.taiwannews.com.tw/en/news/3444547"
+      "id": "1541",
+      "title": "BC-TEN--French Open Results",
+      "url": "https://www.taiwannews.com.tw/en/news/3444476"
     },
     "similarity": 1.0000001192092896
   },
@@ -105,14 +118,40 @@
   },
   {
     "article_a": {
-      "id": "1506",
-      "title": "Toro Supports 2018 Wyland National Mayor's Challenge for Water Conservation",
-      "url": "https://www.taiwannews.com.tw/en/news/3413533"
+      "id": "1541",
+      "title": "BC-TEN--French Open Results",
+      "url": "https://www.taiwannews.com.tw/en/news/3444476"
     },
     "article_b": {
-      "id": "1727",
-      "title": "Toro Supports 2018 Wyland National Mayor's Challenge for Water Conservation",
-      "url": "https://www.taiwannews.com.tw/en/news/3413536"
+      "id": "1594",
+      "title": "BC-TEN--French Open Results",
+      "url": "https://www.taiwannews.com.tw/en/news/3444499"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "1937",
+      "title": "Boiling point: The week of extreme heat",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002ypkf?at_medium=RSS&at_campaign=rss"
+    },
+    "article_b": {
+      "id": "2059",
+      "title": "Boiling point: The week of extreme heat",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002ypkf/bbc-news-boiling-point-the-week-of-extreme-heat?at_medium=RSS&at_campaign=rss"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "1986",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq?at_medium=RSS&at_campaign=rss"
+    },
+    "article_b": {
+      "id": "2025",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq/tech-now-world-cup-gamechanging-tech?at_medium=RSS&at_campaign=rss"
     },
     "similarity": 1.0000001192092896
   },
@@ -209,19 +248,6 @@
   },
   {
     "article_a": {
-      "id": "268",
-      "title": "Counting the times Kevin Durant’s shoe came off during games",
-      "url": "http://flowingdata.com/2018/05/30/counting-the-times-kevin-durants-shoe-came-off-during-games/"
-    },
-    "article_b": {
-      "id": "269",
-      "title": "Counting the times Kevin Durant’s shoe came off during games",
-      "url": "https://flowingdata.com/2018/05/30/counting-the-times-kevin-durants-shoe-came-off-during-games/"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
       "id": "307",
       "title": "Keio Plaza Hotel Tokyo Hosts \"The 38th Arita and Imari Porcelain Exhibition\"",
       "url": "https://www.taiwannews.com.tw/en/news/3444353"
@@ -274,19 +300,6 @@
   },
   {
     "article_a": {
-      "id": "388",
-      "title": "Dallas man set to die for killing daughters, 9 and 6",
-      "url": "https://www.taiwannews.com.tw/en/news/3354964"
-    },
-    "article_b": {
-      "id": "1391",
-      "title": "Dallas man set to die for killing daughters, 9 and 6",
-      "url": "https://www.taiwannews.com.tw/en/news/3355191"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
       "id": "397",
       "title": "Expanded Conference Glance",
       "url": "https://www.taiwannews.com.tw/en/news/3354678"
@@ -638,6 +651,19 @@
   },
   {
     "article_a": {
+      "id": "646",
+      "title": "AP source: Ex-FBI No. 2 official wrote memo on Comey firing",
+      "url": "https://www.taiwannews.com.tw/en/news/3444830"
+    },
+    "article_b": {
+      "id": "950",
+      "title": "AP source: Ex-FBI No. 2 official wrote memo on Comey firing",
+      "url": "https://www.taiwannews.com.tw/en/news/3444689"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
       "id": "667",
       "title": "Expanded Conference Glance",
       "url": "https://www.taiwannews.com.tw/en/news/3354593"
@@ -724,6 +750,19 @@
       "id": "681",
       "title": "Expanded Conference Glance",
       "url": "https://www.taiwannews.com.tw/en/news/3318386"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
+      "id": "673",
+      "title": "Long history of security incidents, violence at Capitol",
+      "url": "http://www.taiwannews.com.tw/en/news/3188543"
+    },
+    "article_b": {
+      "id": "746",
+      "title": "Long history of security incidents, violence at Capitol",
+      "url": "http://www.taiwannews.com.tw/en/news/3188109"
     },
     "similarity": 1.0
   },
@@ -1023,32 +1062,6 @@
       "id": "1784",
       "title": "The top 10 books on Apple's iBooks-US",
       "url": "https://www.taiwannews.com.tw/en/news/3354452"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "799",
-      "title": "BC-TEN--French Open Results",
-      "url": "https://www.taiwannews.com.tw/en/news/3444468"
-    },
-    "article_b": {
-      "id": "1594",
-      "title": "BC-TEN--French Open Results",
-      "url": "https://www.taiwannews.com.tw/en/news/3444499"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "799",
-      "title": "BC-TEN--French Open Results",
-      "url": "https://www.taiwannews.com.tw/en/news/3444468"
-    },
-    "article_b": {
-      "id": "1541",
-      "title": "BC-TEN--French Open Results",
-      "url": "https://www.taiwannews.com.tw/en/news/3444476"
     },
     "similarity": 1.0
   },
@@ -1834,6 +1847,19 @@
   },
   {
     "article_a": {
+      "id": "1311",
+      "title": "New offshore wind farm project will dwarf nation's 1st one",
+      "url": "https://www.taiwannews.com.tw/en/news/3444549"
+    },
+    "article_b": {
+      "id": "1610",
+      "title": "New offshore wind farm project will dwarf nation's 1st one",
+      "url": "https://www.taiwannews.com.tw/en/news/3444547"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
       "id": "1347",
       "title": "Wednesday's Major League Linescores",
       "url": "https://www.taiwannews.com.tw/en/news/3474413"
@@ -2419,6 +2445,19 @@
   },
   {
     "article_a": {
+      "id": "1506",
+      "title": "Toro Supports 2018 Wyland National Mayor's Challenge for Water Conservation",
+      "url": "https://www.taiwannews.com.tw/en/news/3413533"
+    },
+    "article_b": {
+      "id": "1727",
+      "title": "Toro Supports 2018 Wyland National Mayor's Challenge for Water Conservation",
+      "url": "https://www.taiwannews.com.tw/en/news/3413536"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
       "id": "1535",
       "title": "Wednesday's Major League Linescores",
       "url": "https://www.taiwannews.com.tw/en/news/3444833"
@@ -2466,19 +2505,6 @@
       "id": "1550",
       "title": "Wednesday's Major League Linescores",
       "url": "https://www.taiwannews.com.tw/en/news/3444786"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "1541",
-      "title": "BC-TEN--French Open Results",
-      "url": "https://www.taiwannews.com.tw/en/news/3444476"
-    },
-    "article_b": {
-      "id": "1594",
-      "title": "BC-TEN--French Open Results",
-      "url": "https://www.taiwannews.com.tw/en/news/3444499"
     },
     "similarity": 1.0
   },
@@ -3004,6 +3030,45 @@
   },
   {
     "article_a": {
+      "id": "1987",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002x058?at_medium=RSS&at_campaign=rss"
+    },
+    "article_b": {
+      "id": "2026",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002x058/tech-now-building-my-body?at_medium=RSS&at_campaign=rss"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
+      "id": "1988",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002wp83?at_medium=RSS&at_campaign=rss"
+    },
+    "article_b": {
+      "id": "2027",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002wp83/tech-now-high-tech-heart-surgery?at_medium=RSS&at_campaign=rss"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
+      "id": "1989",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002wcyp?at_medium=RSS&at_campaign=rss"
+    },
+    "article_b": {
+      "id": "2028",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002wcyp/tech-now-deep-dive-underwater-tech?at_medium=RSS&at_campaign=rss"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
       "id": "522",
       "title": "How major US stock market indexes fared on Wednesday",
       "url": "http://www.taiwannews.com.tw/en/news/3188134"
@@ -3026,7 +3091,7 @@
       "title": "How major US stock indexes fared Wednesday",
       "url": "https://www.taiwannews.com.tw/en/news/3444550"
     },
-    "similarity": 0.9599462747573853
+    "similarity": 0.9599462151527405
   },
   {
     "article_a": {
@@ -3039,7 +3104,20 @@
       "title": "How major US stock indexes fared on Tuesday",
       "url": "https://www.taiwannews.com.tw/en/news/3354493"
     },
-    "similarity": 0.959760308265686
+    "similarity": 0.9597604274749756
+  },
+  {
+    "article_a": {
+      "id": "334",
+      "title": "Correction: Deadly Car Wash Shooting-The Latest story",
+      "url": "https://www.taiwannews.com.tw/en/news/3355055"
+    },
+    "article_b": {
+      "id": "730",
+      "title": "Correction: Deadly Car Wash Shooting story",
+      "url": "https://www.taiwannews.com.tw/en/news/3355052"
+    },
+    "similarity": 0.957680344581604
   },
   {
     "article_a": {
@@ -3056,19 +3134,6 @@
   },
   {
     "article_a": {
-      "id": "334",
-      "title": "Correction: Deadly Car Wash Shooting-The Latest story",
-      "url": "https://www.taiwannews.com.tw/en/news/3355055"
-    },
-    "article_b": {
-      "id": "730",
-      "title": "Correction: Deadly Car Wash Shooting story",
-      "url": "https://www.taiwannews.com.tw/en/news/3355052"
-    },
-    "similarity": 0.9576802253723145
-  },
-  {
-    "article_a": {
       "id": "522",
       "title": "How major US stock market indexes fared on Wednesday",
       "url": "http://www.taiwannews.com.tw/en/news/3188134"
@@ -3078,7 +3143,20 @@
       "title": "How major US stock indexes fared on Tuesday",
       "url": "https://www.taiwannews.com.tw/en/news/3354493"
     },
-    "similarity": 0.9531295299530029
+    "similarity": 0.953129768371582
+  },
+  {
+    "article_a": {
+      "id": "2085",
+      "title": "Fishermen capture the moment earthquake hits Venezuelan coast",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/fishermen-capture-the-moment-earthquake-hits-venezuelan-coast?traffic_source=rss"
+    },
+    "article_b": {
+      "id": "2086",
+      "title": "Cape Verde becomes tiniest nation to make World Cup knockouts",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/cape-verde-becomes-tiniest-nation-to-make-world-cup-knockouts?traffic_source=rss"
+    },
+    "similarity": 0.952067494392395
   },
   {
     "article_a": {
@@ -3091,7 +3169,7 @@
       "title": "How major US stock indexes fared Wednesday",
       "url": "https://www.taiwannews.com.tw/en/news/3444550"
     },
-    "similarity": 0.9404143691062927
+    "similarity": 0.940414309501648
   },
   {
     "article_a": {

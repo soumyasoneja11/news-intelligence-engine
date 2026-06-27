@@ -449,7 +449,7 @@ def _render_sidebar_metrics(articles: int, clusters: int, duplicates: int) -> No
     )
 
 
-def _render_trending_pill(rank: int, label: str, article_count: object, score: float) -> None:
+def  _render_sidebar_trending_pill(rank: int, label: str, article_count: object, score: float) -> None:
     st.sidebar.markdown(
         (
             f'<div class="trending-pill-item">'
@@ -549,7 +549,7 @@ def _render_sidebar(engine: IntelligenceEngine | None, *, ready: bool) -> list[s
             label = item.get("label", f"Cluster {cluster_id}")
             article_count = clusters.get(cluster_id, {}).get("article_count", "—")
             score = float(item.get("trending_score", 0.0))
-            _render_trending_pill(rank, label, article_count, score)
+            _render_sidebar_trending_pill(rank, label, article_count, score)
     except FileNotFoundError:
         st.sidebar.caption("Run **Rebuild Index** to populate trending data.")
 
@@ -1077,7 +1077,7 @@ def _pill_font_size(score: float, min_score: float, max_score: float) -> int:
     return int(min_px + ratio * (max_px - min_px))
 
 
-def _render_trending_pill(label: str, score: float, font_size: int) -> None:
+def _render_topic_cloud_pill(label: str, score: float, font_size: int) -> None:
     safe_label = _escape_text(label, "Cluster")
     st.markdown(
         f"""
@@ -1197,7 +1197,7 @@ def _render_topics_trends_tab(engine: IntelligenceEngine) -> None:
         top_articles = list(item.get("top_articles", []))[:3]
 
         with pill_columns[idx % 3]:
-            _render_trending_pill(label, score, font_size)
+            _render_topic_cloud_pill(label, score, font_size)
             for article in top_articles:
                 title = article.get("title", "Untitled")
                 url = article.get("url", "")

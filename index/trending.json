@@ -29,8 +29,8 @@
   {
     "cluster_id": "13",
     "label": "forecast, climate, heat",
-    "trending_score": 0.4907,
-    "count_24h": 4,
+    "trending_score": 0.4352,
+    "count_24h": 3,
     "count_7d": 8,
     "top_articles": [
       {
@@ -56,8 +56,8 @@
   {
     "cluster_id": "0",
     "label": "says, eu, uk",
-    "trending_score": 0.45,
-    "count_24h": 5,
+    "trending_score": 0.3375,
+    "count_24h": 3,
     "count_7d": 12,
     "top_articles": [
       {
@@ -83,8 +83,8 @@
   {
     "cluster_id": "19",
     "label": "man, school, arrested",
-    "trending_score": 0.2603,
-    "count_24h": 2,
+    "trending_score": 0.2192,
+    "count_24h": 1,
     "count_7d": 8,
     "top_articles": [
       {
@@ -110,8 +110,8 @@
   {
     "cluster_id": "18",
     "label": "world, world cup, cup",
-    "trending_score": 0.2533,
-    "count_24h": 3,
+    "trending_score": 0.2133,
+    "count_24h": 2,
     "count_7d": 5,
     "top_articles": [
       {
@@ -131,33 +131,6 @@
         "title": "Why has Trump stayed away from matches?",
         "url": "https://www.bbc.co.uk/sport/football/articles/c0myxevn3emo?at_medium=RSS&at_campaign=rss",
         "date": "2026-06-26 14:35:00"
-      }
-    ]
-  },
-  {
-    "cluster_id": "4",
-    "label": "open, french, french open",
-    "trending_score": 0.1942,
-    "count_24h": 4,
-    "count_7d": 4,
-    "top_articles": [
-      {
-        "id": "1940",
-        "title": "James injury concerns grow but Rice back in training",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckg4kv0kkgeo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 21:04:10"
-      },
-      {
-        "id": "1941",
-        "title": "'I started running' - how fitter Duckett got back to his best",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c621nr8zj80o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 19:54:44"
-      },
-      {
-        "id": "1942",
-        "title": "Usyk vacates belts but is not retiring",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/c6210pk8klro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 17:29:56"
       }
     ]
   },
@@ -185,6 +158,33 @@
         "title": "Christmas market attacker jailed for life for murdering six in Germany",
         "url": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
         "date": "2026-06-26 10:49:11"
+      }
+    ]
+  },
+  {
+    "cluster_id": "4",
+    "label": "open, french, french open",
+    "trending_score": 0.165,
+    "count_24h": 3,
+    "count_7d": 4,
+    "top_articles": [
+      {
+        "id": "1940",
+        "title": "James injury concerns grow but Rice back in training",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckg4kv0kkgeo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 21:04:10"
+      },
+      {
+        "id": "1941",
+        "title": "'I started running' - how fitter Duckett got back to his best",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c621nr8zj80o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 19:54:44"
+      },
+      {
+        "id": "1942",
+        "title": "Usyk vacates belts but is not retiring",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/c6210pk8klro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 17:29:56"
       }
     ]
   },

@@ -2,8 +2,8 @@
   {
     "cluster_id": "11",
     "label": "people, killed, earthquakes",
-    "trending_score": 0.3968,
-    "count_24h": 2,
+    "trending_score": 0.3016,
+    "count_24h": 0,
     "count_7d": 11,
     "top_articles": [
       {
@@ -23,33 +23,6 @@
         "title": "Debris falls after plane hits Beijing's tallest building",
         "url": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&at_campaign=rss",
         "date": "2026-06-26 18:36:42"
-      }
-    ]
-  },
-  {
-    "cluster_id": "0",
-    "label": "says, eu, uk",
-    "trending_score": 0.2812,
-    "count_24h": 2,
-    "count_7d": 12,
-    "top_articles": [
-      {
-        "id": "1990",
-        "title": "Trump threatens 100% tariff on European nations over tech tax",
-        "url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 21:29:38"
-      },
-      {
-        "id": "1909",
-        "title": "Conservatives offer tax incentive as part of 50,000 reservist pledge",
-        "url": "https://www.bbc.co.uk/news/articles/c9v219gx79wo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 21:00:56"
-      },
-      {
-        "id": "1933",
-        "title": "David Miliband says he is optimistic about potential Burnham government",
-        "url": "https://www.bbc.co.uk/news/articles/cy04k0kd7q4o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 19:04:10"
       }
     ]
   },
@@ -81,29 +54,29 @@
     ]
   },
   {
-    "cluster_id": "18",
-    "label": "world, world cup, cup",
-    "trending_score": 0.1733,
-    "count_24h": 1,
-    "count_7d": 5,
+    "cluster_id": "0",
+    "label": "says, eu, uk",
+    "trending_score": 0.2062,
+    "count_24h": 0,
+    "count_7d": 12,
     "top_articles": [
       {
-        "id": "1943",
-        "title": "Brilliant Dembele hat-trick helps France see off Norway to top group",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cr47d0g9v4yo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 21:34:57"
+        "id": "1990",
+        "title": "Trump threatens 100% tariff on European nations over tech tax",
+        "url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 21:29:38"
       },
       {
-        "id": "1926",
-        "title": "World Cup fans frustrated by 'confusing and expensive' tipping culture in US",
-        "url": "https://www.bbc.co.uk/news/articles/clyxgjykx7lo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 18:20:04"
+        "id": "1909",
+        "title": "Conservatives offer tax incentive as part of 50,000 reservist pledge",
+        "url": "https://www.bbc.co.uk/news/articles/c9v219gx79wo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 21:00:56"
       },
       {
-        "id": "1925",
-        "title": "Why has Trump stayed away from matches?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c0myxevn3emo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 14:35:00"
+        "id": "1933",
+        "title": "David Miliband says he is optimistic about potential Burnham government",
+        "url": "https://www.bbc.co.uk/news/articles/cy04k0kd7q4o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 19:04:10"
       }
     ]
   },
@@ -135,29 +108,29 @@
     ]
   },
   {
-    "cluster_id": "4",
-    "label": "open, french, french open",
-    "trending_score": 0.1068,
-    "count_24h": 1,
-    "count_7d": 4,
+    "cluster_id": "18",
+    "label": "world, world cup, cup",
+    "trending_score": 0.1333,
+    "count_24h": 0,
+    "count_7d": 5,
     "top_articles": [
       {
-        "id": "1940",
-        "title": "James injury concerns grow but Rice back in training",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckg4kv0kkgeo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 21:04:10"
+        "id": "1943",
+        "title": "Brilliant Dembele hat-trick helps France see off Norway to top group",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cr47d0g9v4yo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 21:34:57"
       },
       {
-        "id": "1941",
-        "title": "'I started running' - how fitter Duckett got back to his best",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c621nr8zj80o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 19:54:44"
+        "id": "1926",
+        "title": "World Cup fans frustrated by 'confusing and expensive' tipping culture in US",
+        "url": "https://www.bbc.co.uk/news/articles/clyxgjykx7lo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 18:20:04"
       },
       {
-        "id": "1942",
-        "title": "Usyk vacates belts but is not retiring",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/c6210pk8klro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 17:29:56"
+        "id": "1925",
+        "title": "Why has Trump stayed away from matches?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0myxevn3emo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 14:35:00"
       }
     ]
   },
@@ -216,29 +189,29 @@
     ]
   },
   {
-    "cluster_id": "2",
-    "label": "attack, latest, texas",
-    "trending_score": 0.0781,
-    "count_24h": 1,
-    "count_7d": 1,
+    "cluster_id": "4",
+    "label": "open, french, french open",
+    "trending_score": 0.0777,
+    "count_24h": 0,
+    "count_7d": 4,
     "top_articles": [
       {
-        "id": "1902",
-        "title": "US conducts strikes on Iran after attack on cargo ship",
-        "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 21:30:59"
+        "id": "1940",
+        "title": "James injury concerns grow but Rice back in training",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckg4kv0kkgeo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 21:04:10"
       },
       {
-        "id": "1194",
-        "title": "Pakistani officials: Suspected US drone kills militants",
-        "url": "https://www.taiwannews.com.tw/en/news/3474341",
-        "date": "2018-07-04 23:19:00"
+        "id": "1941",
+        "title": "'I started running' - how fitter Duckett got back to his best",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c621nr8zj80o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 19:54:44"
       },
       {
-        "id": "881",
-        "title": "Philippine troops foil IS-linked attempt to attack town",
-        "url": "https://www.taiwannews.com.tw/en/news/3474277",
-        "date": "2018-07-04 21:23:00"
+        "id": "1942",
+        "title": "Usyk vacates belts but is not retiring",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/c6210pk8klro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 17:29:56"
       }
     ]
   },
@@ -378,33 +351,6 @@
     ]
   },
   {
-    "cluster_id": "3",
-    "label": "israel, charlottesville, syria",
-    "trending_score": 0.0451,
-    "count_24h": 1,
-    "count_7d": 2,
-    "top_articles": [
-      {
-        "id": "1932",
-        "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
-        "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 21:33:34"
-      },
-      {
-        "id": "1957",
-        "title": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
-        "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-25 16:53:51"
-      },
-      {
-        "id": "2011",
-        "title": "Could humanoid robots be heading for the battlefield?",
-        "url": "https://www.bbc.co.uk/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-08 23:06:30"
-      }
-    ]
-  },
-  {
     "cluster_id": "15",
     "label": "new, ballet, year",
     "trending_score": 0.0443,
@@ -459,29 +405,29 @@
     ]
   },
   {
-    "cluster_id": "10",
-    "label": "shooting, police, man",
-    "trending_score": 0.0299,
+    "cluster_id": "2",
+    "label": "attack, latest, texas",
+    "trending_score": 0.0312,
     "count_24h": 0,
     "count_7d": 1,
     "top_articles": [
       {
-        "id": "1934",
-        "title": "Watch: Driver gives lift to armed officer chasing suspect",
-        "url": "https://www.bbc.co.uk/news/articles/clyxg76527po?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-25 21:09:16"
+        "id": "1902",
+        "title": "US conducts strikes on Iran after attack on cargo ship",
+        "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 21:30:59"
       },
       {
-        "id": "554",
-        "title": "City mayor in Azerbaijan shot and wounded",
-        "url": "https://www.taiwannews.com.tw/en/news/3474368",
-        "date": "2018-07-05 01:01:00"
+        "id": "1194",
+        "title": "Pakistani officials: Suspected US drone kills militants",
+        "url": "https://www.taiwannews.com.tw/en/news/3474341",
+        "date": "2018-07-04 23:19:00"
       },
       {
-        "id": "948",
-        "title": "The Latest: Police ID gunman killed in Illinois standoff",
-        "url": "https://www.taiwannews.com.tw/en/news/3474363",
-        "date": "2018-07-05 00:27:00"
+        "id": "881",
+        "title": "Philippine troops foil IS-linked attempt to attack town",
+        "url": "https://www.taiwannews.com.tw/en/news/3474277",
+        "date": "2018-07-04 21:23:00"
       }
     ]
   },
@@ -513,6 +459,33 @@
     ]
   },
   {
+    "cluster_id": "3",
+    "label": "israel, charlottesville, syria",
+    "trending_score": 0.0205,
+    "count_24h": 0,
+    "count_7d": 2,
+    "top_articles": [
+      {
+        "id": "1932",
+        "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
+        "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 21:33:34"
+      },
+      {
+        "id": "1957",
+        "title": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
+        "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-25 16:53:51"
+      },
+      {
+        "id": "2011",
+        "title": "Could humanoid robots be heading for the battlefield?",
+        "url": "https://www.bbc.co.uk/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-08 23:06:30"
+      }
+    ]
+  },
+  {
     "cluster_id": "7",
     "label": "trump, latest, russia",
     "trending_score": 0.0085,
@@ -536,6 +509,33 @@
         "title": "Trump says gas prices are up, OPEC 'doing little to help'",
         "url": "https://www.taiwannews.com.tw/en/news/3474425",
         "date": "2018-07-05 05:24:00"
+      }
+    ]
+  },
+  {
+    "cluster_id": "10",
+    "label": "shooting, police, man",
+    "trending_score": 0.0075,
+    "count_24h": 0,
+    "count_7d": 1,
+    "top_articles": [
+      {
+        "id": "1934",
+        "title": "Watch: Driver gives lift to armed officer chasing suspect",
+        "url": "https://www.bbc.co.uk/news/articles/clyxg76527po?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-25 21:09:16"
+      },
+      {
+        "id": "554",
+        "title": "City mayor in Azerbaijan shot and wounded",
+        "url": "https://www.taiwannews.com.tw/en/news/3474368",
+        "date": "2018-07-05 01:01:00"
+      },
+      {
+        "id": "948",
+        "title": "The Latest: Police ID gunman killed in Illinois standoff",
+        "url": "https://www.taiwannews.com.tw/en/news/3474363",
+        "date": "2018-07-05 00:27:00"
       }
     ]
   },

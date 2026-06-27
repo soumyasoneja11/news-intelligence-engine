@@ -297,33 +297,6 @@
     ]
   },
   {
-    "cluster_id": "5",
-    "label": "glance, expanded, expanded conference",
-    "trending_score": 0.0519,
-    "count_24h": 0,
-    "count_7d": 2,
-    "top_articles": [
-      {
-        "id": "1950",
-        "title": "Asia stock markets slide as tech shares slump",
-        "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 07:33:10"
-      },
-      {
-        "id": "1966",
-        "title": "A Chinese box office hit sparks a debate about identity in Singapore",
-        "url": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-25 22:19:08"
-      },
-      {
-        "id": "655",
-        "title": "1st batch of fuel rods for 4th Nuclear Power Plant likely has been transported out of Taiwan",
-        "url": "https://www.taiwannews.com.tw/en/news/3474254",
-        "date": "2018-07-04 21:22:00"
-      }
-    ]
-  },
-  {
     "cluster_id": "8",
     "label": "market, global, time",
     "trending_score": 0.05,
@@ -401,6 +374,33 @@
         "title": "The legal fight to get equal pay for Germany's disabled workers",
         "url": "https://www.bbc.co.uk/news/articles/cwy0v1d24elo?at_medium=RSS&at_campaign=rss",
         "date": "2026-06-24 23:10:28"
+      }
+    ]
+  },
+  {
+    "cluster_id": "5",
+    "label": "glance, expanded, expanded conference",
+    "trending_score": 0.0325,
+    "count_24h": 0,
+    "count_7d": 2,
+    "top_articles": [
+      {
+        "id": "1950",
+        "title": "Asia stock markets slide as tech shares slump",
+        "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 07:33:10"
+      },
+      {
+        "id": "1966",
+        "title": "A Chinese box office hit sparks a debate about identity in Singapore",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-25 22:19:08"
+      },
+      {
+        "id": "655",
+        "title": "1st batch of fuel rods for 4th Nuclear Power Plant likely has been transported out of Taiwan",
+        "url": "https://www.taiwannews.com.tw/en/news/3474254",
+        "date": "2018-07-04 21:22:00"
       }
     ]
   },

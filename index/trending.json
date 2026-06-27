@@ -29,8 +29,8 @@
   {
     "cluster_id": "13",
     "label": "forecast, climate, heat",
-    "trending_score": 0.4352,
-    "count_24h": 3,
+    "trending_score": 0.3796,
+    "count_24h": 2,
     "count_7d": 8,
     "top_articles": [
       {
@@ -56,7 +56,7 @@
   {
     "cluster_id": "0",
     "label": "says, eu, uk",
-    "trending_score": 0.3375,
+    "trending_score": 0.3187,
     "count_24h": 3,
     "count_7d": 12,
     "top_articles": [
@@ -77,33 +77,6 @@
         "title": "David Miliband says he is optimistic about potential Burnham government",
         "url": "https://www.bbc.co.uk/news/articles/cy04k0kd7q4o?at_medium=RSS&at_campaign=rss",
         "date": "2026-06-26 19:04:10"
-      }
-    ]
-  },
-  {
-    "cluster_id": "19",
-    "label": "man, school, arrested",
-    "trending_score": 0.2192,
-    "count_24h": 1,
-    "count_7d": 8,
-    "top_articles": [
-      {
-        "id": "1906",
-        "title": "Man who punched female police officers at Manchester Airport jailed",
-        "url": "https://www.bbc.co.uk/news/articles/c1my31rr1vno?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 16:47:10"
-      },
-      {
-        "id": "1947",
-        "title": "Four men held over child marriage in Sierra Leone appear in landmark court case",
-        "url": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 15:34:39"
-      },
-      {
-        "id": "1903",
-        "title": "Court rules 13 men who allegedly helped rapist drug and abuse wife can be named",
-        "url": "https://www.bbc.co.uk/news/articles/cnv9er181lno?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 12:51:21"
       }
     ]
   },
@@ -135,29 +108,29 @@
     ]
   },
   {
-    "cluster_id": "14",
-    "label": "dies, death, man",
-    "trending_score": 0.1728,
-    "count_24h": 2,
-    "count_7d": 4,
+    "cluster_id": "19",
+    "label": "man, school, arrested",
+    "trending_score": 0.1781,
+    "count_24h": 0,
+    "count_7d": 8,
     "top_articles": [
       {
-        "id": "1930",
-        "title": "Nicholas Rossi: Rapist who faked death and fled to Scotland dies in US hospital",
-        "url": "https://www.bbc.co.uk/news/articles/cz75px7zl0wo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 18:19:24"
+        "id": "1906",
+        "title": "Man who punched female police officers at Manchester Airport jailed",
+        "url": "https://www.bbc.co.uk/news/articles/c1my31rr1vno?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 16:47:10"
       },
       {
-        "id": "1935",
-        "title": "Disgraced newsreader Huw Edwards' blog shows staggering lack of awareness, campaigners say",
-        "url": "https://www.bbc.co.uk/news/articles/cvgm7j41d3ro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 17:03:02"
+        "id": "1947",
+        "title": "Four men held over child marriage in Sierra Leone appear in landmark court case",
+        "url": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 15:34:39"
       },
       {
-        "id": "1945",
-        "title": "Christmas market attacker jailed for life for murdering six in Germany",
-        "url": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 10:49:11"
+        "id": "1903",
+        "title": "Court rules 13 men who allegedly helped rapist drug and abuse wife can be named",
+        "url": "https://www.bbc.co.uk/news/articles/cnv9er181lno?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 12:51:21"
       }
     ]
   },
@@ -189,29 +162,29 @@
     ]
   },
   {
-    "cluster_id": "16",
-    "label": "leader, president, egypt",
-    "trending_score": 0.122,
+    "cluster_id": "14",
+    "label": "dies, death, man",
+    "trending_score": 0.1358,
     "count_24h": 1,
-    "count_7d": 5,
+    "count_7d": 4,
     "top_articles": [
       {
-        "id": "1944",
-        "title": "DR Congo takes Rwanda to international court over decades of conflict",
-        "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 17:05:22"
+        "id": "1930",
+        "title": "Nicholas Rossi: Rapist who faked death and fled to Scotland dies in US hospital",
+        "url": "https://www.bbc.co.uk/news/articles/cz75px7zl0wo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 18:19:24"
       },
       {
-        "id": "1948",
-        "title": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
-        "url": "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 12:54:18"
+        "id": "1935",
+        "title": "Disgraced newsreader Huw Edwards' blog shows staggering lack of awareness, campaigners say",
+        "url": "https://www.bbc.co.uk/news/articles/cvgm7j41d3ro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 17:03:02"
       },
       {
-        "id": "1952",
-        "title": "Row over alleged theft of donations from India's landmark Ram temple",
-        "url": "https://www.bbc.co.uk/news/articles/cn07gl6wx6go?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 01:02:36"
+        "id": "1945",
+        "title": "Christmas market attacker jailed for life for murdering six in Germany",
+        "url": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 10:49:11"
       }
     ]
   },
@@ -270,6 +243,33 @@
     ]
   },
   {
+    "cluster_id": "16",
+    "label": "leader, president, egypt",
+    "trending_score": 0.0854,
+    "count_24h": 0,
+    "count_7d": 5,
+    "top_articles": [
+      {
+        "id": "1944",
+        "title": "DR Congo takes Rwanda to international court over decades of conflict",
+        "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 17:05:22"
+      },
+      {
+        "id": "1948",
+        "title": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
+        "url": "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 12:54:18"
+      },
+      {
+        "id": "1952",
+        "title": "Row over alleged theft of donations from India's landmark Ram temple",
+        "url": "https://www.bbc.co.uk/news/articles/cn07gl6wx6go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 01:02:36"
+      }
+    ]
+  },
+  {
     "cluster_id": "2",
     "label": "attack, latest, texas",
     "trending_score": 0.0781,
@@ -324,87 +324,6 @@
     ]
   },
   {
-    "cluster_id": "12",
-    "label": "judge, court, says",
-    "trending_score": 0.065,
-    "count_24h": 1,
-    "count_7d": 4,
-    "top_articles": [
-      {
-        "id": "1929",
-        "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-        "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 16:45:21"
-      },
-      {
-        "id": "1949",
-        "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
-        "url": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 06:16:01"
-      },
-      {
-        "id": "2003",
-        "title": "The legal fight to get equal pay for Germany's disabled workers",
-        "url": "https://www.bbc.co.uk/news/articles/cwy0v1d24elo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-24 23:10:28"
-      }
-    ]
-  },
-  {
-    "cluster_id": "3",
-    "label": "israel, charlottesville, syria",
-    "trending_score": 0.0574,
-    "count_24h": 1,
-    "count_7d": 2,
-    "top_articles": [
-      {
-        "id": "1932",
-        "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
-        "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 21:33:34"
-      },
-      {
-        "id": "1957",
-        "title": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
-        "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-25 16:53:51"
-      },
-      {
-        "id": "2011",
-        "title": "Could humanoid robots be heading for the battlefield?",
-        "url": "https://www.bbc.co.uk/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-08 23:06:30"
-      }
-    ]
-  },
-  {
-    "cluster_id": "15",
-    "label": "new, ballet, year",
-    "trending_score": 0.0538,
-    "count_24h": 0,
-    "count_7d": 5,
-    "top_articles": [
-      {
-        "id": "1907",
-        "title": "Canada eligible to join Eurovision competition",
-        "url": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 13:41:36"
-      },
-      {
-        "id": "2015",
-        "title": "Charity celebrates 50 years of 'transformative' holidays",
-        "url": "https://www.bbc.co.uk/news/articles/cy4ejeq40nvo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 05:17:15"
-      },
-      {
-        "id": "1920",
-        "title": "Missing Glastonbury? There's a festival on your doorstep this weekend",
-        "url": "https://www.bbc.co.uk/news/articles/cj4gyz21wyko?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-25 23:50:10"
-      }
-    ]
-  },
-  {
     "cluster_id": "21",
     "label": "trump, abortion, senate",
     "trending_score": 0.0526,
@@ -455,6 +374,87 @@
         "title": "1st batch of fuel rods for 4th Nuclear Power Plant likely has been transported out of Taiwan",
         "url": "https://www.taiwannews.com.tw/en/news/3474254",
         "date": "2018-07-04 21:22:00"
+      }
+    ]
+  },
+  {
+    "cluster_id": "3",
+    "label": "israel, charlottesville, syria",
+    "trending_score": 0.0451,
+    "count_24h": 1,
+    "count_7d": 2,
+    "top_articles": [
+      {
+        "id": "1932",
+        "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
+        "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 21:33:34"
+      },
+      {
+        "id": "1957",
+        "title": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
+        "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-25 16:53:51"
+      },
+      {
+        "id": "2011",
+        "title": "Could humanoid robots be heading for the battlefield?",
+        "url": "https://www.bbc.co.uk/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-08 23:06:30"
+      }
+    ]
+  },
+  {
+    "cluster_id": "15",
+    "label": "new, ballet, year",
+    "trending_score": 0.0443,
+    "count_24h": 0,
+    "count_7d": 5,
+    "top_articles": [
+      {
+        "id": "1907",
+        "title": "Canada eligible to join Eurovision competition",
+        "url": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 13:41:36"
+      },
+      {
+        "id": "2015",
+        "title": "Charity celebrates 50 years of 'transformative' holidays",
+        "url": "https://www.bbc.co.uk/news/articles/cy4ejeq40nvo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 05:17:15"
+      },
+      {
+        "id": "1920",
+        "title": "Missing Glastonbury? There's a festival on your doorstep this weekend",
+        "url": "https://www.bbc.co.uk/news/articles/cj4gyz21wyko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-25 23:50:10"
+      }
+    ]
+  },
+  {
+    "cluster_id": "12",
+    "label": "judge, court, says",
+    "trending_score": 0.0407,
+    "count_24h": 0,
+    "count_7d": 4,
+    "top_articles": [
+      {
+        "id": "1929",
+        "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+        "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 16:45:21"
+      },
+      {
+        "id": "1949",
+        "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
+        "url": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 06:16:01"
+      },
+      {
+        "id": "2003",
+        "title": "The legal fight to get equal pay for Germany's disabled workers",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0v1d24elo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-24 23:10:28"
       }
     ]
   },

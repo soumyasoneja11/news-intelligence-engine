@@ -27,37 +27,10 @@
     ]
   },
   {
-    "cluster_id": "13",
-    "label": "forecast, climate, heat",
-    "trending_score": 0.3241,
-    "count_24h": 1,
-    "count_7d": 8,
-    "top_articles": [
-      {
-        "id": "1901",
-        "title": "Hottest June day record broken for third day in row as temperature hits 37.3C",
-        "url": "https://www.bbc.co.uk/news/articles/cn4d0n1l8zno?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 19:40:07"
-      },
-      {
-        "id": "1916",
-        "title": "Europe's deadly heatwave breaks German record and halts public events",
-        "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 18:14:36"
-      },
-      {
-        "id": "1937",
-        "title": "Boiling point: The week of extreme heat",
-        "url": "https://www.bbc.co.uk/iplayer/episode/m002ypkf?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 16:00:00"
-      }
-    ]
-  },
-  {
     "cluster_id": "0",
     "label": "says, eu, uk",
-    "trending_score": 0.3187,
-    "count_24h": 3,
+    "trending_score": 0.2812,
+    "count_24h": 2,
     "count_7d": 12,
     "top_articles": [
       {
@@ -81,29 +54,29 @@
     ]
   },
   {
-    "cluster_id": "19",
-    "label": "man, school, arrested",
-    "trending_score": 0.1781,
+    "cluster_id": "13",
+    "label": "forecast, climate, heat",
+    "trending_score": 0.2685,
     "count_24h": 0,
     "count_7d": 8,
     "top_articles": [
       {
-        "id": "1906",
-        "title": "Man who punched female police officers at Manchester Airport jailed",
-        "url": "https://www.bbc.co.uk/news/articles/c1my31rr1vno?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 16:47:10"
+        "id": "1901",
+        "title": "Hottest June day record broken for third day in row as temperature hits 37.3C",
+        "url": "https://www.bbc.co.uk/news/articles/cn4d0n1l8zno?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 19:40:07"
       },
       {
-        "id": "1947",
-        "title": "Four men held over child marriage in Sierra Leone appear in landmark court case",
-        "url": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 15:34:39"
+        "id": "1916",
+        "title": "Europe's deadly heatwave breaks German record and halts public events",
+        "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 18:14:36"
       },
       {
-        "id": "1903",
-        "title": "Court rules 13 men who allegedly helped rapist drug and abuse wife can be named",
-        "url": "https://www.bbc.co.uk/news/articles/cnv9er181lno?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 12:51:21"
+        "id": "1937",
+        "title": "Boiling point: The week of extreme heat",
+        "url": "https://www.bbc.co.uk/iplayer/episode/m002ypkf?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 16:00:00"
       }
     ]
   },
@@ -135,10 +108,37 @@
     ]
   },
   {
+    "cluster_id": "19",
+    "label": "man, school, arrested",
+    "trending_score": 0.1575,
+    "count_24h": 0,
+    "count_7d": 8,
+    "top_articles": [
+      {
+        "id": "1906",
+        "title": "Man who punched female police officers at Manchester Airport jailed",
+        "url": "https://www.bbc.co.uk/news/articles/c1my31rr1vno?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 16:47:10"
+      },
+      {
+        "id": "1947",
+        "title": "Four men held over child marriage in Sierra Leone appear in landmark court case",
+        "url": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 15:34:39"
+      },
+      {
+        "id": "1903",
+        "title": "Court rules 13 men who allegedly helped rapist drug and abuse wife can be named",
+        "url": "https://www.bbc.co.uk/news/articles/cnv9er181lno?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 12:51:21"
+      }
+    ]
+  },
+  {
     "cluster_id": "4",
     "label": "open, french, french open",
-    "trending_score": 0.1359,
-    "count_24h": 2,
+    "trending_score": 0.1068,
+    "count_24h": 1,
     "count_7d": 4,
     "top_articles": [
       {
@@ -158,33 +158,6 @@
         "title": "Usyk vacates belts but is not retiring",
         "url": "https://www.bbc.co.uk/sport/boxing/articles/c6210pk8klro?at_medium=RSS&at_campaign=rss",
         "date": "2026-06-26 17:29:56"
-      }
-    ]
-  },
-  {
-    "cluster_id": "6",
-    "label": "london, high, california",
-    "trending_score": 0.1098,
-    "count_24h": 1,
-    "count_7d": 3,
-    "top_articles": [
-      {
-        "id": "1917",
-        "title": "Watch: Lightning strikes seen across UK",
-        "url": "https://www.bbc.co.uk/news/videos/c74y1l9kkryo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 19:26:58"
-      },
-      {
-        "id": "1911",
-        "title": "Even if you're fit and young, avoid runs and too many beers in the heat, experts say",
-        "url": "https://www.bbc.co.uk/news/articles/cgjxdpp4qzeo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 10:24:26"
-      },
-      {
-        "id": "1991",
-        "title": "Power banks and vapes now biggest fire risk on planes",
-        "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-25 23:28:13"
       }
     ]
   },
@@ -297,29 +270,29 @@
     ]
   },
   {
-    "cluster_id": "8",
-    "label": "market, global, time",
-    "trending_score": 0.0625,
+    "cluster_id": "6",
+    "label": "london, high, california",
+    "trending_score": 0.0732,
     "count_24h": 0,
-    "count_7d": 9,
+    "count_7d": 3,
     "top_articles": [
       {
-        "id": "2013",
-        "title": "New ISA and Lifetime ISA changes explained",
-        "url": "https://www.bbc.co.uk/news/videos/cj0ge52n80ro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 17:09:53"
+        "id": "1917",
+        "title": "Watch: Lightning strikes seen across UK",
+        "url": "https://www.bbc.co.uk/news/videos/c74y1l9kkryo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 19:26:58"
       },
       {
-        "id": "1972",
-        "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
-        "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-25 19:41:22"
+        "id": "1911",
+        "title": "Even if you're fit and young, avoid runs and too many beers in the heat, experts say",
+        "url": "https://www.bbc.co.uk/news/articles/cgjxdpp4qzeo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 10:24:26"
       },
       {
-        "id": "1998",
-        "title": "Ferrari marketing boss quits just weeks after EV launch backlash",
-        "url": "https://www.bbc.co.uk/news/articles/cnv9edrjjn4o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-25 11:26:25"
+        "id": "1991",
+        "title": "Power banks and vapes now biggest fire risk on planes",
+        "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-25 23:28:13"
       }
     ]
   },
@@ -374,6 +347,33 @@
         "title": "1st batch of fuel rods for 4th Nuclear Power Plant likely has been transported out of Taiwan",
         "url": "https://www.taiwannews.com.tw/en/news/3474254",
         "date": "2018-07-04 21:22:00"
+      }
+    ]
+  },
+  {
+    "cluster_id": "8",
+    "label": "market, global, time",
+    "trending_score": 0.05,
+    "count_24h": 0,
+    "count_7d": 9,
+    "top_articles": [
+      {
+        "id": "2013",
+        "title": "New ISA and Lifetime ISA changes explained",
+        "url": "https://www.bbc.co.uk/news/videos/cj0ge52n80ro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 17:09:53"
+      },
+      {
+        "id": "1972",
+        "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
+        "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-25 19:41:22"
+      },
+      {
+        "id": "1998",
+        "title": "Ferrari marketing boss quits just weeks after EV launch backlash",
+        "url": "https://www.bbc.co.uk/news/articles/cnv9edrjjn4o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-25 11:26:25"
       }
     ]
   },

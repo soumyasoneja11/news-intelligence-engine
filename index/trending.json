@@ -29,7 +29,7 @@
   {
     "cluster_id": "13",
     "label": "forecast, climate, heat",
-    "trending_score": 0.2685,
+    "trending_score": 0.2407,
     "count_24h": 0,
     "count_7d": 8,
     "top_articles": [
@@ -83,7 +83,7 @@
   {
     "cluster_id": "19",
     "label": "man, school, arrested",
-    "trending_score": 0.1575,
+    "trending_score": 0.137,
     "count_24h": 0,
     "count_7d": 8,
     "top_articles": [
@@ -135,33 +135,6 @@
     ]
   },
   {
-    "cluster_id": "14",
-    "label": "dies, death, man",
-    "trending_score": 0.0988,
-    "count_24h": 0,
-    "count_7d": 4,
-    "top_articles": [
-      {
-        "id": "1930",
-        "title": "Nicholas Rossi: Rapist who faked death and fled to Scotland dies in US hospital",
-        "url": "https://www.bbc.co.uk/news/articles/cz75px7zl0wo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 18:19:24"
-      },
-      {
-        "id": "1935",
-        "title": "Disgraced newsreader Huw Edwards' blog shows staggering lack of awareness, campaigners say",
-        "url": "https://www.bbc.co.uk/news/articles/cvgm7j41d3ro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 17:03:02"
-      },
-      {
-        "id": "1945",
-        "title": "Christmas market attacker jailed for life for murdering six in Germany",
-        "url": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 10:49:11"
-      }
-    ]
-  },
-  {
     "cluster_id": "16",
     "label": "leader, president, egypt",
     "trending_score": 0.0854,
@@ -185,6 +158,33 @@
         "title": "Row over alleged theft of donations from India's landmark Ram temple",
         "url": "https://www.bbc.co.uk/news/articles/cn07gl6wx6go?at_medium=RSS&at_campaign=rss",
         "date": "2026-06-26 01:02:36"
+      }
+    ]
+  },
+  {
+    "cluster_id": "14",
+    "label": "dies, death, man",
+    "trending_score": 0.0802,
+    "count_24h": 0,
+    "count_7d": 4,
+    "top_articles": [
+      {
+        "id": "1930",
+        "title": "Nicholas Rossi: Rapist who faked death and fled to Scotland dies in US hospital",
+        "url": "https://www.bbc.co.uk/news/articles/cz75px7zl0wo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 18:19:24"
+      },
+      {
+        "id": "1935",
+        "title": "Disgraced newsreader Huw Edwards' blog shows staggering lack of awareness, campaigners say",
+        "url": "https://www.bbc.co.uk/news/articles/cvgm7j41d3ro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 17:03:02"
+      },
+      {
+        "id": "1945",
+        "title": "Christmas market attacker jailed for life for murdering six in Germany",
+        "url": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 10:49:11"
       }
     ]
   },
@@ -218,7 +218,7 @@
   {
     "cluster_id": "20",
     "label": "energy, new, care",
-    "trending_score": 0.0776,
+    "trending_score": 0.0647,
     "count_24h": 0,
     "count_7d": 6,
     "top_articles": [
@@ -245,7 +245,7 @@
   {
     "cluster_id": "6",
     "label": "london, high, california",
-    "trending_score": 0.0732,
+    "trending_score": 0.0549,
     "count_24h": 0,
     "count_7d": 3,
     "top_articles": [
@@ -324,33 +324,6 @@
     ]
   },
   {
-    "cluster_id": "15",
-    "label": "new, ballet, year",
-    "trending_score": 0.0443,
-    "count_24h": 0,
-    "count_7d": 5,
-    "top_articles": [
-      {
-        "id": "1907",
-        "title": "Canada eligible to join Eurovision competition",
-        "url": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 13:41:36"
-      },
-      {
-        "id": "2015",
-        "title": "Charity celebrates 50 years of 'transformative' holidays",
-        "url": "https://www.bbc.co.uk/news/articles/cy4ejeq40nvo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 05:17:15"
-      },
-      {
-        "id": "1920",
-        "title": "Missing Glastonbury? There's a festival on your doorstep this weekend",
-        "url": "https://www.bbc.co.uk/news/articles/cj4gyz21wyko?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-25 23:50:10"
-      }
-    ]
-  },
-  {
     "cluster_id": "12",
     "label": "judge, court, says",
     "trending_score": 0.0407,
@@ -374,6 +347,33 @@
         "title": "The legal fight to get equal pay for Germany's disabled workers",
         "url": "https://www.bbc.co.uk/news/articles/cwy0v1d24elo?at_medium=RSS&at_campaign=rss",
         "date": "2026-06-24 23:10:28"
+      }
+    ]
+  },
+  {
+    "cluster_id": "15",
+    "label": "new, ballet, year",
+    "trending_score": 0.0348,
+    "count_24h": 0,
+    "count_7d": 5,
+    "top_articles": [
+      {
+        "id": "1907",
+        "title": "Canada eligible to join Eurovision competition",
+        "url": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 13:41:36"
+      },
+      {
+        "id": "2015",
+        "title": "Charity celebrates 50 years of 'transformative' holidays",
+        "url": "https://www.bbc.co.uk/news/articles/cy4ejeq40nvo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-26 05:17:15"
+      },
+      {
+        "id": "1920",
+        "title": "Missing Glastonbury? There's a festival on your doorstep this weekend",
+        "url": "https://www.bbc.co.uk/news/articles/cj4gyz21wyko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-25 23:50:10"
       }
     ]
   },

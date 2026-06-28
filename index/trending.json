@@ -2,8 +2,8 @@
   {
     "cluster_id": "9",
     "label": "cup, world, world cup",
-    "trending_score": 1.1398,
-    "count_24h": 12,
+    "trending_score": 1.089,
+    "count_24h": 10,
     "count_7d": 56,
     "top_articles": [
       {
@@ -29,7 +29,7 @@
   {
     "cluster_id": "4",
     "label": "venezuela, people, earthquakes",
-    "trending_score": 1.0636,
+    "trending_score": 1.0091,
     "count_24h": 4,
     "count_7d": 33,
     "top_articles": [
@@ -56,8 +56,8 @@
   {
     "cluster_id": "11",
     "label": "heat, heatwave, week",
-    "trending_score": 0.6392,
-    "count_24h": 3,
+    "trending_score": 0.6013,
+    "count_24h": 2,
     "count_7d": 32,
     "top_articles": [
       {
@@ -77,33 +77,6 @@
         "title": "Australia news live: shark-spotting drones to patrol NSW beaches year-round",
         "url": "https://www.theguardian.com/australia-news/live/2026/jun/28/australia-news-live-sunday-nsw-shark-spotting-drones-politics-ntwnfb",
         "date": "2026-06-27 22:52:26"
-      }
-    ]
-  },
-  {
-    "cluster_id": "0",
-    "label": "iran, trump, latest",
-    "trending_score": 0.3893,
-    "count_24h": 4,
-    "count_7d": 23,
-    "top_articles": [
-      {
-        "id": "2280",
-        "title": "Iran war live: Tehran attacks Bahrain, Kuwait after US bombs Iranian coast",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
-        "date": "2026-06-28 00:00:00"
-      },
-      {
-        "id": "2255",
-        "title": "US conducts retaliatory strikes on Iran after second shipping attack",
-        "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-27 23:56:26"
-      },
-      {
-        "id": "2252",
-        "title": "US says it struck targets in Iran over ‘continued aggression’ against shipping",
-        "url": "https://www.theguardian.com/us-news/2026/jun/27/us-iran-strikes",
-        "date": "2026-06-27 22:16:55"
       }
     ]
   },
@@ -135,10 +108,37 @@
     ]
   },
   {
+    "cluster_id": "0",
+    "label": "iran, trump, latest",
+    "trending_score": 0.3033,
+    "count_24h": 2,
+    "count_7d": 23,
+    "top_articles": [
+      {
+        "id": "2280",
+        "title": "Iran war live: Tehran attacks Bahrain, Kuwait after US bombs Iranian coast",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
+        "date": "2026-06-28 00:00:00"
+      },
+      {
+        "id": "2255",
+        "title": "US conducts retaliatory strikes on Iran after second shipping attack",
+        "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-27 23:56:26"
+      },
+      {
+        "id": "2252",
+        "title": "US says it struck targets in Iran over ‘continued aggression’ against shipping",
+        "url": "https://www.theguardian.com/us-news/2026/jun/27/us-iran-strikes",
+        "date": "2026-06-27 22:16:55"
+      }
+    ]
+  },
+  {
     "cluster_id": "2",
     "label": "says, trump, president",
-    "trending_score": 0.3056,
-    "count_24h": 5,
+    "trending_score": 0.2806,
+    "count_24h": 4,
     "count_7d": 29,
     "top_articles": [
       {
@@ -164,7 +164,7 @@
   {
     "cluster_id": "15",
     "label": "trump, eu, says",
-    "trending_score": 0.2644,
+    "trending_score": 0.2356,
     "count_24h": 1,
     "count_7d": 19,
     "top_articles": [
@@ -191,8 +191,8 @@
   {
     "cluster_id": "12",
     "label": "court, says, man",
-    "trending_score": 0.2158,
-    "count_24h": 3,
+    "trending_score": 0.1995,
+    "count_24h": 2,
     "count_7d": 31,
     "top_articles": [
       {
@@ -218,7 +218,7 @@
   {
     "cluster_id": "14",
     "label": "time, year, children",
-    "trending_score": 0.1906,
+    "trending_score": 0.1832,
     "count_24h": 4,
     "count_7d": 23,
     "top_articles": [
@@ -245,7 +245,7 @@
   {
     "cluster_id": "16",
     "label": "new, tech, ai",
-    "trending_score": 0.1732,
+    "trending_score": 0.1667,
     "count_24h": 1,
     "count_7d": 37,
     "top_articles": [

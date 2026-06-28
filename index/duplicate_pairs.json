@@ -40,19 +40,6 @@
   },
   {
     "article_a": {
-      "id": "388",
-      "title": "Dallas man set to die for killing daughters, 9 and 6",
-      "url": "https://www.taiwannews.com.tw/en/news/3354964"
-    },
-    "article_b": {
-      "id": "1391",
-      "title": "Dallas man set to die for killing daughters, 9 and 6",
-      "url": "https://www.taiwannews.com.tw/en/news/3355191"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
       "id": "413",
       "title": "Peloton Names Pamela Thomas-Graham to Its Board of Directors",
       "url": "https://www.taiwannews.com.tw/en/news/3413598"
@@ -61,6 +48,19 @@
       "id": "1326",
       "title": "Peloton Names Pamela Thomas-Graham to Its Board of Directors",
       "url": "https://www.taiwannews.com.tw/en/news/3413582"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "646",
+      "title": "AP source: Ex-FBI No. 2 official wrote memo on Comey firing",
+      "url": "https://www.taiwannews.com.tw/en/news/3444830"
+    },
+    "article_b": {
+      "id": "950",
+      "title": "AP source: Ex-FBI No. 2 official wrote memo on Comey firing",
+      "url": "https://www.taiwannews.com.tw/en/news/3444689"
     },
     "similarity": 1.0000001192092896
   },
@@ -300,6 +300,19 @@
   },
   {
     "article_a": {
+      "id": "388",
+      "title": "Dallas man set to die for killing daughters, 9 and 6",
+      "url": "https://www.taiwannews.com.tw/en/news/3354964"
+    },
+    "article_b": {
+      "id": "1391",
+      "title": "Dallas man set to die for killing daughters, 9 and 6",
+      "url": "https://www.taiwannews.com.tw/en/news/3355191"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
       "id": "397",
       "title": "Expanded Conference Glance",
       "url": "https://www.taiwannews.com.tw/en/news/3354678"
@@ -646,19 +659,6 @@
       "id": "667",
       "title": "Expanded Conference Glance",
       "url": "https://www.taiwannews.com.tw/en/news/3354593"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "646",
-      "title": "AP source: Ex-FBI No. 2 official wrote memo on Comey firing",
-      "url": "https://www.taiwannews.com.tw/en/news/3444830"
-    },
-    "article_b": {
-      "id": "950",
-      "title": "AP source: Ex-FBI No. 2 official wrote memo on Comey firing",
-      "url": "https://www.taiwannews.com.tw/en/news/3444689"
     },
     "similarity": 1.0
   },

@@ -1,36 +1,9 @@
 [
   {
-    "cluster_id": "9",
-    "label": "cup, world, world cup",
-    "trending_score": 1.8771,
-    "count_24h": 37,
-    "count_7d": 56,
-    "top_articles": [
-      {
-        "id": "2291",
-        "title": "Which teams are in World Cup last-32 knockouts, and what is the schedule?",
-        "url": "https://www.aljazeera.com/sports/2026/6/28/which-teams-are-in-world-cup-last-32-knockouts-and-what-is-the-schedule?traffic_source=rss",
-        "date": "2026-06-28 06:13:01"
-      },
-      {
-        "id": "2292",
-        "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
-        "url": "https://www.aljazeera.com/sports/2026/6/28/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss",
-        "date": "2026-06-28 06:00:22"
-      },
-      {
-        "id": "2295",
-        "title": "World Cup: Messi sends Argentina to top, England to face DR Congo, Iran out",
-        "url": "https://www.aljazeera.com/sports/2026/6/28/messi-argentina-fifa-world-cup-2026-england-dr-congo-portugal-iran?traffic_source=rss",
-        "date": "2026-06-28 05:09:04"
-      }
-    ]
-  },
-  {
     "cluster_id": "4",
     "label": "venezuela, people, earthquakes",
-    "trending_score": 1.8545,
-    "count_24h": 14,
+    "trending_score": 1.7727,
+    "count_24h": 13,
     "count_7d": 33,
     "top_articles": [
       {
@@ -54,10 +27,37 @@
     ]
   },
   {
+    "cluster_id": "9",
+    "label": "cup, world, world cup",
+    "trending_score": 1.7627,
+    "count_24h": 33,
+    "count_7d": 56,
+    "top_articles": [
+      {
+        "id": "2291",
+        "title": "Which teams are in World Cup last-32 knockouts, and what is the schedule?",
+        "url": "https://www.aljazeera.com/sports/2026/6/28/which-teams-are-in-world-cup-last-32-knockouts-and-what-is-the-schedule?traffic_source=rss",
+        "date": "2026-06-28 06:13:01"
+      },
+      {
+        "id": "2292",
+        "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
+        "url": "https://www.aljazeera.com/sports/2026/6/28/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss",
+        "date": "2026-06-28 06:00:22"
+      },
+      {
+        "id": "2295",
+        "title": "World Cup: Messi sends Argentina to top, England to face DR Congo, Iran out",
+        "url": "https://www.aljazeera.com/sports/2026/6/28/messi-argentina-fifa-world-cup-2026-england-dr-congo-portugal-iran?traffic_source=rss",
+        "date": "2026-06-28 05:09:04"
+      }
+    ]
+  },
+  {
     "cluster_id": "11",
     "label": "heat, heatwave, week",
-    "trending_score": 1.2468,
-    "count_24h": 14,
+    "trending_score": 1.1519,
+    "count_24h": 12,
     "count_7d": 32,
     "top_articles": [
       {
@@ -83,8 +83,8 @@
   {
     "cluster_id": "3",
     "label": "israel, lebanon, israeli",
-    "trending_score": 0.8045,
-    "count_24h": 17,
+    "trending_score": 0.7773,
+    "count_24h": 16,
     "count_7d": 21,
     "top_articles": [
       {
@@ -110,8 +110,8 @@
   {
     "cluster_id": "0",
     "label": "iran, trump, latest",
-    "trending_score": 0.5738,
-    "count_24h": 10,
+    "trending_score": 0.5492,
+    "count_24h": 9,
     "count_7d": 23,
     "top_articles": [
       {
@@ -135,37 +135,10 @@
     ]
   },
   {
-    "cluster_id": "2",
-    "label": "says, trump, president",
-    "trending_score": 0.5389,
-    "count_24h": 16,
-    "count_7d": 29,
-    "top_articles": [
-      {
-        "id": "2297",
-        "title": "Reform UK makes dramatic first impression in Senedd opposition role",
-        "url": "https://www.theguardian.com/politics/2026/jun/28/reform-uk-makes-dramatic-first-impression-in-senedd-opposition-role",
-        "date": "2026-06-28 05:00:01"
-      },
-      {
-        "id": "2281",
-        "title": "New Caledonia polls open in first local vote in the French territory since 2019",
-        "url": "https://www.theguardian.com/world/2026/jun/28/new-caledonia-polls-open-in-first-local-vote-in-the-french-territory-since-2019",
-        "date": "2026-06-28 02:26:48"
-      },
-      {
-        "id": "2266",
-        "title": "I'm in therapy for my 14-hour-a-day phone addiction and I'm determined to beat it",
-        "url": "https://www.bbc.co.uk/news/articles/cvg7v7j3wqwo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-28 00:20:42"
-      }
-    ]
-  },
-  {
     "cluster_id": "15",
     "label": "trump, eu, says",
-    "trending_score": 0.524,
-    "count_24h": 7,
+    "trending_score": 0.4952,
+    "count_24h": 6,
     "count_7d": 19,
     "top_articles": [
       {
@@ -189,9 +162,36 @@
     ]
   },
   {
+    "cluster_id": "2",
+    "label": "says, trump, president",
+    "trending_score": 0.4889,
+    "count_24h": 14,
+    "count_7d": 29,
+    "top_articles": [
+      {
+        "id": "2297",
+        "title": "Reform UK makes dramatic first impression in Senedd opposition role",
+        "url": "https://www.theguardian.com/politics/2026/jun/28/reform-uk-makes-dramatic-first-impression-in-senedd-opposition-role",
+        "date": "2026-06-28 05:00:01"
+      },
+      {
+        "id": "2281",
+        "title": "New Caledonia polls open in first local vote in the French territory since 2019",
+        "url": "https://www.theguardian.com/world/2026/jun/28/new-caledonia-polls-open-in-first-local-vote-in-the-french-territory-since-2019",
+        "date": "2026-06-28 02:26:48"
+      },
+      {
+        "id": "2266",
+        "title": "I'm in therapy for my 14-hour-a-day phone addiction and I'm determined to beat it",
+        "url": "https://www.bbc.co.uk/news/articles/cvg7v7j3wqwo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-28 00:20:42"
+      }
+    ]
+  },
+  {
     "cluster_id": "12",
     "label": "court, says, man",
-    "trending_score": 0.3798,
+    "trending_score": 0.3634,
     "count_24h": 7,
     "count_7d": 31,
     "top_articles": [
@@ -245,8 +245,8 @@
   {
     "cluster_id": "10",
     "label": "police, man, shooting",
-    "trending_score": 0.2974,
-    "count_24h": 8,
+    "trending_score": 0.2816,
+    "count_24h": 7,
     "count_7d": 20,
     "top_articles": [
       {
@@ -353,7 +353,7 @@
   {
     "cluster_id": "7",
     "label": "market, new, sales",
-    "trending_score": 0.1624,
+    "trending_score": 0.1529,
     "count_24h": 1,
     "count_7d": 21,
     "top_articles": [

@@ -2,8 +2,8 @@
   {
     "cluster_id": "4",
     "label": "venezuela, people, earthquakes",
-    "trending_score": 1.3364,
-    "count_24h": 8,
+    "trending_score": 1.2273,
+    "count_24h": 6,
     "count_7d": 33,
     "top_articles": [
       {
@@ -29,8 +29,8 @@
   {
     "cluster_id": "9",
     "label": "cup, world, world cup",
-    "trending_score": 1.2797,
-    "count_24h": 16,
+    "trending_score": 1.2161,
+    "count_24h": 14,
     "count_7d": 56,
     "top_articles": [
       {
@@ -56,8 +56,8 @@
   {
     "cluster_id": "11",
     "label": "heat, heatwave, week",
-    "trending_score": 0.7532,
-    "count_24h": 5,
+    "trending_score": 0.6772,
+    "count_24h": 4,
     "count_7d": 32,
     "top_articles": [
       {
@@ -81,37 +81,10 @@
     ]
   },
   {
-    "cluster_id": "3",
-    "label": "israel, lebanon, israeli",
-    "trending_score": 0.5318,
-    "count_24h": 7,
-    "count_7d": 21,
-    "top_articles": [
-      {
-        "id": "2290",
-        "title": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
-        "url": "https://www.aljazeera.com/news/2026/6/28/iran-war-day-121-iran-attacks-bahrain-kuwait-as-us-strikes-near-hormuz?traffic_source=rss",
-        "date": "2026-06-28 06:14:45"
-      },
-      {
-        "id": "2248",
-        "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
-        "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-27 21:35:40"
-      },
-      {
-        "id": "2238",
-        "title": "Videos show Israeli settlers trying to seize house in occupied West Bank",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/videos-show-israeli-settlers-trying-to-seize-house-in-occupied-west-bank?traffic_source=rss",
-        "date": "2026-06-27 21:13:12"
-      }
-    ]
-  },
-  {
     "cluster_id": "0",
     "label": "iran, trump, latest",
-    "trending_score": 0.4754,
-    "count_24h": 6,
+    "trending_score": 0.4385,
+    "count_24h": 5,
     "count_7d": 23,
     "top_articles": [
       {
@@ -135,10 +108,37 @@
     ]
   },
   {
+    "cluster_id": "3",
+    "label": "israel, lebanon, israeli",
+    "trending_score": 0.4227,
+    "count_24h": 3,
+    "count_7d": 21,
+    "top_articles": [
+      {
+        "id": "2290",
+        "title": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
+        "url": "https://www.aljazeera.com/news/2026/6/28/iran-war-day-121-iran-attacks-bahrain-kuwait-as-us-strikes-near-hormuz?traffic_source=rss",
+        "date": "2026-06-28 06:14:45"
+      },
+      {
+        "id": "2248",
+        "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-27 21:35:40"
+      },
+      {
+        "id": "2238",
+        "title": "Videos show Israeli settlers trying to seize house in occupied West Bank",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/videos-show-israeli-settlers-trying-to-seize-house-in-occupied-west-bank?traffic_source=rss",
+        "date": "2026-06-27 21:13:12"
+      }
+    ]
+  },
+  {
     "cluster_id": "2",
     "label": "says, trump, president",
-    "trending_score": 0.3556,
-    "count_24h": 8,
+    "trending_score": 0.3389,
+    "count_24h": 7,
     "count_7d": 29,
     "top_articles": [
       {
@@ -164,8 +164,8 @@
   {
     "cluster_id": "15",
     "label": "trump, eu, says",
-    "trending_score": 0.3365,
-    "count_24h": 2,
+    "trending_score": 0.2933,
+    "count_24h": 1,
     "count_7d": 19,
     "top_articles": [
       {
@@ -191,7 +191,7 @@
   {
     "cluster_id": "12",
     "label": "court, says, man",
-    "trending_score": 0.2322,
+    "trending_score": 0.2158,
     "count_24h": 3,
     "count_7d": 31,
     "top_articles": [
@@ -212,33 +212,6 @@
         "title": "Australia to double maximum penalty for platforms in breach of social media ban",
         "url": "https://www.bbc.co.uk/news/articles/c78yv5g74e9o?at_medium=RSS&at_campaign=rss",
         "date": "2026-06-27 22:34:11"
-      }
-    ]
-  },
-  {
-    "cluster_id": "16",
-    "label": "new, tech, ai",
-    "trending_score": 0.2061,
-    "count_24h": 3,
-    "count_7d": 37,
-    "top_articles": [
-      {
-        "id": "2284",
-        "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
-        "url": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
-        "date": "2026-06-28 05:00:00"
-      },
-      {
-        "id": "2246",
-        "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
-        "url": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
-        "date": "2026-06-27 21:27:37"
-      },
-      {
-        "id": "2247",
-        "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
-        "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-        "date": "2026-06-27 20:42:36"
       }
     ]
   },
@@ -266,6 +239,33 @@
         "title": "Sort Your Life Out: The four most common cluttering mistakes and how to fix them",
         "url": "https://www.bbc.co.uk/news/articles/cvgd54yvjz1o?at_medium=RSS&at_campaign=rss",
         "date": "2026-06-28 00:32:07"
+      }
+    ]
+  },
+  {
+    "cluster_id": "16",
+    "label": "new, tech, ai",
+    "trending_score": 0.1996,
+    "count_24h": 3,
+    "count_7d": 37,
+    "top_articles": [
+      {
+        "id": "2284",
+        "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
+        "url": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+        "date": "2026-06-28 05:00:00"
+      },
+      {
+        "id": "2246",
+        "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
+        "url": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
+        "date": "2026-06-27 21:27:37"
+      },
+      {
+        "id": "2247",
+        "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+        "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+        "date": "2026-06-27 20:42:36"
       }
     ]
   },

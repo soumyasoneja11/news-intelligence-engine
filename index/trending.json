@@ -1,36 +1,9 @@
 [
   {
-    "cluster_id": "9",
-    "label": "cup, world, world cup",
-    "trending_score": 1.5975,
-    "count_24h": 28,
-    "count_7d": 56,
-    "top_articles": [
-      {
-        "id": "2291",
-        "title": "Which teams are in World Cup last-32 knockouts, and what is the schedule?",
-        "url": "https://www.aljazeera.com/sports/2026/6/28/which-teams-are-in-world-cup-last-32-knockouts-and-what-is-the-schedule?traffic_source=rss",
-        "date": "2026-06-28 06:13:01"
-      },
-      {
-        "id": "2292",
-        "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
-        "url": "https://www.aljazeera.com/sports/2026/6/28/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss",
-        "date": "2026-06-28 06:00:22"
-      },
-      {
-        "id": "2295",
-        "title": "World Cup: Messi sends Argentina to top, England to face DR Congo, Iran out",
-        "url": "https://www.aljazeera.com/sports/2026/6/28/messi-argentina-fifa-world-cup-2026-england-dr-congo-portugal-iran?traffic_source=rss",
-        "date": "2026-06-28 05:09:04"
-      }
-    ]
-  },
-  {
     "cluster_id": "4",
     "label": "venezuela, people, earthquakes",
-    "trending_score": 1.5818,
-    "count_24h": 10,
+    "trending_score": 1.5,
+    "count_24h": 9,
     "count_7d": 33,
     "top_articles": [
       {
@@ -54,10 +27,37 @@
     ]
   },
   {
+    "cluster_id": "9",
+    "label": "cup, world, world cup",
+    "trending_score": 1.4195,
+    "count_24h": 21,
+    "count_7d": 56,
+    "top_articles": [
+      {
+        "id": "2291",
+        "title": "Which teams are in World Cup last-32 knockouts, and what is the schedule?",
+        "url": "https://www.aljazeera.com/sports/2026/6/28/which-teams-are-in-world-cup-last-32-knockouts-and-what-is-the-schedule?traffic_source=rss",
+        "date": "2026-06-28 06:13:01"
+      },
+      {
+        "id": "2292",
+        "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
+        "url": "https://www.aljazeera.com/sports/2026/6/28/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss",
+        "date": "2026-06-28 06:00:22"
+      },
+      {
+        "id": "2295",
+        "title": "World Cup: Messi sends Argentina to top, England to face DR Congo, Iran out",
+        "url": "https://www.aljazeera.com/sports/2026/6/28/messi-argentina-fifa-world-cup-2026-england-dr-congo-portugal-iran?traffic_source=rss",
+        "date": "2026-06-28 05:09:04"
+      }
+    ]
+  },
+  {
     "cluster_id": "11",
     "label": "heat, heatwave, week",
-    "trending_score": 0.943,
-    "count_24h": 7,
+    "trending_score": 0.8291,
+    "count_24h": 5,
     "count_7d": 32,
     "top_articles": [
       {
@@ -83,8 +83,8 @@
   {
     "cluster_id": "3",
     "label": "israel, lebanon, israeli",
-    "trending_score": 0.6955,
-    "count_24h": 13,
+    "trending_score": 0.6136,
+    "count_24h": 10,
     "count_7d": 21,
     "top_articles": [
       {
@@ -110,8 +110,8 @@
   {
     "cluster_id": "0",
     "label": "iran, trump, latest",
-    "trending_score": 0.5246,
-    "count_24h": 8,
+    "trending_score": 0.5,
+    "count_24h": 7,
     "count_7d": 23,
     "top_articles": [
       {
@@ -137,7 +137,7 @@
   {
     "cluster_id": "15",
     "label": "trump, eu, says",
-    "trending_score": 0.4231,
+    "trending_score": 0.3942,
     "count_24h": 4,
     "count_7d": 19,
     "top_articles": [
@@ -164,7 +164,7 @@
   {
     "cluster_id": "2",
     "label": "says, trump, president",
-    "trending_score": 0.4056,
+    "trending_score": 0.3806,
     "count_24h": 9,
     "count_7d": 29,
     "top_articles": [
@@ -191,8 +191,8 @@
   {
     "cluster_id": "12",
     "label": "court, says, man",
-    "trending_score": 0.3224,
-    "count_24h": 5,
+    "trending_score": 0.2978,
+    "count_24h": 4,
     "count_7d": 31,
     "top_articles": [
       {
@@ -218,7 +218,7 @@
   {
     "cluster_id": "16",
     "label": "new, tech, ai",
-    "trending_score": 0.2654,
+    "trending_score": 0.2588,
     "count_24h": 4,
     "count_7d": 37,
     "top_articles": [
@@ -243,36 +243,9 @@
     ]
   },
   {
-    "cluster_id": "10",
-    "label": "police, man, shooting",
-    "trending_score": 0.2342,
-    "count_24h": 5,
-    "count_7d": 20,
-    "top_articles": [
-      {
-        "id": "2258",
-        "title": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
-        "url": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-28 00:06:19"
-      },
-      {
-        "id": "2244",
-        "title": "Man arrested on suspicion of attempted murder after vehicle hits pedestrians in London",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/27/man-arrested-on-suspicion-of-attempted-after-vehicle-hits-pedestrians-in-london",
-        "date": "2026-06-27 20:17:09"
-      },
-      {
-        "id": "2218",
-        "title": "Three security personnel killed in attack in Pakistan’s Karachi",
-        "url": "https://www.aljazeera.com/news/2026/6/27/explosion-and-gunfire-reported-in-pakistans-karachi?traffic_source=rss",
-        "date": "2026-06-27 17:04:34"
-      }
-    ]
-  },
-  {
     "cluster_id": "14",
     "label": "time, year, children",
-    "trending_score": 0.2277,
+    "trending_score": 0.2203,
     "count_24h": 5,
     "count_7d": 23,
     "top_articles": [
@@ -293,6 +266,33 @@
         "title": "Sort Your Life Out: The four most common cluttering mistakes and how to fix them",
         "url": "https://www.bbc.co.uk/news/articles/cvgd54yvjz1o?at_medium=RSS&at_campaign=rss",
         "date": "2026-06-28 00:32:07"
+      }
+    ]
+  },
+  {
+    "cluster_id": "10",
+    "label": "police, man, shooting",
+    "trending_score": 0.2184,
+    "count_24h": 4,
+    "count_7d": 20,
+    "top_articles": [
+      {
+        "id": "2258",
+        "title": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
+        "url": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-28 00:06:19"
+      },
+      {
+        "id": "2244",
+        "title": "Man arrested on suspicion of attempted murder after vehicle hits pedestrians in London",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/27/man-arrested-on-suspicion-of-attempted-after-vehicle-hits-pedestrians-in-london",
+        "date": "2026-06-27 20:17:09"
+      },
+      {
+        "id": "2218",
+        "title": "Three security personnel killed in attack in Pakistan’s Karachi",
+        "url": "https://www.aljazeera.com/news/2026/6/27/explosion-and-gunfire-reported-in-pakistans-karachi?traffic_source=rss",
+        "date": "2026-06-27 17:04:34"
       }
     ]
   },
@@ -353,7 +353,7 @@
   {
     "cluster_id": "7",
     "label": "market, new, sales",
-    "trending_score": 0.1242,
+    "trending_score": 0.1146,
     "count_24h": 1,
     "count_7d": 21,
     "top_articles": [

@@ -1,36 +1,9 @@
 [
   {
-    "cluster_id": "4",
-    "label": "venezuela, people, earthquakes",
-    "trending_score": 1.2273,
-    "count_24h": 6,
-    "count_7d": 33,
-    "top_articles": [
-      {
-        "id": "2289",
-        "title": "In pictures: Race against time to rescue Venezuela earthquake survivors",
-        "url": "https://www.aljazeera.com/gallery/2026/6/28/in-pictures-race-against-time-to-rescue-venezuela-earthquake-survivors?traffic_source=rss",
-        "date": "2026-06-28 06:41:07"
-      },
-      {
-        "id": "2293",
-        "title": "Venezuelan earthquake death toll rises amid increasingly dire search",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/venezuelan-earthquake-death-toll-rises-amid-increasingly-dire-search?traffic_source=rss",
-        "date": "2026-06-28 05:51:38"
-      },
-      {
-        "id": "2277",
-        "title": "Gulf countries attacked after US launches second round of strikes on Iran",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/gulf-countries-attacked-after-us-launches-second-round-of-strikes-on-iran?traffic_source=rss",
-        "date": "2026-06-28 03:40:58"
-      }
-    ]
-  },
-  {
     "cluster_id": "9",
     "label": "cup, world, world cup",
-    "trending_score": 1.2161,
-    "count_24h": 14,
+    "trending_score": 1.1398,
+    "count_24h": 12,
     "count_7d": 56,
     "top_articles": [
       {
@@ -54,10 +27,37 @@
     ]
   },
   {
+    "cluster_id": "4",
+    "label": "venezuela, people, earthquakes",
+    "trending_score": 1.0636,
+    "count_24h": 4,
+    "count_7d": 33,
+    "top_articles": [
+      {
+        "id": "2289",
+        "title": "In pictures: Race against time to rescue Venezuela earthquake survivors",
+        "url": "https://www.aljazeera.com/gallery/2026/6/28/in-pictures-race-against-time-to-rescue-venezuela-earthquake-survivors?traffic_source=rss",
+        "date": "2026-06-28 06:41:07"
+      },
+      {
+        "id": "2293",
+        "title": "Venezuelan earthquake death toll rises amid increasingly dire search",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/venezuelan-earthquake-death-toll-rises-amid-increasingly-dire-search?traffic_source=rss",
+        "date": "2026-06-28 05:51:38"
+      },
+      {
+        "id": "2277",
+        "title": "Gulf countries attacked after US launches second round of strikes on Iran",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/gulf-countries-attacked-after-us-launches-second-round-of-strikes-on-iran?traffic_source=rss",
+        "date": "2026-06-28 03:40:58"
+      }
+    ]
+  },
+  {
     "cluster_id": "11",
     "label": "heat, heatwave, week",
-    "trending_score": 0.6772,
-    "count_24h": 4,
+    "trending_score": 0.6392,
+    "count_24h": 3,
     "count_7d": 32,
     "top_articles": [
       {
@@ -83,8 +83,8 @@
   {
     "cluster_id": "0",
     "label": "iran, trump, latest",
-    "trending_score": 0.4385,
-    "count_24h": 5,
+    "trending_score": 0.3893,
+    "count_24h": 4,
     "count_7d": 23,
     "top_articles": [
       {
@@ -110,8 +110,8 @@
   {
     "cluster_id": "3",
     "label": "israel, lebanon, israeli",
-    "trending_score": 0.4227,
-    "count_24h": 3,
+    "trending_score": 0.3545,
+    "count_24h": 1,
     "count_7d": 21,
     "top_articles": [
       {
@@ -137,8 +137,8 @@
   {
     "cluster_id": "2",
     "label": "says, trump, president",
-    "trending_score": 0.3389,
-    "count_24h": 7,
+    "trending_score": 0.3056,
+    "count_24h": 5,
     "count_7d": 29,
     "top_articles": [
       {
@@ -164,7 +164,7 @@
   {
     "cluster_id": "15",
     "label": "trump, eu, says",
-    "trending_score": 0.2933,
+    "trending_score": 0.2644,
     "count_24h": 1,
     "count_7d": 19,
     "top_articles": [
@@ -218,8 +218,8 @@
   {
     "cluster_id": "14",
     "label": "time, year, children",
-    "trending_score": 0.2054,
-    "count_24h": 5,
+    "trending_score": 0.1906,
+    "count_24h": 4,
     "count_7d": 23,
     "top_articles": [
       {
@@ -245,8 +245,8 @@
   {
     "cluster_id": "16",
     "label": "new, tech, ai",
-    "trending_score": 0.1996,
-    "count_24h": 3,
+    "trending_score": 0.1732,
+    "count_24h": 1,
     "count_7d": 37,
     "top_articles": [
       {
@@ -272,8 +272,8 @@
   {
     "cluster_id": "10",
     "label": "police, man, shooting",
-    "trending_score": 0.1789,
-    "count_24h": 2,
+    "trending_score": 0.1632,
+    "count_24h": 1,
     "count_7d": 20,
     "top_articles": [
       {
@@ -380,7 +380,7 @@
   {
     "cluster_id": "5",
     "label": "charlottesville, trump, court",
-    "trending_score": 0.0642,
+    "trending_score": 0.0541,
     "count_24h": 0,
     "count_7d": 7,
     "top_articles": [

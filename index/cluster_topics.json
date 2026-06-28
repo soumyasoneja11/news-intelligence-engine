@@ -1,244 +1,189 @@
 {
   "0": {
     "keywords": [
-      "says",
-      "eu",
-      "uk",
-      "deal",
-      "economy"
-    ],
-    "label": "says, eu, uk",
-    "article_count": 80
-  },
-  "1": {
-    "keywords": [
-      "tech",
-      "new",
-      "data",
-      "ai",
-      "business"
-    ],
-    "label": "tech, new, data",
-    "article_count": 145
-  },
-  "2": {
-    "keywords": [
-      "attack",
-      "latest",
-      "texas",
-      "kills",
-      "terror"
-    ],
-    "label": "attack, latest, texas",
-    "article_count": 64
-  },
-  "3": {
-    "keywords": [
-      "israel",
-      "charlottesville",
-      "syria",
-      "says",
-      "white"
-    ],
-    "label": "israel, charlottesville, syria",
-    "article_count": 122
-  },
-  "4": {
-    "keywords": [
-      "open",
-      "french",
-      "french open",
-      "coach",
-      "wins"
-    ],
-    "label": "open, french, french open",
-    "article_count": 103
-  },
-  "5": {
-    "keywords": [
-      "glance",
-      "expanded",
-      "expanded conference",
-      "conference glance",
-      "conference"
-    ],
-    "label": "glance, expanded, expanded conference",
-    "article_count": 77
-  },
-  "6": {
-    "keywords": [
-      "london",
-      "high",
-      "california",
-      "10 things",
-      "things"
-    ],
-    "label": "london, high, california",
-    "article_count": 82
-  },
-  "7": {
-    "keywords": [
+      "iran",
       "trump",
       "latest",
       "russia",
-      "president",
       "says"
     ],
-    "label": "trump, latest, russia",
-    "article_count": 118
+    "label": "iran, trump, latest",
+    "article_count": 122
   },
-  "8": {
-    "keywords": [
-      "market",
-      "global",
-      "time",
-      "sales",
-      "apple"
-    ],
-    "label": "market, global, time",
-    "article_count": 120
-  },
-  "9": {
-    "keywords": [
-      "win",
-      "beat",
-      "lead",
-      "game",
-      "past"
-    ],
-    "label": "win, beat, lead",
-    "article_count": 72
-  },
-  "10": {
-    "keywords": [
-      "shooting",
-      "police",
-      "man",
-      "gun",
-      "shot"
-    ],
-    "label": "shooting, police, man",
-    "article_count": 67
-  },
-  "11": {
-    "keywords": [
-      "people",
-      "killed",
-      "earthquakes",
-      "home",
-      "man"
-    ],
-    "label": "people, killed, earthquakes",
-    "article_count": 63
-  },
-  "12": {
-    "keywords": [
-      "judge",
-      "court",
-      "says",
-      "trump",
-      "ex"
-    ],
-    "label": "judge, court, says",
-    "article_count": 123
-  },
-  "13": {
-    "keywords": [
-      "forecast",
-      "climate",
-      "heat",
-      "forecast fahrenheit",
-      "global"
-    ],
-    "label": "forecast, climate, heat",
-    "article_count": 54
-  },
-  "14": {
-    "keywords": [
-      "dies",
-      "death",
-      "man",
-      "latest",
-      "killing"
-    ],
-    "label": "dies, death, man",
-    "article_count": 81
-  },
-  "15": {
+  "1": {
     "keywords": [
       "new",
       "ballet",
       "year",
-      "week",
-      "black"
+      "film",
+      "week"
     ],
     "label": "new, ballet, year",
-    "article_count": 158
+    "article_count": 139
+  },
+  "2": {
+    "keywords": [
+      "says",
+      "trump",
+      "president",
+      "new",
+      "olympics"
+    ],
+    "label": "says, trump, president",
+    "article_count": 180
+  },
+  "3": {
+    "keywords": [
+      "israel",
+      "lebanon",
+      "israeli",
+      "egypt",
+      "gaza"
+    ],
+    "label": "israel, lebanon, israeli",
+    "article_count": 110
+  },
+  "4": {
+    "keywords": [
+      "venezuela",
+      "people",
+      "earthquakes",
+      "01",
+      "la"
+    ],
+    "label": "venezuela, people, earthquakes",
+    "article_count": 55
+  },
+  "5": {
+    "keywords": [
+      "charlottesville",
+      "trump",
+      "court",
+      "texas",
+      "judge"
+    ],
+    "label": "charlottesville, trump, court",
+    "article_count": 148
+  },
+  "6": {
+    "keywords": [
+      "league",
+      "win",
+      "linescores",
+      "league linescores",
+      "major league"
+    ],
+    "label": "league, win, linescores",
+    "article_count": 165
+  },
+  "7": {
+    "keywords": [
+      "market",
+      "new",
+      "sales",
+      "energy",
+      "global"
+    ],
+    "label": "market, new, sales",
+    "article_count": 157
+  },
+  "8": {
+    "keywords": [
+      "taiwan",
+      "china",
+      "taipei",
+      "taiwanese",
+      "south"
+    ],
+    "label": "taiwan, china, taipei",
+    "article_count": 99
+  },
+  "9": {
+    "keywords": [
+      "cup",
+      "world",
+      "world cup",
+      "england",
+      "group"
+    ],
+    "label": "cup, world, world cup",
+    "article_count": 118
+  },
+  "10": {
+    "keywords": [
+      "police",
+      "man",
+      "shooting",
+      "killed",
+      "latest"
+    ],
+    "label": "police, man, shooting",
+    "article_count": 190
+  },
+  "11": {
+    "keywords": [
+      "heat",
+      "heatwave",
+      "week",
+      "latest",
+      "uk"
+    ],
+    "label": "heat, heatwave, week",
+    "article_count": 79
+  },
+  "12": {
+    "keywords": [
+      "court",
+      "says",
+      "man",
+      "ex",
+      "police"
+    ],
+    "label": "court, says, man",
+    "article_count": 183
+  },
+  "13": {
+    "keywords": [
+      "glance",
+      "expanded conference",
+      "conference glance",
+      "expanded",
+      "conference"
+    ],
+    "label": "glance, expanded conference, conference glance",
+    "article_count": 19
+  },
+  "14": {
+    "keywords": [
+      "time",
+      "year",
+      "children",
+      "new",
+      "just"
+    ],
+    "label": "time, year, children",
+    "article_count": 202
+  },
+  "15": {
+    "keywords": [
+      "trump",
+      "eu",
+      "says",
+      "tax",
+      "state"
+    ],
+    "label": "trump, eu, says",
+    "article_count": 104
   },
   "16": {
     "keywords": [
-      "leader",
-      "president",
-      "egypt",
-      "graft",
-      "election"
-    ],
-    "label": "leader, president, egypt",
-    "article_count": 82
-  },
-  "17": {
-    "keywords": [
-      "league",
-      "linescores",
-      "league linescores",
-      "major",
-      "major league"
-    ],
-    "label": "league, linescores, league linescores",
-    "article_count": 73
-  },
-  "18": {
-    "keywords": [
-      "world",
-      "world cup",
-      "cup",
-      "olympics",
-      "olympic"
-    ],
-    "label": "world, world cup, cup",
-    "article_count": 75
-  },
-  "19": {
-    "keywords": [
-      "man",
-      "school",
-      "arrested",
-      "teen",
-      "case"
-    ],
-    "label": "man, school, arrested",
-    "article_count": 73
-  },
-  "20": {
-    "keywords": [
-      "energy",
       "new",
-      "care",
-      "major",
-      "health"
+      "tech",
+      "ai",
+      "market",
+      "data"
     ],
-    "label": "energy, new, care",
-    "article_count": 116
-  },
-  "21": {
-    "keywords": [
-      "trump",
-      "abortion",
-      "senate",
-      "latest",
-      "state"
-    ],
-    "label": "trump, abortion, senate",
-    "article_count": 76
+    "label": "new, tech, ai",
+    "article_count": 228
   }
 }

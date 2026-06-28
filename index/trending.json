@@ -56,8 +56,8 @@
   {
     "cluster_id": "11",
     "label": "heat, heatwave, week",
-    "trending_score": 1.3038,
-    "count_24h": 15,
+    "trending_score": 1.2468,
+    "count_24h": 14,
     "count_7d": 32,
     "top_articles": [
       {
@@ -110,8 +110,8 @@
   {
     "cluster_id": "0",
     "label": "iran, trump, latest",
-    "trending_score": 0.5984,
-    "count_24h": 11,
+    "trending_score": 0.5738,
+    "count_24h": 10,
     "count_7d": 23,
     "top_articles": [
       {
@@ -191,8 +191,8 @@
   {
     "cluster_id": "12",
     "label": "court, says, man",
-    "trending_score": 0.3962,
-    "count_24h": 8,
+    "trending_score": 0.3798,
+    "count_24h": 7,
     "count_7d": 31,
     "top_articles": [
       {
@@ -218,8 +218,8 @@
   {
     "cluster_id": "16",
     "label": "new, tech, ai",
-    "trending_score": 0.3311,
-    "count_24h": 7,
+    "trending_score": 0.318,
+    "count_24h": 6,
     "count_7d": 37,
     "top_articles": [
       {
@@ -245,8 +245,8 @@
   {
     "cluster_id": "10",
     "label": "police, man, shooting",
-    "trending_score": 0.3132,
-    "count_24h": 9,
+    "trending_score": 0.2974,
+    "count_24h": 8,
     "count_7d": 20,
     "top_articles": [
       {
@@ -272,8 +272,8 @@
   {
     "cluster_id": "14",
     "label": "time, year, children",
-    "trending_score": 0.2723,
-    "count_24h": 8,
+    "trending_score": 0.2574,
+    "count_24h": 7,
     "count_7d": 23,
     "top_articles": [
       {
@@ -297,36 +297,9 @@
     ]
   },
   {
-    "cluster_id": "1",
-    "label": "new, ballet, year",
-    "trending_score": 0.1871,
-    "count_24h": 3,
-    "count_7d": 10,
-    "top_articles": [
-      {
-        "id": "2264",
-        "title": "Bad Bunny: Latin star lights up London with history-making stadium show",
-        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-28 01:46:24"
-      },
-      {
-        "id": "2268",
-        "title": "Millie Bobby Brown and Louis Partridge on belly laughs, sibling vibes and Enola Holmes",
-        "url": "https://www.bbc.co.uk/news/articles/c77ydenvkv1o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-27 23:11:14"
-      },
-      {
-        "id": "2052",
-        "title": "Unwanted items from Alan Carr's castle head to auction",
-        "url": "https://www.bbc.co.uk/news/articles/cjwg7zyl92no?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-27 08:14:55"
-      }
-    ]
-  },
-  {
     "cluster_id": "8",
     "label": "taiwan, china, taipei",
-    "trending_score": 0.1818,
+    "trending_score": 0.1667,
     "count_24h": 3,
     "count_7d": 6,
     "top_articles": [
@@ -347,6 +320,33 @@
         "title": "Exclusive: Infiltrating Myanmar’s scam syndicates",
         "url": "https://www.aljazeera.com/video/101-east/2026/6/27/exclusive-infiltrating-myanmars-scam-syndicates?traffic_source=rss",
         "date": "2026-06-27 11:30:00"
+      }
+    ]
+  },
+  {
+    "cluster_id": "1",
+    "label": "new, ballet, year",
+    "trending_score": 0.1655,
+    "count_24h": 2,
+    "count_7d": 10,
+    "top_articles": [
+      {
+        "id": "2264",
+        "title": "Bad Bunny: Latin star lights up London with history-making stadium show",
+        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-28 01:46:24"
+      },
+      {
+        "id": "2268",
+        "title": "Millie Bobby Brown and Louis Partridge on belly laughs, sibling vibes and Enola Holmes",
+        "url": "https://www.bbc.co.uk/news/articles/c77ydenvkv1o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-27 23:11:14"
+      },
+      {
+        "id": "2052",
+        "title": "Unwanted items from Alan Carr's castle head to auction",
+        "url": "https://www.bbc.co.uk/news/articles/cjwg7zyl92no?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-27 08:14:55"
       }
     ]
   },

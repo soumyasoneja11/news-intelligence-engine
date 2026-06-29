@@ -2,8 +2,8 @@
   {
     "cluster_id": "9",
     "label": "cup, world, world cup",
-    "trending_score": 1.0127,
-    "count_24h": 7,
+    "trending_score": 0.822,
+    "count_24h": 2,
     "count_7d": 56,
     "top_articles": [
       {
@@ -29,8 +29,8 @@
   {
     "cluster_id": "4",
     "label": "venezuela, people, earthquakes",
-    "trending_score": 0.9545,
-    "count_24h": 3,
+    "trending_score": 0.8182,
+    "count_24h": 2,
     "count_7d": 33,
     "top_articles": [
       {
@@ -56,8 +56,8 @@
   {
     "cluster_id": "11",
     "label": "heat, heatwave, week",
-    "trending_score": 0.5633,
-    "count_24h": 1,
+    "trending_score": 0.4873,
+    "count_24h": 0,
     "count_7d": 32,
     "top_articles": [
       {
@@ -108,36 +108,9 @@
     ]
   },
   {
-    "cluster_id": "2",
-    "label": "says, trump, president",
-    "trending_score": 0.2639,
-    "count_24h": 3,
-    "count_7d": 29,
-    "top_articles": [
-      {
-        "id": "2297",
-        "title": "Reform UK makes dramatic first impression in Senedd opposition role",
-        "url": "https://www.theguardian.com/politics/2026/jun/28/reform-uk-makes-dramatic-first-impression-in-senedd-opposition-role",
-        "date": "2026-06-28 05:00:01"
-      },
-      {
-        "id": "2281",
-        "title": "New Caledonia polls open in first local vote in the French territory since 2019",
-        "url": "https://www.theguardian.com/world/2026/jun/28/new-caledonia-polls-open-in-first-local-vote-in-the-french-territory-since-2019",
-        "date": "2026-06-28 02:26:48"
-      },
-      {
-        "id": "2266",
-        "title": "I'm in therapy for my 14-hour-a-day phone addiction and I'm determined to beat it",
-        "url": "https://www.bbc.co.uk/news/articles/cvg7v7j3wqwo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-28 00:20:42"
-      }
-    ]
-  },
-  {
     "cluster_id": "0",
     "label": "iran, trump, latest",
-    "trending_score": 0.2541,
+    "trending_score": 0.2418,
     "count_24h": 0,
     "count_7d": 23,
     "top_articles": [
@@ -162,10 +135,37 @@
     ]
   },
   {
+    "cluster_id": "2",
+    "label": "says, trump, president",
+    "trending_score": 0.2139,
+    "count_24h": 0,
+    "count_7d": 29,
+    "top_articles": [
+      {
+        "id": "2297",
+        "title": "Reform UK makes dramatic first impression in Senedd opposition role",
+        "url": "https://www.theguardian.com/politics/2026/jun/28/reform-uk-makes-dramatic-first-impression-in-senedd-opposition-role",
+        "date": "2026-06-28 05:00:01"
+      },
+      {
+        "id": "2281",
+        "title": "New Caledonia polls open in first local vote in the French territory since 2019",
+        "url": "https://www.theguardian.com/world/2026/jun/28/new-caledonia-polls-open-in-first-local-vote-in-the-french-territory-since-2019",
+        "date": "2026-06-28 02:26:48"
+      },
+      {
+        "id": "2266",
+        "title": "I'm in therapy for my 14-hour-a-day phone addiction and I'm determined to beat it",
+        "url": "https://www.bbc.co.uk/news/articles/cvg7v7j3wqwo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-28 00:20:42"
+      }
+    ]
+  },
+  {
     "cluster_id": "15",
     "label": "trump, eu, says",
-    "trending_score": 0.2308,
-    "count_24h": 1,
+    "trending_score": 0.1875,
+    "count_24h": 0,
     "count_7d": 18,
     "top_articles": [
       {
@@ -191,8 +191,8 @@
   {
     "cluster_id": "12",
     "label": "court, says, man",
-    "trending_score": 0.1995,
-    "count_24h": 2,
+    "trending_score": 0.1667,
+    "count_24h": 1,
     "count_7d": 31,
     "top_articles": [
       {
@@ -216,10 +216,37 @@
     ]
   },
   {
+    "cluster_id": "10",
+    "label": "police, man, shooting",
+    "trending_score": 0.1316,
+    "count_24h": 0,
+    "count_7d": 20,
+    "top_articles": [
+      {
+        "id": "2258",
+        "title": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
+        "url": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-28 00:06:19"
+      },
+      {
+        "id": "2244",
+        "title": "Man arrested on suspicion of attempted murder after vehicle hits pedestrians in London",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/27/man-arrested-on-suspicion-of-attempted-after-vehicle-hits-pedestrians-in-london",
+        "date": "2026-06-27 20:17:09"
+      },
+      {
+        "id": "2218",
+        "title": "Three security personnel killed in attack in Pakistan’s Karachi",
+        "url": "https://www.aljazeera.com/news/2026/6/27/explosion-and-gunfire-reported-in-pakistans-karachi?traffic_source=rss",
+        "date": "2026-06-27 17:04:34"
+      }
+    ]
+  },
+  {
     "cluster_id": "14",
     "label": "time, year, children",
-    "trending_score": 0.1609,
-    "count_24h": 3,
+    "trending_score": 0.1312,
+    "count_24h": 1,
     "count_7d": 23,
     "top_articles": [
       {
@@ -245,8 +272,8 @@
   {
     "cluster_id": "16",
     "label": "new, tech, ai",
-    "trending_score": 0.1601,
-    "count_24h": 1,
+    "trending_score": 0.1272,
+    "count_24h": 0,
     "count_7d": 37,
     "top_articles": [
       {
@@ -266,60 +293,6 @@
         "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
         "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
         "date": "2026-06-27 20:42:36"
-      }
-    ]
-  },
-  {
-    "cluster_id": "10",
-    "label": "police, man, shooting",
-    "trending_score": 0.1474,
-    "count_24h": 0,
-    "count_7d": 20,
-    "top_articles": [
-      {
-        "id": "2258",
-        "title": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
-        "url": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-28 00:06:19"
-      },
-      {
-        "id": "2244",
-        "title": "Man arrested on suspicion of attempted murder after vehicle hits pedestrians in London",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/27/man-arrested-on-suspicion-of-attempted-after-vehicle-hits-pedestrians-in-london",
-        "date": "2026-06-27 20:17:09"
-      },
-      {
-        "id": "2218",
-        "title": "Three security personnel killed in attack in Pakistan’s Karachi",
-        "url": "https://www.aljazeera.com/news/2026/6/27/explosion-and-gunfire-reported-in-pakistans-karachi?traffic_source=rss",
-        "date": "2026-06-27 17:04:34"
-      }
-    ]
-  },
-  {
-    "cluster_id": "1",
-    "label": "new, ballet, year",
-    "trending_score": 0.1115,
-    "count_24h": 1,
-    "count_7d": 10,
-    "top_articles": [
-      {
-        "id": "2264",
-        "title": "Bad Bunny: Latin star lights up London with history-making stadium show",
-        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-28 01:46:24"
-      },
-      {
-        "id": "2268",
-        "title": "Millie Bobby Brown and Louis Partridge on belly laughs, sibling vibes and Enola Holmes",
-        "url": "https://www.bbc.co.uk/news/articles/c77ydenvkv1o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-27 23:11:14"
-      },
-      {
-        "id": "2052",
-        "title": "Unwanted items from Alan Carr's castle head to auction",
-        "url": "https://www.bbc.co.uk/news/articles/cjwg7zyl92no?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-27 08:14:55"
       }
     ]
   },
@@ -378,9 +351,36 @@
     ]
   },
   {
+    "cluster_id": "1",
+    "label": "new, ballet, year",
+    "trending_score": 0.0683,
+    "count_24h": 0,
+    "count_7d": 10,
+    "top_articles": [
+      {
+        "id": "2264",
+        "title": "Bad Bunny: Latin star lights up London with history-making stadium show",
+        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-28 01:46:24"
+      },
+      {
+        "id": "2268",
+        "title": "Millie Bobby Brown and Louis Partridge on belly laughs, sibling vibes and Enola Holmes",
+        "url": "https://www.bbc.co.uk/news/articles/c77ydenvkv1o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-27 23:11:14"
+      },
+      {
+        "id": "2052",
+        "title": "Unwanted items from Alan Carr's castle head to auction",
+        "url": "https://www.bbc.co.uk/news/articles/cjwg7zyl92no?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-27 08:14:55"
+      }
+    ]
+  },
+  {
     "cluster_id": "5",
     "label": "charlottesville, trump, court",
-    "trending_score": 0.0541,
+    "trending_score": 0.0338,
     "count_24h": 0,
     "count_7d": 7,
     "top_articles": [

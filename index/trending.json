@@ -2,8 +2,8 @@
   {
     "cluster_id": "9",
     "label": "cup, world, world cup",
-    "trending_score": 1.089,
-    "count_24h": 10,
+    "trending_score": 1.0127,
+    "count_24h": 7,
     "count_7d": 56,
     "top_articles": [
       {
@@ -29,8 +29,8 @@
   {
     "cluster_id": "4",
     "label": "venezuela, people, earthquakes",
-    "trending_score": 1.0091,
-    "count_24h": 4,
+    "trending_score": 0.9545,
+    "count_24h": 3,
     "count_7d": 33,
     "top_articles": [
       {
@@ -56,8 +56,8 @@
   {
     "cluster_id": "11",
     "label": "heat, heatwave, week",
-    "trending_score": 0.6013,
-    "count_24h": 2,
+    "trending_score": 0.5633,
+    "count_24h": 1,
     "count_7d": 32,
     "top_articles": [
       {
@@ -108,37 +108,10 @@
     ]
   },
   {
-    "cluster_id": "0",
-    "label": "iran, trump, latest",
-    "trending_score": 0.3033,
-    "count_24h": 2,
-    "count_7d": 23,
-    "top_articles": [
-      {
-        "id": "2280",
-        "title": "Iran war live: Tehran attacks Bahrain, Kuwait after US bombs Iranian coast",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
-        "date": "2026-06-28 00:00:00"
-      },
-      {
-        "id": "2255",
-        "title": "US conducts retaliatory strikes on Iran after second shipping attack",
-        "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-27 23:56:26"
-      },
-      {
-        "id": "2252",
-        "title": "US says it struck targets in Iran over ‘continued aggression’ against shipping",
-        "url": "https://www.theguardian.com/us-news/2026/jun/27/us-iran-strikes",
-        "date": "2026-06-27 22:16:55"
-      }
-    ]
-  },
-  {
     "cluster_id": "2",
     "label": "says, trump, president",
-    "trending_score": 0.2806,
-    "count_24h": 4,
+    "trending_score": 0.2639,
+    "count_24h": 3,
     "count_7d": 29,
     "top_articles": [
       {
@@ -162,11 +135,38 @@
     ]
   },
   {
+    "cluster_id": "0",
+    "label": "iran, trump, latest",
+    "trending_score": 0.2541,
+    "count_24h": 0,
+    "count_7d": 23,
+    "top_articles": [
+      {
+        "id": "2280",
+        "title": "Iran war live: Tehran attacks Bahrain, Kuwait after US bombs Iranian coast",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
+        "date": "2026-06-28 00:00:00"
+      },
+      {
+        "id": "2255",
+        "title": "US conducts retaliatory strikes on Iran after second shipping attack",
+        "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-27 23:56:26"
+      },
+      {
+        "id": "2252",
+        "title": "US says it struck targets in Iran over ‘continued aggression’ against shipping",
+        "url": "https://www.theguardian.com/us-news/2026/jun/27/us-iran-strikes",
+        "date": "2026-06-27 22:16:55"
+      }
+    ]
+  },
+  {
     "cluster_id": "15",
     "label": "trump, eu, says",
-    "trending_score": 0.2356,
+    "trending_score": 0.2308,
     "count_24h": 1,
-    "count_7d": 19,
+    "count_7d": 18,
     "top_articles": [
       {
         "id": "2275",
@@ -218,8 +218,8 @@
   {
     "cluster_id": "14",
     "label": "time, year, children",
-    "trending_score": 0.1832,
-    "count_24h": 4,
+    "trending_score": 0.1609,
+    "count_24h": 3,
     "count_7d": 23,
     "top_articles": [
       {
@@ -245,7 +245,7 @@
   {
     "cluster_id": "16",
     "label": "new, tech, ai",
-    "trending_score": 0.1667,
+    "trending_score": 0.1601,
     "count_24h": 1,
     "count_7d": 37,
     "top_articles": [
@@ -272,8 +272,8 @@
   {
     "cluster_id": "10",
     "label": "police, man, shooting",
-    "trending_score": 0.1632,
-    "count_24h": 1,
+    "trending_score": 0.1474,
+    "count_24h": 0,
     "count_7d": 20,
     "top_articles": [
       {
@@ -299,8 +299,8 @@
   {
     "cluster_id": "1",
     "label": "new, ballet, year",
-    "trending_score": 0.1547,
-    "count_24h": 2,
+    "trending_score": 0.1115,
+    "count_24h": 1,
     "count_7d": 10,
     "top_articles": [
       {
@@ -324,37 +324,10 @@
     ]
   },
   {
-    "cluster_id": "8",
-    "label": "taiwan, china, taipei",
-    "trending_score": 0.1061,
-    "count_24h": 1,
-    "count_7d": 6,
-    "top_articles": [
-      {
-        "id": "2263",
-        "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
-        "url": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-27 23:10:39"
-      },
-      {
-        "id": "2217",
-        "title": "Tropical Storm Mekkhala leaves Taiwan underwater",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/tropical-storm-mekkhala-leaves-taiwan-underwater?traffic_source=rss",
-        "date": "2026-06-27 17:05:48"
-      },
-      {
-        "id": "2066",
-        "title": "Exclusive: Infiltrating Myanmar’s scam syndicates",
-        "url": "https://www.aljazeera.com/video/101-east/2026/6/27/exclusive-infiltrating-myanmars-scam-syndicates?traffic_source=rss",
-        "date": "2026-06-27 11:30:00"
-      }
-    ]
-  },
-  {
     "cluster_id": "7",
     "label": "market, new, sales",
-    "trending_score": 0.0955,
-    "count_24h": 1,
+    "trending_score": 0.0764,
+    "count_24h": 0,
     "count_7d": 21,
     "top_articles": [
       {
@@ -374,6 +347,33 @@
         "title": "New ISA and Lifetime ISA changes explained",
         "url": "https://www.bbc.co.uk/news/videos/cj0ge52n80ro?at_medium=RSS&at_campaign=rss",
         "date": "2026-06-26 17:09:53"
+      }
+    ]
+  },
+  {
+    "cluster_id": "8",
+    "label": "taiwan, china, taipei",
+    "trending_score": 0.0758,
+    "count_24h": 0,
+    "count_7d": 6,
+    "top_articles": [
+      {
+        "id": "2263",
+        "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
+        "url": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-27 23:10:39"
+      },
+      {
+        "id": "2217",
+        "title": "Tropical Storm Mekkhala leaves Taiwan underwater",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/tropical-storm-mekkhala-leaves-taiwan-underwater?traffic_source=rss",
+        "date": "2026-06-27 17:05:48"
+      },
+      {
+        "id": "2066",
+        "title": "Exclusive: Infiltrating Myanmar’s scam syndicates",
+        "url": "https://www.aljazeera.com/video/101-east/2026/6/27/exclusive-infiltrating-myanmars-scam-syndicates?traffic_source=rss",
+        "date": "2026-06-27 11:30:00"
       }
     ]
   },

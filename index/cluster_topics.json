@@ -1,148 +1,115 @@
 {
   "0": {
     "keywords": [
-      "iran",
-      "trump",
-      "latest",
-      "russia",
-      "says"
+      "league",
+      "win",
+      "major",
+      "linescores",
+      "major league"
     ],
-    "label": "iran, trump, latest",
-    "article_count": 122
+    "label": "league, win, major",
+    "article_count": 186
   },
   "1": {
     "keywords": [
-      "new",
-      "ballet",
-      "year",
-      "film",
-      "week"
+      "russia",
+      "russian",
+      "says",
+      "talks",
+      "german"
     ],
-    "label": "new, ballet, year",
-    "article_count": 139
+    "label": "russia, russian, says",
+    "article_count": 102
   },
   "2": {
-    "keywords": [
-      "says",
-      "trump",
-      "president",
-      "new",
-      "olympics"
-    ],
-    "label": "says, trump, president",
-    "article_count": 180
-  },
-  "3": {
-    "keywords": [
-      "israel",
-      "lebanon",
-      "israeli",
-      "egypt",
-      "gaza"
-    ],
-    "label": "israel, lebanon, israeli",
-    "article_count": 110
-  },
-  "4": {
-    "keywords": [
-      "venezuela",
-      "people",
-      "earthquakes",
-      "01",
-      "la"
-    ],
-    "label": "venezuela, people, earthquakes",
-    "article_count": 55
-  },
-  "5": {
-    "keywords": [
-      "charlottesville",
-      "trump",
-      "court",
-      "texas",
-      "judge"
-    ],
-    "label": "charlottesville, trump, court",
-    "article_count": 148
-  },
-  "6": {
-    "keywords": [
-      "league",
-      "win",
-      "linescores",
-      "league linescores",
-      "major league"
-    ],
-    "label": "league, win, linescores",
-    "article_count": 165
-  },
-  "7": {
-    "keywords": [
-      "market",
-      "new",
-      "sales",
-      "energy",
-      "global"
-    ],
-    "label": "market, new, sales",
-    "article_count": 157
-  },
-  "8": {
     "keywords": [
       "taiwan",
       "china",
       "taipei",
       "taiwanese",
-      "south"
+      "chinese"
     ],
     "label": "taiwan, china, taipei",
+    "article_count": 105
+  },
+  "3": {
+    "keywords": [
+      "egypt",
+      "election",
+      "president",
+      "leader",
+      "capital"
+    ],
+    "label": "egypt, election, president",
+    "article_count": 102
+  },
+  "4": {
+    "keywords": [
+      "charlottesville",
+      "texas",
+      "state",
+      "trump",
+      "court"
+    ],
+    "label": "charlottesville, texas, state",
+    "article_count": 142
+  },
+  "5": {
+    "keywords": [
+      "trump",
+      "latest",
+      "says",
+      "white",
+      "president"
+    ],
+    "label": "trump, latest, says",
+    "article_count": 127
+  },
+  "6": {
+    "keywords": [
+      "police",
+      "shooting",
+      "man",
+      "dies",
+      "latest"
+    ],
+    "label": "police, shooting, man",
+    "article_count": 139
+  },
+  "7": {
+    "keywords": [
+      "attack",
+      "pakistan",
+      "kills",
+      "india",
+      "afghanistan"
+    ],
+    "label": "attack, pakistan, kills",
     "article_count": 99
+  },
+  "8": {
+    "keywords": [
+      "iran",
+      "israel",
+      "lebanon",
+      "said",
+      "strait"
+    ],
+    "label": "iran, israel, lebanon",
+    "article_count": 110
   },
   "9": {
     "keywords": [
-      "cup",
-      "world",
-      "world cup",
-      "england",
-      "group"
+      "heat",
+      "week",
+      "heatwave",
+      "weather",
+      "temperatures"
     ],
-    "label": "cup, world, world cup",
-    "article_count": 118
+    "label": "heat, week, heatwave",
+    "article_count": 68
   },
   "10": {
-    "keywords": [
-      "police",
-      "man",
-      "shooting",
-      "killed",
-      "latest"
-    ],
-    "label": "police, man, shooting",
-    "article_count": 190
-  },
-  "11": {
-    "keywords": [
-      "heat",
-      "heatwave",
-      "week",
-      "latest",
-      "uk"
-    ],
-    "label": "heat, heatwave, week",
-    "article_count": 79
-  },
-  "12": {
-    "keywords": [
-      "court",
-      "says",
-      "man",
-      "ex",
-      "police"
-    ],
-    "label": "court, says, man",
-    "article_count": 183
-  },
-  "13": {
     "keywords": [
       "glance",
       "expanded conference",
@@ -153,37 +120,103 @@
     "label": "glance, expanded conference, conference glance",
     "article_count": 19
   },
+  "11": {
+    "keywords": [
+      "uk",
+      "said",
+      "burnham",
+      "children",
+      "minister"
+    ],
+    "label": "uk, said, burnham",
+    "article_count": 111
+  },
+  "12": {
+    "keywords": [
+      "man",
+      "court",
+      "arrested",
+      "police",
+      "accused"
+    ],
+    "label": "man, court, arrested",
+    "article_count": 142
+  },
+  "13": {
+    "keywords": [
+      "says",
+      "trump",
+      "ex",
+      "chief",
+      "lawsuit"
+    ],
+    "label": "says, trump, ex",
+    "article_count": 163
+  },
   "14": {
     "keywords": [
-      "time",
-      "year",
-      "children",
-      "new",
-      "just"
+      "world",
+      "cup",
+      "world cup",
+      "england",
+      "group"
     ],
-    "label": "time, year, children",
-    "article_count": 202
+    "label": "world, cup, world cup",
+    "article_count": 150
   },
   "15": {
-    "keywords": [
-      "trump",
-      "eu",
-      "says",
-      "tax",
-      "state"
-    ],
-    "label": "trump, eu, says",
-    "article_count": 104
-  },
-  "16": {
     "keywords": [
       "new",
       "tech",
       "ai",
-      "market",
-      "data"
+      "data",
+      "business"
     ],
     "label": "new, tech, ai",
-    "article_count": 228
+    "article_count": 201
+  },
+  "16": {
+    "keywords": [
+      "ballet",
+      "new",
+      "olympics",
+      "says",
+      "time"
+    ],
+    "label": "ballet, new, olympics",
+    "article_count": 144
+  },
+  "17": {
+    "keywords": [
+      "market",
+      "global",
+      "sales",
+      "000",
+      "growth"
+    ],
+    "label": "market, global, sales",
+    "article_count": 164
+  },
+  "18": {
+    "keywords": [
+      "venezuela",
+      "01",
+      "earthquakes",
+      "people",
+      "said"
+    ],
+    "label": "venezuela, 01, earthquakes",
+    "article_count": 55
+  },
+  "19": {
+    "keywords": [
+      "10",
+      "new",
+      "year",
+      "open",
+      "know"
+    ],
+    "label": "10, new, year",
+    "article_count": 191
   }
 }

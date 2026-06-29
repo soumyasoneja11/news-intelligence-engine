@@ -3212,6 +3212,19 @@
   },
   {
     "article_a": {
+      "id": "2508",
+      "title": "Skydiving plane crash kills 11 in northeastern France",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/aje-onl-nf_skydiving-plane-crash-kills-11-in-france-290626?traffic_source=rss"
+    },
+    "article_b": {
+      "id": "2509",
+      "title": "Thousands of Kurds gather in Turkiye to demand release of PKK leader",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/thousands-of-kurds-gather-in-turkiye-to-demand-release-of-pkk-leader?traffic_source=rss"
+    },
+    "similarity": 0.9524435997009277
+  },
+  {
+    "article_a": {
       "id": "2085",
       "title": "Fishermen capture the moment earthquake hits Venezuelan coast",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/fishermen-capture-the-moment-earthquake-hits-venezuelan-coast?traffic_source=rss"

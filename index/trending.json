@@ -1,332 +1,467 @@
 [
   {
-    "cluster_id": "9",
-    "label": "cup, world, world cup",
-    "trending_score": 0.822,
-    "count_24h": 2,
-    "count_7d": 56,
-    "top_articles": [
-      {
-        "id": "2291",
-        "title": "Which teams are in World Cup last-32 knockouts, and what is the schedule?",
-        "url": "https://www.aljazeera.com/sports/2026/6/28/which-teams-are-in-world-cup-last-32-knockouts-and-what-is-the-schedule?traffic_source=rss",
-        "date": "2026-06-28 06:13:01"
-      },
-      {
-        "id": "2292",
-        "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
-        "url": "https://www.aljazeera.com/sports/2026/6/28/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss",
-        "date": "2026-06-28 06:00:22"
-      },
-      {
-        "id": "2295",
-        "title": "World Cup: Messi sends Argentina to top, England to face DR Congo, Iran out",
-        "url": "https://www.aljazeera.com/sports/2026/6/28/messi-argentina-fifa-world-cup-2026-england-dr-congo-portugal-iran?traffic_source=rss",
-        "date": "2026-06-28 05:09:04"
-      }
-    ]
-  },
-  {
-    "cluster_id": "4",
-    "label": "venezuela, people, earthquakes",
-    "trending_score": 0.8182,
-    "count_24h": 2,
-    "count_7d": 33,
-    "top_articles": [
-      {
-        "id": "2289",
-        "title": "In pictures: Race against time to rescue Venezuela earthquake survivors",
-        "url": "https://www.aljazeera.com/gallery/2026/6/28/in-pictures-race-against-time-to-rescue-venezuela-earthquake-survivors?traffic_source=rss",
-        "date": "2026-06-28 06:41:07"
-      },
-      {
-        "id": "2293",
-        "title": "Venezuelan earthquake death toll rises amid increasingly dire search",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/venezuelan-earthquake-death-toll-rises-amid-increasingly-dire-search?traffic_source=rss",
-        "date": "2026-06-28 05:51:38"
-      },
-      {
-        "id": "2277",
-        "title": "Gulf countries attacked after US launches second round of strikes on Iran",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/gulf-countries-attacked-after-us-launches-second-round-of-strikes-on-iran?traffic_source=rss",
-        "date": "2026-06-28 03:40:58"
-      }
-    ]
-  },
-  {
     "cluster_id": "11",
-    "label": "heat, heatwave, week",
-    "trending_score": 0.4873,
-    "count_24h": 0,
-    "count_7d": 32,
+    "label": "uk, said, burnham",
+    "trending_score": 2.2117,
+    "count_24h": 38,
+    "count_7d": 80,
     "top_articles": [
       {
-        "id": "2282",
-        "title": "NSW beaches to get dawn-to-dusk drone patrols in $34m anti-shark program",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/28/nsw-beaches-to-get-dawn-to-dusk-drone-patrols-in-34m-anti-shark-program",
-        "date": "2026-06-28 01:03:12"
+        "id": "2515",
+        "title": "London cafe in legal battle with restaurant chain over ‘Eat Drink Work’ slogan",
+        "url": "https://www.theguardian.com/business/2026/jun/29/cafe-faces-legal-battle-restaurant-chain-eat-drink-work-slogan",
+        "date": "2026-06-29 08:00:33"
       },
       {
-        "id": "2262",
-        "title": "Four people have died from flash floods in Kentucky, governor says",
-        "url": "https://www.theguardian.com/us-news/2026/jun/27/kentucky-flood-deaths-storms",
-        "date": "2026-06-27 23:14:20"
+        "id": "2510",
+        "title": "Liberal frontbencher calls for party ‘rebrand’ after drop in polls, prompting ridicule from Labor",
+        "url": "https://www.theguardian.com/australia-news/2026/jun/29/liberal-frontbencher-melissa-mcintosh-party-rebrand",
+        "date": "2026-06-29 07:52:15"
       },
       {
-        "id": "2251",
-        "title": "Australia news live: shark-spotting drones to patrol NSW beaches year-round",
-        "url": "https://www.theguardian.com/australia-news/live/2026/jun/28/australia-news-live-sunday-nsw-shark-spotting-drones-politics-ntwnfb",
-        "date": "2026-06-27 22:52:26"
+        "id": "2517",
+        "title": "New campaign urges public to reduce water use as UK emerges from heatwave",
+        "url": "https://www.theguardian.com/environment/2026/jun/29/campaign-publicity-drive-reduce-water-use",
+        "date": "2026-06-29 07:00:33"
       }
     ]
   },
   {
-    "cluster_id": "3",
-    "label": "israel, lebanon, israeli",
-    "trending_score": 0.3545,
-    "count_24h": 1,
-    "count_7d": 21,
+    "cluster_id": "18",
+    "label": "venezuela, 01, earthquakes",
+    "trending_score": 2.2091,
+    "count_24h": 17,
+    "count_7d": 48,
     "top_articles": [
       {
-        "id": "2290",
-        "title": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
-        "url": "https://www.aljazeera.com/news/2026/6/28/iran-war-day-121-iran-attacks-bahrain-kuwait-as-us-strikes-near-hormuz?traffic_source=rss",
-        "date": "2026-06-28 06:14:45"
+        "id": "2494",
+        "title": "Mum of newborn rescued from Venezuela rubble says baby motivated her to stay alive",
+        "url": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-29 07:51:05"
       },
       {
-        "id": "2248",
-        "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
-        "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-27 21:35:40"
+        "id": "2465",
+        "title": "Anger directed at Venezuela's official response to earthquake recovery",
+        "url": "https://www.bbc.co.uk/news/videos/cj4glezz1jvo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-29 03:35:09"
       },
       {
-        "id": "2238",
-        "title": "Videos show Israeli settlers trying to seize house in occupied West Bank",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/videos-show-israeli-settlers-trying-to-seize-house-in-occupied-west-bank?traffic_source=rss",
-        "date": "2026-06-27 21:13:12"
-      }
-    ]
-  },
-  {
-    "cluster_id": "0",
-    "label": "iran, trump, latest",
-    "trending_score": 0.2418,
-    "count_24h": 0,
-    "count_7d": 23,
-    "top_articles": [
-      {
-        "id": "2280",
-        "title": "Iran war live: Tehran attacks Bahrain, Kuwait after US bombs Iranian coast",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
-        "date": "2026-06-28 00:00:00"
-      },
-      {
-        "id": "2255",
-        "title": "US conducts retaliatory strikes on Iran after second shipping attack",
-        "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-27 23:56:26"
-      },
-      {
-        "id": "2252",
-        "title": "US says it struck targets in Iran over ‘continued aggression’ against shipping",
-        "url": "https://www.theguardian.com/us-news/2026/jun/27/us-iran-strikes",
-        "date": "2026-06-27 22:16:55"
-      }
-    ]
-  },
-  {
-    "cluster_id": "2",
-    "label": "says, trump, president",
-    "trending_score": 0.2139,
-    "count_24h": 0,
-    "count_7d": 29,
-    "top_articles": [
-      {
-        "id": "2297",
-        "title": "Reform UK makes dramatic first impression in Senedd opposition role",
-        "url": "https://www.theguardian.com/politics/2026/jun/28/reform-uk-makes-dramatic-first-impression-in-senedd-opposition-role",
-        "date": "2026-06-28 05:00:01"
-      },
-      {
-        "id": "2281",
-        "title": "New Caledonia polls open in first local vote in the French territory since 2019",
-        "url": "https://www.theguardian.com/world/2026/jun/28/new-caledonia-polls-open-in-first-local-vote-in-the-french-territory-since-2019",
-        "date": "2026-06-28 02:26:48"
-      },
-      {
-        "id": "2266",
-        "title": "I'm in therapy for my 14-hour-a-day phone addiction and I'm determined to beat it",
-        "url": "https://www.bbc.co.uk/news/articles/cvg7v7j3wqwo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-28 00:20:42"
-      }
-    ]
-  },
-  {
-    "cluster_id": "15",
-    "label": "trump, eu, says",
-    "trending_score": 0.1875,
-    "count_24h": 0,
-    "count_7d": 18,
-    "top_articles": [
-      {
-        "id": "2275",
-        "title": "The Papers: 'Devolution revolution' and 'the cost of cool'",
-        "url": "https://www.bbc.co.uk/news/articles/c7vymj03drno?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-28 04:52:09"
-      },
-      {
-        "id": "2234",
-        "title": "Trump's face is added to select US passports for America's 250th birthday",
-        "url": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-27 20:03:26"
-      },
-      {
-        "id": "2219",
-        "title": "White House unveils new images of US ‘patriot passports’ for America’s 250th",
-        "url": "https://www.theguardian.com/us-news/2026/jun/27/trump-america-250-passports-democrats",
-        "date": "2026-06-27 18:05:05"
-      }
-    ]
-  },
-  {
-    "cluster_id": "12",
-    "label": "court, says, man",
-    "trending_score": 0.1667,
-    "count_24h": 1,
-    "count_7d": 31,
-    "top_articles": [
-      {
-        "id": "2296",
-        "title": "‘Enforcement mode’: Australia must take fight to tech giants to make social media ban stick, experts warn",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/28/enforcement-mode-australia-must-take-fight-to-tech-giants-to-make-social-media-ban-stick-experts-warn",
-        "date": "2026-06-28 05:51:15"
-      },
-      {
-        "id": "2271",
-        "title": "Harry reconsiders bringing Meghan and children on UK trip",
-        "url": "https://www.bbc.co.uk/news/articles/c4gy6ywg73wo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-28 02:33:53"
-      },
-      {
-        "id": "2257",
-        "title": "Australia to double maximum penalty for platforms in breach of social media ban",
-        "url": "https://www.bbc.co.uk/news/articles/c78yv5g74e9o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-27 22:34:11"
-      }
-    ]
-  },
-  {
-    "cluster_id": "10",
-    "label": "police, man, shooting",
-    "trending_score": 0.1316,
-    "count_24h": 0,
-    "count_7d": 20,
-    "top_articles": [
-      {
-        "id": "2258",
-        "title": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
-        "url": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-28 00:06:19"
-      },
-      {
-        "id": "2244",
-        "title": "Man arrested on suspicion of attempted murder after vehicle hits pedestrians in London",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/27/man-arrested-on-suspicion-of-attempted-after-vehicle-hits-pedestrians-in-london",
-        "date": "2026-06-27 20:17:09"
-      },
-      {
-        "id": "2218",
-        "title": "Three security personnel killed in attack in Pakistan’s Karachi",
-        "url": "https://www.aljazeera.com/news/2026/6/27/explosion-and-gunfire-reported-in-pakistans-karachi?traffic_source=rss",
-        "date": "2026-06-27 17:04:34"
+        "id": "2478",
+        "title": "Venezuelans angry with government as time runs out to rescue survivors",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/venezuelans-angry-government-as-time-runs-out-to-dig-out-survivors?traffic_source=rss",
+        "date": "2026-06-29 03:12:14"
       }
     ]
   },
   {
     "cluster_id": "14",
-    "label": "time, year, children",
-    "trending_score": 0.1312,
-    "count_24h": 1,
-    "count_7d": 23,
+    "label": "world, cup, world cup",
+    "trending_score": 2.1733,
+    "count_24h": 45,
+    "count_7d": 109,
     "top_articles": [
       {
-        "id": "2294",
-        "title": "Between English and mother tongue: Kenya’s education language dilemma",
-        "url": "https://www.aljazeera.com/news/2026/6/28/between-english-and-mother-tongue-kenyas-education-language-dilemma?traffic_source=rss",
-        "date": "2026-06-28 05:24:21"
+        "id": "2506",
+        "title": "South Korean president, ex-players, fans demand change after World Cup exit",
+        "url": "https://www.aljazeera.com/news/2026/6/29/south-korean-president-ex-players-fans-demand-change-after-world-cup-exit?traffic_source=rss",
+        "date": "2026-06-29 06:44:42"
       },
       {
-        "id": "2269",
-        "title": "These women said no to having kids - here's why",
-        "url": "https://www.bbc.co.uk/news/articles/cz0jx2z2l41o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-28 00:39:41"
+        "id": "2507",
+        "title": "Brazil plays Japan at World Cup knockouts: Vinicius, prediction and lineups",
+        "url": "https://www.aljazeera.com/sports/2026/6/29/brazil-play-japan-at-world-cup-knockouts-vinicius-prediction-and-lineups?traffic_source=rss",
+        "date": "2026-06-29 06:25:01"
       },
       {
-        "id": "2267",
-        "title": "Sort Your Life Out: The four most common cluttering mistakes and how to fix them",
-        "url": "https://www.bbc.co.uk/news/articles/cvgd54yvjz1o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-28 00:32:07"
-      }
-    ]
-  },
-  {
-    "cluster_id": "16",
-    "label": "new, tech, ai",
-    "trending_score": 0.1272,
-    "count_24h": 0,
-    "count_7d": 37,
-    "top_articles": [
-      {
-        "id": "2284",
-        "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
-        "url": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
-        "date": "2026-06-28 05:00:00"
-      },
-      {
-        "id": "2246",
-        "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
-        "url": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
-        "date": "2026-06-27 21:27:37"
-      },
-      {
-        "id": "2247",
-        "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
-        "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-        "date": "2026-06-27 20:42:36"
-      }
-    ]
-  },
-  {
-    "cluster_id": "7",
-    "label": "market, new, sales",
-    "trending_score": 0.0764,
-    "count_24h": 0,
-    "count_7d": 21,
-    "top_articles": [
-      {
-        "id": "2253",
-        "title": "Tech firms are blaming AI for mega device and console price rises",
-        "url": "https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-27 23:10:47"
-      },
-      {
-        "id": "2141",
-        "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-        "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-        "date": "2026-06-26 17:43:22"
-      },
-      {
-        "id": "2013",
-        "title": "New ISA and Lifetime ISA changes explained",
-        "url": "https://www.bbc.co.uk/news/videos/cj0ge52n80ro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-26 17:09:53"
+        "id": "2497",
+        "title": "Pampered, protected & primed - so why didn't Scotland players perform?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cdr4nz0m74go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-29 06:04:56"
       }
     ]
   },
   {
     "cluster_id": "8",
+    "label": "iran, israel, lebanon",
+    "trending_score": 1.5273,
+    "count_24h": 22,
+    "count_7d": 60,
+    "top_articles": [
+      {
+        "id": "2467",
+        "title": "US says it has agreed with Iran to 'stand down' after trading strikes, reports say",
+        "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-29 04:52:17"
+      },
+      {
+        "id": "2476",
+        "title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
+        "url": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening?traffic_source=rss",
+        "date": "2026-06-29 03:55:02"
+      },
+      {
+        "id": "2457",
+        "title": "Iran war live: Tehran insists on control of Hormuz amid reports of US talks",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/29/iran-war-live-tehran-insists-on-control-of-hormuz-amid-reports-of-us-talks?traffic_source=rss",
+        "date": "2026-06-29 00:00:00"
+      }
+    ]
+  },
+  {
+    "cluster_id": "9",
+    "label": "heat, week, heatwave",
+    "trending_score": 1.0221,
+    "count_24h": 9,
+    "count_7d": 34,
+    "top_articles": [
+      {
+        "id": "2513",
+        "title": "Extreme heat continues in central and eastern Europe with temperatures of 38C expected – Europe live",
+        "url": "https://www.theguardian.com/world/live/2026/jun/29/extreme-heat-europe-germany-poland-czechia-hungary-serbia-heatwave-nato-rutte-starmer-eu-latest-news-updates",
+        "date": "2026-06-29 08:02:05"
+      },
+      {
+        "id": "2454",
+        "title": "Temperatures to drop this week but relief from heat may be short-lived",
+        "url": "https://www.bbc.co.uk/weather/articles/c5yzq1q4zm8o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-28 23:54:51"
+      },
+      {
+        "id": "2443",
+        "title": "Heatwave and high humidity to blast much of US: ‘impactful to anyone’",
+        "url": "https://www.theguardian.com/us-news/2026/jun/28/heatwave-humidity-fourth-of-july-weather",
+        "date": "2026-06-28 20:53:29"
+      }
+    ]
+  },
+  {
+    "cluster_id": "12",
+    "label": "man, court, arrested",
+    "trending_score": 0.5951,
+    "count_24h": 13,
+    "count_7d": 34,
+    "top_articles": [
+      {
+        "id": "2495",
+        "title": "Top South African police officer survives assassination attempt",
+        "url": "https://www.bbc.co.uk/news/articles/c9v2x700l8vo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-29 07:50:10"
+      },
+      {
+        "id": "2511",
+        "title": "Bruce Lehrmann loses bid to get footage from documentary featuring Brittany Higgins ahead of rape trial",
+        "url": "https://www.theguardian.com/australia-news/2026/jun/29/bruce-lehrmann-loses-bid-brittany-higgins-silenced-documentary-footage-ntwnfb",
+        "date": "2026-06-29 07:49:52"
+      },
+      {
+        "id": "2477",
+        "title": "Australian man charged with murder after Thai girl’s body found in suitcase",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/australian-man-charged-with-murder-after-thai-girls-body-found-in-suitcase?traffic_source=rss",
+        "date": "2026-06-29 03:12:32"
+      }
+    ]
+  },
+  {
+    "cluster_id": "7",
+    "label": "attack, pakistan, kills",
+    "trending_score": 0.5354,
+    "count_24h": 9,
+    "count_7d": 16,
+    "top_articles": [
+      {
+        "id": "2505",
+        "title": "Stealing from the gods: India’s Ram Temple hit by corruption scandal",
+        "url": "https://www.aljazeera.com/features/2026/6/29/stealing-from-the-gods-indias-ram-temple-hit-by-corruption-scandal?traffic_source=rss",
+        "date": "2026-06-29 07:04:55"
+      },
+      {
+        "id": "2508",
+        "title": "Skydiving plane crash kills 11 in northeastern France",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/aje-onl-nf_skydiving-plane-crash-kills-11-in-france-290626?traffic_source=rss",
+        "date": "2026-06-29 05:35:37"
+      },
+      {
+        "id": "2509",
+        "title": "Thousands of Kurds gather in Turkiye to demand release of PKK leader",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/thousands-of-kurds-gather-in-turkiye-to-demand-release-of-pkk-leader?traffic_source=rss",
+        "date": "2026-06-29 05:16:51"
+      }
+    ]
+  },
+  {
+    "cluster_id": "3",
+    "label": "egypt, election, president",
+    "trending_score": 0.4216,
+    "count_24h": 6,
+    "count_7d": 17,
+    "top_articles": [
+      {
+        "id": "2486",
+        "title": "‘If I am to die, let it be here’: Malawians fleeing unrest in South Africa",
+        "url": "https://www.aljazeera.com/news/2026/6/29/if-i-am-to-die-let-it-be-here-malawians-fleeing-unrest-in-south-africa?traffic_source=rss",
+        "date": "2026-06-29 00:19:47"
+      },
+      {
+        "id": "2440",
+        "title": "Protesters in Serbia doubt Vucic resignation will bring change",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/protesters-in-serbia-doubt-vucic-resignation-will-bring-change?traffic_source=rss",
+        "date": "2026-06-28 20:29:18"
+      },
+      {
+        "id": "2430",
+        "title": "Serbia’s protesters press on even after Vucic promises to step aside",
+        "url": "https://www.aljazeera.com/news/2026/6/28/serbias-protesters-press-on-even-after-vucic-promises-to-step-aside?traffic_source=rss",
+        "date": "2026-06-28 18:53:49"
+      }
+    ]
+  },
+  {
+    "cluster_id": "6",
+    "label": "police, shooting, man",
+    "trending_score": 0.4065,
+    "count_24h": 8,
+    "count_7d": 20,
+    "top_articles": [
+      {
+        "id": "2512",
+        "title": "Man charged with DV murder after allegedly shooting Gold Coast mother who could ‘light up any room’",
+        "url": "https://www.theguardian.com/australia-news/2026/jun/29/gold-coast-woman-mallorie-jane-roberts-shot-dead-biggera-waters-ntwnfb",
+        "date": "2026-06-29 05:54:30"
+      },
+      {
+        "id": "2404",
+        "title": "Three firefighters killed and two injured while battling Utah-Colorado wildfires",
+        "url": "https://www.theguardian.com/us-news/2026/jun/28/firefighter-deaths-utah-colorado-wildfires",
+        "date": "2026-06-28 16:43:26"
+      },
+      {
+        "id": "2393",
+        "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
+        "url": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-28 16:33:50"
+      }
+    ]
+  },
+  {
+    "cluster_id": "16",
+    "label": "ballet, new, olympics",
+    "trending_score": 0.3646,
+    "count_24h": 5,
+    "count_7d": 30,
+    "top_articles": [
+      {
+        "id": "2514",
+        "title": "‘We were broke, but fascinated by freedom’: exhibition showcases East German artist Gabriele Stötzer",
+        "url": "https://www.theguardian.com/artanddesign/2026/jun/29/berlin-exhibition-east-german-artist-gabriele-stotzer",
+        "date": "2026-06-29 06:00:31"
+      },
+      {
+        "id": "2460",
+        "title": "‘A privilege – and pretty terrifying’: James Norton to play Hamlet in the West End",
+        "url": "https://www.theguardian.com/stage/2026/jun/29/james-norton-to-play-hamlet-in-the-west-end-in-2027-thomas-ostermeier",
+        "date": "2026-06-28 23:01:22"
+      },
+      {
+        "id": "2432",
+        "title": "Kate completes Three Peaks challenge to raise money for cancer charity",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/28/kate-completes-three-peaks-challenge-to-raise-money-for-cancer-charity",
+        "date": "2026-06-28 20:03:30"
+      }
+    ]
+  },
+  {
+    "cluster_id": "5",
+    "label": "trump, latest, says",
+    "trending_score": 0.3346,
+    "count_24h": 6,
+    "count_7d": 16,
+    "top_articles": [
+      {
+        "id": "2417",
+        "title": "Zohran Mamdani says he and allies he endorsed carry a ‘national message’",
+        "url": "https://www.theguardian.com/us-news/2026/jun/28/zohran-mamdani-new-democratic-politics",
+        "date": "2026-06-28 18:24:22"
+      },
+      {
+        "id": "2415",
+        "title": "Louisiana primary win puts Trump endorsee Letlow on path to US Senate",
+        "url": "https://www.aljazeera.com/news/2026/6/28/louisiana-primary-win-puts-trump-endorsee-letlow-on-path-to-us-senate?traffic_source=rss",
+        "date": "2026-06-28 16:32:13"
+      },
+      {
+        "id": "2389",
+        "title": "Bill Cassidy accuses Trump of treating Congress as ‘merely an appendage’",
+        "url": "https://www.theguardian.com/us-news/2026/jun/28/trump-bill-cassidy-congress-iran-war",
+        "date": "2026-06-28 15:02:27"
+      }
+    ]
+  },
+  {
+    "cluster_id": "1",
+    "label": "russia, russian, says",
+    "trending_score": 0.2941,
+    "count_24h": 4,
+    "count_7d": 12,
+    "top_articles": [
+      {
+        "id": "2498",
+        "title": "How population decline is exposing Germany's old divides",
+        "url": "https://www.bbc.co.uk/news/articles/c24ylyv40y5o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-29 04:49:09"
+      },
+      {
+        "id": "2479",
+        "title": "Putin says Ukraine proposed halt to deep strikes",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/putin-says-ukraine-proposed-halt-to-deep-strikes?traffic_source=rss",
+        "date": "2026-06-29 03:03:34"
+      },
+      {
+        "id": "2451",
+        "title": "Putin admits Ukrainian strikes driving Russian fuel shortages",
+        "url": "https://www.theguardian.com/world/2026/jun/28/putin-admits-ukrainian-strikes-driving-russian-fuel-shortages",
+        "date": "2026-06-28 21:52:52"
+      }
+    ]
+  },
+  {
+    "cluster_id": "15",
+    "label": "new, tech, ai",
+    "trending_score": 0.2687,
+    "count_24h": 5,
+    "count_7d": 45,
+    "top_articles": [
+      {
+        "id": "2502",
+        "title": "South Korea unveils $1tn chip and AI investment plan",
+        "url": "https://www.bbc.co.uk/news/articles/c9q2pwzngjqo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-29 06:46:38"
+      },
+      {
+        "id": "2445",
+        "title": "Navy to build drone-equipped warships instead of replacing ageing destroyers",
+        "url": "https://www.bbc.co.uk/news/articles/c2ky95ndx92o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-28 22:55:56"
+      },
+      {
+        "id": "2435",
+        "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+        "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+        "date": "2026-06-28 19:05:39"
+      }
+    ]
+  },
+  {
+    "cluster_id": "17",
+    "label": "market, global, sales",
+    "trending_score": 0.2409,
+    "count_24h": 5,
+    "count_7d": 25,
+    "top_articles": [
+      {
+        "id": "2516",
+        "title": "BT and Verizon to create joint global business in $625m deal",
+        "url": "https://www.theguardian.com/business/2026/jun/29/bt-verizon-joint-venture-deal-telecoms-international",
+        "date": "2026-06-29 07:18:41"
+      },
+      {
+        "id": "2488",
+        "title": "Shares in chipmakers underpinning AI boom rocket in first half of 2026",
+        "url": "https://www.theguardian.com/business/2026/jun/29/shares-in-chipmakers-underpinning-ai-boom-surge-in-first-half-of-2026",
+        "date": "2026-06-29 03:00:26"
+      },
+      {
+        "id": "2391",
+        "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+        "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+        "date": "2026-06-28 15:00:00"
+      }
+    ]
+  },
+  {
+    "cluster_id": "4",
+    "label": "charlottesville, texas, state",
+    "trending_score": 0.1197,
+    "count_24h": 2,
+    "count_7d": 10,
+    "top_articles": [
+      {
+        "id": "2444",
+        "title": "California law targeting loud streaming ads takes effect on July 1",
+        "url": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
+        "date": "2026-06-28 21:34:14"
+      },
+      {
+        "id": "2434",
+        "title": "US homeland security secretary tells migrants to seek permanent status or leave",
+        "url": "https://www.theguardian.com/us-news/2026/jun/28/markwayne-mullin-migrants-permanent-residence-tps-ruling",
+        "date": "2026-06-28 18:48:40"
+      },
+      {
+        "id": "2193",
+        "title": "With water cuts looming in Arizona in US, locals fight data centres",
+        "url": "https://www.aljazeera.com/economy/2026/6/27/with-water-cuts-looming-in-arizona-in-us-locals-fight-data-centres?traffic_source=rss",
+        "date": "2026-06-27 15:11:37"
+      }
+    ]
+  },
+  {
+    "cluster_id": "13",
+    "label": "says, trump, ex",
+    "trending_score": 0.1135,
+    "count_24h": 2,
+    "count_7d": 16,
+    "top_articles": [
+      {
+        "id": "2436",
+        "title": "Why did this journal retract two 1940s papers by Max Planck?",
+        "url": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
+        "date": "2026-06-28 18:49:21"
+      },
+      {
+        "id": "2347",
+        "title": "Good-faith lawsuit? LDS church in fight with podcaster over Mormon name",
+        "url": "https://www.theguardian.com/us-news/2026/jun/28/lds-church-mormon-lawsuit",
+        "date": "2026-06-28 12:00:09"
+      },
+      {
+        "id": "2225",
+        "title": "US Senate challenger, incumbent with same name to appear on Alaska ballot",
+        "url": "https://www.aljazeera.com/news/2026/6/27/us-senate-challenger-incumbent-with-same-name-to-appear-on-alaska-ballot?traffic_source=rss",
+        "date": "2026-06-27 19:05:26"
+      }
+    ]
+  },
+  {
+    "cluster_id": "19",
+    "label": "10, new, year",
+    "trending_score": 0.0969,
+    "count_24h": 3,
+    "count_7d": 10,
+    "top_articles": [
+      {
+        "id": "2470",
+        "title": "First dinosaur bone from Antarctica found in a drawer",
+        "url": "https://www.bbc.co.uk/news/articles/cdep67jnn9zo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-29 05:10:46"
+      },
+      {
+        "id": "2472",
+        "title": "'I see tourists pee in front of my house': The campervan problem on the Isle of Skye",
+        "url": "https://www.bbc.co.uk/news/articles/crlwj7z7481o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-28 22:11:57"
+      },
+      {
+        "id": "2351",
+        "title": "Full Strawberry Moon set to light up night sky",
+        "url": "https://www.bbc.co.uk/weather/articles/c9q2e0gp03xo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-28 10:51:56"
+      }
+    ]
+  },
+  {
+    "cluster_id": "2",
     "label": "taiwan, china, taipei",
-    "trending_score": 0.0758,
+    "trending_score": 0.0714,
     "count_24h": 0,
     "count_7d": 6,
     "top_articles": [
@@ -351,62 +486,8 @@
     ]
   },
   {
-    "cluster_id": "1",
-    "label": "new, ballet, year",
-    "trending_score": 0.0683,
-    "count_24h": 0,
-    "count_7d": 10,
-    "top_articles": [
-      {
-        "id": "2264",
-        "title": "Bad Bunny: Latin star lights up London with history-making stadium show",
-        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-28 01:46:24"
-      },
-      {
-        "id": "2268",
-        "title": "Millie Bobby Brown and Louis Partridge on belly laughs, sibling vibes and Enola Holmes",
-        "url": "https://www.bbc.co.uk/news/articles/c77ydenvkv1o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-27 23:11:14"
-      },
-      {
-        "id": "2052",
-        "title": "Unwanted items from Alan Carr's castle head to auction",
-        "url": "https://www.bbc.co.uk/news/articles/cjwg7zyl92no?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-27 08:14:55"
-      }
-    ]
-  },
-  {
-    "cluster_id": "5",
-    "label": "charlottesville, trump, court",
-    "trending_score": 0.0338,
-    "count_24h": 0,
-    "count_7d": 7,
-    "top_articles": [
-      {
-        "id": "2131",
-        "title": "‘It’s just so wrong’: Haitians in Ohio reel from supreme court TPS ruling",
-        "url": "https://www.theguardian.com/us-news/2026/jun/27/haitians-ohio-supreme-court-ruling",
-        "date": "2026-06-27 11:00:02"
-      },
-      {
-        "id": "2189",
-        "title": "A smartphone ban in English schools is coming into force. What's changing?",
-        "url": "https://www.bbc.co.uk/news/articles/cy8wjv3x81qo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-27 00:52:45"
-      },
-      {
-        "id": "2030",
-        "title": "Religion row as Texas makes Bible stories required reading in schools",
-        "url": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-27 00:31:42"
-      }
-    ]
-  },
-  {
-    "cluster_id": "6",
-    "label": "league, win, linescores",
+    "cluster_id": "0",
+    "label": "league, win, major",
     "trending_score": 0.0,
     "count_24h": 0,
     "count_7d": 0,
@@ -432,7 +513,7 @@
     ]
   },
   {
-    "cluster_id": "13",
+    "cluster_id": "10",
     "label": "glance, expanded conference, conference glance",
     "trending_score": 0.0,
     "count_24h": 0,

@@ -2,8 +2,8 @@
   {
     "cluster_id": "11",
     "label": "uk, said, burnham",
-    "trending_score": 1.7523,
-    "count_24h": 26,
+    "trending_score": 1.6577,
+    "count_24h": 23,
     "count_7d": 80,
     "top_articles": [
       {
@@ -29,8 +29,8 @@
   {
     "cluster_id": "18",
     "label": "venezuela, 01, earthquakes",
-    "trending_score": 1.6364,
-    "count_24h": 9,
+    "trending_score": 1.4455,
+    "count_24h": 7,
     "count_7d": 48,
     "top_articles": [
       {
@@ -56,8 +56,8 @@
   {
     "cluster_id": "14",
     "label": "world, cup, world cup",
-    "trending_score": 1.6133,
-    "count_24h": 25,
+    "trending_score": 1.3933,
+    "count_24h": 17,
     "count_7d": 109,
     "top_articles": [
       {
@@ -83,8 +83,8 @@
   {
     "cluster_id": "8",
     "label": "iran, israel, lebanon",
-    "trending_score": 0.9545,
-    "count_24h": 8,
+    "trending_score": 0.7909,
+    "count_24h": 3,
     "count_7d": 60,
     "top_articles": [
       {
@@ -164,8 +164,8 @@
   {
     "cluster_id": "12",
     "label": "man, court, arrested",
-    "trending_score": 0.4155,
-    "count_24h": 7,
+    "trending_score": 0.3944,
+    "count_24h": 6,
     "count_7d": 34,
     "top_articles": [
       {
@@ -191,8 +191,8 @@
   {
     "cluster_id": "16",
     "label": "ballet, new, olympics",
-    "trending_score": 0.3229,
-    "count_24h": 4,
+    "trending_score": 0.3021,
+    "count_24h": 3,
     "count_7d": 30,
     "top_articles": [
       {
@@ -218,8 +218,8 @@
   {
     "cluster_id": "3",
     "label": "egypt, election, president",
-    "trending_score": 0.3186,
-    "count_24h": 3,
+    "trending_score": 0.2745,
+    "count_24h": 2,
     "count_7d": 17,
     "top_articles": [
       {
@@ -245,8 +245,8 @@
   {
     "cluster_id": "1",
     "label": "russia, russian, says",
-    "trending_score": 0.2794,
-    "count_24h": 4,
+    "trending_score": 0.2206,
+    "count_24h": 3,
     "count_7d": 12,
     "top_articles": [
       {
@@ -272,8 +272,8 @@
   {
     "cluster_id": "15",
     "label": "new, tech, ai",
-    "trending_score": 0.2164,
-    "count_24h": 3,
+    "trending_score": 0.2015,
+    "count_24h": 2,
     "count_7d": 45,
     "top_articles": [
       {
@@ -299,7 +299,7 @@
   {
     "cluster_id": "6",
     "label": "police, shooting, man",
-    "trending_score": 0.2122,
+    "trending_score": 0.2014,
     "count_24h": 1,
     "count_7d": 20,
     "top_articles": [
@@ -320,33 +320,6 @@
         "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
         "url": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss",
         "date": "2026-06-28 16:33:50"
-      }
-    ]
-  },
-  {
-    "cluster_id": "5",
-    "label": "trump, latest, says",
-    "trending_score": 0.2047,
-    "count_24h": 1,
-    "count_7d": 16,
-    "top_articles": [
-      {
-        "id": "2417",
-        "title": "Zohran Mamdani says he and allies he endorsed carry a ‘national message’",
-        "url": "https://www.theguardian.com/us-news/2026/jun/28/zohran-mamdani-new-democratic-politics",
-        "date": "2026-06-28 18:24:22"
-      },
-      {
-        "id": "2415",
-        "title": "Louisiana primary win puts Trump endorsee Letlow on path to US Senate",
-        "url": "https://www.aljazeera.com/news/2026/6/28/louisiana-primary-win-puts-trump-endorsee-letlow-on-path-to-us-senate?traffic_source=rss",
-        "date": "2026-06-28 16:32:13"
-      },
-      {
-        "id": "2389",
-        "title": "Bill Cassidy accuses Trump of treating Congress as ‘merely an appendage’",
-        "url": "https://www.theguardian.com/us-news/2026/jun/28/trump-bill-cassidy-congress-iran-war",
-        "date": "2026-06-28 15:02:27"
       }
     ]
   },
@@ -378,56 +351,29 @@
     ]
   },
   {
-    "cluster_id": "4",
-    "label": "charlottesville, texas, state",
-    "trending_score": 0.0986,
-    "count_24h": 2,
-    "count_7d": 10,
-    "top_articles": [
-      {
-        "id": "2444",
-        "title": "California law targeting loud streaming ads takes effect on July 1",
-        "url": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
-        "date": "2026-06-28 21:34:14"
-      },
-      {
-        "id": "2434",
-        "title": "US homeland security secretary tells migrants to seek permanent status or leave",
-        "url": "https://www.theguardian.com/us-news/2026/jun/28/markwayne-mullin-migrants-permanent-residence-tps-ruling",
-        "date": "2026-06-28 18:48:40"
-      },
-      {
-        "id": "2193",
-        "title": "With water cuts looming in Arizona in US, locals fight data centres",
-        "url": "https://www.aljazeera.com/economy/2026/6/27/with-water-cuts-looming-in-arizona-in-us-locals-fight-data-centres?traffic_source=rss",
-        "date": "2026-06-27 15:11:37"
-      }
-    ]
-  },
-  {
-    "cluster_id": "13",
-    "label": "says, trump, ex",
-    "trending_score": 0.0951,
-    "count_24h": 1,
+    "cluster_id": "5",
+    "label": "trump, latest, says",
+    "trending_score": 0.1693,
+    "count_24h": 0,
     "count_7d": 16,
     "top_articles": [
       {
-        "id": "2436",
-        "title": "Why did this journal retract two 1940s papers by Max Planck?",
-        "url": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
-        "date": "2026-06-28 18:49:21"
+        "id": "2417",
+        "title": "Zohran Mamdani says he and allies he endorsed carry a ‘national message’",
+        "url": "https://www.theguardian.com/us-news/2026/jun/28/zohran-mamdani-new-democratic-politics",
+        "date": "2026-06-28 18:24:22"
       },
       {
-        "id": "2347",
-        "title": "Good-faith lawsuit? LDS church in fight with podcaster over Mormon name",
-        "url": "https://www.theguardian.com/us-news/2026/jun/28/lds-church-mormon-lawsuit",
-        "date": "2026-06-28 12:00:09"
+        "id": "2415",
+        "title": "Louisiana primary win puts Trump endorsee Letlow on path to US Senate",
+        "url": "https://www.aljazeera.com/news/2026/6/28/louisiana-primary-win-puts-trump-endorsee-letlow-on-path-to-us-senate?traffic_source=rss",
+        "date": "2026-06-28 16:32:13"
       },
       {
-        "id": "2225",
-        "title": "US Senate challenger, incumbent with same name to appear on Alaska ballot",
-        "url": "https://www.aljazeera.com/news/2026/6/27/us-senate-challenger-incumbent-with-same-name-to-appear-on-alaska-ballot?traffic_source=rss",
-        "date": "2026-06-27 19:05:26"
+        "id": "2389",
+        "title": "Bill Cassidy accuses Trump of treating Congress as ‘merely an appendage’",
+        "url": "https://www.theguardian.com/us-news/2026/jun/28/trump-bill-cassidy-congress-iran-war",
+        "date": "2026-06-28 15:02:27"
       }
     ]
   },
@@ -455,6 +401,60 @@
         "title": "Full Strawberry Moon set to light up night sky",
         "url": "https://www.bbc.co.uk/weather/articles/c9q2e0gp03xo?at_medium=RSS&at_campaign=rss",
         "date": "2026-06-28 10:51:56"
+      }
+    ]
+  },
+  {
+    "cluster_id": "4",
+    "label": "charlottesville, texas, state",
+    "trending_score": 0.0775,
+    "count_24h": 1,
+    "count_7d": 10,
+    "top_articles": [
+      {
+        "id": "2444",
+        "title": "California law targeting loud streaming ads takes effect on July 1",
+        "url": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
+        "date": "2026-06-28 21:34:14"
+      },
+      {
+        "id": "2434",
+        "title": "US homeland security secretary tells migrants to seek permanent status or leave",
+        "url": "https://www.theguardian.com/us-news/2026/jun/28/markwayne-mullin-migrants-permanent-residence-tps-ruling",
+        "date": "2026-06-28 18:48:40"
+      },
+      {
+        "id": "2193",
+        "title": "With water cuts looming in Arizona in US, locals fight data centres",
+        "url": "https://www.aljazeera.com/economy/2026/6/27/with-water-cuts-looming-in-arizona-in-us-locals-fight-data-centres?traffic_source=rss",
+        "date": "2026-06-27 15:11:37"
+      }
+    ]
+  },
+  {
+    "cluster_id": "13",
+    "label": "says, trump, ex",
+    "trending_score": 0.0675,
+    "count_24h": 0,
+    "count_7d": 16,
+    "top_articles": [
+      {
+        "id": "2436",
+        "title": "Why did this journal retract two 1940s papers by Max Planck?",
+        "url": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
+        "date": "2026-06-28 18:49:21"
+      },
+      {
+        "id": "2347",
+        "title": "Good-faith lawsuit? LDS church in fight with podcaster over Mormon name",
+        "url": "https://www.theguardian.com/us-news/2026/jun/28/lds-church-mormon-lawsuit",
+        "date": "2026-06-28 12:00:09"
+      },
+      {
+        "id": "2225",
+        "title": "US Senate challenger, incumbent with same name to appear on Alaska ballot",
+        "url": "https://www.aljazeera.com/news/2026/6/27/us-senate-challenger-incumbent-with-same-name-to-appear-on-alaska-ballot?traffic_source=rss",
+        "date": "2026-06-27 19:05:26"
       }
     ]
   },

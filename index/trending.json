@@ -2,8 +2,8 @@
   {
     "cluster_id": "11",
     "label": "uk, said, burnham",
-    "trending_score": 1.9144,
-    "count_24h": 31,
+    "trending_score": 1.7523,
+    "count_24h": 26,
     "count_7d": 80,
     "top_articles": [
       {
@@ -27,37 +27,10 @@
     ]
   },
   {
-    "cluster_id": "14",
-    "label": "world, cup, world cup",
-    "trending_score": 1.9033,
-    "count_24h": 36,
-    "count_7d": 109,
-    "top_articles": [
-      {
-        "id": "2506",
-        "title": "South Korean president, ex-players, fans demand change after World Cup exit",
-        "url": "https://www.aljazeera.com/news/2026/6/29/south-korean-president-ex-players-fans-demand-change-after-world-cup-exit?traffic_source=rss",
-        "date": "2026-06-29 06:44:42"
-      },
-      {
-        "id": "2507",
-        "title": "Brazil plays Japan at World Cup knockouts: Vinicius, prediction and lineups",
-        "url": "https://www.aljazeera.com/sports/2026/6/29/brazil-play-japan-at-world-cup-knockouts-vinicius-prediction-and-lineups?traffic_source=rss",
-        "date": "2026-06-29 06:25:01"
-      },
-      {
-        "id": "2497",
-        "title": "Pampered, protected & primed - so why didn't Scotland players perform?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cdr4nz0m74go?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-29 06:04:56"
-      }
-    ]
-  },
-  {
     "cluster_id": "18",
     "label": "venezuela, 01, earthquakes",
-    "trending_score": 1.8273,
-    "count_24h": 12,
+    "trending_score": 1.6364,
+    "count_24h": 9,
     "count_7d": 48,
     "top_articles": [
       {
@@ -81,10 +54,37 @@
     ]
   },
   {
+    "cluster_id": "14",
+    "label": "world, cup, world cup",
+    "trending_score": 1.6133,
+    "count_24h": 25,
+    "count_7d": 109,
+    "top_articles": [
+      {
+        "id": "2506",
+        "title": "South Korean president, ex-players, fans demand change after World Cup exit",
+        "url": "https://www.aljazeera.com/news/2026/6/29/south-korean-president-ex-players-fans-demand-change-after-world-cup-exit?traffic_source=rss",
+        "date": "2026-06-29 06:44:42"
+      },
+      {
+        "id": "2507",
+        "title": "Brazil plays Japan at World Cup knockouts: Vinicius, prediction and lineups",
+        "url": "https://www.aljazeera.com/sports/2026/6/29/brazil-play-japan-at-world-cup-knockouts-vinicius-prediction-and-lineups?traffic_source=rss",
+        "date": "2026-06-29 06:25:01"
+      },
+      {
+        "id": "2497",
+        "title": "Pampered, protected & primed - so why didn't Scotland players perform?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cdr4nz0m74go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-29 06:04:56"
+      }
+    ]
+  },
+  {
     "cluster_id": "8",
     "label": "iran, israel, lebanon",
-    "trending_score": 1.1455,
-    "count_24h": 11,
+    "trending_score": 0.9545,
+    "count_24h": 8,
     "count_7d": 60,
     "top_articles": [
       {
@@ -110,8 +110,8 @@
   {
     "cluster_id": "9",
     "label": "heat, week, heatwave",
-    "trending_score": 0.7794,
-    "count_24h": 6,
+    "trending_score": 0.625,
+    "count_24h": 3,
     "count_7d": 34,
     "top_articles": [
       {
@@ -137,8 +137,8 @@
   {
     "cluster_id": "7",
     "label": "attack, pakistan, kills",
-    "trending_score": 0.4747,
-    "count_24h": 7,
+    "trending_score": 0.4293,
+    "count_24h": 6,
     "count_7d": 16,
     "top_articles": [
       {
@@ -164,8 +164,8 @@
   {
     "cluster_id": "12",
     "label": "man, court, arrested",
-    "trending_score": 0.4577,
-    "count_24h": 8,
+    "trending_score": 0.4155,
+    "count_24h": 7,
     "count_7d": 34,
     "top_articles": [
       {
@@ -185,33 +185,6 @@
         "title": "Australian man charged with murder after Thai girl’s body found in suitcase",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/australian-man-charged-with-murder-after-thai-girls-body-found-in-suitcase?traffic_source=rss",
         "date": "2026-06-29 03:12:32"
-      }
-    ]
-  },
-  {
-    "cluster_id": "3",
-    "label": "egypt, election, president",
-    "trending_score": 0.348,
-    "count_24h": 4,
-    "count_7d": 17,
-    "top_articles": [
-      {
-        "id": "2486",
-        "title": "‘If I am to die, let it be here’: Malawians fleeing unrest in South Africa",
-        "url": "https://www.aljazeera.com/news/2026/6/29/if-i-am-to-die-let-it-be-here-malawians-fleeing-unrest-in-south-africa?traffic_source=rss",
-        "date": "2026-06-29 00:19:47"
-      },
-      {
-        "id": "2440",
-        "title": "Protesters in Serbia doubt Vucic resignation will bring change",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/protesters-in-serbia-doubt-vucic-resignation-will-bring-change?traffic_source=rss",
-        "date": "2026-06-28 20:29:18"
-      },
-      {
-        "id": "2430",
-        "title": "Serbia’s protesters press on even after Vucic promises to step aside",
-        "url": "https://www.aljazeera.com/news/2026/6/28/serbias-protesters-press-on-even-after-vucic-promises-to-step-aside?traffic_source=rss",
-        "date": "2026-06-28 18:53:49"
       }
     ]
   },
@@ -243,56 +216,29 @@
     ]
   },
   {
-    "cluster_id": "5",
-    "label": "trump, latest, says",
-    "trending_score": 0.2992,
-    "count_24h": 5,
-    "count_7d": 16,
+    "cluster_id": "3",
+    "label": "egypt, election, president",
+    "trending_score": 0.3186,
+    "count_24h": 3,
+    "count_7d": 17,
     "top_articles": [
       {
-        "id": "2417",
-        "title": "Zohran Mamdani says he and allies he endorsed carry a ‘national message’",
-        "url": "https://www.theguardian.com/us-news/2026/jun/28/zohran-mamdani-new-democratic-politics",
-        "date": "2026-06-28 18:24:22"
+        "id": "2486",
+        "title": "‘If I am to die, let it be here’: Malawians fleeing unrest in South Africa",
+        "url": "https://www.aljazeera.com/news/2026/6/29/if-i-am-to-die-let-it-be-here-malawians-fleeing-unrest-in-south-africa?traffic_source=rss",
+        "date": "2026-06-29 00:19:47"
       },
       {
-        "id": "2415",
-        "title": "Louisiana primary win puts Trump endorsee Letlow on path to US Senate",
-        "url": "https://www.aljazeera.com/news/2026/6/28/louisiana-primary-win-puts-trump-endorsee-letlow-on-path-to-us-senate?traffic_source=rss",
-        "date": "2026-06-28 16:32:13"
+        "id": "2440",
+        "title": "Protesters in Serbia doubt Vucic resignation will bring change",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/protesters-in-serbia-doubt-vucic-resignation-will-bring-change?traffic_source=rss",
+        "date": "2026-06-28 20:29:18"
       },
       {
-        "id": "2389",
-        "title": "Bill Cassidy accuses Trump of treating Congress as ‘merely an appendage’",
-        "url": "https://www.theguardian.com/us-news/2026/jun/28/trump-bill-cassidy-congress-iran-war",
-        "date": "2026-06-28 15:02:27"
-      }
-    ]
-  },
-  {
-    "cluster_id": "6",
-    "label": "police, shooting, man",
-    "trending_score": 0.2878,
-    "count_24h": 4,
-    "count_7d": 20,
-    "top_articles": [
-      {
-        "id": "2512",
-        "title": "Man charged with DV murder after allegedly shooting Gold Coast mother who could ‘light up any room’",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/29/gold-coast-woman-mallorie-jane-roberts-shot-dead-biggera-waters-ntwnfb",
-        "date": "2026-06-29 05:54:30"
-      },
-      {
-        "id": "2404",
-        "title": "Three firefighters killed and two injured while battling Utah-Colorado wildfires",
-        "url": "https://www.theguardian.com/us-news/2026/jun/28/firefighter-deaths-utah-colorado-wildfires",
-        "date": "2026-06-28 16:43:26"
-      },
-      {
-        "id": "2393",
-        "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
-        "url": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-28 16:33:50"
+        "id": "2430",
+        "title": "Serbia’s protesters press on even after Vucic promises to step aside",
+        "url": "https://www.aljazeera.com/news/2026/6/28/serbias-protesters-press-on-even-after-vucic-promises-to-step-aside?traffic_source=rss",
+        "date": "2026-06-28 18:53:49"
       }
     ]
   },
@@ -326,8 +272,8 @@
   {
     "cluster_id": "15",
     "label": "new, tech, ai",
-    "trending_score": 0.2537,
-    "count_24h": 5,
+    "trending_score": 0.2164,
+    "count_24h": 3,
     "count_7d": 45,
     "top_articles": [
       {
@@ -351,10 +297,64 @@
     ]
   },
   {
+    "cluster_id": "6",
+    "label": "police, shooting, man",
+    "trending_score": 0.2122,
+    "count_24h": 1,
+    "count_7d": 20,
+    "top_articles": [
+      {
+        "id": "2512",
+        "title": "Man charged with DV murder after allegedly shooting Gold Coast mother who could ‘light up any room’",
+        "url": "https://www.theguardian.com/australia-news/2026/jun/29/gold-coast-woman-mallorie-jane-roberts-shot-dead-biggera-waters-ntwnfb",
+        "date": "2026-06-29 05:54:30"
+      },
+      {
+        "id": "2404",
+        "title": "Three firefighters killed and two injured while battling Utah-Colorado wildfires",
+        "url": "https://www.theguardian.com/us-news/2026/jun/28/firefighter-deaths-utah-colorado-wildfires",
+        "date": "2026-06-28 16:43:26"
+      },
+      {
+        "id": "2393",
+        "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
+        "url": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-28 16:33:50"
+      }
+    ]
+  },
+  {
+    "cluster_id": "5",
+    "label": "trump, latest, says",
+    "trending_score": 0.2047,
+    "count_24h": 1,
+    "count_7d": 16,
+    "top_articles": [
+      {
+        "id": "2417",
+        "title": "Zohran Mamdani says he and allies he endorsed carry a ‘national message’",
+        "url": "https://www.theguardian.com/us-news/2026/jun/28/zohran-mamdani-new-democratic-politics",
+        "date": "2026-06-28 18:24:22"
+      },
+      {
+        "id": "2415",
+        "title": "Louisiana primary win puts Trump endorsee Letlow on path to US Senate",
+        "url": "https://www.aljazeera.com/news/2026/6/28/louisiana-primary-win-puts-trump-endorsee-letlow-on-path-to-us-senate?traffic_source=rss",
+        "date": "2026-06-28 16:32:13"
+      },
+      {
+        "id": "2389",
+        "title": "Bill Cassidy accuses Trump of treating Congress as ‘merely an appendage’",
+        "url": "https://www.theguardian.com/us-news/2026/jun/28/trump-bill-cassidy-congress-iran-war",
+        "date": "2026-06-28 15:02:27"
+      }
+    ]
+  },
+  {
     "cluster_id": "17",
     "label": "market, global, sales",
-    "trending_score": 0.1951,
-    "count_24h": 3,
+    "trending_score": 0.1768,
+    "count_24h": 2,
     "count_7d": 25,
     "top_articles": [
       {
@@ -380,7 +380,7 @@
   {
     "cluster_id": "4",
     "label": "charlottesville, texas, state",
-    "trending_score": 0.1092,
+    "trending_score": 0.0986,
     "count_24h": 2,
     "count_7d": 10,
     "top_articles": [
@@ -461,7 +461,7 @@
   {
     "cluster_id": "2",
     "label": "taiwan, china, taipei",
-    "trending_score": 0.0571,
+    "trending_score": 0.0429,
     "count_24h": 0,
     "count_7d": 6,
     "top_articles": [

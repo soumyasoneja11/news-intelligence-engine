@@ -2,8 +2,8 @@
   {
     "cluster_id": "11",
     "label": "uk, said, burnham",
-    "trending_score": 2.1306,
-    "count_24h": 36,
+    "trending_score": 1.9144,
+    "count_24h": 31,
     "count_7d": 80,
     "top_articles": [
       {
@@ -27,37 +27,10 @@
     ]
   },
   {
-    "cluster_id": "18",
-    "label": "venezuela, 01, earthquakes",
-    "trending_score": 2.1273,
-    "count_24h": 16,
-    "count_7d": 48,
-    "top_articles": [
-      {
-        "id": "2494",
-        "title": "Mum of newborn rescued from Venezuela rubble says baby motivated her to stay alive",
-        "url": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-29 07:51:05"
-      },
-      {
-        "id": "2465",
-        "title": "Anger directed at Venezuela's official response to earthquake recovery",
-        "url": "https://www.bbc.co.uk/news/videos/cj4glezz1jvo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-29 03:35:09"
-      },
-      {
-        "id": "2478",
-        "title": "Venezuelans angry with government as time runs out to rescue survivors",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/venezuelans-angry-government-as-time-runs-out-to-dig-out-survivors?traffic_source=rss",
-        "date": "2026-06-29 03:12:14"
-      }
-    ]
-  },
-  {
     "cluster_id": "14",
     "label": "world, cup, world cup",
-    "trending_score": 2.0333,
-    "count_24h": 40,
+    "trending_score": 1.9033,
+    "count_24h": 36,
     "count_7d": 109,
     "top_articles": [
       {
@@ -81,10 +54,37 @@
     ]
   },
   {
+    "cluster_id": "18",
+    "label": "venezuela, 01, earthquakes",
+    "trending_score": 1.8273,
+    "count_24h": 12,
+    "count_7d": 48,
+    "top_articles": [
+      {
+        "id": "2494",
+        "title": "Mum of newborn rescued from Venezuela rubble says baby motivated her to stay alive",
+        "url": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-29 07:51:05"
+      },
+      {
+        "id": "2465",
+        "title": "Anger directed at Venezuela's official response to earthquake recovery",
+        "url": "https://www.bbc.co.uk/news/videos/cj4glezz1jvo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-29 03:35:09"
+      },
+      {
+        "id": "2478",
+        "title": "Venezuelans angry with government as time runs out to rescue survivors",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/venezuelans-angry-government-as-time-runs-out-to-dig-out-survivors?traffic_source=rss",
+        "date": "2026-06-29 03:12:14"
+      }
+    ]
+  },
+  {
     "cluster_id": "8",
     "label": "iran, israel, lebanon",
-    "trending_score": 1.5,
-    "count_24h": 21,
+    "trending_score": 1.1455,
+    "count_24h": 11,
     "count_7d": 60,
     "top_articles": [
       {
@@ -110,8 +110,8 @@
   {
     "cluster_id": "9",
     "label": "heat, week, heatwave",
-    "trending_score": 0.9118,
-    "count_24h": 7,
+    "trending_score": 0.7794,
+    "count_24h": 6,
     "count_7d": 34,
     "top_articles": [
       {
@@ -135,37 +135,10 @@
     ]
   },
   {
-    "cluster_id": "12",
-    "label": "man, court, arrested",
-    "trending_score": 0.5528,
-    "count_24h": 11,
-    "count_7d": 34,
-    "top_articles": [
-      {
-        "id": "2495",
-        "title": "Top South African police officer survives assassination attempt",
-        "url": "https://www.bbc.co.uk/news/articles/c9v2x700l8vo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-29 07:50:10"
-      },
-      {
-        "id": "2511",
-        "title": "Bruce Lehrmann loses bid to get footage from documentary featuring Brittany Higgins ahead of rape trial",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/29/bruce-lehrmann-loses-bid-brittany-higgins-silenced-documentary-footage-ntwnfb",
-        "date": "2026-06-29 07:49:52"
-      },
-      {
-        "id": "2477",
-        "title": "Australian man charged with murder after Thai girl’s body found in suitcase",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/australian-man-charged-with-murder-after-thai-girls-body-found-in-suitcase?traffic_source=rss",
-        "date": "2026-06-29 03:12:32"
-      }
-    ]
-  },
-  {
     "cluster_id": "7",
     "label": "attack, pakistan, kills",
-    "trending_score": 0.5354,
-    "count_24h": 9,
+    "trending_score": 0.4747,
+    "count_24h": 7,
     "count_7d": 16,
     "top_articles": [
       {
@@ -189,10 +162,37 @@
     ]
   },
   {
+    "cluster_id": "12",
+    "label": "man, court, arrested",
+    "trending_score": 0.4577,
+    "count_24h": 8,
+    "count_7d": 34,
+    "top_articles": [
+      {
+        "id": "2495",
+        "title": "Top South African police officer survives assassination attempt",
+        "url": "https://www.bbc.co.uk/news/articles/c9v2x700l8vo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-29 07:50:10"
+      },
+      {
+        "id": "2511",
+        "title": "Bruce Lehrmann loses bid to get footage from documentary featuring Brittany Higgins ahead of rape trial",
+        "url": "https://www.theguardian.com/australia-news/2026/jun/29/bruce-lehrmann-loses-bid-brittany-higgins-silenced-documentary-footage-ntwnfb",
+        "date": "2026-06-29 07:49:52"
+      },
+      {
+        "id": "2477",
+        "title": "Australian man charged with murder after Thai girl’s body found in suitcase",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/australian-man-charged-with-murder-after-thai-girls-body-found-in-suitcase?traffic_source=rss",
+        "date": "2026-06-29 03:12:32"
+      }
+    ]
+  },
+  {
     "cluster_id": "3",
     "label": "egypt, election, president",
-    "trending_score": 0.4216,
-    "count_24h": 6,
+    "trending_score": 0.348,
+    "count_24h": 4,
     "count_7d": 17,
     "top_articles": [
       {
@@ -216,36 +216,9 @@
     ]
   },
   {
-    "cluster_id": "6",
-    "label": "police, shooting, man",
-    "trending_score": 0.3957,
-    "count_24h": 8,
-    "count_7d": 20,
-    "top_articles": [
-      {
-        "id": "2512",
-        "title": "Man charged with DV murder after allegedly shooting Gold Coast mother who could ‘light up any room’",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/29/gold-coast-woman-mallorie-jane-roberts-shot-dead-biggera-waters-ntwnfb",
-        "date": "2026-06-29 05:54:30"
-      },
-      {
-        "id": "2404",
-        "title": "Three firefighters killed and two injured while battling Utah-Colorado wildfires",
-        "url": "https://www.theguardian.com/us-news/2026/jun/28/firefighter-deaths-utah-colorado-wildfires",
-        "date": "2026-06-28 16:43:26"
-      },
-      {
-        "id": "2393",
-        "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
-        "url": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-28 16:33:50"
-      }
-    ]
-  },
-  {
     "cluster_id": "16",
     "label": "ballet, new, olympics",
-    "trending_score": 0.3438,
+    "trending_score": 0.3229,
     "count_24h": 4,
     "count_7d": 30,
     "top_articles": [
@@ -272,7 +245,7 @@
   {
     "cluster_id": "5",
     "label": "trump, latest, says",
-    "trending_score": 0.311,
+    "trending_score": 0.2992,
     "count_24h": 5,
     "count_7d": 16,
     "top_articles": [
@@ -297,9 +270,36 @@
     ]
   },
   {
+    "cluster_id": "6",
+    "label": "police, shooting, man",
+    "trending_score": 0.2878,
+    "count_24h": 4,
+    "count_7d": 20,
+    "top_articles": [
+      {
+        "id": "2512",
+        "title": "Man charged with DV murder after allegedly shooting Gold Coast mother who could ‘light up any room’",
+        "url": "https://www.theguardian.com/australia-news/2026/jun/29/gold-coast-woman-mallorie-jane-roberts-shot-dead-biggera-waters-ntwnfb",
+        "date": "2026-06-29 05:54:30"
+      },
+      {
+        "id": "2404",
+        "title": "Three firefighters killed and two injured while battling Utah-Colorado wildfires",
+        "url": "https://www.theguardian.com/us-news/2026/jun/28/firefighter-deaths-utah-colorado-wildfires",
+        "date": "2026-06-28 16:43:26"
+      },
+      {
+        "id": "2393",
+        "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
+        "url": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-28 16:33:50"
+      }
+    ]
+  },
+  {
     "cluster_id": "1",
     "label": "russia, russian, says",
-    "trending_score": 0.2941,
+    "trending_score": 0.2794,
     "count_24h": 4,
     "count_7d": 12,
     "top_articles": [
@@ -326,7 +326,7 @@
   {
     "cluster_id": "15",
     "label": "new, tech, ai",
-    "trending_score": 0.2687,
+    "trending_score": 0.2537,
     "count_24h": 5,
     "count_7d": 45,
     "top_articles": [
@@ -353,8 +353,8 @@
   {
     "cluster_id": "17",
     "label": "market, global, sales",
-    "trending_score": 0.2409,
-    "count_24h": 5,
+    "trending_score": 0.1951,
+    "count_24h": 3,
     "count_7d": 25,
     "top_articles": [
       {
@@ -380,7 +380,7 @@
   {
     "cluster_id": "4",
     "label": "charlottesville, texas, state",
-    "trending_score": 0.1197,
+    "trending_score": 0.1092,
     "count_24h": 2,
     "count_7d": 10,
     "top_articles": [
@@ -407,8 +407,8 @@
   {
     "cluster_id": "13",
     "label": "says, trump, ex",
-    "trending_score": 0.1135,
-    "count_24h": 2,
+    "trending_score": 0.0951,
+    "count_24h": 1,
     "count_7d": 16,
     "top_articles": [
       {
@@ -434,8 +434,8 @@
   {
     "cluster_id": "19",
     "label": "10, new, year",
-    "trending_score": 0.0969,
-    "count_24h": 3,
+    "trending_score": 0.0812,
+    "count_24h": 2,
     "count_7d": 10,
     "top_articles": [
       {
@@ -461,7 +461,7 @@
   {
     "cluster_id": "2",
     "label": "taiwan, china, taipei",
-    "trending_score": 0.0714,
+    "trending_score": 0.0571,
     "count_24h": 0,
     "count_7d": 6,
     "top_articles": [

@@ -2,8 +2,8 @@
   {
     "cluster_id": "11",
     "label": "uk, said, burnham",
-    "trending_score": 1.6577,
-    "count_24h": 23,
+    "trending_score": 1.6036,
+    "count_24h": 21,
     "count_7d": 80,
     "top_articles": [
       {
@@ -29,8 +29,8 @@
   {
     "cluster_id": "18",
     "label": "venezuela, 01, earthquakes",
-    "trending_score": 1.4455,
-    "count_24h": 7,
+    "trending_score": 1.3636,
+    "count_24h": 6,
     "count_7d": 48,
     "top_articles": [
       {
@@ -56,8 +56,8 @@
   {
     "cluster_id": "14",
     "label": "world, cup, world cup",
-    "trending_score": 1.3933,
-    "count_24h": 17,
+    "trending_score": 1.3333,
+    "count_24h": 15,
     "count_7d": 109,
     "top_articles": [
       {
@@ -83,7 +83,7 @@
   {
     "cluster_id": "8",
     "label": "iran, israel, lebanon",
-    "trending_score": 0.7909,
+    "trending_score": 0.7773,
     "count_24h": 3,
     "count_7d": 60,
     "top_articles": [
@@ -110,8 +110,8 @@
   {
     "cluster_id": "9",
     "label": "heat, week, heatwave",
-    "trending_score": 0.625,
-    "count_24h": 3,
+    "trending_score": 0.5588,
+    "count_24h": 2,
     "count_7d": 34,
     "top_articles": [
       {
@@ -137,7 +137,7 @@
   {
     "cluster_id": "7",
     "label": "attack, pakistan, kills",
-    "trending_score": 0.4293,
+    "trending_score": 0.4141,
     "count_24h": 6,
     "count_7d": 16,
     "top_articles": [
@@ -164,7 +164,7 @@
   {
     "cluster_id": "12",
     "label": "man, court, arrested",
-    "trending_score": 0.3944,
+    "trending_score": 0.3838,
     "count_24h": 6,
     "count_7d": 34,
     "top_articles": [
@@ -191,8 +191,8 @@
   {
     "cluster_id": "16",
     "label": "ballet, new, olympics",
-    "trending_score": 0.3021,
-    "count_24h": 3,
+    "trending_score": 0.2812,
+    "count_24h": 2,
     "count_7d": 30,
     "top_articles": [
       {
@@ -218,8 +218,8 @@
   {
     "cluster_id": "3",
     "label": "egypt, election, president",
-    "trending_score": 0.2745,
-    "count_24h": 2,
+    "trending_score": 0.2304,
+    "count_24h": 1,
     "count_7d": 17,
     "top_articles": [
       {
@@ -270,33 +270,6 @@
     ]
   },
   {
-    "cluster_id": "15",
-    "label": "new, tech, ai",
-    "trending_score": 0.2015,
-    "count_24h": 2,
-    "count_7d": 45,
-    "top_articles": [
-      {
-        "id": "2502",
-        "title": "South Korea unveils $1tn chip and AI investment plan",
-        "url": "https://www.bbc.co.uk/news/articles/c9q2pwzngjqo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-29 06:46:38"
-      },
-      {
-        "id": "2445",
-        "title": "Navy to build drone-equipped warships instead of replacing ageing destroyers",
-        "url": "https://www.bbc.co.uk/news/articles/c2ky95ndx92o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-28 22:55:56"
-      },
-      {
-        "id": "2435",
-        "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-        "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-        "date": "2026-06-28 19:05:39"
-      }
-    ]
-  },
-  {
     "cluster_id": "6",
     "label": "police, shooting, man",
     "trending_score": 0.2014,
@@ -320,6 +293,33 @@
         "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
         "url": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss",
         "date": "2026-06-28 16:33:50"
+      }
+    ]
+  },
+  {
+    "cluster_id": "15",
+    "label": "new, tech, ai",
+    "trending_score": 0.194,
+    "count_24h": 2,
+    "count_7d": 45,
+    "top_articles": [
+      {
+        "id": "2502",
+        "title": "South Korea unveils $1tn chip and AI investment plan",
+        "url": "https://www.bbc.co.uk/news/articles/c9q2pwzngjqo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-29 06:46:38"
+      },
+      {
+        "id": "2445",
+        "title": "Navy to build drone-equipped warships instead of replacing ageing destroyers",
+        "url": "https://www.bbc.co.uk/news/articles/c2ky95ndx92o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-28 22:55:56"
+      },
+      {
+        "id": "2435",
+        "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+        "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+        "date": "2026-06-28 19:05:39"
       }
     ]
   },
@@ -353,7 +353,7 @@
   {
     "cluster_id": "5",
     "label": "trump, latest, says",
-    "trending_score": 0.1693,
+    "trending_score": 0.1339,
     "count_24h": 0,
     "count_7d": 16,
     "top_articles": [

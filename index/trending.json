@@ -2,8 +2,8 @@
   {
     "cluster_id": "11",
     "label": "uk, said, burnham",
-    "trending_score": 2.2117,
-    "count_24h": 38,
+    "trending_score": 2.1306,
+    "count_24h": 36,
     "count_7d": 80,
     "top_articles": [
       {
@@ -29,8 +29,8 @@
   {
     "cluster_id": "18",
     "label": "venezuela, 01, earthquakes",
-    "trending_score": 2.2091,
-    "count_24h": 17,
+    "trending_score": 2.1273,
+    "count_24h": 16,
     "count_7d": 48,
     "top_articles": [
       {
@@ -56,8 +56,8 @@
   {
     "cluster_id": "14",
     "label": "world, cup, world cup",
-    "trending_score": 2.1733,
-    "count_24h": 45,
+    "trending_score": 2.0333,
+    "count_24h": 40,
     "count_7d": 109,
     "top_articles": [
       {
@@ -83,8 +83,8 @@
   {
     "cluster_id": "8",
     "label": "iran, israel, lebanon",
-    "trending_score": 1.5273,
-    "count_24h": 22,
+    "trending_score": 1.5,
+    "count_24h": 21,
     "count_7d": 60,
     "top_articles": [
       {
@@ -110,8 +110,8 @@
   {
     "cluster_id": "9",
     "label": "heat, week, heatwave",
-    "trending_score": 1.0221,
-    "count_24h": 9,
+    "trending_score": 0.9118,
+    "count_24h": 7,
     "count_7d": 34,
     "top_articles": [
       {
@@ -137,8 +137,8 @@
   {
     "cluster_id": "12",
     "label": "man, court, arrested",
-    "trending_score": 0.5951,
-    "count_24h": 13,
+    "trending_score": 0.5528,
+    "count_24h": 11,
     "count_7d": 34,
     "top_articles": [
       {
@@ -218,7 +218,7 @@
   {
     "cluster_id": "6",
     "label": "police, shooting, man",
-    "trending_score": 0.4065,
+    "trending_score": 0.3957,
     "count_24h": 8,
     "count_7d": 20,
     "top_articles": [
@@ -245,8 +245,8 @@
   {
     "cluster_id": "16",
     "label": "ballet, new, olympics",
-    "trending_score": 0.3646,
-    "count_24h": 5,
+    "trending_score": 0.3438,
+    "count_24h": 4,
     "count_7d": 30,
     "top_articles": [
       {
@@ -272,8 +272,8 @@
   {
     "cluster_id": "5",
     "label": "trump, latest, says",
-    "trending_score": 0.3346,
-    "count_24h": 6,
+    "trending_score": 0.311,
+    "count_24h": 5,
     "count_7d": 16,
     "top_articles": [
       {

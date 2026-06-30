@@ -3286,7 +3286,7 @@
       "title": "Fourteen killed in Saudi Arabia helicopter crash",
       "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss"
     },
-    "similarity": 0.9479902386665344
+    "similarity": 0.9479901790618896
   },
   {
     "article_a": {
@@ -3326,6 +3326,19 @@
       "url": "https://www.taiwannews.com.tw/en/news/3444550"
     },
     "similarity": 0.940414309501648
+  },
+  {
+    "article_a": {
+      "id": "2901",
+      "title": "SCOTUS rules against Trump’s order limiting birthright citizenship",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/scotus-rules-against-trumps-order-limiting-birthright-citizenship?traffic_source=rss"
+    },
+    "article_b": {
+      "id": "2903",
+      "title": "Iran to hold talks with Qatar on MoU deal with US, frozen assets",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/iran-to-hold-talks-with-qatar-on-mou-deal-with-us-frozen-assets?traffic_source=rss"
+    },
+    "similarity": 0.937150776386261
   },
   {
     "article_a": {

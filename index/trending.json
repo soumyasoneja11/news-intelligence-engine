@@ -2,8 +2,8 @@
   {
     "cluster_id": "16",
     "label": "burnham, uk, said",
-    "trending_score": 1.7185,
-    "count_24h": 24,
+    "trending_score": 1.563,
+    "count_24h": 19,
     "count_7d": 113,
     "top_articles": [
       {
@@ -29,8 +29,8 @@
   {
     "cluster_id": "13",
     "label": "venezuela, 01, earthquakes",
-    "trending_score": 1.3733,
-    "count_24h": 9,
+    "trending_score": 1.2333,
+    "count_24h": 7,
     "count_7d": 68,
     "top_articles": [
       {
@@ -56,8 +56,8 @@
   {
     "cluster_id": "14",
     "label": "world, cup, world cup",
-    "trending_score": 1.3494,
-    "count_24h": 20,
+    "trending_score": 1.2244,
+    "count_24h": 16,
     "count_7d": 133,
     "top_articles": [
       {
@@ -83,7 +83,7 @@
   {
     "cluster_id": "1",
     "label": "iran, strait, said",
-    "trending_score": 0.9514,
+    "trending_score": 0.9306,
     "count_24h": 5,
     "count_7d": 56,
     "top_articles": [
@@ -110,8 +110,8 @@
   {
     "cluster_id": "9",
     "label": "israel, israeli, gaza",
-    "trending_score": 0.7711,
-    "count_24h": 8,
+    "trending_score": 0.6338,
+    "count_24h": 4,
     "count_7d": 60,
     "top_articles": [
       {
@@ -135,37 +135,10 @@
     ]
   },
   {
-    "cluster_id": "4",
-    "label": "heat, heatwave, week",
-    "trending_score": 0.54,
-    "count_24h": 3,
-    "count_7d": 54,
-    "top_articles": [
-      {
-        "id": "2732",
-        "title": "Another UK heatwave could be on the way",
-        "url": "https://www.bbc.co.uk/weather/articles/cql14kwex2wo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-29 23:03:06"
-      },
-      {
-        "id": "2668",
-        "title": "Deadly heatwave grips Italy and Balkans as wildfire fears grow",
-        "url": "https://www.aljazeera.com/news/2026/6/29/deadly-heatwave-grips-italy-and-balkans-as-wildfire-fears-grow?traffic_source=rss",
-        "date": "2026-06-29 19:30:28"
-      },
-      {
-        "id": "2713",
-        "title": "Ozone loss was a thing even before CFCs were widely used",
-        "url": "https://arstechnica.com/science/2026/06/ozone-damage-could-have-been-detected-decades-earlier/",
-        "date": "2026-06-29 19:00:23"
-      }
-    ]
-  },
-  {
     "cluster_id": "2",
     "label": "police, man, shooting",
-    "trending_score": 0.5179,
-    "count_24h": 11,
+    "trending_score": 0.4872,
+    "count_24h": 9,
     "count_7d": 55,
     "top_articles": [
       {
@@ -189,11 +162,38 @@
     ]
   },
   {
+    "cluster_id": "4",
+    "label": "heat, heatwave, week",
+    "trending_score": 0.48,
+    "count_24h": 1,
+    "count_7d": 54,
+    "top_articles": [
+      {
+        "id": "2732",
+        "title": "Another UK heatwave could be on the way",
+        "url": "https://www.bbc.co.uk/weather/articles/cql14kwex2wo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-29 23:03:06"
+      },
+      {
+        "id": "2668",
+        "title": "Deadly heatwave grips Italy and Balkans as wildfire fears grow",
+        "url": "https://www.aljazeera.com/news/2026/6/29/deadly-heatwave-grips-italy-and-balkans-as-wildfire-fears-grow?traffic_source=rss",
+        "date": "2026-06-29 19:30:28"
+      },
+      {
+        "id": "2713",
+        "title": "Ozone loss was a thing even before CFCs were widely used",
+        "url": "https://arstechnica.com/science/2026/06/ozone-damage-could-have-been-detected-decades-earlier/",
+        "date": "2026-06-29 19:00:23"
+      }
+    ]
+  },
+  {
     "cluster_id": "7",
     "label": "tech, ai, data",
-    "trending_score": 0.4295,
-    "count_24h": 4,
-    "count_7d": 62,
+    "trending_score": 0.3558,
+    "count_24h": 1,
+    "count_7d": 60,
     "top_articles": [
       {
         "id": "2744",
@@ -216,37 +216,10 @@
     ]
   },
   {
-    "cluster_id": "6",
-    "label": "new, market, ai",
-    "trending_score": 0.3664,
-    "count_24h": 11,
-    "count_7d": 71,
-    "top_articles": [
-      {
-        "id": "2800",
-        "title": "Millions of Britons urged to submit meter readings before energy price cap rises on Wednesday",
-        "url": "https://www.theguardian.com/money/2026/jun/30/britons-submit-meter-readings-before-energy-price-cap-rise-uk",
-        "date": "2026-06-30 06:00:40"
-      },
-      {
-        "id": "2802",
-        "title": "Brompton sells stakes to Decathlon and Chinese Labubu backer",
-        "url": "https://www.theguardian.com/business/2026/jun/30/brompton-sells-stakes-decathlon-bike-maker-sales",
-        "date": "2026-06-30 05:00:40"
-      },
-      {
-        "id": "2780",
-        "title": "The AI jobs debate just got messier",
-        "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-        "date": "2026-06-30 04:01:00"
-      }
-    ]
-  },
-  {
     "cluster_id": "3",
     "label": "court, man, judge",
-    "trending_score": 0.3626,
-    "count_24h": 10,
+    "trending_score": 0.3356,
+    "count_24h": 8,
     "count_7d": 38,
     "top_articles": [
       {
@@ -270,10 +243,37 @@
     ]
   },
   {
+    "cluster_id": "6",
+    "label": "new, market, ai",
+    "trending_score": 0.3318,
+    "count_24h": 8,
+    "count_7d": 70,
+    "top_articles": [
+      {
+        "id": "2800",
+        "title": "Millions of Britons urged to submit meter readings before energy price cap rises on Wednesday",
+        "url": "https://www.theguardian.com/money/2026/jun/30/britons-submit-meter-readings-before-energy-price-cap-rise-uk",
+        "date": "2026-06-30 06:00:40"
+      },
+      {
+        "id": "2802",
+        "title": "Brompton sells stakes to Decathlon and Chinese Labubu backer",
+        "url": "https://www.theguardian.com/business/2026/jun/30/brompton-sells-stakes-decathlon-bike-maker-sales",
+        "date": "2026-06-30 05:00:40"
+      },
+      {
+        "id": "2780",
+        "title": "The AI jobs debate just got messier",
+        "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+        "date": "2026-06-30 04:01:00"
+      }
+    ]
+  },
+  {
     "cluster_id": "15",
     "label": "trump, latest, president",
-    "trending_score": 0.3102,
-    "count_24h": 4,
+    "trending_score": 0.2741,
+    "count_24h": 3,
     "count_7d": 34,
     "top_articles": [
       {
@@ -297,37 +297,10 @@
     ]
   },
   {
-    "cluster_id": "0",
-    "label": "olympic, new, says",
-    "trending_score": 0.2897,
-    "count_24h": 6,
-    "count_7d": 37,
-    "top_articles": [
-      {
-        "id": "2785",
-        "title": "Did Russell's pole set dangerous precedent? F1 Q&A",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c79yxx3ve9do?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-30 06:53:40"
-      },
-      {
-        "id": "2783",
-        "title": "Serena Williams on Maya Joint match and return to tennis",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c0jyv69p821o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-30 06:31:46"
-      },
-      {
-        "id": "2738",
-        "title": "Australian football legend Sam Kerr signs with Gotham FC after Chelsea exit",
-        "url": "https://www.aljazeera.com/sports/2026/6/29/australian-football-legend-sam-kerr-signs-with-gotham-fc-after-chelsea-exit?traffic_source=rss",
-        "date": "2026-06-29 22:37:28"
-      }
-    ]
-  },
-  {
     "cluster_id": "10",
     "label": "taiwan, says, china",
-    "trending_score": 0.2769,
-    "count_24h": 7,
+    "trending_score": 0.2645,
+    "count_24h": 6,
     "count_7d": 38,
     "top_articles": [
       {
@@ -351,9 +324,36 @@
     ]
   },
   {
+    "cluster_id": "0",
+    "label": "olympic, new, says",
+    "trending_score": 0.2617,
+    "count_24h": 5,
+    "count_7d": 37,
+    "top_articles": [
+      {
+        "id": "2785",
+        "title": "Did Russell's pole set dangerous precedent? F1 Q&A",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/c79yxx3ve9do?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-30 06:53:40"
+      },
+      {
+        "id": "2783",
+        "title": "Serena Williams on Maya Joint match and return to tennis",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c0jyv69p821o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-30 06:31:46"
+      },
+      {
+        "id": "2738",
+        "title": "Australian football legend Sam Kerr signs with Gotham FC after Chelsea exit",
+        "url": "https://www.aljazeera.com/sports/2026/6/29/australian-football-legend-sam-kerr-signs-with-gotham-fc-after-chelsea-exit?traffic_source=rss",
+        "date": "2026-06-29 22:37:28"
+      }
+    ]
+  },
+  {
     "cluster_id": "8",
     "label": "trump, latest, state",
-    "trending_score": 0.2147,
+    "trending_score": 0.2062,
     "count_24h": 5,
     "count_7d": 19,
     "top_articles": [

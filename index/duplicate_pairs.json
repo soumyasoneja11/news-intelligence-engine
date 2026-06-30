@@ -3303,6 +3303,19 @@
   },
   {
     "article_a": {
+      "id": "2990",
+      "title": "German heatwave melts tram tracks, triggers travel disruptions",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/german-heatwave-melts-tram-tracks-triggers-travel-disruptions?traffic_source=rss"
+    },
+    "article_b": {
+      "id": "2991",
+      "title": "How much of your life do you spend on social media?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/how-much-of-your-life-do-you-spend-on-social-media-2?traffic_source=rss"
+    },
+    "similarity": 0.9441756010055542
+  },
+  {
+    "article_a": {
       "id": "2833",
       "title": "Man in Gaza survives double tap Israeli strike on vehicle",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/man-in-gaza-survives-double-tap-israeli-strike-on-vehicle?traffic_source=rss"
@@ -3351,7 +3364,7 @@
       "title": "Feminism; the Merriam-Webster Word of the Year for 2017",
       "url": "https://www.taiwannews.com.tw/en/news/3318568"
     },
-    "similarity": 0.9335389733314514
+    "similarity": 0.9335390329360962
   },
   {
     "article_a": {

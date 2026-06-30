@@ -2,8 +2,8 @@
   {
     "cluster_id": "16",
     "label": "burnham, uk, said",
-    "trending_score": 1.4074,
-    "count_24h": 13,
+    "trending_score": 1.2296,
+    "count_24h": 8,
     "count_7d": 113,
     "top_articles": [
       {
@@ -27,37 +27,10 @@
     ]
   },
   {
-    "cluster_id": "14",
-    "label": "world, cup, world cup",
-    "trending_score": 1.1571,
-    "count_24h": 15,
-    "count_7d": 133,
-    "top_articles": [
-      {
-        "id": "2793",
-        "title": "Paraguay declares holiday after beating Germany in World Cup upset",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/paraguay-declares-holiday-after-beating-germany-in-world-cup-upset?traffic_source=rss",
-        "date": "2026-06-30 05:59:33"
-      },
-      {
-        "id": "2784",
-        "title": "Emotional Gakpo scores days after loss of unborn son",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5yz3yjgp5yo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-30 05:10:38"
-      },
-      {
-        "id": "2795",
-        "title": "Heartbroken Iran exit World Cup amid silver lining of Mexican hospitality",
-        "url": "https://www.aljazeera.com/sports/2026/6/30/heartbroken-iran-exit-world-cup-amid-silver-lining-of-mexican-hospitality?traffic_source=rss",
-        "date": "2026-06-30 04:41:32"
-      }
-    ]
-  },
-  {
     "cluster_id": "13",
     "label": "venezuela, 01, earthquakes",
-    "trending_score": 1.1533,
-    "count_24h": 5,
+    "trending_score": 1.1133,
+    "count_24h": 4,
     "count_7d": 68,
     "top_articles": [
       {
@@ -77,6 +50,33 @@
         "title": "Fears for people deported from US to Venezuela hours before earthquakes hit",
         "url": "https://www.aljazeera.com/news/2026/6/30/fears-for-people-deported-from-us-to-venezuela-hours-before-earthquakes-hit?traffic_source=rss",
         "date": "2026-06-30 02:32:08"
+      }
+    ]
+  },
+  {
+    "cluster_id": "14",
+    "label": "world, cup, world cup",
+    "trending_score": 1.0994,
+    "count_24h": 12,
+    "count_7d": 133,
+    "top_articles": [
+      {
+        "id": "2793",
+        "title": "Paraguay declares holiday after beating Germany in World Cup upset",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/paraguay-declares-holiday-after-beating-germany-in-world-cup-upset?traffic_source=rss",
+        "date": "2026-06-30 05:59:33"
+      },
+      {
+        "id": "2784",
+        "title": "Emotional Gakpo scores days after loss of unborn son",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5yz3yjgp5yo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-30 05:10:38"
+      },
+      {
+        "id": "2795",
+        "title": "Heartbroken Iran exit World Cup amid silver lining of Mexican hospitality",
+        "url": "https://www.aljazeera.com/sports/2026/6/30/heartbroken-iran-exit-world-cup-amid-silver-lining-of-mexican-hospitality?traffic_source=rss",
+        "date": "2026-06-30 04:41:32"
       }
     ]
   },
@@ -137,8 +137,8 @@
   {
     "cluster_id": "4",
     "label": "heat, heatwave, week",
-    "trending_score": 0.465,
-    "count_24h": 1,
+    "trending_score": 0.42,
+    "count_24h": 0,
     "count_7d": 54,
     "top_articles": [
       {
@@ -164,8 +164,8 @@
   {
     "cluster_id": "2",
     "label": "police, man, shooting",
-    "trending_score": 0.4103,
-    "count_24h": 4,
+    "trending_score": 0.3872,
+    "count_24h": 3,
     "count_7d": 55,
     "top_articles": [
       {
@@ -191,8 +191,8 @@
   {
     "cluster_id": "7",
     "label": "tech, ai, data",
-    "trending_score": 0.3462,
-    "count_24h": 1,
+    "trending_score": 0.3269,
+    "count_24h": 0,
     "count_7d": 60,
     "top_articles": [
       {
@@ -218,8 +218,8 @@
   {
     "cluster_id": "3",
     "label": "court, man, judge",
-    "trending_score": 0.3221,
-    "count_24h": 7,
+    "trending_score": 0.3086,
+    "count_24h": 6,
     "count_7d": 38,
     "top_articles": [
       {
@@ -245,8 +245,8 @@
   {
     "cluster_id": "6",
     "label": "new, market, ai",
-    "trending_score": 0.3129,
-    "count_24h": 6,
+    "trending_score": 0.2893,
+    "count_24h": 4,
     "count_7d": 70,
     "top_articles": [
       {
@@ -272,7 +272,7 @@
   {
     "cluster_id": "10",
     "label": "taiwan, says, china",
-    "trending_score": 0.2583,
+    "trending_score": 0.2521,
     "count_24h": 6,
     "count_7d": 38,
     "top_articles": [
@@ -324,33 +324,6 @@
     ]
   },
   {
-    "cluster_id": "0",
-    "label": "olympic, new, says",
-    "trending_score": 0.2266,
-    "count_24h": 3,
-    "count_7d": 37,
-    "top_articles": [
-      {
-        "id": "2785",
-        "title": "Did Russell's pole set dangerous precedent? F1 Q&A",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c79yxx3ve9do?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-30 06:53:40"
-      },
-      {
-        "id": "2783",
-        "title": "Serena Williams on Maya Joint match and return to tennis",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c0jyv69p821o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-30 06:31:46"
-      },
-      {
-        "id": "2738",
-        "title": "Australian football legend Sam Kerr signs with Gotham FC after Chelsea exit",
-        "url": "https://www.aljazeera.com/sports/2026/6/29/australian-football-legend-sam-kerr-signs-with-gotham-fc-after-chelsea-exit?traffic_source=rss",
-        "date": "2026-06-29 22:37:28"
-      }
-    ]
-  },
-  {
     "cluster_id": "8",
     "label": "trump, latest, state",
     "trending_score": 0.2062,
@@ -374,6 +347,33 @@
         "title": "Both Republican Dan Sullivans can compete in Alaska primary, court rules",
         "url": "https://www.theguardian.com/us-news/2026/jun/29/dan-sullivan-alaska-primary",
         "date": "2026-06-30 00:54:22"
+      }
+    ]
+  },
+  {
+    "cluster_id": "0",
+    "label": "olympic, new, says",
+    "trending_score": 0.2056,
+    "count_24h": 2,
+    "count_7d": 37,
+    "top_articles": [
+      {
+        "id": "2785",
+        "title": "Did Russell's pole set dangerous precedent? F1 Q&A",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/c79yxx3ve9do?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-30 06:53:40"
+      },
+      {
+        "id": "2783",
+        "title": "Serena Williams on Maya Joint match and return to tennis",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c0jyv69p821o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-30 06:31:46"
+      },
+      {
+        "id": "2738",
+        "title": "Australian football legend Sam Kerr signs with Gotham FC after Chelsea exit",
+        "url": "https://www.aljazeera.com/sports/2026/6/29/australian-football-legend-sam-kerr-signs-with-gotham-fc-after-chelsea-exit?traffic_source=rss",
+        "date": "2026-06-29 22:37:28"
       }
     ]
   },

@@ -2,8 +2,8 @@
   {
     "cluster_id": "16",
     "label": "burnham, uk, said",
-    "trending_score": 1.563,
-    "count_24h": 19,
+    "trending_score": 1.4074,
+    "count_24h": 13,
     "count_7d": 113,
     "top_articles": [
       {
@@ -27,37 +27,10 @@
     ]
   },
   {
-    "cluster_id": "13",
-    "label": "venezuela, 01, earthquakes",
-    "trending_score": 1.2333,
-    "count_24h": 7,
-    "count_7d": 68,
-    "top_articles": [
-      {
-        "id": "2791",
-        "title": "In pictures: Venezuela earthquakes death toll surpasses 1,700",
-        "url": "https://www.aljazeera.com/gallery/2026/6/30/in-pictures-venezuela-earthquakes-death-toll-surpasses-1700?traffic_source=rss",
-        "date": "2026-06-30 06:12:24"
-      },
-      {
-        "id": "2747",
-        "title": "'Left on your own': Angry Venezuelans accuse government of negligence and apathy",
-        "url": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-30 03:53:48"
-      },
-      {
-        "id": "2762",
-        "title": "Fears for people deported from US to Venezuela hours before earthquakes hit",
-        "url": "https://www.aljazeera.com/news/2026/6/30/fears-for-people-deported-from-us-to-venezuela-hours-before-earthquakes-hit?traffic_source=rss",
-        "date": "2026-06-30 02:32:08"
-      }
-    ]
-  },
-  {
     "cluster_id": "14",
     "label": "world, cup, world cup",
-    "trending_score": 1.2244,
-    "count_24h": 16,
+    "trending_score": 1.1571,
+    "count_24h": 15,
     "count_7d": 133,
     "top_articles": [
       {
@@ -77,6 +50,33 @@
         "title": "Heartbroken Iran exit World Cup amid silver lining of Mexican hospitality",
         "url": "https://www.aljazeera.com/sports/2026/6/30/heartbroken-iran-exit-world-cup-amid-silver-lining-of-mexican-hospitality?traffic_source=rss",
         "date": "2026-06-30 04:41:32"
+      }
+    ]
+  },
+  {
+    "cluster_id": "13",
+    "label": "venezuela, 01, earthquakes",
+    "trending_score": 1.1533,
+    "count_24h": 5,
+    "count_7d": 68,
+    "top_articles": [
+      {
+        "id": "2791",
+        "title": "In pictures: Venezuela earthquakes death toll surpasses 1,700",
+        "url": "https://www.aljazeera.com/gallery/2026/6/30/in-pictures-venezuela-earthquakes-death-toll-surpasses-1700?traffic_source=rss",
+        "date": "2026-06-30 06:12:24"
+      },
+      {
+        "id": "2747",
+        "title": "'Left on your own': Angry Venezuelans accuse government of negligence and apathy",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-30 03:53:48"
+      },
+      {
+        "id": "2762",
+        "title": "Fears for people deported from US to Venezuela hours before earthquakes hit",
+        "url": "https://www.aljazeera.com/news/2026/6/30/fears-for-people-deported-from-us-to-venezuela-hours-before-earthquakes-hit?traffic_source=rss",
+        "date": "2026-06-30 02:32:08"
       }
     ]
   },
@@ -110,8 +110,8 @@
   {
     "cluster_id": "9",
     "label": "israel, israeli, gaza",
-    "trending_score": 0.6338,
-    "count_24h": 4,
+    "trending_score": 0.6127,
+    "count_24h": 3,
     "count_7d": 60,
     "top_articles": [
       {
@@ -135,36 +135,9 @@
     ]
   },
   {
-    "cluster_id": "2",
-    "label": "police, man, shooting",
-    "trending_score": 0.4872,
-    "count_24h": 9,
-    "count_7d": 55,
-    "top_articles": [
-      {
-        "id": "2774",
-        "title": "Truck drivers ‘miraculously’ emerge nearly unscathed from explosions and fire after Hume Highway truck crash",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/30/truck-crash-hume-highway-drivers-nearly-unscathed-explosions-fire-nsw-ntwnfb",
-        "date": "2026-06-30 04:16:38"
-      },
-      {
-        "id": "2758",
-        "title": "Police hunt for suspect after three wounded in Monaco blast",
-        "url": "https://www.aljazeera.com/news/2026/6/30/police-hunt-for-suspect-after-three-wounded-in-monaco?traffic_source=rss",
-        "date": "2026-06-30 02:56:24"
-      },
-      {
-        "id": "2746",
-        "title": "What do we know about the shooting in Stade, Germany?",
-        "url": "https://www.bbc.co.uk/news/videos/cdx7j0wn9lvo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-30 00:17:27"
-      }
-    ]
-  },
-  {
     "cluster_id": "4",
     "label": "heat, heatwave, week",
-    "trending_score": 0.48,
+    "trending_score": 0.465,
     "count_24h": 1,
     "count_7d": 54,
     "top_articles": [
@@ -189,9 +162,36 @@
     ]
   },
   {
+    "cluster_id": "2",
+    "label": "police, man, shooting",
+    "trending_score": 0.4103,
+    "count_24h": 4,
+    "count_7d": 55,
+    "top_articles": [
+      {
+        "id": "2774",
+        "title": "Truck drivers ‘miraculously’ emerge nearly unscathed from explosions and fire after Hume Highway truck crash",
+        "url": "https://www.theguardian.com/australia-news/2026/jun/30/truck-crash-hume-highway-drivers-nearly-unscathed-explosions-fire-nsw-ntwnfb",
+        "date": "2026-06-30 04:16:38"
+      },
+      {
+        "id": "2758",
+        "title": "Police hunt for suspect after three wounded in Monaco blast",
+        "url": "https://www.aljazeera.com/news/2026/6/30/police-hunt-for-suspect-after-three-wounded-in-monaco?traffic_source=rss",
+        "date": "2026-06-30 02:56:24"
+      },
+      {
+        "id": "2746",
+        "title": "What do we know about the shooting in Stade, Germany?",
+        "url": "https://www.bbc.co.uk/news/videos/cdx7j0wn9lvo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-30 00:17:27"
+      }
+    ]
+  },
+  {
     "cluster_id": "7",
     "label": "tech, ai, data",
-    "trending_score": 0.3558,
+    "trending_score": 0.3462,
     "count_24h": 1,
     "count_7d": 60,
     "top_articles": [
@@ -218,8 +218,8 @@
   {
     "cluster_id": "3",
     "label": "court, man, judge",
-    "trending_score": 0.3356,
-    "count_24h": 8,
+    "trending_score": 0.3221,
+    "count_24h": 7,
     "count_7d": 38,
     "top_articles": [
       {
@@ -245,8 +245,8 @@
   {
     "cluster_id": "6",
     "label": "new, market, ai",
-    "trending_score": 0.3318,
-    "count_24h": 8,
+    "trending_score": 0.3129,
+    "count_24h": 6,
     "count_7d": 70,
     "top_articles": [
       {
@@ -270,36 +270,9 @@
     ]
   },
   {
-    "cluster_id": "15",
-    "label": "trump, latest, president",
-    "trending_score": 0.2741,
-    "count_24h": 3,
-    "count_7d": 34,
-    "top_articles": [
-      {
-        "id": "2779",
-        "title": "Trump nominates Keith Sonderling to permanent role of labor secretary",
-        "url": "https://www.theguardian.com/us-news/2026/jun/29/trump-nominates-keith-sonderling-labor-secretary",
-        "date": "2026-06-30 00:13:29"
-      },
-      {
-        "id": "2723",
-        "title": "Marco Rubio meets Libyan commander as US pushes to resolve Libya crisis",
-        "url": "https://www.aljazeera.com/news/2026/6/29/marco-rubio-meets-libyan-commander-as-us-pushes-to-resolve-libya-crisis?traffic_source=rss",
-        "date": "2026-06-29 21:30:07"
-      },
-      {
-        "id": "2745",
-        "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
-        "url": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-29 20:34:52"
-      }
-    ]
-  },
-  {
     "cluster_id": "10",
     "label": "taiwan, says, china",
-    "trending_score": 0.2645,
+    "trending_score": 0.2583,
     "count_24h": 6,
     "count_7d": 38,
     "top_articles": [
@@ -324,10 +297,37 @@
     ]
   },
   {
+    "cluster_id": "15",
+    "label": "trump, latest, president",
+    "trending_score": 0.2289,
+    "count_24h": 1,
+    "count_7d": 34,
+    "top_articles": [
+      {
+        "id": "2779",
+        "title": "Trump nominates Keith Sonderling to permanent role of labor secretary",
+        "url": "https://www.theguardian.com/us-news/2026/jun/29/trump-nominates-keith-sonderling-labor-secretary",
+        "date": "2026-06-30 00:13:29"
+      },
+      {
+        "id": "2723",
+        "title": "Marco Rubio meets Libyan commander as US pushes to resolve Libya crisis",
+        "url": "https://www.aljazeera.com/news/2026/6/29/marco-rubio-meets-libyan-commander-as-us-pushes-to-resolve-libya-crisis?traffic_source=rss",
+        "date": "2026-06-29 21:30:07"
+      },
+      {
+        "id": "2745",
+        "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
+        "url": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-29 20:34:52"
+      }
+    ]
+  },
+  {
     "cluster_id": "0",
     "label": "olympic, new, says",
-    "trending_score": 0.2617,
-    "count_24h": 5,
+    "trending_score": 0.2266,
+    "count_24h": 3,
     "count_7d": 37,
     "top_articles": [
       {

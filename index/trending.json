@@ -2,8 +2,8 @@
   {
     "cluster_id": "16",
     "label": "burnham, uk, said",
-    "trending_score": 2.3111,
-    "count_24h": 44,
+    "trending_score": 2.2556,
+    "count_24h": 42,
     "count_7d": 114,
     "top_articles": [
       {
@@ -29,8 +29,8 @@
   {
     "cluster_id": "13",
     "label": "venezuela, 01, earthquakes",
-    "trending_score": 1.9933,
-    "count_24h": 20,
+    "trending_score": 1.9333,
+    "count_24h": 19,
     "count_7d": 68,
     "top_articles": [
       {
@@ -56,8 +56,8 @@
   {
     "cluster_id": "14",
     "label": "world, cup, world cup",
-    "trending_score": 1.8686,
-    "count_24h": 36,
+    "trending_score": 1.8109,
+    "count_24h": 35,
     "count_7d": 133,
     "top_articles": [
       {
@@ -110,8 +110,8 @@
   {
     "cluster_id": "9",
     "label": "israel, israeli, gaza",
-    "trending_score": 1.2887,
-    "count_24h": 27,
+    "trending_score": 1.257,
+    "count_24h": 26,
     "count_7d": 60,
     "top_articles": [
       {
@@ -137,8 +137,8 @@
   {
     "cluster_id": "4",
     "label": "heat, heatwave, week",
-    "trending_score": 0.885,
-    "count_24h": 9,
+    "trending_score": 0.84,
+    "count_24h": 8,
     "count_7d": 54,
     "top_articles": [
       {
@@ -164,8 +164,8 @@
   {
     "cluster_id": "2",
     "label": "police, man, shooting",
-    "trending_score": 0.7487,
-    "count_24h": 21,
+    "trending_score": 0.7333,
+    "count_24h": 20,
     "count_7d": 55,
     "top_articles": [
       {
@@ -191,8 +191,8 @@
   {
     "cluster_id": "7",
     "label": "tech, ai, data",
-    "trending_score": 0.6442,
-    "count_24h": 14,
+    "trending_score": 0.625,
+    "count_24h": 13,
     "count_7d": 63,
     "top_articles": [
       {
@@ -218,8 +218,8 @@
   {
     "cluster_id": "6",
     "label": "new, market, ai",
-    "trending_score": 0.5472,
-    "count_24h": 28,
+    "trending_score": 0.5377,
+    "count_24h": 27,
     "count_7d": 72,
     "top_articles": [
       {
@@ -245,8 +245,8 @@
   {
     "cluster_id": "3",
     "label": "court, man, judge",
-    "trending_score": 0.5248,
-    "count_24h": 21,
+    "trending_score": 0.5113,
+    "count_24h": 20,
     "count_7d": 38,
     "top_articles": [
       {
@@ -326,8 +326,8 @@
   {
     "cluster_id": "10",
     "label": "taiwan, says, china",
-    "trending_score": 0.374,
-    "count_24h": 14,
+    "trending_score": 0.3616,
+    "count_24h": 13,
     "count_7d": 40,
     "top_articles": [
       {

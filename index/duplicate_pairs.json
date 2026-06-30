@@ -66,6 +66,19 @@
   },
   {
     "article_a": {
+      "id": "646",
+      "title": "AP source: Ex-FBI No. 2 official wrote memo on Comey firing",
+      "url": "https://www.taiwannews.com.tw/en/news/3444830"
+    },
+    "article_b": {
+      "id": "950",
+      "title": "AP source: Ex-FBI No. 2 official wrote memo on Comey firing",
+      "url": "https://www.taiwannews.com.tw/en/news/3444689"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
       "id": "782",
       "title": "The top iPhone and iPad apps on App Store",
       "url": "https://www.taiwannews.com.tw/en/news/3354448"
@@ -105,6 +118,32 @@
   },
   {
     "article_a": {
+      "id": "879",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444699"
+    },
+    "article_b": {
+      "id": "1442",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444596"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "879",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444699"
+    },
+    "article_b": {
+      "id": "1347",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3474413"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
       "id": "1344",
       "title": "Indulge in Exclusive Summer Experiences with Trump Hotels",
       "url": "https://www.taiwannews.com.tw/en/news/3444446"
@@ -113,6 +152,19 @@
       "id": "1770",
       "title": "Indulge in Exclusive Summer Experiences with Trump Hotels",
       "url": "https://www.taiwannews.com.tw/en/news/3444455"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "1347",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3474413"
+    },
+    "article_b": {
+      "id": "1442",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444596"
     },
     "similarity": 1.0000001192092896
   },
@@ -646,19 +698,6 @@
       "id": "667",
       "title": "Expanded Conference Glance",
       "url": "https://www.taiwannews.com.tw/en/news/3354593"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "646",
-      "title": "AP source: Ex-FBI No. 2 official wrote memo on Comey firing",
-      "url": "https://www.taiwannews.com.tw/en/news/3444830"
-    },
-    "article_b": {
-      "id": "950",
-      "title": "AP source: Ex-FBI No. 2 official wrote memo on Comey firing",
-      "url": "https://www.taiwannews.com.tw/en/news/3444689"
     },
     "similarity": 1.0
   },
@@ -1345,32 +1384,6 @@
       "url": "https://www.taiwannews.com.tw/en/news/3444699"
     },
     "article_b": {
-      "id": "1442",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444596"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "879",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444699"
-    },
-    "article_b": {
-      "id": "1347",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3474413"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "879",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444699"
-    },
-    "article_b": {
       "id": "1158",
       "title": "Wednesday's Major League Linescores",
       "url": "https://www.taiwannews.com.tw/en/news/3444863"
@@ -1920,19 +1933,6 @@
       "id": "1535",
       "title": "Wednesday's Major League Linescores",
       "url": "https://www.taiwannews.com.tw/en/news/3444833"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "1347",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3474413"
-    },
-    "article_b": {
-      "id": "1442",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444596"
     },
     "similarity": 1.0
   },
@@ -3286,7 +3286,7 @@
       "title": "Fourteen killed in Saudi Arabia helicopter crash",
       "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss"
     },
-    "similarity": 0.9479902386665344
+    "similarity": 0.9479901194572449
   },
   {
     "article_a": {

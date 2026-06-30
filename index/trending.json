@@ -2,8 +2,8 @@
   {
     "cluster_id": "11",
     "label": "uk, said, burnham",
-    "trending_score": 1.3739,
-    "count_24h": 14,
+    "trending_score": 1.1577,
+    "count_24h": 8,
     "count_7d": 80,
     "top_articles": [
       {
@@ -29,8 +29,8 @@
   {
     "cluster_id": "18",
     "label": "venezuela, 01, earthquakes",
-    "trending_score": 1.3364,
-    "count_24h": 6,
+    "trending_score": 1.0364,
+    "count_24h": 1,
     "count_7d": 48,
     "top_articles": [
       {
@@ -56,8 +56,8 @@
   {
     "cluster_id": "14",
     "label": "world, cup, world cup",
-    "trending_score": 1.1433,
-    "count_24h": 8,
+    "trending_score": 1.0233,
+    "count_24h": 5,
     "count_7d": 109,
     "top_articles": [
       {
@@ -83,8 +83,8 @@
   {
     "cluster_id": "8",
     "label": "iran, israel, lebanon",
-    "trending_score": 0.6818,
-    "count_24h": 2,
+    "trending_score": 0.6409,
+    "count_24h": 1,
     "count_7d": 60,
     "top_articles": [
       {
@@ -137,8 +137,8 @@
   {
     "cluster_id": "7",
     "label": "attack, pakistan, kills",
-    "trending_score": 0.3939,
-    "count_24h": 6,
+    "trending_score": 0.303,
+    "count_24h": 3,
     "count_7d": 15,
     "top_articles": [
       {
@@ -164,8 +164,8 @@
   {
     "cluster_id": "12",
     "label": "man, court, arrested",
-    "trending_score": 0.3627,
-    "count_24h": 5,
+    "trending_score": 0.2993,
+    "count_24h": 2,
     "count_7d": 34,
     "top_articles": [
       {
@@ -191,7 +191,7 @@
   {
     "cluster_id": "16",
     "label": "ballet, new, olympics",
-    "trending_score": 0.2396,
+    "trending_score": 0.2083,
     "count_24h": 1,
     "count_7d": 30,
     "top_articles": [
@@ -216,36 +216,9 @@
     ]
   },
   {
-    "cluster_id": "3",
-    "label": "egypt, election, president",
-    "trending_score": 0.2304,
-    "count_24h": 1,
-    "count_7d": 17,
-    "top_articles": [
-      {
-        "id": "2486",
-        "title": "‘If I am to die, let it be here’: Malawians fleeing unrest in South Africa",
-        "url": "https://www.aljazeera.com/news/2026/6/29/if-i-am-to-die-let-it-be-here-malawians-fleeing-unrest-in-south-africa?traffic_source=rss",
-        "date": "2026-06-29 00:19:47"
-      },
-      {
-        "id": "2440",
-        "title": "Protesters in Serbia doubt Vucic resignation will bring change",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/protesters-in-serbia-doubt-vucic-resignation-will-bring-change?traffic_source=rss",
-        "date": "2026-06-28 20:29:18"
-      },
-      {
-        "id": "2430",
-        "title": "Serbia’s protesters press on even after Vucic promises to step aside",
-        "url": "https://www.aljazeera.com/news/2026/6/28/serbias-protesters-press-on-even-after-vucic-promises-to-step-aside?traffic_source=rss",
-        "date": "2026-06-28 18:53:49"
-      }
-    ]
-  },
-  {
     "cluster_id": "6",
     "label": "police, shooting, man",
-    "trending_score": 0.2014,
+    "trending_score": 0.1906,
     "count_24h": 1,
     "count_7d": 20,
     "top_articles": [
@@ -270,29 +243,29 @@
     ]
   },
   {
-    "cluster_id": "1",
-    "label": "russia, russian, says",
-    "trending_score": 0.1765,
-    "count_24h": 2,
-    "count_7d": 12,
+    "cluster_id": "3",
+    "label": "egypt, election, president",
+    "trending_score": 0.1863,
+    "count_24h": 0,
+    "count_7d": 17,
     "top_articles": [
       {
-        "id": "2498",
-        "title": "How population decline is exposing Germany's old divides",
-        "url": "https://www.bbc.co.uk/news/articles/c24ylyv40y5o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-29 04:49:09"
+        "id": "2486",
+        "title": "‘If I am to die, let it be here’: Malawians fleeing unrest in South Africa",
+        "url": "https://www.aljazeera.com/news/2026/6/29/if-i-am-to-die-let-it-be-here-malawians-fleeing-unrest-in-south-africa?traffic_source=rss",
+        "date": "2026-06-29 00:19:47"
       },
       {
-        "id": "2479",
-        "title": "Putin says Ukraine proposed halt to deep strikes",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/putin-says-ukraine-proposed-halt-to-deep-strikes?traffic_source=rss",
-        "date": "2026-06-29 03:03:34"
+        "id": "2440",
+        "title": "Protesters in Serbia doubt Vucic resignation will bring change",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/protesters-in-serbia-doubt-vucic-resignation-will-bring-change?traffic_source=rss",
+        "date": "2026-06-28 20:29:18"
       },
       {
-        "id": "2451",
-        "title": "Putin admits Ukrainian strikes driving Russian fuel shortages",
-        "url": "https://www.theguardian.com/world/2026/jun/28/putin-admits-ukrainian-strikes-driving-russian-fuel-shortages",
-        "date": "2026-06-28 21:52:52"
+        "id": "2430",
+        "title": "Serbia’s protesters press on even after Vucic promises to step aside",
+        "url": "https://www.aljazeera.com/news/2026/6/28/serbias-protesters-press-on-even-after-vucic-promises-to-step-aside?traffic_source=rss",
+        "date": "2026-06-28 18:53:49"
       }
     ]
   },
@@ -326,8 +299,8 @@
   {
     "cluster_id": "17",
     "label": "market, global, sales",
-    "trending_score": 0.1677,
-    "count_24h": 2,
+    "trending_score": 0.1494,
+    "count_24h": 1,
     "count_7d": 25,
     "top_articles": [
       {
@@ -347,6 +320,33 @@
         "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
         "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
         "date": "2026-06-28 15:00:00"
+      }
+    ]
+  },
+  {
+    "cluster_id": "1",
+    "label": "russia, russian, says",
+    "trending_score": 0.1471,
+    "count_24h": 1,
+    "count_7d": 12,
+    "top_articles": [
+      {
+        "id": "2498",
+        "title": "How population decline is exposing Germany's old divides",
+        "url": "https://www.bbc.co.uk/news/articles/c24ylyv40y5o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-29 04:49:09"
+      },
+      {
+        "id": "2479",
+        "title": "Putin says Ukraine proposed halt to deep strikes",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/putin-says-ukraine-proposed-halt-to-deep-strikes?traffic_source=rss",
+        "date": "2026-06-29 03:03:34"
+      },
+      {
+        "id": "2451",
+        "title": "Putin admits Ukrainian strikes driving Russian fuel shortages",
+        "url": "https://www.theguardian.com/world/2026/jun/28/putin-admits-ukrainian-strikes-driving-russian-fuel-shortages",
+        "date": "2026-06-28 21:52:52"
       }
     ]
   },

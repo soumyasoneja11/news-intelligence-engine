@@ -2,8 +2,8 @@
   {
     "cluster_id": "16",
     "label": "burnham, uk, said",
-    "trending_score": 2.2556,
-    "count_24h": 42,
+    "trending_score": 2.1556,
+    "count_24h": 38,
     "count_7d": 114,
     "top_articles": [
       {
@@ -29,8 +29,8 @@
   {
     "cluster_id": "13",
     "label": "venezuela, 01, earthquakes",
-    "trending_score": 1.9333,
-    "count_24h": 19,
+    "trending_score": 1.8333,
+    "count_24h": 17,
     "count_7d": 68,
     "top_articles": [
       {
@@ -56,8 +56,8 @@
   {
     "cluster_id": "14",
     "label": "world, cup, world cup",
-    "trending_score": 1.8109,
-    "count_24h": 35,
+    "trending_score": 1.6282,
+    "count_24h": 28,
     "count_7d": 133,
     "top_articles": [
       {
@@ -83,8 +83,8 @@
   {
     "cluster_id": "1",
     "label": "iran, strait, said",
-    "trending_score": 1.5347,
-    "count_24h": 13,
+    "trending_score": 1.4514,
+    "count_24h": 12,
     "count_7d": 56,
     "top_articles": [
       {
@@ -110,8 +110,8 @@
   {
     "cluster_id": "9",
     "label": "israel, israeli, gaza",
-    "trending_score": 1.257,
-    "count_24h": 26,
+    "trending_score": 1.1408,
+    "count_24h": 22,
     "count_7d": 60,
     "top_articles": [
       {
@@ -137,7 +137,7 @@
   {
     "cluster_id": "4",
     "label": "heat, heatwave, week",
-    "trending_score": 0.84,
+    "trending_score": 0.78,
     "count_24h": 8,
     "count_7d": 54,
     "top_articles": [
@@ -164,8 +164,8 @@
   {
     "cluster_id": "2",
     "label": "police, man, shooting",
-    "trending_score": 0.7333,
-    "count_24h": 20,
+    "trending_score": 0.7026,
+    "count_24h": 19,
     "count_7d": 55,
     "top_articles": [
       {
@@ -191,7 +191,7 @@
   {
     "cluster_id": "7",
     "label": "tech, ai, data",
-    "trending_score": 0.625,
+    "trending_score": 0.6154,
     "count_24h": 13,
     "count_7d": 63,
     "top_articles": [
@@ -212,33 +212,6 @@
         "title": "Sony erases digital content from libraries; we're reminded we don’t own what we buy",
         "url": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
         "date": "2026-06-29 19:10:57"
-      }
-    ]
-  },
-  {
-    "cluster_id": "6",
-    "label": "new, market, ai",
-    "trending_score": 0.5377,
-    "count_24h": 27,
-    "count_7d": 72,
-    "top_articles": [
-      {
-        "id": "2800",
-        "title": "Millions of Britons urged to submit meter readings before energy price cap rises on Wednesday",
-        "url": "https://www.theguardian.com/money/2026/jun/30/britons-submit-meter-readings-before-energy-price-cap-rise-uk",
-        "date": "2026-06-30 06:00:40"
-      },
-      {
-        "id": "2802",
-        "title": "Brompton sells stakes to Decathlon and Chinese Labubu backer",
-        "url": "https://www.theguardian.com/business/2026/jun/30/brompton-sells-stakes-decathlon-bike-maker-sales",
-        "date": "2026-06-30 05:00:40"
-      },
-      {
-        "id": "2780",
-        "title": "The AI jobs debate just got messier",
-        "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-        "date": "2026-06-30 04:01:00"
       }
     ]
   },
@@ -270,10 +243,37 @@
     ]
   },
   {
+    "cluster_id": "6",
+    "label": "new, market, ai",
+    "trending_score": 0.5031,
+    "count_24h": 24,
+    "count_7d": 71,
+    "top_articles": [
+      {
+        "id": "2800",
+        "title": "Millions of Britons urged to submit meter readings before energy price cap rises on Wednesday",
+        "url": "https://www.theguardian.com/money/2026/jun/30/britons-submit-meter-readings-before-energy-price-cap-rise-uk",
+        "date": "2026-06-30 06:00:40"
+      },
+      {
+        "id": "2802",
+        "title": "Brompton sells stakes to Decathlon and Chinese Labubu backer",
+        "url": "https://www.theguardian.com/business/2026/jun/30/brompton-sells-stakes-decathlon-bike-maker-sales",
+        "date": "2026-06-30 05:00:40"
+      },
+      {
+        "id": "2780",
+        "title": "The AI jobs debate just got messier",
+        "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+        "date": "2026-06-30 04:01:00"
+      }
+    ]
+  },
+  {
     "cluster_id": "15",
     "label": "trump, latest, president",
-    "trending_score": 0.4729,
-    "count_24h": 12,
+    "trending_score": 0.4187,
+    "count_24h": 9,
     "count_7d": 34,
     "top_articles": [
       {
@@ -299,8 +299,8 @@
   {
     "cluster_id": "0",
     "label": "olympic, new, says",
-    "trending_score": 0.4089,
-    "count_24h": 13,
+    "trending_score": 0.3738,
+    "count_24h": 11,
     "count_7d": 37,
     "top_articles": [
       {
@@ -326,8 +326,8 @@
   {
     "cluster_id": "10",
     "label": "taiwan, says, china",
-    "trending_score": 0.3616,
-    "count_24h": 13,
+    "trending_score": 0.3368,
+    "count_24h": 11,
     "count_7d": 40,
     "top_articles": [
       {
@@ -353,7 +353,7 @@
   {
     "cluster_id": "8",
     "label": "trump, latest, state",
-    "trending_score": 0.2825,
+    "trending_score": 0.274,
     "count_24h": 8,
     "count_7d": 19,
     "top_articles": [
@@ -380,8 +380,8 @@
   {
     "cluster_id": "5",
     "label": "new, year, film",
-    "trending_score": 0.1839,
-    "count_24h": 8,
+    "trending_score": 0.1518,
+    "count_24h": 5,
     "count_7d": 25,
     "top_articles": [
       {

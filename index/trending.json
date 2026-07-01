@@ -2,8 +2,8 @@
   {
     "cluster_id": "2",
     "label": "burnham, said, uk",
-    "trending_score": 1.1242,
-    "count_24h": 8,
+    "trending_score": 1.0261,
+    "count_24h": 5,
     "count_7d": 140,
     "top_articles": [
       {
@@ -29,8 +29,8 @@
   {
     "cluster_id": "13",
     "label": "world, cup, world cup",
-    "trending_score": 1.0237,
-    "count_24h": 17,
+    "trending_score": 0.9289,
+    "count_24h": 11,
     "count_7d": 206,
     "top_articles": [
       {
@@ -56,8 +56,8 @@
   {
     "cluster_id": "3",
     "label": "venezuela, 01, 02",
-    "trending_score": 1.0172,
-    "count_24h": 7,
+    "trending_score": 0.8621,
+    "count_24h": 3,
     "count_7d": 81,
     "top_articles": [
       {
@@ -77,33 +77,6 @@
         "title": "Mexican fans keep Ecuador’s team awake before World Cup showdown",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/mexican-fans-keep-ecuadors-team-awake-before-world-cup-showdown?traffic_source=rss",
         "date": "2026-07-01 00:13:03"
-      }
-    ]
-  },
-  {
-    "cluster_id": "4",
-    "label": "heat, heatwave, week",
-    "trending_score": 0.6125,
-    "count_24h": 4,
-    "count_7d": 72,
-    "top_articles": [
-      {
-        "id": "3113",
-        "title": "Specieswatch: How heatwaves play havoc with bees’ fertility",
-        "url": "https://www.theguardian.com/environment/2026/jul/01/specieswatch-heatwave-bees-fertility-pollination-crops",
-        "date": "2026-07-01 05:00:26"
-      },
-      {
-        "id": "3096",
-        "title": "World’s oceans experience hottest June ever, scientists say more heat ahead",
-        "url": "https://www.aljazeera.com/news/2026/7/1/worlds-oceans-experience-hottest-june-ever-scientists-say-more-heat-ahead?traffic_source=rss",
-        "date": "2026-07-01 04:38:43"
-      },
-      {
-        "id": "3085",
-        "title": "Watch: Mount Etna eruption creates trail of bright orange lava",
-        "url": "https://www.bbc.co.uk/news/videos/cy4ew7dyv7go?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-01 03:33:48"
       }
     ]
   },
@@ -135,11 +108,38 @@
     ]
   },
   {
+    "cluster_id": "4",
+    "label": "heat, heatwave, week",
+    "trending_score": 0.575,
+    "count_24h": 3,
+    "count_7d": 72,
+    "top_articles": [
+      {
+        "id": "3113",
+        "title": "Specieswatch: How heatwaves play havoc with bees’ fertility",
+        "url": "https://www.theguardian.com/environment/2026/jul/01/specieswatch-heatwave-bees-fertility-pollination-crops",
+        "date": "2026-07-01 05:00:26"
+      },
+      {
+        "id": "3096",
+        "title": "World’s oceans experience hottest June ever, scientists say more heat ahead",
+        "url": "https://www.aljazeera.com/news/2026/7/1/worlds-oceans-experience-hottest-june-ever-scientists-say-more-heat-ahead?traffic_source=rss",
+        "date": "2026-07-01 04:38:43"
+      },
+      {
+        "id": "3085",
+        "title": "Watch: Mount Etna eruption creates trail of bright orange lava",
+        "url": "https://www.bbc.co.uk/news/videos/cy4ew7dyv7go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-01 03:33:48"
+      }
+    ]
+  },
+  {
     "cluster_id": "9",
     "label": "ai, tech, new",
-    "trending_score": 0.5686,
-    "count_24h": 7,
-    "count_7d": 129,
+    "trending_score": 0.5397,
+    "count_24h": 5,
+    "count_7d": 128,
     "top_articles": [
       {
         "id": "3124",
@@ -164,7 +164,7 @@
   {
     "cluster_id": "10",
     "label": "police, man, said",
-    "trending_score": 0.5087,
+    "trending_score": 0.5022,
     "count_24h": 5,
     "count_7d": 99,
     "top_articles": [
@@ -191,9 +191,9 @@
   {
     "cluster_id": "11",
     "label": "killed, pakistan, shooting",
-    "trending_score": 0.4194,
+    "trending_score": 0.4167,
     "count_24h": 4,
-    "count_7d": 61,
+    "count_7d": 60,
     "top_articles": [
       {
         "id": "3092",
@@ -218,9 +218,9 @@
   {
     "cluster_id": "6",
     "label": "court, trump, supreme court",
-    "trending_score": 0.4103,
-    "count_24h": 5,
-    "count_7d": 52,
+    "trending_score": 0.3846,
+    "count_24h": 4,
+    "count_7d": 51,
     "top_articles": [
       {
         "id": "3093",
@@ -272,8 +272,8 @@
   {
     "cluster_id": "0",
     "label": "trump, latest, president",
-    "trending_score": 0.3233,
-    "count_24h": 7,
+    "trending_score": 0.2953,
+    "count_24h": 5,
     "count_7d": 43,
     "top_articles": [
       {
@@ -299,8 +299,8 @@
   {
     "cluster_id": "14",
     "label": "market, new, sales",
-    "trending_score": 0.31,
-    "count_24h": 4,
+    "trending_score": 0.28,
+    "count_24h": 3,
     "count_7d": 46,
     "top_articles": [
       {
@@ -326,8 +326,8 @@
   {
     "cluster_id": "15",
     "label": "china, taiwan, taipei",
-    "trending_score": 0.272,
-    "count_24h": 4,
+    "trending_score": 0.248,
+    "count_24h": 3,
     "count_7d": 17,
     "top_articles": [
       {
@@ -347,33 +347,6 @@
         "title": "North Korea’s Kim hails ‘unshakeable will’ to develop ties with China’s Xi",
         "url": "https://www.aljazeera.com/news/2026/7/1/north-koreas-kim-hails-unshakeable-will-to-develop-ties-with-chinas-xi?traffic_source=rss",
         "date": "2026-07-01 01:17:24"
-      }
-    ]
-  },
-  {
-    "cluster_id": "12",
-    "label": "says, new, school",
-    "trending_score": 0.154,
-    "count_24h": 2,
-    "count_7d": 37,
-    "top_articles": [
-      {
-        "id": "3061",
-        "title": "Women with PMOS should have yearly NHS checks, says health watchdog",
-        "url": "https://www.bbc.co.uk/news/articles/cd0m3g05kx2o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-30 23:04:58"
-      },
-      {
-        "id": "3050",
-        "title": "Women with irregular periods should be checked for PMOS, NHS says",
-        "url": "https://www.theguardian.com/society/2026/jul/01/women-with-irregular-periods-should-be-checked-for-pmos-nhs-says",
-        "date": "2026-06-30 23:01:19"
-      },
-      {
-        "id": "2985",
-        "title": "Tech Life",
-        "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy2?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-30 19:30:00"
       }
     ]
   },
@@ -401,6 +374,33 @@
         "title": "Williams 'takes it all in' on Centre Court return",
         "url": "https://www.bbc.co.uk/sport/tennis/videos/c932jy2qz24o?at_medium=RSS&at_campaign=rss",
         "date": "2026-06-30 19:07:34"
+      }
+    ]
+  },
+  {
+    "cluster_id": "12",
+    "label": "says, new, school",
+    "trending_score": 0.1224,
+    "count_24h": 0,
+    "count_7d": 37,
+    "top_articles": [
+      {
+        "id": "3061",
+        "title": "Women with PMOS should have yearly NHS checks, says health watchdog",
+        "url": "https://www.bbc.co.uk/news/articles/cd0m3g05kx2o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-30 23:04:58"
+      },
+      {
+        "id": "3050",
+        "title": "Women with irregular periods should be checked for PMOS, NHS says",
+        "url": "https://www.theguardian.com/society/2026/jul/01/women-with-irregular-periods-should-be-checked-for-pmos-nhs-says",
+        "date": "2026-06-30 23:01:19"
+      },
+      {
+        "id": "2985",
+        "title": "Tech Life",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy2?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-30 19:30:00"
       }
     ]
   },

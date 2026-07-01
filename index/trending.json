@@ -1,438 +1,438 @@
 [
   {
-    "cluster_id": "16",
-    "label": "burnham, uk, said",
-    "trending_score": 0.9407,
-    "count_24h": 1,
-    "count_7d": 113,
+    "cluster_id": "2",
+    "label": "burnham, said, uk",
+    "trending_score": 2.0261,
+    "count_24h": 40,
+    "count_7d": 140,
     "top_articles": [
       {
-        "id": "2797",
-        "title": "Queensland government admits vulnerable children slept on floor of public service offices",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/30/queensland-government-child-safety-vulnerable-children-sleep-on-floor-ntwnfb",
-        "date": "2026-06-30 06:29:44"
+        "id": "3081",
+        "title": "Chris Mason: Starmer's defence plan leaves crunching trade‑offs for Burnham to confront",
+        "url": "https://www.bbc.co.uk/news/articles/c3vy7z35ve0o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-01 05:09:43"
       },
       {
-        "id": "2798",
-        "title": "Cost to rewire Great Britain’s electricity network could reach £90bn in 2030s",
-        "url": "https://www.theguardian.com/business/2026/jun/30/great-britain-electricity-network-90bn-pounds-2030s",
-        "date": "2026-06-30 06:00:42"
+        "id": "3109",
+        "title": "‘Complicated and expensive’: Burnham is right about the risks of nationalisation | Nils Pratley",
+        "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/jul/01/burnham-nationalisation-risks-welsh-water",
+        "date": "2026-07-01 05:00:27"
       },
       {
-        "id": "2799",
-        "title": "Unite boss to face leadership challenge amid concerns over rise of Reform",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/30/unite-union-sharon-graham-leadership-challenge-reform-uk",
-        "date": "2026-06-30 06:00:41"
+        "id": "3110",
+        "title": "Academy school leaders in England face pay cap to curb ‘banker-style’ salaries",
+        "url": "https://www.theguardian.com/education/2026/jul/01/academy-school-leaders-in-england-face-pay-cap-to-curb-banker-style-salaries",
+        "date": "2026-07-01 05:00:26"
       }
     ]
   },
   {
     "cluster_id": "13",
-    "label": "venezuela, 01, earthquakes",
-    "trending_score": 0.8533,
-    "count_24h": 0,
-    "count_7d": 68,
-    "top_articles": [
-      {
-        "id": "2791",
-        "title": "In pictures: Venezuela earthquakes death toll surpasses 1,700",
-        "url": "https://www.aljazeera.com/gallery/2026/6/30/in-pictures-venezuela-earthquakes-death-toll-surpasses-1700?traffic_source=rss",
-        "date": "2026-06-30 06:12:24"
-      },
-      {
-        "id": "2747",
-        "title": "'Left on your own': Angry Venezuelans accuse government of negligence and apathy",
-        "url": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-30 03:53:48"
-      },
-      {
-        "id": "2762",
-        "title": "Fears for people deported from US to Venezuela hours before earthquakes hit",
-        "url": "https://www.aljazeera.com/news/2026/6/30/fears-for-people-deported-from-us-to-venezuela-hours-before-earthquakes-hit?traffic_source=rss",
-        "date": "2026-06-30 02:32:08"
-      }
-    ]
-  },
-  {
-    "cluster_id": "14",
     "label": "world, cup, world cup",
-    "trending_score": 0.7917,
-    "count_24h": 0,
-    "count_7d": 133,
+    "trending_score": 1.5771,
+    "count_24h": 51,
+    "count_7d": 207,
     "top_articles": [
       {
-        "id": "2793",
-        "title": "Paraguay declares holiday after beating Germany in World Cup upset",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/paraguay-declares-holiday-after-beating-germany-in-world-cup-upset?traffic_source=rss",
-        "date": "2026-06-30 05:59:33"
+        "id": "3119",
+        "title": "World Cup fans sweat through US 'heat dome'",
+        "url": "https://www.bbc.co.uk/news/videos/cq5177z8velo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-01 06:41:26"
       },
       {
-        "id": "2784",
-        "title": "Emotional Gakpo scores days after loss of unborn son",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5yz3yjgp5yo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-30 05:10:38"
+        "id": "3084",
+        "title": "Mexico rampant at fortress Azteca - and England could be next",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cy9rg5n3380o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-01 05:38:14"
       },
       {
-        "id": "2795",
-        "title": "Heartbroken Iran exit World Cup amid silver lining of Mexican hospitality",
-        "url": "https://www.aljazeera.com/sports/2026/6/30/heartbroken-iran-exit-world-cup-amid-silver-lining-of-mexican-hospitality?traffic_source=rss",
-        "date": "2026-06-30 04:41:32"
+        "id": "3089",
+        "title": "Lobbing Federer changed his life – the cult hero back at Wimbledon",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/ckg5127471yo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-01 05:04:26"
       }
     ]
   },
   {
-    "cluster_id": "1",
-    "label": "iran, strait, said",
-    "trending_score": 0.7014,
-    "count_24h": 1,
-    "count_7d": 56,
+    "cluster_id": "3",
+    "label": "venezuela, 01, 02",
+    "trending_score": 1.5,
+    "count_24h": 13,
+    "count_7d": 81,
     "top_articles": [
       {
-        "id": "2790",
-        "title": "What is Iran looking for in any upcoming talks with the US?",
-        "url": "https://www.aljazeera.com/news/2026/6/30/what-is-iran-looking-for-in-any-upcoming-talks-with-the-us?traffic_source=rss",
-        "date": "2026-06-30 06:33:28"
+        "id": "3083",
+        "title": "Families search for earthquake survivors in one of Venezuela's hardest hit areas",
+        "url": "https://www.bbc.co.uk/news/videos/cy06378zyl3o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-01 06:10:43"
       },
       {
-        "id": "2754",
-        "title": "Trump tells US petrol retailers to reduce prices ‘immediately’",
-        "url": "https://www.aljazeera.com/economy/2026/6/30/trump-tells-us-petrol-retailers-to-reduce-prices-immediately?traffic_source=rss",
-        "date": "2026-06-30 04:11:09"
+        "id": "3108",
+        "title": "Wednesday briefing: After two powerful earthquakes, what is the reality on the ground in Venezuela?",
+        "url": "https://www.theguardian.com/world/2026/jul/01/wednesday-briefing-after-two-powerful-earthquakes-what-is-the-reality-on-the-ground-in-venezuela",
+        "date": "2026-07-01 05:44:50"
       },
       {
-        "id": "2760",
-        "title": "Trump: US envoys enroute to Doha for ‘perhaps important’ Iran meeting",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/trump-us-envoys-enroute-to-doha-for-perhaps-important-iran-meeting?traffic_source=rss",
-        "date": "2026-06-30 02:41:18"
+        "id": "3069",
+        "title": "Mexican fans keep Ecuador’s team awake before World Cup showdown",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/mexican-fans-keep-ecuadors-team-awake-before-world-cup-showdown?traffic_source=rss",
+        "date": "2026-07-01 00:13:03"
       }
     ]
   },
   {
     "cluster_id": "9",
-    "label": "israel, israeli, gaza",
-    "trending_score": 0.4965,
-    "count_24h": 0,
-    "count_7d": 60,
+    "label": "ai, tech, new",
+    "trending_score": 1.1227,
+    "count_24h": 44,
+    "count_7d": 130,
     "top_articles": [
       {
-        "id": "2792",
-        "title": "Moment drone hits vehicle in Zaporizhzhia",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/moment-drone-hits-vehicle-in-zaporizhzhia?traffic_source=rss",
-        "date": "2026-06-30 06:10:43"
+        "id": "3124",
+        "title": "Creatives sound alarm on copyright as Pocock calls $50bn datacentre proposal ‘ultimate dirty deal’",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/01/australia-ai-copyright-laws-creatives-sound-alarm-albanese-government-datacentres",
+        "date": "2026-07-01 06:22:22"
       },
       {
-        "id": "2759",
-        "title": "Mourners light candles after deadly German shelter shooting",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/mourners-light-candles-after-deadly-german-shelter-shooting?traffic_source=rss",
-        "date": "2026-06-30 02:45:45"
+        "id": "3115",
+        "title": "The ‘Father of the Internet’ is finally retiring",
+        "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+        "date": "2026-07-01 03:15:37"
       },
       {
-        "id": "2736",
-        "title": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss",
-        "date": "2026-06-29 23:29:41"
+        "id": "3103",
+        "title": "US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos",
+        "url": "https://www.aljazeera.com/economy/2026/7/1/us-lifts-restrictions-on-powerful-ai-models-fable-mythos-anthropic-says?traffic_source=rss",
+        "date": "2026-07-01 02:16:34"
+      }
+    ]
+  },
+  {
+    "cluster_id": "1",
+    "label": "iran, israel, said",
+    "trending_score": 1.0299,
+    "count_24h": 13,
+    "count_7d": 90,
+    "top_articles": [
+      {
+        "id": "3102",
+        "title": "Iran says it couldn’t export a ‘single barrel of oil’ during US blockade",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/iran-says-it-couldnt-export-a-single-barrel-of-oil-during-us-blockade?traffic_source=rss",
+        "date": "2026-07-01 02:45:34"
+      },
+      {
+        "id": "3070",
+        "title": "Iran war live: Qatar’s PM meets US envoys; Tehran holds firm on conditions",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/1/iran-war-live-qatars-pm-meets-us-envoys-tehran-holds-firm-on-conditions?traffic_source=rss",
+        "date": "2026-07-01 00:00:09"
+      },
+      {
+        "id": "3079",
+        "title": "US-Iran talks over $6bn Iranian assets to restart",
+        "url": "https://www.theguardian.com/world/2026/jun/30/us-iran-talks-6bn-iranian-assets-restart",
+        "date": "2026-06-30 23:57:11"
       }
     ]
   },
   {
     "cluster_id": "4",
     "label": "heat, heatwave, week",
-    "trending_score": 0.405,
-    "count_24h": 0,
-    "count_7d": 54,
+    "trending_score": 0.9875,
+    "count_24h": 15,
+    "count_7d": 72,
     "top_articles": [
       {
-        "id": "2732",
-        "title": "Another UK heatwave could be on the way",
-        "url": "https://www.bbc.co.uk/weather/articles/cql14kwex2wo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-29 23:03:06"
+        "id": "3113",
+        "title": "Specieswatch: How heatwaves play havoc with bees’ fertility",
+        "url": "https://www.theguardian.com/environment/2026/jul/01/specieswatch-heatwave-bees-fertility-pollination-crops",
+        "date": "2026-07-01 05:00:26"
       },
       {
-        "id": "2668",
-        "title": "Deadly heatwave grips Italy and Balkans as wildfire fears grow",
-        "url": "https://www.aljazeera.com/news/2026/6/29/deadly-heatwave-grips-italy-and-balkans-as-wildfire-fears-grow?traffic_source=rss",
-        "date": "2026-06-29 19:30:28"
+        "id": "3096",
+        "title": "World’s oceans experience hottest June ever, scientists say more heat ahead",
+        "url": "https://www.aljazeera.com/news/2026/7/1/worlds-oceans-experience-hottest-june-ever-scientists-say-more-heat-ahead?traffic_source=rss",
+        "date": "2026-07-01 04:38:43"
       },
       {
-        "id": "2713",
-        "title": "Ozone loss was a thing even before CFCs were widely used",
-        "url": "https://arstechnica.com/science/2026/06/ozone-damage-could-have-been-detected-decades-earlier/",
-        "date": "2026-06-29 19:00:23"
-      }
-    ]
-  },
-  {
-    "cluster_id": "7",
-    "label": "tech, ai, data",
-    "trending_score": 0.3237,
-    "count_24h": 0,
-    "count_7d": 59,
-    "top_articles": [
-      {
-        "id": "2744",
-        "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
-        "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
-        "date": "2026-06-29 22:05:33"
-      },
-      {
-        "id": "2709",
-        "title": "Gemini’s personalized AI image generation is now free for US users",
-        "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-        "date": "2026-06-29 20:12:59"
-      },
-      {
-        "id": "2712",
-        "title": "Sony erases digital content from libraries; we're reminded we don’t own what we buy",
-        "url": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
-        "date": "2026-06-29 19:10:57"
-      }
-    ]
-  },
-  {
-    "cluster_id": "2",
-    "label": "police, man, shooting",
-    "trending_score": 0.3026,
-    "count_24h": 0,
-    "count_7d": 55,
-    "top_articles": [
-      {
-        "id": "2774",
-        "title": "Truck drivers ‘miraculously’ emerge nearly unscathed from explosions and fire after Hume Highway truck crash",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/30/truck-crash-hume-highway-drivers-nearly-unscathed-explosions-fire-nsw-ntwnfb",
-        "date": "2026-06-30 04:16:38"
-      },
-      {
-        "id": "2758",
-        "title": "Police hunt for suspect after three wounded in Monaco blast",
-        "url": "https://www.aljazeera.com/news/2026/6/30/police-hunt-for-suspect-after-three-wounded-in-monaco?traffic_source=rss",
-        "date": "2026-06-30 02:56:24"
-      },
-      {
-        "id": "2746",
-        "title": "What do we know about the shooting in Stade, Germany?",
-        "url": "https://www.bbc.co.uk/news/videos/cdx7j0wn9lvo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-30 00:17:27"
-      }
-    ]
-  },
-  {
-    "cluster_id": "6",
-    "label": "new, market, ai",
-    "trending_score": 0.2469,
-    "count_24h": 0,
-    "count_7d": 70,
-    "top_articles": [
-      {
-        "id": "2800",
-        "title": "Millions of Britons urged to submit meter readings before energy price cap rises on Wednesday",
-        "url": "https://www.theguardian.com/money/2026/jun/30/britons-submit-meter-readings-before-energy-price-cap-rise-uk",
-        "date": "2026-06-30 06:00:40"
-      },
-      {
-        "id": "2802",
-        "title": "Brompton sells stakes to Decathlon and Chinese Labubu backer",
-        "url": "https://www.theguardian.com/business/2026/jun/30/brompton-sells-stakes-decathlon-bike-maker-sales",
-        "date": "2026-06-30 05:00:40"
-      },
-      {
-        "id": "2780",
-        "title": "The AI jobs debate just got messier",
-        "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-        "date": "2026-06-30 04:01:00"
-      }
-    ]
-  },
-  {
-    "cluster_id": "3",
-    "label": "court, man, judge",
-    "trending_score": 0.2275,
-    "count_24h": 0,
-    "count_7d": 38,
-    "top_articles": [
-      {
-        "id": "2794",
-        "title": "Chinese billionaire Guo Wengui gets 30 years in US prison for huge fraud",
-        "url": "https://www.aljazeera.com/news/2026/6/30/chinese-billionaire-guo-wengui-gets-30-years-in-us-prison-for-huge-fraud?traffic_source=rss",
-        "date": "2026-06-30 05:07:01"
-      },
-      {
-        "id": "2772",
-        "title": "Chinese tycoon Guo Wengui sentenced to 30 years in US prison for fraud",
-        "url": "https://www.theguardian.com/world/2026/jun/30/guo-wengui-chinese-tycoon-sentenced-us-prison-fraud",
-        "date": "2026-06-30 04:22:07"
-      },
-      {
-        "id": "2773",
-        "title": "Cairo Takeaway secures court win over pro-Israel activist who claimed he was ‘completely vindicated’ after settlement",
-        "url": "https://www.theguardian.com/media/2026/jun/30/cairo-takeaway-court-win-ofir-birenbaum-sydney-ntwnfb",
-        "date": "2026-06-30 04:21:56"
-      }
-    ]
-  },
-  {
-    "cluster_id": "15",
-    "label": "trump, latest, president",
-    "trending_score": 0.2108,
-    "count_24h": 0,
-    "count_7d": 34,
-    "top_articles": [
-      {
-        "id": "2779",
-        "title": "Trump nominates Keith Sonderling to permanent role of labor secretary",
-        "url": "https://www.theguardian.com/us-news/2026/jun/29/trump-nominates-keith-sonderling-labor-secretary",
-        "date": "2026-06-30 00:13:29"
-      },
-      {
-        "id": "2723",
-        "title": "Marco Rubio meets Libyan commander as US pushes to resolve Libya crisis",
-        "url": "https://www.aljazeera.com/news/2026/6/29/marco-rubio-meets-libyan-commander-as-us-pushes-to-resolve-libya-crisis?traffic_source=rss",
-        "date": "2026-06-29 21:30:07"
-      },
-      {
-        "id": "2745",
-        "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
-        "url": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-29 20:34:52"
-      }
-    ]
-  },
-  {
-    "cluster_id": "0",
-    "label": "olympic, new, says",
-    "trending_score": 0.2033,
-    "count_24h": 2,
-    "count_7d": 36,
-    "top_articles": [
-      {
-        "id": "2785",
-        "title": "Did Russell's pole set dangerous precedent? F1 Q&A",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c79yxx3ve9do?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-30 06:53:40"
-      },
-      {
-        "id": "2783",
-        "title": "Serena Williams on Maya Joint match and return to tennis",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c0jyv69p821o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-30 06:31:46"
-      },
-      {
-        "id": "2738",
-        "title": "Australian football legend Sam Kerr signs with Gotham FC after Chelsea exit",
-        "url": "https://www.aljazeera.com/sports/2026/6/29/australian-football-legend-sam-kerr-signs-with-gotham-fc-after-chelsea-exit?traffic_source=rss",
-        "date": "2026-06-29 22:37:28"
+        "id": "3085",
+        "title": "Watch: Mount Etna eruption creates trail of bright orange lava",
+        "url": "https://www.bbc.co.uk/news/videos/cy4ew7dyv7go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-01 03:33:48"
       }
     ]
   },
   {
     "cluster_id": "10",
-    "label": "taiwan, says, china",
-    "trending_score": 0.1653,
-    "count_24h": 0,
-    "count_7d": 38,
+    "label": "police, man, said",
+    "trending_score": 0.8891,
+    "count_24h": 26,
+    "count_7d": 100,
     "top_articles": [
       {
-        "id": "2796",
-        "title": "Pakistan-administered Kashmir returns to daily life after deadly protests",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/pakistan-administered-kashmir-returns-to-daily-life-after-deadly-protests?traffic_source=rss",
-        "date": "2026-06-30 04:28:33"
+        "id": "3123",
+        "title": "Friend of Thai teen allegedly murdered by Australian man went to his condo after reporting her missing",
+        "url": "https://www.theguardian.com/world/2026/jul/01/missing-thai-teen-thunchanok-donhomla-allegedly-murdered-australian-man-simon-peter-thailand-friend-went-to-his-condo-ntwnfb",
+        "date": "2026-07-01 06:36:37"
       },
       {
-        "id": "2761",
-        "title": "UN ordering 10,000 body bags for Venezuela as death toll expected to rise",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/un-ordering-10000-body-bags-for-venezuela-as-death-toll-expected-to-rise?traffic_source=rss",
-        "date": "2026-06-30 02:41:03"
+        "id": "3121",
+        "title": "Doorbell camera helps neighbours pull woman from fire",
+        "url": "https://www.bbc.co.uk/news/articles/c9w2x7nv90po?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-01 05:18:32"
       },
       {
-        "id": "2763",
-        "title": "Fear grows in Johannesburg market as anti-migrant ‘deadline’ looms",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/fear-grows-in-johannesburg-market-as-anti-migrant-deadline-looms?traffic_source=rss",
-        "date": "2026-06-30 02:30:26"
+        "id": "3112",
+        "title": "‘Imagine this was your daughter’: how grieving mothers campaigned to close sentencing gap",
+        "url": "https://www.theguardian.com/society/2026/jul/01/imagine-this-was-your-daughter-grieiving-mothers-campaigned-close-sentencing-gap",
+        "date": "2026-07-01 05:00:26"
+      }
+    ]
+  },
+  {
+    "cluster_id": "6",
+    "label": "court, trump, supreme court",
+    "trending_score": 0.8179,
+    "count_24h": 24,
+    "count_7d": 52,
+    "top_articles": [
+      {
+        "id": "3093",
+        "title": "Gojek co-founder, turned Indonesian Education Minister jailed for 10 years",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/gojek-co-founder-turned-indonesian-education-minister-jailed-for-10-years?traffic_source=rss",
+        "date": "2026-07-01 04:46:31"
+      },
+      {
+        "id": "3095",
+        "title": "Supreme Court’s divided ruling on birthright citizenship may be revisited",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/supreme-courts-divided-ruling-on-birthright-citizenship-may-be-revisited?traffic_source=rss",
+        "date": "2026-07-01 04:41:26"
+      },
+      {
+        "id": "3098",
+        "title": "NASA astronauts spacewalk to fix robotic arm",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/nasa-astronauts-spacewalk-to-fix-robotic-arm-2?traffic_source=rss",
+        "date": "2026-07-01 03:43:50"
+      }
+    ]
+  },
+  {
+    "cluster_id": "11",
+    "label": "killed, pakistan, shooting",
+    "trending_score": 0.7528,
+    "count_24h": 15,
+    "count_7d": 61,
+    "top_articles": [
+      {
+        "id": "3092",
+        "title": "Why is MAGA in meltdown over the Supreme Court birthright ruling?",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/why-is-maga-in-meltdown-over-the-supreme-court-birthright-ruling-2?traffic_source=rss",
+        "date": "2026-07-01 05:01:32"
+      },
+      {
+        "id": "3094",
+        "title": "Tutoring centre roof collapses killing 14 children in Pakistan",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/tutoring-centre-roof-collapses-killing-14-children-in-pakistan?traffic_source=rss",
+        "date": "2026-07-01 04:45:14"
+      },
+      {
+        "id": "3059",
+        "title": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
+        "url": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-30 23:49:19"
       }
     ]
   },
   {
     "cluster_id": "8",
-    "label": "trump, latest, state",
-    "trending_score": 0.1384,
-    "count_24h": 1,
-    "count_7d": 19,
+    "label": "says, israel, said",
+    "trending_score": 0.6995,
+    "count_24h": 22,
+    "count_7d": 56,
     "top_articles": [
       {
-        "id": "2789",
-        "title": "Peru elects Keiko Fujimori in victory for Latin American right",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/peru-elects-keiko-fujimori-in-victory-for-latin-american-right?traffic_source=rss",
-        "date": "2026-06-30 06:37:07"
+        "id": "3122",
+        "title": "Sudan's RSF committed crimes against humanity in el-Fasher, Amnesty says",
+        "url": "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-01 06:29:31"
       },
       {
-        "id": "2757",
-        "title": "US education faces ‘a crisis for low-wealth students’",
-        "url": "https://www.aljazeera.com/video/quotable/2026/6/30/us-education-faces-a-crisis-for-low-wealth?traffic_source=rss",
-        "date": "2026-06-30 03:51:12"
+        "id": "3091",
+        "title": "‘I did nothing wrong’: Sweden’s migration regime hardens, upending lives",
+        "url": "https://www.aljazeera.com/news/2026/7/1/i-did-nothing-wrong-swedens-migration-regime-hardens-upending-lives?traffic_source=rss",
+        "date": "2026-07-01 05:52:19"
       },
       {
-        "id": "2778",
-        "title": "Both Republican Dan Sullivans can compete in Alaska primary, court rules",
-        "url": "https://www.theguardian.com/us-news/2026/jun/29/dan-sullivan-alaska-primary",
-        "date": "2026-06-30 00:54:22"
+        "id": "3101",
+        "title": "UN chief fears for ‘millions’ of Palestinians amid UNRWA funding shortfall",
+        "url": "https://www.aljazeera.com/news/2026/7/1/un-chief-fears-for-millions-of-palestinians-amid-unrwa-funding-shortfall?traffic_source=rss",
+        "date": "2026-07-01 02:56:49"
+      }
+    ]
+  },
+  {
+    "cluster_id": "14",
+    "label": "market, new, sales",
+    "trending_score": 0.475,
+    "count_24h": 11,
+    "count_7d": 46,
+    "top_articles": [
+      {
+        "id": "3111",
+        "title": "Energy price cap rise ‘will push millions in Great Britain into fuel poverty’",
+        "url": "https://www.theguardian.com/money/2026/jul/01/energy-price-cap-rise-will-push-millions-in-great-britain-into-fuel-poverty",
+        "date": "2026-07-01 05:00:26"
+      },
+      {
+        "id": "3117",
+        "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+        "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+        "date": "2026-07-01 02:04:40"
+      },
+      {
+        "id": "3078",
+        "title": "Trump raked in more than $1bn from crypto businesses in 2025, filing shows",
+        "url": "https://www.theguardian.com/us-news/2026/jun/30/trump-1bn-crypto-businesses-2025",
+        "date": "2026-07-01 00:29:48"
+      }
+    ]
+  },
+  {
+    "cluster_id": "0",
+    "label": "trump, latest, president",
+    "trending_score": 0.4628,
+    "count_24h": 14,
+    "count_7d": 43,
+    "top_articles": [
+      {
+        "id": "3090",
+        "title": "Democratic socialist Kiros defeats longtime incumbent in Colorado primary",
+        "url": "https://www.aljazeera.com/news/2026/7/1/democratic-socialist-kiros-defeats-longtime-incumbent-in-colorado-primary?traffic_source=rss",
+        "date": "2026-07-01 05:56:54"
+      },
+      {
+        "id": "3088",
+        "title": "'Could be worse' - Americans on the state of the nation in its 250th year",
+        "url": "https://www.bbc.co.uk/news/videos/c05yv6d9yq4o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-01 05:07:31"
+      },
+      {
+        "id": "3114",
+        "title": "Democratic socialist Melat Kiros defeats 15-term incumbent in Colorado House primary",
+        "url": "https://www.theguardian.com/us-news/2026/jul/01/melat-kiros-democrat-defeats-diana-degette-blue-state-colarado-house-primary-denver",
+        "date": "2026-07-01 04:32:35"
+      }
+    ]
+  },
+  {
+    "cluster_id": "15",
+    "label": "china, taiwan, taipei",
+    "trending_score": 0.392,
+    "count_24h": 8,
+    "count_7d": 17,
+    "top_articles": [
+      {
+        "id": "3086",
+        "title": "Can China target critics abroad with its new 'ethnic unity' law?",
+        "url": "https://www.bbc.co.uk/news/articles/cx23dwx0232o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-01 05:34:03"
+      },
+      {
+        "id": "3104",
+        "title": "Southeast Asia’s homegrown artists are knocking K-pop off its pedestal",
+        "url": "https://www.aljazeera.com/news/2026/7/1/southeast-asias-homegrown-artists-are-knocking-k-pop-off-its-pedestal?traffic_source=rss",
+        "date": "2026-07-01 01:59:54"
+      },
+      {
+        "id": "3067",
+        "title": "North Korea’s Kim hails ‘unshakeable will’ to develop ties with China’s Xi",
+        "url": "https://www.aljazeera.com/news/2026/7/1/north-koreas-kim-hails-unshakeable-will-to-develop-ties-with-chinas-xi?traffic_source=rss",
+        "date": "2026-07-01 01:17:24"
       }
     ]
   },
   {
     "cluster_id": "5",
     "label": "new, year, film",
-    "trending_score": 0.0875,
-    "count_24h": 0,
-    "count_7d": 25,
+    "trending_score": 0.279,
+    "count_24h": 11,
+    "count_7d": 44,
     "top_articles": [
       {
-        "id": "2788",
-        "title": "Watch: Young bald eagle takes first flight in California",
-        "url": "https://www.bbc.co.uk/news/videos/cp3x257qkx9o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-30 05:59:50"
+        "id": "3120",
+        "title": "What we know about Taylor Swift's rumoured NYC wedding celebrations",
+        "url": "https://www.bbc.co.uk/news/articles/c70yj1749j0o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-01 06:18:17"
       },
       {
-        "id": "2653",
-        "title": "Wildwood featurette lifts the veil on building its stop-motion world",
-        "url": "https://arstechnica.com/culture/2026/06/wildwood-featurette-lifts-the-veil-on-building-its-stop-motion-world/",
-        "date": "2026-06-29 15:43:50"
+        "id": "3021",
+        "title": "'I've been dreaming of this moment' - Joint stunned to beat 'legend' Williams",
+        "url": "https://www.bbc.co.uk/sport/tennis/videos/c4gy2jdzjg9o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-30 21:48:00"
       },
       {
-        "id": "2636",
-        "title": "The show must go on: musical theatre cancellations lead to industry calls for urgent government help",
-        "url": "https://www.theguardian.com/stage/2026/jun/30/musical-theatre-cancellations-australia-waitress-beetlejuice-industry-funding",
-        "date": "2026-06-29 15:00:23"
-      }
-    ]
-  },
-  {
-    "cluster_id": "11",
-    "label": "league, major, linescores",
-    "trending_score": 0.0,
-    "count_24h": 0,
-    "count_7d": 0,
-    "top_articles": [
-      {
-        "id": "674",
-        "title": "Yankees place Gleyber Torres on the 10-day DL",
-        "url": "https://www.taiwannews.com.tw/en/news/3474437",
-        "date": "2018-07-05 05:56:00"
-      },
-      {
-        "id": "1824",
-        "title": "Wednesday's Major League Linescores",
-        "url": "https://www.taiwannews.com.tw/en/news/3474429",
-        "date": "2018-07-05 05:40:00"
-      },
-      {
-        "id": "1347",
-        "title": "Wednesday's Major League Linescores",
-        "url": "https://www.taiwannews.com.tw/en/news/3474413",
-        "date": "2018-07-05 04:26:00"
+        "id": "2981",
+        "title": "Williams 'takes it all in' on Centre Court return",
+        "url": "https://www.bbc.co.uk/sport/tennis/videos/c932jy2qz24o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-30 19:07:34"
       }
     ]
   },
   {
     "cluster_id": "12",
+    "label": "says, new, school",
+    "trending_score": 0.2384,
+    "count_24h": 6,
+    "count_7d": 38,
+    "top_articles": [
+      {
+        "id": "3061",
+        "title": "Women with PMOS should have yearly NHS checks, says health watchdog",
+        "url": "https://www.bbc.co.uk/news/articles/cd0m3g05kx2o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-30 23:04:58"
+      },
+      {
+        "id": "3050",
+        "title": "Women with irregular periods should be checked for PMOS, NHS says",
+        "url": "https://www.theguardian.com/society/2026/jul/01/women-with-irregular-periods-should-be-checked-for-pmos-nhs-says",
+        "date": "2026-06-30 23:01:19"
+      },
+      {
+        "id": "2985",
+        "title": "Tech Life",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy2?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-30 19:30:00"
+      }
+    ]
+  },
+  {
+    "cluster_id": "7",
+    "label": "league, win, major",
+    "trending_score": 0.0802,
+    "count_24h": 3,
+    "count_7d": 3,
+    "top_articles": [
+      {
+        "id": "3107",
+        "title": "LeBron James thanks LA Lakers ahead of free agency exit for 24th season",
+        "url": "https://www.aljazeera.com/sports/2026/7/1/lebron-james-thanks-la-lakers-ahead-of-free-agency-exit-for-24th-season?traffic_source=rss",
+        "date": "2026-07-01 01:45:15"
+      },
+      {
+        "id": "3065",
+        "title": "Williams edged by Joint in epic three‑setter on singles return",
+        "url": "https://www.bbc.co.uk/sport/tennis/videos/c6210wl58z6o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-30 23:24:38"
+      },
+      {
+        "id": "2940",
+        "title": "Basketball superstar James to leave LA Lakers",
+        "url": "https://www.bbc.co.uk/sport/basketball/articles/c9v20gn7r21o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-30 18:11:09"
+      }
+    ]
+  },
+  {
+    "cluster_id": "16",
     "label": "glance, expanded conference, conference glance",
     "trending_score": 0.0,
     "count_24h": 0,

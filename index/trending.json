@@ -2,8 +2,8 @@
   {
     "cluster_id": "2",
     "label": "burnham, said, uk",
-    "trending_score": 1.7124,
-    "count_24h": 28,
+    "trending_score": 1.5359,
+    "count_24h": 21,
     "count_7d": 140,
     "top_articles": [
       {
@@ -27,36 +27,9 @@
     ]
   },
   {
-    "cluster_id": "13",
-    "label": "world, cup, world cup",
-    "trending_score": 1.3636,
-    "count_24h": 37,
-    "count_7d": 207,
-    "top_articles": [
-      {
-        "id": "3119",
-        "title": "World Cup fans sweat through US 'heat dome'",
-        "url": "https://www.bbc.co.uk/news/videos/cq5177z8velo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-01 06:41:26"
-      },
-      {
-        "id": "3084",
-        "title": "Mexico rampant at fortress Azteca - and England could be next",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cy9rg5n3380o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-01 05:38:14"
-      },
-      {
-        "id": "3089",
-        "title": "Lobbing Federer changed his life – the cult hero back at Wimbledon",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/ckg5127471yo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-01 05:04:26"
-      }
-    ]
-  },
-  {
     "cluster_id": "3",
     "label": "venezuela, 01, 02",
-    "trending_score": 1.3448,
+    "trending_score": 1.3276,
     "count_24h": 12,
     "count_7d": 81,
     "top_articles": [
@@ -81,11 +54,38 @@
     ]
   },
   {
+    "cluster_id": "13",
+    "label": "world, cup, world cup",
+    "trending_score": 1.2628,
+    "count_24h": 32,
+    "count_7d": 207,
+    "top_articles": [
+      {
+        "id": "3119",
+        "title": "World Cup fans sweat through US 'heat dome'",
+        "url": "https://www.bbc.co.uk/news/videos/cq5177z8velo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-01 06:41:26"
+      },
+      {
+        "id": "3084",
+        "title": "Mexico rampant at fortress Azteca - and England could be next",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cy9rg5n3380o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-01 05:38:14"
+      },
+      {
+        "id": "3089",
+        "title": "Lobbing Federer changed his life – the cult hero back at Wimbledon",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/ckg5127471yo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-01 05:04:26"
+      }
+    ]
+  },
+  {
     "cluster_id": "9",
     "label": "ai, tech, new",
-    "trending_score": 1.0144,
-    "count_24h": 37,
-    "count_7d": 130,
+    "trending_score": 0.8556,
+    "count_24h": 27,
+    "count_7d": 129,
     "top_articles": [
       {
         "id": "3124",
@@ -108,37 +108,10 @@
     ]
   },
   {
-    "cluster_id": "1",
-    "label": "iran, israel, said",
-    "trending_score": 0.9291,
-    "count_24h": 11,
-    "count_7d": 90,
-    "top_articles": [
-      {
-        "id": "3102",
-        "title": "Iran says it couldn’t export a ‘single barrel of oil’ during US blockade",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/iran-says-it-couldnt-export-a-single-barrel-of-oil-during-us-blockade?traffic_source=rss",
-        "date": "2026-07-01 02:45:34"
-      },
-      {
-        "id": "3070",
-        "title": "Iran war live: Qatar’s PM meets US envoys; Tehran holds firm on conditions",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/1/iran-war-live-qatars-pm-meets-us-envoys-tehran-holds-firm-on-conditions?traffic_source=rss",
-        "date": "2026-07-01 00:00:09"
-      },
-      {
-        "id": "3079",
-        "title": "US-Iran talks over $6bn Iranian assets to restart",
-        "url": "https://www.theguardian.com/world/2026/jun/30/us-iran-talks-6bn-iranian-assets-restart",
-        "date": "2026-06-30 23:57:11"
-      }
-    ]
-  },
-  {
     "cluster_id": "4",
     "label": "heat, heatwave, week",
-    "trending_score": 0.8625,
-    "count_24h": 11,
+    "trending_score": 0.7625,
+    "count_24h": 9,
     "count_7d": 72,
     "top_articles": [
       {
@@ -162,10 +135,37 @@
     ]
   },
   {
+    "cluster_id": "1",
+    "label": "iran, israel, said",
+    "trending_score": 0.7388,
+    "count_24h": 7,
+    "count_7d": 90,
+    "top_articles": [
+      {
+        "id": "3102",
+        "title": "Iran says it couldn’t export a ‘single barrel of oil’ during US blockade",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/iran-says-it-couldnt-export-a-single-barrel-of-oil-during-us-blockade?traffic_source=rss",
+        "date": "2026-07-01 02:45:34"
+      },
+      {
+        "id": "3070",
+        "title": "Iran war live: Qatar’s PM meets US envoys; Tehran holds firm on conditions",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/1/iran-war-live-qatars-pm-meets-us-envoys-tehran-holds-firm-on-conditions?traffic_source=rss",
+        "date": "2026-07-01 00:00:09"
+      },
+      {
+        "id": "3079",
+        "title": "US-Iran talks over $6bn Iranian assets to restart",
+        "url": "https://www.theguardian.com/world/2026/jun/30/us-iran-talks-6bn-iranian-assets-restart",
+        "date": "2026-06-30 23:57:11"
+      }
+    ]
+  },
+  {
     "cluster_id": "6",
     "label": "court, trump, supreme court",
-    "trending_score": 0.7641,
-    "count_24h": 21,
+    "trending_score": 0.641,
+    "count_24h": 16,
     "count_7d": 52,
     "top_articles": [
       {
@@ -191,8 +191,8 @@
   {
     "cluster_id": "11",
     "label": "killed, pakistan, shooting",
-    "trending_score": 0.6861,
-    "count_24h": 12,
+    "trending_score": 0.6028,
+    "count_24h": 11,
     "count_7d": 61,
     "top_articles": [
       {
@@ -218,8 +218,8 @@
   {
     "cluster_id": "10",
     "label": "police, man, said",
-    "trending_score": 0.6543,
-    "count_24h": 11,
+    "trending_score": 0.6022,
+    "count_24h": 8,
     "count_7d": 100,
     "top_articles": [
       {
@@ -245,8 +245,8 @@
   {
     "cluster_id": "8",
     "label": "says, israel, said",
-    "trending_score": 0.5788,
-    "count_24h": 15,
+    "trending_score": 0.5271,
+    "count_24h": 13,
     "count_7d": 55,
     "top_articles": [
       {
@@ -272,8 +272,8 @@
   {
     "cluster_id": "0",
     "label": "trump, latest, president",
-    "trending_score": 0.4209,
-    "count_24h": 12,
+    "trending_score": 0.4,
+    "count_24h": 11,
     "count_7d": 43,
     "top_articles": [
       {
@@ -299,8 +299,8 @@
   {
     "cluster_id": "14",
     "label": "market, new, sales",
-    "trending_score": 0.4075,
-    "count_24h": 8,
+    "trending_score": 0.3475,
+    "count_24h": 4,
     "count_7d": 46,
     "top_articles": [
       {
@@ -380,8 +380,8 @@
   {
     "cluster_id": "5",
     "label": "new, year, film",
-    "trending_score": 0.1919,
-    "count_24h": 5,
+    "trending_score": 0.1726,
+    "count_24h": 4,
     "count_7d": 44,
     "top_articles": [
       {

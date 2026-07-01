@@ -2,8 +2,8 @@
   {
     "cluster_id": "2",
     "label": "burnham, said, uk",
-    "trending_score": 1.2124,
-    "count_24h": 10,
+    "trending_score": 1.1242,
+    "count_24h": 8,
     "count_7d": 140,
     "top_articles": [
       {
@@ -27,38 +27,11 @@
     ]
   },
   {
-    "cluster_id": "3",
-    "label": "venezuela, 01, 02",
-    "trending_score": 1.1552,
-    "count_24h": 10,
-    "count_7d": 81,
-    "top_articles": [
-      {
-        "id": "3083",
-        "title": "Families search for earthquake survivors in one of Venezuela's hardest hit areas",
-        "url": "https://www.bbc.co.uk/news/videos/cy06378zyl3o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-01 06:10:43"
-      },
-      {
-        "id": "3108",
-        "title": "Wednesday briefing: After two powerful earthquakes, what is the reality on the ground in Venezuela?",
-        "url": "https://www.theguardian.com/world/2026/jul/01/wednesday-briefing-after-two-powerful-earthquakes-what-is-the-reality-on-the-ground-in-venezuela",
-        "date": "2026-07-01 05:44:50"
-      },
-      {
-        "id": "3069",
-        "title": "Mexican fans keep Ecuador’s team awake before World Cup showdown",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/mexican-fans-keep-ecuadors-team-awake-before-world-cup-showdown?traffic_source=rss",
-        "date": "2026-07-01 00:13:03"
-      }
-    ]
-  },
-  {
     "cluster_id": "13",
     "label": "world, cup, world cup",
-    "trending_score": 1.085,
-    "count_24h": 21,
-    "count_7d": 207,
+    "trending_score": 1.0237,
+    "count_24h": 17,
+    "count_7d": 206,
     "top_articles": [
       {
         "id": "3119",
@@ -81,29 +54,29 @@
     ]
   },
   {
-    "cluster_id": "9",
-    "label": "ai, tech, new",
-    "trending_score": 0.6444,
-    "count_24h": 13,
-    "count_7d": 129,
+    "cluster_id": "3",
+    "label": "venezuela, 01, 02",
+    "trending_score": 1.0172,
+    "count_24h": 7,
+    "count_7d": 81,
     "top_articles": [
       {
-        "id": "3124",
-        "title": "Creatives sound alarm on copyright as Pocock calls $50bn datacentre proposal ‘ultimate dirty deal’",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/01/australia-ai-copyright-laws-creatives-sound-alarm-albanese-government-datacentres",
-        "date": "2026-07-01 06:22:22"
+        "id": "3083",
+        "title": "Families search for earthquake survivors in one of Venezuela's hardest hit areas",
+        "url": "https://www.bbc.co.uk/news/videos/cy06378zyl3o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-01 06:10:43"
       },
       {
-        "id": "3115",
-        "title": "The ‘Father of the Internet’ is finally retiring",
-        "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-        "date": "2026-07-01 03:15:37"
+        "id": "3108",
+        "title": "Wednesday briefing: After two powerful earthquakes, what is the reality on the ground in Venezuela?",
+        "url": "https://www.theguardian.com/world/2026/jul/01/wednesday-briefing-after-two-powerful-earthquakes-what-is-the-reality-on-the-ground-in-venezuela",
+        "date": "2026-07-01 05:44:50"
       },
       {
-        "id": "3103",
-        "title": "US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos",
-        "url": "https://www.aljazeera.com/economy/2026/7/1/us-lifts-restrictions-on-powerful-ai-models-fable-mythos-anthropic-says?traffic_source=rss",
-        "date": "2026-07-01 02:16:34"
+        "id": "3069",
+        "title": "Mexican fans keep Ecuador’s team awake before World Cup showdown",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/mexican-fans-keep-ecuadors-team-awake-before-world-cup-showdown?traffic_source=rss",
+        "date": "2026-07-01 00:13:03"
       }
     ]
   },
@@ -162,9 +135,36 @@
     ]
   },
   {
+    "cluster_id": "9",
+    "label": "ai, tech, new",
+    "trending_score": 0.5686,
+    "count_24h": 7,
+    "count_7d": 129,
+    "top_articles": [
+      {
+        "id": "3124",
+        "title": "Creatives sound alarm on copyright as Pocock calls $50bn datacentre proposal ‘ultimate dirty deal’",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/01/australia-ai-copyright-laws-creatives-sound-alarm-albanese-government-datacentres",
+        "date": "2026-07-01 06:22:22"
+      },
+      {
+        "id": "3115",
+        "title": "The ‘Father of the Internet’ is finally retiring",
+        "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+        "date": "2026-07-01 03:15:37"
+      },
+      {
+        "id": "3103",
+        "title": "US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos",
+        "url": "https://www.aljazeera.com/economy/2026/7/1/us-lifts-restrictions-on-powerful-ai-models-fable-mythos-anthropic-says?traffic_source=rss",
+        "date": "2026-07-01 02:16:34"
+      }
+    ]
+  },
+  {
     "cluster_id": "10",
     "label": "police, man, said",
-    "trending_score": 0.5283,
+    "trending_score": 0.5087,
     "count_24h": 5,
     "count_7d": 99,
     "top_articles": [
@@ -191,8 +191,8 @@
   {
     "cluster_id": "11",
     "label": "killed, pakistan, shooting",
-    "trending_score": 0.4611,
-    "count_24h": 5,
+    "trending_score": 0.4194,
+    "count_24h": 4,
     "count_7d": 61,
     "top_articles": [
       {
@@ -218,8 +218,8 @@
   {
     "cluster_id": "6",
     "label": "court, trump, supreme court",
-    "trending_score": 0.4487,
-    "count_24h": 7,
+    "trending_score": 0.4103,
+    "count_24h": 5,
     "count_7d": 52,
     "top_articles": [
       {
@@ -245,8 +245,8 @@
   {
     "cluster_id": "8",
     "label": "says, israel, said",
-    "trending_score": 0.3941,
-    "count_24h": 5,
+    "trending_score": 0.3793,
+    "count_24h": 4,
     "count_7d": 55,
     "top_articles": [
       {
@@ -272,8 +272,8 @@
   {
     "cluster_id": "0",
     "label": "trump, latest, president",
-    "trending_score": 0.3442,
-    "count_24h": 8,
+    "trending_score": 0.3233,
+    "count_24h": 7,
     "count_7d": 43,
     "top_articles": [
       {
@@ -299,7 +299,7 @@
   {
     "cluster_id": "14",
     "label": "market, new, sales",
-    "trending_score": 0.3175,
+    "trending_score": 0.31,
     "count_24h": 4,
     "count_7d": 46,
     "top_articles": [
@@ -353,7 +353,7 @@
   {
     "cluster_id": "12",
     "label": "says, new, school",
-    "trending_score": 0.1603,
+    "trending_score": 0.154,
     "count_24h": 2,
     "count_7d": 37,
     "top_articles": [
@@ -380,8 +380,8 @@
   {
     "cluster_id": "5",
     "label": "new, year, film",
-    "trending_score": 0.1532,
-    "count_24h": 2,
+    "trending_score": 0.1387,
+    "count_24h": 1,
     "count_7d": 44,
     "top_articles": [
       {

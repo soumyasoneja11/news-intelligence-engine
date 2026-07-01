@@ -2,8 +2,8 @@
   {
     "cluster_id": "2",
     "label": "burnham, said, uk",
-    "trending_score": 1.5359,
-    "count_24h": 21,
+    "trending_score": 1.4085,
+    "count_24h": 18,
     "count_7d": 140,
     "top_articles": [
       {
@@ -29,8 +29,8 @@
   {
     "cluster_id": "3",
     "label": "venezuela, 01, 02",
-    "trending_score": 1.3276,
-    "count_24h": 12,
+    "trending_score": 1.1897,
+    "count_24h": 10,
     "count_7d": 81,
     "top_articles": [
       {
@@ -56,8 +56,8 @@
   {
     "cluster_id": "13",
     "label": "world, cup, world cup",
-    "trending_score": 1.2628,
-    "count_24h": 32,
+    "trending_score": 1.1798,
+    "count_24h": 27,
     "count_7d": 207,
     "top_articles": [
       {
@@ -83,8 +83,8 @@
   {
     "cluster_id": "9",
     "label": "ai, tech, new",
-    "trending_score": 0.8556,
-    "count_24h": 27,
+    "trending_score": 0.7419,
+    "count_24h": 20,
     "count_7d": 129,
     "top_articles": [
       {
@@ -110,8 +110,8 @@
   {
     "cluster_id": "4",
     "label": "heat, heatwave, week",
-    "trending_score": 0.7625,
-    "count_24h": 9,
+    "trending_score": 0.7125,
+    "count_24h": 7,
     "count_7d": 72,
     "top_articles": [
       {
@@ -137,8 +137,8 @@
   {
     "cluster_id": "1",
     "label": "iran, israel, said",
-    "trending_score": 0.7388,
-    "count_24h": 7,
+    "trending_score": 0.6716,
+    "count_24h": 6,
     "count_7d": 90,
     "top_articles": [
       {
@@ -162,37 +162,10 @@
     ]
   },
   {
-    "cluster_id": "6",
-    "label": "court, trump, supreme court",
-    "trending_score": 0.641,
-    "count_24h": 16,
-    "count_7d": 52,
-    "top_articles": [
-      {
-        "id": "3093",
-        "title": "Gojek co-founder, turned Indonesian Education Minister jailed for 10 years",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/gojek-co-founder-turned-indonesian-education-minister-jailed-for-10-years?traffic_source=rss",
-        "date": "2026-07-01 04:46:31"
-      },
-      {
-        "id": "3095",
-        "title": "Supreme Court’s divided ruling on birthright citizenship may be revisited",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/supreme-courts-divided-ruling-on-birthright-citizenship-may-be-revisited?traffic_source=rss",
-        "date": "2026-07-01 04:41:26"
-      },
-      {
-        "id": "3098",
-        "title": "NASA astronauts spacewalk to fix robotic arm",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/nasa-astronauts-spacewalk-to-fix-robotic-arm-2?traffic_source=rss",
-        "date": "2026-07-01 03:43:50"
-      }
-    ]
-  },
-  {
     "cluster_id": "11",
     "label": "killed, pakistan, shooting",
-    "trending_score": 0.6028,
-    "count_24h": 11,
+    "trending_score": 0.5611,
+    "count_24h": 9,
     "count_7d": 61,
     "top_articles": [
       {
@@ -218,8 +191,8 @@
   {
     "cluster_id": "10",
     "label": "police, man, said",
-    "trending_score": 0.6022,
-    "count_24h": 8,
+    "trending_score": 0.55,
+    "count_24h": 6,
     "count_7d": 100,
     "top_articles": [
       {
@@ -243,10 +216,37 @@
     ]
   },
   {
+    "cluster_id": "6",
+    "label": "court, trump, supreme court",
+    "trending_score": 0.5333,
+    "count_24h": 11,
+    "count_7d": 52,
+    "top_articles": [
+      {
+        "id": "3093",
+        "title": "Gojek co-founder, turned Indonesian Education Minister jailed for 10 years",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/gojek-co-founder-turned-indonesian-education-minister-jailed-for-10-years?traffic_source=rss",
+        "date": "2026-07-01 04:46:31"
+      },
+      {
+        "id": "3095",
+        "title": "Supreme Court’s divided ruling on birthright citizenship may be revisited",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/supreme-courts-divided-ruling-on-birthright-citizenship-may-be-revisited?traffic_source=rss",
+        "date": "2026-07-01 04:41:26"
+      },
+      {
+        "id": "3098",
+        "title": "NASA astronauts spacewalk to fix robotic arm",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/nasa-astronauts-spacewalk-to-fix-robotic-arm-2?traffic_source=rss",
+        "date": "2026-07-01 03:43:50"
+      }
+    ]
+  },
+  {
     "cluster_id": "8",
     "label": "says, israel, said",
-    "trending_score": 0.5271,
-    "count_24h": 13,
+    "trending_score": 0.4754,
+    "count_24h": 10,
     "count_7d": 55,
     "top_articles": [
       {
@@ -272,8 +272,8 @@
   {
     "cluster_id": "0",
     "label": "trump, latest, president",
-    "trending_score": 0.4,
-    "count_24h": 11,
+    "trending_score": 0.3442,
+    "count_24h": 8,
     "count_7d": 43,
     "top_articles": [
       {
@@ -299,7 +299,7 @@
   {
     "cluster_id": "14",
     "label": "market, new, sales",
-    "trending_score": 0.3475,
+    "trending_score": 0.3325,
     "count_24h": 4,
     "count_7d": 46,
     "top_articles": [
@@ -353,9 +353,9 @@
   {
     "cluster_id": "12",
     "label": "says, new, school",
-    "trending_score": 0.2194,
-    "count_24h": 5,
-    "count_7d": 38,
+    "trending_score": 0.1793,
+    "count_24h": 3,
+    "count_7d": 37,
     "top_articles": [
       {
         "id": "3061",
@@ -380,8 +380,8 @@
   {
     "cluster_id": "5",
     "label": "new, year, film",
-    "trending_score": 0.1726,
-    "count_24h": 4,
+    "trending_score": 0.1629,
+    "count_24h": 3,
     "count_7d": 44,
     "top_articles": [
       {
@@ -407,8 +407,8 @@
   {
     "cluster_id": "7",
     "label": "league, win, major",
-    "trending_score": 0.0802,
-    "count_24h": 3,
+    "trending_score": 0.0642,
+    "count_24h": 2,
     "count_7d": 3,
     "top_articles": [
       {

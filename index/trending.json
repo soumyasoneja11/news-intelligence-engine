@@ -2,8 +2,8 @@
   {
     "cluster_id": "2",
     "label": "burnham, said, uk",
-    "trending_score": 2.0261,
-    "count_24h": 40,
+    "trending_score": 1.8497,
+    "count_24h": 34,
     "count_7d": 140,
     "top_articles": [
       {
@@ -29,8 +29,8 @@
   {
     "cluster_id": "13",
     "label": "world, cup, world cup",
-    "trending_score": 1.5771,
-    "count_24h": 51,
+    "trending_score": 1.4941,
+    "count_24h": 46,
     "count_7d": 207,
     "top_articles": [
       {
@@ -56,8 +56,8 @@
   {
     "cluster_id": "3",
     "label": "venezuela, 01, 02",
-    "trending_score": 1.5,
-    "count_24h": 13,
+    "trending_score": 1.3966,
+    "count_24h": 12,
     "count_7d": 81,
     "top_articles": [
       {
@@ -83,8 +83,8 @@
   {
     "cluster_id": "9",
     "label": "ai, tech, new",
-    "trending_score": 1.1227,
-    "count_24h": 44,
+    "trending_score": 1.0794,
+    "count_24h": 41,
     "count_7d": 130,
     "top_articles": [
       {
@@ -110,8 +110,8 @@
   {
     "cluster_id": "1",
     "label": "iran, israel, said",
-    "trending_score": 1.0299,
-    "count_24h": 13,
+    "trending_score": 0.9739,
+    "count_24h": 12,
     "count_7d": 90,
     "top_articles": [
       {
@@ -137,8 +137,8 @@
   {
     "cluster_id": "4",
     "label": "heat, heatwave, week",
-    "trending_score": 0.9875,
-    "count_24h": 15,
+    "trending_score": 0.875,
+    "count_24h": 11,
     "count_7d": 72,
     "top_articles": [
       {
@@ -162,37 +162,10 @@
     ]
   },
   {
-    "cluster_id": "10",
-    "label": "police, man, said",
-    "trending_score": 0.8891,
-    "count_24h": 26,
-    "count_7d": 100,
-    "top_articles": [
-      {
-        "id": "3123",
-        "title": "Friend of Thai teen allegedly murdered by Australian man went to his condo after reporting her missing",
-        "url": "https://www.theguardian.com/world/2026/jul/01/missing-thai-teen-thunchanok-donhomla-allegedly-murdered-australian-man-simon-peter-thailand-friend-went-to-his-condo-ntwnfb",
-        "date": "2026-07-01 06:36:37"
-      },
-      {
-        "id": "3121",
-        "title": "Doorbell camera helps neighbours pull woman from fire",
-        "url": "https://www.bbc.co.uk/news/articles/c9w2x7nv90po?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-01 05:18:32"
-      },
-      {
-        "id": "3112",
-        "title": "‘Imagine this was your daughter’: how grieving mothers campaigned to close sentencing gap",
-        "url": "https://www.theguardian.com/society/2026/jul/01/imagine-this-was-your-daughter-grieiving-mothers-campaigned-close-sentencing-gap",
-        "date": "2026-07-01 05:00:26"
-      }
-    ]
-  },
-  {
     "cluster_id": "6",
     "label": "court, trump, supreme court",
-    "trending_score": 0.8179,
-    "count_24h": 24,
+    "trending_score": 0.7949,
+    "count_24h": 23,
     "count_7d": 52,
     "top_articles": [
       {
@@ -216,10 +189,37 @@
     ]
   },
   {
+    "cluster_id": "10",
+    "label": "police, man, said",
+    "trending_score": 0.7652,
+    "count_24h": 18,
+    "count_7d": 100,
+    "top_articles": [
+      {
+        "id": "3123",
+        "title": "Friend of Thai teen allegedly murdered by Australian man went to his condo after reporting her missing",
+        "url": "https://www.theguardian.com/world/2026/jul/01/missing-thai-teen-thunchanok-donhomla-allegedly-murdered-australian-man-simon-peter-thailand-friend-went-to-his-condo-ntwnfb",
+        "date": "2026-07-01 06:36:37"
+      },
+      {
+        "id": "3121",
+        "title": "Doorbell camera helps neighbours pull woman from fire",
+        "url": "https://www.bbc.co.uk/news/articles/c9w2x7nv90po?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-01 05:18:32"
+      },
+      {
+        "id": "3112",
+        "title": "‘Imagine this was your daughter’: how grieving mothers campaigned to close sentencing gap",
+        "url": "https://www.theguardian.com/society/2026/jul/01/imagine-this-was-your-daughter-grieiving-mothers-campaigned-close-sentencing-gap",
+        "date": "2026-07-01 05:00:26"
+      }
+    ]
+  },
+  {
     "cluster_id": "11",
     "label": "killed, pakistan, shooting",
-    "trending_score": 0.7528,
-    "count_24h": 15,
+    "trending_score": 0.7194,
+    "count_24h": 13,
     "count_7d": 61,
     "top_articles": [
       {
@@ -245,8 +245,8 @@
   {
     "cluster_id": "8",
     "label": "says, israel, said",
-    "trending_score": 0.6995,
-    "count_24h": 22,
+    "trending_score": 0.6478,
+    "count_24h": 19,
     "count_7d": 56,
     "top_articles": [
       {
@@ -272,8 +272,8 @@
   {
     "cluster_id": "14",
     "label": "market, new, sales",
-    "trending_score": 0.475,
-    "count_24h": 11,
+    "trending_score": 0.445,
+    "count_24h": 10,
     "count_7d": 46,
     "top_articles": [
       {
@@ -299,8 +299,8 @@
   {
     "cluster_id": "0",
     "label": "trump, latest, president",
-    "trending_score": 0.4628,
-    "count_24h": 14,
+    "trending_score": 0.4279,
+    "count_24h": 12,
     "count_7d": 43,
     "top_articles": [
       {
@@ -326,8 +326,8 @@
   {
     "cluster_id": "15",
     "label": "china, taiwan, taipei",
-    "trending_score": 0.392,
-    "count_24h": 8,
+    "trending_score": 0.332,
+    "count_24h": 6,
     "count_7d": 17,
     "top_articles": [
       {
@@ -347,33 +347,6 @@
         "title": "North Korea’s Kim hails ‘unshakeable will’ to develop ties with China’s Xi",
         "url": "https://www.aljazeera.com/news/2026/7/1/north-koreas-kim-hails-unshakeable-will-to-develop-ties-with-chinas-xi?traffic_source=rss",
         "date": "2026-07-01 01:17:24"
-      }
-    ]
-  },
-  {
-    "cluster_id": "5",
-    "label": "new, year, film",
-    "trending_score": 0.279,
-    "count_24h": 11,
-    "count_7d": 44,
-    "top_articles": [
-      {
-        "id": "3120",
-        "title": "What we know about Taylor Swift's rumoured NYC wedding celebrations",
-        "url": "https://www.bbc.co.uk/news/articles/c70yj1749j0o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-01 06:18:17"
-      },
-      {
-        "id": "3021",
-        "title": "'I've been dreaming of this moment' - Joint stunned to beat 'legend' Williams",
-        "url": "https://www.bbc.co.uk/sport/tennis/videos/c4gy2jdzjg9o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-30 21:48:00"
-      },
-      {
-        "id": "2981",
-        "title": "Williams 'takes it all in' on Centre Court return",
-        "url": "https://www.bbc.co.uk/sport/tennis/videos/c932jy2qz24o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-30 19:07:34"
       }
     ]
   },
@@ -401,6 +374,33 @@
         "title": "Tech Life",
         "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy2?at_medium=RSS&at_campaign=rss",
         "date": "2026-06-30 19:30:00"
+      }
+    ]
+  },
+  {
+    "cluster_id": "5",
+    "label": "new, year, film",
+    "trending_score": 0.2355,
+    "count_24h": 8,
+    "count_7d": 44,
+    "top_articles": [
+      {
+        "id": "3120",
+        "title": "What we know about Taylor Swift's rumoured NYC wedding celebrations",
+        "url": "https://www.bbc.co.uk/news/articles/c70yj1749j0o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-01 06:18:17"
+      },
+      {
+        "id": "3021",
+        "title": "'I've been dreaming of this moment' - Joint stunned to beat 'legend' Williams",
+        "url": "https://www.bbc.co.uk/sport/tennis/videos/c4gy2jdzjg9o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-30 21:48:00"
+      },
+      {
+        "id": "2981",
+        "title": "Williams 'takes it all in' on Centre Court return",
+        "url": "https://www.bbc.co.uk/sport/tennis/videos/c932jy2qz24o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-30 19:07:34"
       }
     ]
   },

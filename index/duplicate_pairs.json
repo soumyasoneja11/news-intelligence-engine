@@ -3299,7 +3299,7 @@
       "title": "Fourteen killed in Saudi Arabia helicopter crash",
       "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss"
     },
-    "similarity": 0.9479902386665344
+    "similarity": 0.9479901194572449
   },
   {
     "article_a": {
@@ -3390,7 +3390,20 @@
       "title": "Feminism; the Merriam-Webster Word of the Year for 2017",
       "url": "https://www.taiwannews.com.tw/en/news/3318568"
     },
-    "similarity": 0.9335390329360962
+    "similarity": 0.9335389733314514
+  },
+  {
+    "article_a": {
+      "id": "2999",
+      "title": "At least 14 children killed after roof of Pakistan tuition centre collapses",
+      "url": "https://www.aljazeera.com/news/2026/6/30/at-least-14-children-killed-after-roof-of-pakistan-tuition-centre-collapses?traffic_source=rss"
+    },
+    "article_b": {
+      "id": "3076",
+      "title": "Pakistan roof collapse kills 14 children at tutoring centre",
+      "url": "https://www.theguardian.com/world/2026/jul/01/pakistan-roof-collapse-lahore-tutoring-learning-centre"
+    },
+    "similarity": 0.9288177490234375
   },
   {
     "article_a": {
@@ -3404,6 +3417,19 @@
       "url": "https://www.aljazeera.com/news/2026/6/28/hope-of-finding-more-venezuela-quake-survivors-fades-despite-late-rescues?traffic_source=rss"
     },
     "similarity": 0.9281636476516724
+  },
+  {
+    "article_a": {
+      "id": "2463",
+      "title": "Pakistan launches deadly strikes along Afghan border",
+      "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss"
+    },
+    "article_b": {
+      "id": "3059",
+      "title": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
+      "url": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss"
+    },
+    "similarity": 0.9274784326553345
   },
   {
     "article_a": {

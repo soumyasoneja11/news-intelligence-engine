@@ -2,8 +2,8 @@
   {
     "cluster_id": "16",
     "label": "burnham, uk, said",
-    "trending_score": 1.2296,
-    "count_24h": 8,
+    "trending_score": 1.1519,
+    "count_24h": 6,
     "count_7d": 113,
     "top_articles": [
       {
@@ -29,8 +29,8 @@
   {
     "cluster_id": "13",
     "label": "venezuela, 01, earthquakes",
-    "trending_score": 1.1133,
-    "count_24h": 4,
+    "trending_score": 1.0333,
+    "count_24h": 3,
     "count_7d": 68,
     "top_articles": [
       {
@@ -56,8 +56,8 @@
   {
     "cluster_id": "14",
     "label": "world, cup, world cup",
-    "trending_score": 1.0994,
-    "count_24h": 12,
+    "trending_score": 1.0128,
+    "count_24h": 9,
     "count_7d": 133,
     "top_articles": [
       {
@@ -83,8 +83,8 @@
   {
     "cluster_id": "1",
     "label": "iran, strait, said",
-    "trending_score": 0.9306,
-    "count_24h": 5,
+    "trending_score": 0.8264,
+    "count_24h": 3,
     "count_7d": 56,
     "top_articles": [
       {
@@ -110,8 +110,8 @@
   {
     "cluster_id": "9",
     "label": "israel, israeli, gaza",
-    "trending_score": 0.6127,
-    "count_24h": 3,
+    "trending_score": 0.581,
+    "count_24h": 2,
     "count_7d": 60,
     "top_articles": [
       {
@@ -137,7 +137,7 @@
   {
     "cluster_id": "4",
     "label": "heat, heatwave, week",
-    "trending_score": 0.42,
+    "trending_score": 0.405,
     "count_24h": 0,
     "count_7d": 54,
     "top_articles": [
@@ -164,8 +164,8 @@
   {
     "cluster_id": "2",
     "label": "police, man, shooting",
-    "trending_score": 0.3872,
-    "count_24h": 3,
+    "trending_score": 0.3641,
+    "count_24h": 2,
     "count_7d": 55,
     "top_articles": [
       {
@@ -191,9 +191,9 @@
   {
     "cluster_id": "7",
     "label": "tech, ai, data",
-    "trending_score": 0.3269,
+    "trending_score": 0.3237,
     "count_24h": 0,
-    "count_7d": 60,
+    "count_7d": 59,
     "top_articles": [
       {
         "id": "2744",
@@ -212,33 +212,6 @@
         "title": "Sony erases digital content from libraries; we're reminded we don’t own what we buy",
         "url": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
         "date": "2026-06-29 19:10:57"
-      }
-    ]
-  },
-  {
-    "cluster_id": "3",
-    "label": "court, man, judge",
-    "trending_score": 0.3086,
-    "count_24h": 6,
-    "count_7d": 38,
-    "top_articles": [
-      {
-        "id": "2794",
-        "title": "Chinese billionaire Guo Wengui gets 30 years in US prison for huge fraud",
-        "url": "https://www.aljazeera.com/news/2026/6/30/chinese-billionaire-guo-wengui-gets-30-years-in-us-prison-for-huge-fraud?traffic_source=rss",
-        "date": "2026-06-30 05:07:01"
-      },
-      {
-        "id": "2772",
-        "title": "Chinese tycoon Guo Wengui sentenced to 30 years in US prison for fraud",
-        "url": "https://www.theguardian.com/world/2026/jun/30/guo-wengui-chinese-tycoon-sentenced-us-prison-fraud",
-        "date": "2026-06-30 04:22:07"
-      },
-      {
-        "id": "2773",
-        "title": "Cairo Takeaway secures court win over pro-Israel activist who claimed he was ‘completely vindicated’ after settlement",
-        "url": "https://www.theguardian.com/media/2026/jun/30/cairo-takeaway-court-win-ofir-birenbaum-sydney-ntwnfb",
-        "date": "2026-06-30 04:21:56"
       }
     ]
   },
@@ -270,37 +243,37 @@
     ]
   },
   {
-    "cluster_id": "10",
-    "label": "taiwan, says, china",
-    "trending_score": 0.2521,
-    "count_24h": 6,
+    "cluster_id": "3",
+    "label": "court, man, judge",
+    "trending_score": 0.2815,
+    "count_24h": 4,
     "count_7d": 38,
     "top_articles": [
       {
-        "id": "2796",
-        "title": "Pakistan-administered Kashmir returns to daily life after deadly protests",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/pakistan-administered-kashmir-returns-to-daily-life-after-deadly-protests?traffic_source=rss",
-        "date": "2026-06-30 04:28:33"
+        "id": "2794",
+        "title": "Chinese billionaire Guo Wengui gets 30 years in US prison for huge fraud",
+        "url": "https://www.aljazeera.com/news/2026/6/30/chinese-billionaire-guo-wengui-gets-30-years-in-us-prison-for-huge-fraud?traffic_source=rss",
+        "date": "2026-06-30 05:07:01"
       },
       {
-        "id": "2761",
-        "title": "UN ordering 10,000 body bags for Venezuela as death toll expected to rise",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/un-ordering-10000-body-bags-for-venezuela-as-death-toll-expected-to-rise?traffic_source=rss",
-        "date": "2026-06-30 02:41:03"
+        "id": "2772",
+        "title": "Chinese tycoon Guo Wengui sentenced to 30 years in US prison for fraud",
+        "url": "https://www.theguardian.com/world/2026/jun/30/guo-wengui-chinese-tycoon-sentenced-us-prison-fraud",
+        "date": "2026-06-30 04:22:07"
       },
       {
-        "id": "2763",
-        "title": "Fear grows in Johannesburg market as anti-migrant ‘deadline’ looms",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/fear-grows-in-johannesburg-market-as-anti-migrant-deadline-looms?traffic_source=rss",
-        "date": "2026-06-30 02:30:26"
+        "id": "2773",
+        "title": "Cairo Takeaway secures court win over pro-Israel activist who claimed he was ‘completely vindicated’ after settlement",
+        "url": "https://www.theguardian.com/media/2026/jun/30/cairo-takeaway-court-win-ofir-birenbaum-sydney-ntwnfb",
+        "date": "2026-06-30 04:21:56"
       }
     ]
   },
   {
     "cluster_id": "15",
     "label": "trump, latest, president",
-    "trending_score": 0.2289,
-    "count_24h": 1,
+    "trending_score": 0.2108,
+    "count_24h": 0,
     "count_7d": 34,
     "top_articles": [
       {
@@ -324,29 +297,29 @@
     ]
   },
   {
-    "cluster_id": "8",
-    "label": "trump, latest, state",
-    "trending_score": 0.2062,
-    "count_24h": 5,
-    "count_7d": 19,
+    "cluster_id": "10",
+    "label": "taiwan, says, china",
+    "trending_score": 0.2087,
+    "count_24h": 3,
+    "count_7d": 38,
     "top_articles": [
       {
-        "id": "2789",
-        "title": "Peru elects Keiko Fujimori in victory for Latin American right",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/peru-elects-keiko-fujimori-in-victory-for-latin-american-right?traffic_source=rss",
-        "date": "2026-06-30 06:37:07"
+        "id": "2796",
+        "title": "Pakistan-administered Kashmir returns to daily life after deadly protests",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/pakistan-administered-kashmir-returns-to-daily-life-after-deadly-protests?traffic_source=rss",
+        "date": "2026-06-30 04:28:33"
       },
       {
-        "id": "2757",
-        "title": "US education faces ‘a crisis for low-wealth students’",
-        "url": "https://www.aljazeera.com/video/quotable/2026/6/30/us-education-faces-a-crisis-for-low-wealth?traffic_source=rss",
-        "date": "2026-06-30 03:51:12"
+        "id": "2761",
+        "title": "UN ordering 10,000 body bags for Venezuela as death toll expected to rise",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/un-ordering-10000-body-bags-for-venezuela-as-death-toll-expected-to-rise?traffic_source=rss",
+        "date": "2026-06-30 02:41:03"
       },
       {
-        "id": "2778",
-        "title": "Both Republican Dan Sullivans can compete in Alaska primary, court rules",
-        "url": "https://www.theguardian.com/us-news/2026/jun/29/dan-sullivan-alaska-primary",
-        "date": "2026-06-30 00:54:22"
+        "id": "2763",
+        "title": "Fear grows in Johannesburg market as anti-migrant ‘deadline’ looms",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/fear-grows-in-johannesburg-market-as-anti-migrant-deadline-looms?traffic_source=rss",
+        "date": "2026-06-30 02:30:26"
       }
     ]
   },
@@ -374,6 +347,33 @@
         "title": "Australian football legend Sam Kerr signs with Gotham FC after Chelsea exit",
         "url": "https://www.aljazeera.com/sports/2026/6/29/australian-football-legend-sam-kerr-signs-with-gotham-fc-after-chelsea-exit?traffic_source=rss",
         "date": "2026-06-29 22:37:28"
+      }
+    ]
+  },
+  {
+    "cluster_id": "8",
+    "label": "trump, latest, state",
+    "trending_score": 0.1554,
+    "count_24h": 2,
+    "count_7d": 19,
+    "top_articles": [
+      {
+        "id": "2789",
+        "title": "Peru elects Keiko Fujimori in victory for Latin American right",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/peru-elects-keiko-fujimori-in-victory-for-latin-american-right?traffic_source=rss",
+        "date": "2026-06-30 06:37:07"
+      },
+      {
+        "id": "2757",
+        "title": "US education faces ‘a crisis for low-wealth students’",
+        "url": "https://www.aljazeera.com/video/quotable/2026/6/30/us-education-faces-a-crisis-for-low-wealth?traffic_source=rss",
+        "date": "2026-06-30 03:51:12"
+      },
+      {
+        "id": "2778",
+        "title": "Both Republican Dan Sullivans can compete in Alaska primary, court rules",
+        "url": "https://www.theguardian.com/us-news/2026/jun/29/dan-sullivan-alaska-primary",
+        "date": "2026-06-30 00:54:22"
       }
     ]
   },

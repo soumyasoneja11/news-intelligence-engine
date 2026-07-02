@@ -2,8 +2,8 @@
   {
     "cluster_id": "7",
     "label": "venezuela, 02, 00",
-    "trending_score": 0.9703,
-    "count_24h": 6,
+    "trending_score": 0.8663,
+    "count_24h": 4,
     "count_7d": 94,
     "top_articles": [
       {
@@ -29,8 +29,8 @@
   {
     "cluster_id": "3",
     "label": "world, cup, world cup",
-    "trending_score": 0.8549,
-    "count_24h": 12,
+    "trending_score": 0.8077,
+    "count_24h": 9,
     "count_7d": 243,
     "top_articles": [
       {
@@ -56,8 +56,8 @@
   {
     "cluster_id": "9",
     "label": "burnham, said, defence",
-    "trending_score": 0.8278,
-    "count_24h": 4,
+    "trending_score": 0.798,
+    "count_24h": 3,
     "count_7d": 142,
     "top_articles": [
       {
@@ -110,8 +110,8 @@
   {
     "cluster_id": "10",
     "label": "iran, israel, said",
-    "trending_score": 0.6494,
-    "count_24h": 9,
+    "trending_score": 0.5934,
+    "count_24h": 5,
     "count_7d": 154,
     "top_articles": [
       {
@@ -137,9 +137,9 @@
   {
     "cluster_id": "4",
     "label": "police, said, shooting",
-    "trending_score": 0.5135,
+    "trending_score": 0.5017,
     "count_24h": 12,
-    "count_7d": 119,
+    "count_7d": 118,
     "top_articles": [
       {
         "id": "3368",
@@ -162,37 +162,10 @@
     ]
   },
   {
-    "cluster_id": "11",
-    "label": "trump, latest, court",
-    "trending_score": 0.5128,
-    "count_24h": 10,
-    "count_7d": 98,
-    "top_articles": [
-      {
-        "id": "3384",
-        "title": "Lawyer takes Trump to task over unchecked presidential powers",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/lawyer-takes-trump-to-task-over-unchecked-presidential-powers?traffic_source=rss",
-        "date": "2026-07-02 03:16:38"
-      },
-      {
-        "id": "3364",
-        "title": "Trump sees bond with ‘great he-man’ Theodore Roosevelt at lavish library opening",
-        "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-theodore-roosevelt-north-dakota",
-        "date": "2026-07-02 00:41:05"
-      },
-      {
-        "id": "3341",
-        "title": "US judge sides with NAACP over proposed mail-in ballot restrictions",
-        "url": "https://www.aljazeera.com/news/2026/7/1/us-judge-sides-with-naacp-over-proposed-mail-in-ballot-restrictions?traffic_source=rss",
-        "date": "2026-07-01 22:53:50"
-      }
-    ]
-  },
-  {
     "cluster_id": "12",
     "label": "court, man, police",
-    "trending_score": 0.4792,
-    "count_24h": 14,
+    "trending_score": 0.4525,
+    "count_24h": 12,
     "count_7d": 116,
     "top_articles": [
       {
@@ -216,11 +189,38 @@
     ]
   },
   {
+    "cluster_id": "11",
+    "label": "trump, latest, court",
+    "trending_score": 0.4416,
+    "count_24h": 4,
+    "count_7d": 98,
+    "top_articles": [
+      {
+        "id": "3384",
+        "title": "Lawyer takes Trump to task over unchecked presidential powers",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/lawyer-takes-trump-to-task-over-unchecked-presidential-powers?traffic_source=rss",
+        "date": "2026-07-02 03:16:38"
+      },
+      {
+        "id": "3364",
+        "title": "Trump sees bond with ‘great he-man’ Theodore Roosevelt at lavish library opening",
+        "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-theodore-roosevelt-north-dakota",
+        "date": "2026-07-02 00:41:05"
+      },
+      {
+        "id": "3341",
+        "title": "US judge sides with NAACP over proposed mail-in ballot restrictions",
+        "url": "https://www.aljazeera.com/news/2026/7/1/us-judge-sides-with-naacp-over-proposed-mail-in-ballot-restrictions?traffic_source=rss",
+        "date": "2026-07-01 22:53:50"
+      }
+    ]
+  },
+  {
     "cluster_id": "5",
     "label": "ai, new, market",
-    "trending_score": 0.4197,
-    "count_24h": 7,
-    "count_7d": 173,
+    "trending_score": 0.3937,
+    "count_24h": 6,
+    "count_7d": 171,
     "top_articles": [
       {
         "id": "3397",
@@ -245,7 +245,7 @@
   {
     "cluster_id": "2",
     "label": "said, people, says",
-    "trending_score": 0.2941,
+    "trending_score": 0.2848,
     "count_24h": 4,
     "count_7d": 94,
     "top_articles": [

@@ -2,8 +2,8 @@
   {
     "cluster_id": "9",
     "label": "burnham, said, defence",
-    "trending_score": 1.3675,
-    "count_24h": 17,
+    "trending_score": 1.298,
+    "count_24h": 15,
     "count_7d": 143,
     "top_articles": [
       {
@@ -29,8 +29,8 @@
   {
     "cluster_id": "3",
     "label": "world, cup, world cup",
-    "trending_score": 1.2902,
-    "count_24h": 38,
+    "trending_score": 1.2325,
+    "count_24h": 35,
     "count_7d": 243,
     "top_articles": [
       {
@@ -56,8 +56,8 @@
   {
     "cluster_id": "7",
     "label": "venezuela, 02, 00",
-    "trending_score": 1.1931,
-    "count_24h": 12,
+    "trending_score": 1.1485,
+    "count_24h": 11,
     "count_7d": 94,
     "top_articles": [
       {
@@ -83,8 +83,8 @@
   {
     "cluster_id": "1",
     "label": "heat, heatwave, temperatures",
-    "trending_score": 1.1558,
-    "count_24h": 10,
+    "trending_score": 1.0195,
+    "count_24h": 8,
     "count_7d": 58,
     "top_articles": [
       {
@@ -110,9 +110,9 @@
   {
     "cluster_id": "10",
     "label": "iran, israel, said",
-    "trending_score": 1.0041,
-    "count_24h": 28,
-    "count_7d": 157,
+    "trending_score": 0.9461,
+    "count_24h": 25,
+    "count_7d": 156,
     "top_articles": [
       {
         "id": "3379",
@@ -137,8 +137,8 @@
   {
     "cluster_id": "11",
     "label": "trump, latest, court",
-    "trending_score": 0.8266,
-    "count_24h": 29,
+    "trending_score": 0.8102,
+    "count_24h": 28,
     "count_7d": 102,
     "top_articles": [
       {
@@ -164,7 +164,7 @@
   {
     "cluster_id": "4",
     "label": "police, said, shooting",
-    "trending_score": 0.8013,
+    "trending_score": 0.7862,
     "count_24h": 31,
     "count_7d": 119,
     "top_articles": [
@@ -191,9 +191,9 @@
   {
     "cluster_id": "5",
     "label": "ai, new, market",
-    "trending_score": 0.7557,
-    "count_24h": 38,
-    "count_7d": 185,
+    "trending_score": 0.7296,
+    "count_24h": 37,
+    "count_7d": 183,
     "top_articles": [
       {
         "id": "3397",
@@ -218,8 +218,8 @@
   {
     "cluster_id": "12",
     "label": "court, man, police",
-    "trending_score": 0.7196,
-    "count_24h": 31,
+    "trending_score": 0.6751,
+    "count_24h": 28,
     "count_7d": 119,
     "top_articles": [
       {
@@ -245,9 +245,9 @@
   {
     "cluster_id": "2",
     "label": "said, people, says",
-    "trending_score": 0.4814,
-    "count_24h": 15,
-    "count_7d": 98,
+    "trending_score": 0.4334,
+    "count_24h": 11,
+    "count_7d": 97,
     "top_articles": [
       {
         "id": "3392",
@@ -272,9 +272,9 @@
   {
     "cluster_id": "8",
     "label": "new, year, film",
-    "trending_score": 0.3626,
-    "count_24h": 17,
-    "count_7d": 75,
+    "trending_score": 0.3434,
+    "count_24h": 16,
+    "count_7d": 73,
     "top_articles": [
       {
         "id": "3395",
@@ -299,8 +299,8 @@
   {
     "cluster_id": "6",
     "label": "china, taiwan, conference glance",
-    "trending_score": 0.2687,
-    "count_24h": 9,
+    "trending_score": 0.2483,
+    "count_24h": 8,
     "count_7d": 47,
     "top_articles": [
       {

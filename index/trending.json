@@ -2,8 +2,8 @@
   {
     "cluster_id": "2",
     "label": "burnham, said, uk",
-    "trending_score": 0.9967,
-    "count_24h": 4,
+    "trending_score": 0.8791,
+    "count_24h": 0,
     "count_7d": 140,
     "top_articles": [
       {
@@ -27,37 +27,10 @@
     ]
   },
   {
-    "cluster_id": "13",
-    "label": "world, cup, world cup",
-    "trending_score": 0.8577,
-    "count_24h": 7,
-    "count_7d": 206,
-    "top_articles": [
-      {
-        "id": "3119",
-        "title": "World Cup fans sweat through US 'heat dome'",
-        "url": "https://www.bbc.co.uk/news/videos/cq5177z8velo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-01 06:41:26"
-      },
-      {
-        "id": "3084",
-        "title": "Mexico rampant at fortress Azteca - and England could be next",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cy9rg5n3380o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-01 05:38:14"
-      },
-      {
-        "id": "3089",
-        "title": "Lobbing Federer changed his life – the cult hero back at Wimbledon",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/ckg5127471yo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-01 05:04:26"
-      }
-    ]
-  },
-  {
     "cluster_id": "3",
     "label": "venezuela, 01, 02",
-    "trending_score": 0.8218,
-    "count_24h": 2,
+    "trending_score": 0.7356,
+    "count_24h": 1,
     "count_7d": 80,
     "top_articles": [
       {
@@ -81,11 +54,38 @@
     ]
   },
   {
+    "cluster_id": "13",
+    "label": "world, cup, world cup",
+    "trending_score": 0.7332,
+    "count_24h": 1,
+    "count_7d": 206,
+    "top_articles": [
+      {
+        "id": "3119",
+        "title": "World Cup fans sweat through US 'heat dome'",
+        "url": "https://www.bbc.co.uk/news/videos/cq5177z8velo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-01 06:41:26"
+      },
+      {
+        "id": "3084",
+        "title": "Mexico rampant at fortress Azteca - and England could be next",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cy9rg5n3380o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-01 05:38:14"
+      },
+      {
+        "id": "3089",
+        "title": "Lobbing Federer changed his life – the cult hero back at Wimbledon",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/ckg5127471yo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-01 05:04:26"
+      }
+    ]
+  },
+  {
     "cluster_id": "4",
     "label": "heat, heatwave, week",
-    "trending_score": 0.575,
-    "count_24h": 3,
-    "count_7d": 72,
+    "trending_score": 0.4958,
+    "count_24h": 0,
+    "count_7d": 71,
     "top_articles": [
       {
         "id": "3113",
@@ -108,37 +108,10 @@
     ]
   },
   {
-    "cluster_id": "9",
-    "label": "ai, tech, new",
-    "trending_score": 0.5289,
-    "count_24h": 4,
-    "count_7d": 128,
-    "top_articles": [
-      {
-        "id": "3124",
-        "title": "Creatives sound alarm on copyright as Pocock calls $50bn datacentre proposal ‘ultimate dirty deal’",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/01/australia-ai-copyright-laws-creatives-sound-alarm-albanese-government-datacentres",
-        "date": "2026-07-01 06:22:22"
-      },
-      {
-        "id": "3115",
-        "title": "The ‘Father of the Internet’ is finally retiring",
-        "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-        "date": "2026-07-01 03:15:37"
-      },
-      {
-        "id": "3103",
-        "title": "US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos",
-        "url": "https://www.aljazeera.com/economy/2026/7/1/us-lifts-restrictions-on-powerful-ai-models-fable-mythos-anthropic-says?traffic_source=rss",
-        "date": "2026-07-01 02:16:34"
-      }
-    ]
-  },
-  {
     "cluster_id": "1",
     "label": "iran, israel, said",
-    "trending_score": 0.5261,
-    "count_24h": 1,
+    "trending_score": 0.4925,
+    "count_24h": 0,
     "count_7d": 90,
     "top_articles": [
       {
@@ -162,10 +135,37 @@
     ]
   },
   {
+    "cluster_id": "9",
+    "label": "ai, tech, new",
+    "trending_score": 0.4838,
+    "count_24h": 1,
+    "count_7d": 127,
+    "top_articles": [
+      {
+        "id": "3124",
+        "title": "Creatives sound alarm on copyright as Pocock calls $50bn datacentre proposal ‘ultimate dirty deal’",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/01/australia-ai-copyright-laws-creatives-sound-alarm-albanese-government-datacentres",
+        "date": "2026-07-01 06:22:22"
+      },
+      {
+        "id": "3115",
+        "title": "The ‘Father of the Internet’ is finally retiring",
+        "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+        "date": "2026-07-01 03:15:37"
+      },
+      {
+        "id": "3103",
+        "title": "US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos",
+        "url": "https://www.aljazeera.com/economy/2026/7/1/us-lifts-restrictions-on-powerful-ai-models-fable-mythos-anthropic-says?traffic_source=rss",
+        "date": "2026-07-01 02:16:34"
+      }
+    ]
+  },
+  {
     "cluster_id": "10",
     "label": "police, man, said",
-    "trending_score": 0.4826,
-    "count_24h": 5,
+    "trending_score": 0.3978,
+    "count_24h": 1,
     "count_7d": 99,
     "top_articles": [
       {
@@ -191,8 +191,8 @@
   {
     "cluster_id": "6",
     "label": "court, trump, supreme court",
-    "trending_score": 0.3769,
-    "count_24h": 4,
+    "trending_score": 0.3154,
+    "count_24h": 0,
     "count_7d": 51,
     "top_articles": [
       {
@@ -216,37 +216,10 @@
     ]
   },
   {
-    "cluster_id": "11",
-    "label": "killed, pakistan, shooting",
-    "trending_score": 0.3667,
-    "count_24h": 2,
-    "count_7d": 60,
-    "top_articles": [
-      {
-        "id": "3092",
-        "title": "Why is MAGA in meltdown over the Supreme Court birthright ruling?",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/why-is-maga-in-meltdown-over-the-supreme-court-birthright-ruling-2?traffic_source=rss",
-        "date": "2026-07-01 05:01:32"
-      },
-      {
-        "id": "3094",
-        "title": "Tutoring centre roof collapses killing 14 children in Pakistan",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/tutoring-centre-roof-collapses-killing-14-children-in-pakistan?traffic_source=rss",
-        "date": "2026-07-01 04:45:14"
-      },
-      {
-        "id": "3059",
-        "title": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
-        "url": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-30 23:49:19"
-      }
-    ]
-  },
-  {
     "cluster_id": "8",
     "label": "says, israel, said",
-    "trending_score": 0.3645,
-    "count_24h": 4,
+    "trending_score": 0.3128,
+    "count_24h": 1,
     "count_7d": 55,
     "top_articles": [
       {
@@ -270,10 +243,37 @@
     ]
   },
   {
+    "cluster_id": "11",
+    "label": "killed, pakistan, shooting",
+    "trending_score": 0.3,
+    "count_24h": 0,
+    "count_7d": 60,
+    "top_articles": [
+      {
+        "id": "3092",
+        "title": "Why is MAGA in meltdown over the Supreme Court birthright ruling?",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/why-is-maga-in-meltdown-over-the-supreme-court-birthright-ruling-2?traffic_source=rss",
+        "date": "2026-07-01 05:01:32"
+      },
+      {
+        "id": "3094",
+        "title": "Tutoring centre roof collapses killing 14 children in Pakistan",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/tutoring-centre-roof-collapses-killing-14-children-in-pakistan?traffic_source=rss",
+        "date": "2026-07-01 04:45:14"
+      },
+      {
+        "id": "3059",
+        "title": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
+        "url": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-30 23:49:19"
+      }
+    ]
+  },
+  {
     "cluster_id": "14",
     "label": "market, new, sales",
-    "trending_score": 0.265,
-    "count_24h": 2,
+    "trending_score": 0.2125,
+    "count_24h": 0,
     "count_7d": 46,
     "top_articles": [
       {
@@ -299,8 +299,8 @@
   {
     "cluster_id": "0",
     "label": "trump, latest, president",
-    "trending_score": 0.2465,
-    "count_24h": 3,
+    "trending_score": 0.2047,
+    "count_24h": 0,
     "count_7d": 43,
     "top_articles": [
       {
@@ -326,8 +326,8 @@
   {
     "cluster_id": "15",
     "label": "china, taiwan, taipei",
-    "trending_score": 0.224,
-    "count_24h": 2,
+    "trending_score": 0.164,
+    "count_24h": 0,
     "count_7d": 17,
     "top_articles": [
       {
@@ -353,7 +353,7 @@
   {
     "cluster_id": "5",
     "label": "new, year, film",
-    "trending_score": 0.1387,
+    "trending_score": 0.1339,
     "count_24h": 1,
     "count_7d": 44,
     "top_articles": [
@@ -380,7 +380,7 @@
   {
     "cluster_id": "12",
     "label": "says, new, school",
-    "trending_score": 0.1224,
+    "trending_score": 0.116,
     "count_24h": 0,
     "count_7d": 37,
     "top_articles": [
@@ -407,8 +407,8 @@
   {
     "cluster_id": "7",
     "label": "league, win, major",
-    "trending_score": 0.0481,
-    "count_24h": 1,
+    "trending_score": 0.0321,
+    "count_24h": 0,
     "count_7d": 3,
     "top_articles": [
       {

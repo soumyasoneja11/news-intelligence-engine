@@ -2,8 +2,8 @@
   {
     "cluster_id": "2",
     "label": "burnham, said, uk",
-    "trending_score": 1.0261,
-    "count_24h": 5,
+    "trending_score": 0.9967,
+    "count_24h": 4,
     "count_7d": 140,
     "top_articles": [
       {
@@ -29,8 +29,8 @@
   {
     "cluster_id": "13",
     "label": "world, cup, world cup",
-    "trending_score": 0.9289,
-    "count_24h": 11,
+    "trending_score": 0.8577,
+    "count_24h": 7,
     "count_7d": 206,
     "top_articles": [
       {
@@ -56,9 +56,9 @@
   {
     "cluster_id": "3",
     "label": "venezuela, 01, 02",
-    "trending_score": 0.8621,
-    "count_24h": 3,
-    "count_7d": 81,
+    "trending_score": 0.8218,
+    "count_24h": 2,
+    "count_7d": 80,
     "top_articles": [
       {
         "id": "3083",
@@ -77,33 +77,6 @@
         "title": "Mexican fans keep Ecuador’s team awake before World Cup showdown",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/mexican-fans-keep-ecuadors-team-awake-before-world-cup-showdown?traffic_source=rss",
         "date": "2026-07-01 00:13:03"
-      }
-    ]
-  },
-  {
-    "cluster_id": "1",
-    "label": "iran, israel, said",
-    "trending_score": 0.5933,
-    "count_24h": 3,
-    "count_7d": 90,
-    "top_articles": [
-      {
-        "id": "3102",
-        "title": "Iran says it couldn’t export a ‘single barrel of oil’ during US blockade",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/iran-says-it-couldnt-export-a-single-barrel-of-oil-during-us-blockade?traffic_source=rss",
-        "date": "2026-07-01 02:45:34"
-      },
-      {
-        "id": "3070",
-        "title": "Iran war live: Qatar’s PM meets US envoys; Tehran holds firm on conditions",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/1/iran-war-live-qatars-pm-meets-us-envoys-tehran-holds-firm-on-conditions?traffic_source=rss",
-        "date": "2026-07-01 00:00:09"
-      },
-      {
-        "id": "3079",
-        "title": "US-Iran talks over $6bn Iranian assets to restart",
-        "url": "https://www.theguardian.com/world/2026/jun/30/us-iran-talks-6bn-iranian-assets-restart",
-        "date": "2026-06-30 23:57:11"
       }
     ]
   },
@@ -137,8 +110,8 @@
   {
     "cluster_id": "9",
     "label": "ai, tech, new",
-    "trending_score": 0.5397,
-    "count_24h": 5,
+    "trending_score": 0.5289,
+    "count_24h": 4,
     "count_7d": 128,
     "top_articles": [
       {
@@ -162,9 +135,36 @@
     ]
   },
   {
+    "cluster_id": "1",
+    "label": "iran, israel, said",
+    "trending_score": 0.5261,
+    "count_24h": 1,
+    "count_7d": 90,
+    "top_articles": [
+      {
+        "id": "3102",
+        "title": "Iran says it couldn’t export a ‘single barrel of oil’ during US blockade",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/iran-says-it-couldnt-export-a-single-barrel-of-oil-during-us-blockade?traffic_source=rss",
+        "date": "2026-07-01 02:45:34"
+      },
+      {
+        "id": "3070",
+        "title": "Iran war live: Qatar’s PM meets US envoys; Tehran holds firm on conditions",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/1/iran-war-live-qatars-pm-meets-us-envoys-tehran-holds-firm-on-conditions?traffic_source=rss",
+        "date": "2026-07-01 00:00:09"
+      },
+      {
+        "id": "3079",
+        "title": "US-Iran talks over $6bn Iranian assets to restart",
+        "url": "https://www.theguardian.com/world/2026/jun/30/us-iran-talks-6bn-iranian-assets-restart",
+        "date": "2026-06-30 23:57:11"
+      }
+    ]
+  },
+  {
     "cluster_id": "10",
     "label": "police, man, said",
-    "trending_score": 0.5022,
+    "trending_score": 0.4826,
     "count_24h": 5,
     "count_7d": 99,
     "top_articles": [
@@ -189,36 +189,9 @@
     ]
   },
   {
-    "cluster_id": "11",
-    "label": "killed, pakistan, shooting",
-    "trending_score": 0.4167,
-    "count_24h": 4,
-    "count_7d": 60,
-    "top_articles": [
-      {
-        "id": "3092",
-        "title": "Why is MAGA in meltdown over the Supreme Court birthright ruling?",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/why-is-maga-in-meltdown-over-the-supreme-court-birthright-ruling-2?traffic_source=rss",
-        "date": "2026-07-01 05:01:32"
-      },
-      {
-        "id": "3094",
-        "title": "Tutoring centre roof collapses killing 14 children in Pakistan",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/tutoring-centre-roof-collapses-killing-14-children-in-pakistan?traffic_source=rss",
-        "date": "2026-07-01 04:45:14"
-      },
-      {
-        "id": "3059",
-        "title": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
-        "url": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-30 23:49:19"
-      }
-    ]
-  },
-  {
     "cluster_id": "6",
     "label": "court, trump, supreme court",
-    "trending_score": 0.3846,
+    "trending_score": 0.3769,
     "count_24h": 4,
     "count_7d": 51,
     "top_articles": [
@@ -243,9 +216,36 @@
     ]
   },
   {
+    "cluster_id": "11",
+    "label": "killed, pakistan, shooting",
+    "trending_score": 0.3667,
+    "count_24h": 2,
+    "count_7d": 60,
+    "top_articles": [
+      {
+        "id": "3092",
+        "title": "Why is MAGA in meltdown over the Supreme Court birthright ruling?",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/why-is-maga-in-meltdown-over-the-supreme-court-birthright-ruling-2?traffic_source=rss",
+        "date": "2026-07-01 05:01:32"
+      },
+      {
+        "id": "3094",
+        "title": "Tutoring centre roof collapses killing 14 children in Pakistan",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/tutoring-centre-roof-collapses-killing-14-children-in-pakistan?traffic_source=rss",
+        "date": "2026-07-01 04:45:14"
+      },
+      {
+        "id": "3059",
+        "title": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
+        "url": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-06-30 23:49:19"
+      }
+    ]
+  },
+  {
     "cluster_id": "8",
     "label": "says, israel, said",
-    "trending_score": 0.3793,
+    "trending_score": 0.3645,
     "count_24h": 4,
     "count_7d": 55,
     "top_articles": [
@@ -270,37 +270,10 @@
     ]
   },
   {
-    "cluster_id": "0",
-    "label": "trump, latest, president",
-    "trending_score": 0.2953,
-    "count_24h": 5,
-    "count_7d": 43,
-    "top_articles": [
-      {
-        "id": "3090",
-        "title": "Democratic socialist Kiros defeats longtime incumbent in Colorado primary",
-        "url": "https://www.aljazeera.com/news/2026/7/1/democratic-socialist-kiros-defeats-longtime-incumbent-in-colorado-primary?traffic_source=rss",
-        "date": "2026-07-01 05:56:54"
-      },
-      {
-        "id": "3088",
-        "title": "'Could be worse' - Americans on the state of the nation in its 250th year",
-        "url": "https://www.bbc.co.uk/news/videos/c05yv6d9yq4o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-01 05:07:31"
-      },
-      {
-        "id": "3114",
-        "title": "Democratic socialist Melat Kiros defeats 15-term incumbent in Colorado House primary",
-        "url": "https://www.theguardian.com/us-news/2026/jul/01/melat-kiros-democrat-defeats-diana-degette-blue-state-colarado-house-primary-denver",
-        "date": "2026-07-01 04:32:35"
-      }
-    ]
-  },
-  {
     "cluster_id": "14",
     "label": "market, new, sales",
-    "trending_score": 0.28,
-    "count_24h": 3,
+    "trending_score": 0.265,
+    "count_24h": 2,
     "count_7d": 46,
     "top_articles": [
       {
@@ -324,10 +297,37 @@
     ]
   },
   {
+    "cluster_id": "0",
+    "label": "trump, latest, president",
+    "trending_score": 0.2465,
+    "count_24h": 3,
+    "count_7d": 43,
+    "top_articles": [
+      {
+        "id": "3090",
+        "title": "Democratic socialist Kiros defeats longtime incumbent in Colorado primary",
+        "url": "https://www.aljazeera.com/news/2026/7/1/democratic-socialist-kiros-defeats-longtime-incumbent-in-colorado-primary?traffic_source=rss",
+        "date": "2026-07-01 05:56:54"
+      },
+      {
+        "id": "3088",
+        "title": "'Could be worse' - Americans on the state of the nation in its 250th year",
+        "url": "https://www.bbc.co.uk/news/videos/c05yv6d9yq4o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-01 05:07:31"
+      },
+      {
+        "id": "3114",
+        "title": "Democratic socialist Melat Kiros defeats 15-term incumbent in Colorado House primary",
+        "url": "https://www.theguardian.com/us-news/2026/jul/01/melat-kiros-democrat-defeats-diana-degette-blue-state-colarado-house-primary-denver",
+        "date": "2026-07-01 04:32:35"
+      }
+    ]
+  },
+  {
     "cluster_id": "15",
     "label": "china, taiwan, taipei",
-    "trending_score": 0.248,
-    "count_24h": 3,
+    "trending_score": 0.224,
+    "count_24h": 2,
     "count_7d": 17,
     "top_articles": [
       {
@@ -407,8 +407,8 @@
   {
     "cluster_id": "7",
     "label": "league, win, major",
-    "trending_score": 0.0642,
-    "count_24h": 2,
+    "trending_score": 0.0481,
+    "count_24h": 1,
     "count_7d": 3,
     "top_articles": [
       {

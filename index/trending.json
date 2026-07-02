@@ -2,8 +2,8 @@
   {
     "cluster_id": "9",
     "label": "burnham, said, defence",
-    "trending_score": 1.2185,
-    "count_24h": 13,
+    "trending_score": 1.1291,
+    "count_24h": 10,
     "count_7d": 143,
     "top_articles": [
       {
@@ -23,33 +23,6 @@
         "title": "US-UK drug deal could result in 229,000 excess deaths in England, analysis suggests",
         "url": "https://www.theguardian.com/society/2026/jul/01/us-uk-drug-deal-could-result-in-229000-excess-deaths-in-england-analysis-suggests",
         "date": "2026-07-01 22:30:01"
-      }
-    ]
-  },
-  {
-    "cluster_id": "3",
-    "label": "world, cup, world cup",
-    "trending_score": 1.1434,
-    "count_24h": 30,
-    "count_7d": 243,
-    "top_articles": [
-      {
-        "id": "3400",
-        "title": "Will Britain's final four lift Wimbledon gloom?",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cvg73y9lnp8o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-02 05:49:42"
-      },
-      {
-        "id": "3370",
-        "title": "'I spent $6,000 on a World Cup trip but was left stranded at the gate'",
-        "url": "https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-02 04:59:47"
-      },
-      {
-        "id": "3374",
-        "title": "USA march on but will Balogun red card prove costly?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cgjx07ql6v0o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-02 03:53:14"
       }
     ]
   },
@@ -81,10 +54,37 @@
     ]
   },
   {
+    "cluster_id": "3",
+    "label": "world, cup, world cup",
+    "trending_score": 1.0804,
+    "count_24h": 26,
+    "count_7d": 243,
+    "top_articles": [
+      {
+        "id": "3400",
+        "title": "Will Britain's final four lift Wimbledon gloom?",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cvg73y9lnp8o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-02 05:49:42"
+      },
+      {
+        "id": "3370",
+        "title": "'I spent $6,000 on a World Cup trip but was left stranded at the gate'",
+        "url": "https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-02 04:59:47"
+      },
+      {
+        "id": "3374",
+        "title": "USA march on but will Balogun red card prove costly?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cgjx07ql6v0o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-02 03:53:14"
+      }
+    ]
+  },
+  {
     "cluster_id": "1",
     "label": "heat, heatwave, temperatures",
-    "trending_score": 1.0195,
-    "count_24h": 8,
+    "trending_score": 0.9805,
+    "count_24h": 7,
     "count_7d": 58,
     "top_articles": [
       {
@@ -110,8 +110,8 @@
   {
     "cluster_id": "10",
     "label": "iran, israel, said",
-    "trending_score": 0.9336,
-    "count_24h": 25,
+    "trending_score": 0.8963,
+    "count_24h": 23,
     "count_7d": 156,
     "top_articles": [
       {
@@ -137,8 +137,8 @@
   {
     "cluster_id": "11",
     "label": "trump, latest, court",
-    "trending_score": 0.7609,
-    "count_24h": 25,
+    "trending_score": 0.6953,
+    "count_24h": 19,
     "count_7d": 102,
     "top_articles": [
       {
@@ -162,37 +162,10 @@
     ]
   },
   {
-    "cluster_id": "4",
-    "label": "police, said, shooting",
-    "trending_score": 0.7104,
-    "count_24h": 26,
-    "count_7d": 119,
-    "top_articles": [
-      {
-        "id": "3368",
-        "title": "At least 10 killed in large-scale Russian missile and drone strikes on Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-02 05:00:57"
-      },
-      {
-        "id": "3382",
-        "title": "US designates Ecuador’s Chone Killers gang as ‘terrorist’ organisation",
-        "url": "https://www.aljazeera.com/news/2026/7/2/us-designates-ecuadors-chone-killers-gang-as-terrorist-organisation?traffic_source=rss",
-        "date": "2026-07-02 03:58:07"
-      },
-      {
-        "id": "3373",
-        "title": "Canadian boy, 11, dies of rabies after waking to bat on his face",
-        "url": "https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-02 03:07:39"
-      }
-    ]
-  },
-  {
     "cluster_id": "5",
     "label": "ai, new, market",
-    "trending_score": 0.7014,
-    "count_24h": 35,
+    "trending_score": 0.6538,
+    "count_24h": 30,
     "count_7d": 179,
     "top_articles": [
       {
@@ -216,10 +189,37 @@
     ]
   },
   {
+    "cluster_id": "4",
+    "label": "police, said, shooting",
+    "trending_score": 0.6448,
+    "count_24h": 20,
+    "count_7d": 119,
+    "top_articles": [
+      {
+        "id": "3368",
+        "title": "At least 10 killed in large-scale Russian missile and drone strikes on Kyiv",
+        "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-02 05:00:57"
+      },
+      {
+        "id": "3382",
+        "title": "US designates Ecuador’s Chone Killers gang as ‘terrorist’ organisation",
+        "url": "https://www.aljazeera.com/news/2026/7/2/us-designates-ecuadors-chone-killers-gang-as-terrorist-organisation?traffic_source=rss",
+        "date": "2026-07-02 03:58:07"
+      },
+      {
+        "id": "3373",
+        "title": "Canadian boy, 11, dies of rabies after waking to bat on his face",
+        "url": "https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-02 03:07:39"
+      }
+    ]
+  },
+  {
     "cluster_id": "12",
     "label": "court, man, police",
-    "trending_score": 0.6128,
-    "count_24h": 24,
+    "trending_score": 0.5816,
+    "count_24h": 21,
     "count_7d": 119,
     "top_articles": [
       {
@@ -245,9 +245,9 @@
   {
     "cluster_id": "2",
     "label": "said, people, says",
-    "trending_score": 0.418,
-    "count_24h": 10,
-    "count_7d": 96,
+    "trending_score": 0.3793,
+    "count_24h": 7,
+    "count_7d": 95,
     "top_articles": [
       {
         "id": "3392",
@@ -272,8 +272,8 @@
   {
     "cluster_id": "8",
     "label": "new, year, film",
-    "trending_score": 0.3228,
-    "count_24h": 15,
+    "trending_score": 0.2981,
+    "count_24h": 13,
     "count_7d": 73,
     "top_articles": [
       {
@@ -299,7 +299,7 @@
   {
     "cluster_id": "6",
     "label": "china, taiwan, conference glance",
-    "trending_score": 0.2483,
+    "trending_score": 0.233,
     "count_24h": 8,
     "count_7d": 47,
     "top_articles": [

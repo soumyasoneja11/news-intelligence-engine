@@ -1,36 +1,9 @@
 [
   {
-    "cluster_id": "9",
-    "label": "burnham, said, defence",
-    "trending_score": 1.1291,
-    "count_24h": 10,
-    "count_7d": 143,
-    "top_articles": [
-      {
-        "id": "3394",
-        "title": "England’s mayors should be given sweeping new powers, says devolution expert",
-        "url": "https://www.theguardian.com/politics/2026/jul/02/england-mayors-sweeping-new-powers-devolution-expert",
-        "date": "2026-07-02 05:00:05"
-      },
-      {
-        "id": "3396",
-        "title": "Andy Burnham urged to be radical on economy to help Labour win next election",
-        "url": "https://www.theguardian.com/politics/2026/jul/02/andy-burnham-radical-economy-help-labour-win-next-election",
-        "date": "2026-07-02 04:00:05"
-      },
-      {
-        "id": "3347",
-        "title": "US-UK drug deal could result in 229,000 excess deaths in England, analysis suggests",
-        "url": "https://www.theguardian.com/society/2026/jul/01/us-uk-drug-deal-could-result-in-229000-excess-deaths-in-england-analysis-suggests",
-        "date": "2026-07-01 22:30:01"
-      }
-    ]
-  },
-  {
     "cluster_id": "7",
     "label": "venezuela, 02, 00",
-    "trending_score": 1.1188,
-    "count_24h": 10,
+    "trending_score": 1.0891,
+    "count_24h": 9,
     "count_7d": 94,
     "top_articles": [
       {
@@ -56,8 +29,8 @@
   {
     "cluster_id": "3",
     "label": "world, cup, world cup",
-    "trending_score": 1.0804,
-    "count_24h": 26,
+    "trending_score": 1.0017,
+    "count_24h": 21,
     "count_7d": 243,
     "top_articles": [
       {
@@ -81,10 +54,37 @@
     ]
   },
   {
+    "cluster_id": "9",
+    "label": "burnham, said, defence",
+    "trending_score": 0.9669,
+    "count_24h": 6,
+    "count_7d": 142,
+    "top_articles": [
+      {
+        "id": "3394",
+        "title": "England’s mayors should be given sweeping new powers, says devolution expert",
+        "url": "https://www.theguardian.com/politics/2026/jul/02/england-mayors-sweeping-new-powers-devolution-expert",
+        "date": "2026-07-02 05:00:05"
+      },
+      {
+        "id": "3396",
+        "title": "Andy Burnham urged to be radical on economy to help Labour win next election",
+        "url": "https://www.theguardian.com/politics/2026/jul/02/andy-burnham-radical-economy-help-labour-win-next-election",
+        "date": "2026-07-02 04:00:05"
+      },
+      {
+        "id": "3347",
+        "title": "US-UK drug deal could result in 229,000 excess deaths in England, analysis suggests",
+        "url": "https://www.theguardian.com/society/2026/jul/01/us-uk-drug-deal-could-result-in-229000-excess-deaths-in-england-analysis-suggests",
+        "date": "2026-07-01 22:30:01"
+      }
+    ]
+  },
+  {
     "cluster_id": "1",
     "label": "heat, heatwave, temperatures",
-    "trending_score": 0.9805,
-    "count_24h": 7,
+    "trending_score": 0.9416,
+    "count_24h": 6,
     "count_7d": 58,
     "top_articles": [
       {
@@ -110,9 +110,9 @@
   {
     "cluster_id": "10",
     "label": "iran, israel, said",
-    "trending_score": 0.8963,
-    "count_24h": 23,
-    "count_7d": 156,
+    "trending_score": 0.7884,
+    "count_24h": 16,
+    "count_7d": 155,
     "top_articles": [
       {
         "id": "3379",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "11",
     "label": "trump, latest, court",
-    "trending_score": 0.6953,
-    "count_24h": 19,
-    "count_7d": 102,
+    "trending_score": 0.6259,
+    "count_24h": 16,
+    "count_7d": 100,
     "top_articles": [
       {
         "id": "3384",
@@ -162,37 +162,10 @@
     ]
   },
   {
-    "cluster_id": "5",
-    "label": "ai, new, market",
-    "trending_score": 0.6538,
-    "count_24h": 30,
-    "count_7d": 179,
-    "top_articles": [
-      {
-        "id": "3397",
-        "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-        "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-        "date": "2026-07-02 05:30:00"
-      },
-      {
-        "id": "3365",
-        "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
-        "url": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/",
-        "date": "2026-07-01 23:57:55"
-      },
-      {
-        "id": "3354",
-        "title": "Don't expect trackers to save your stolen car, experts say",
-        "url": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-01 23:31:43"
-      }
-    ]
-  },
-  {
     "cluster_id": "4",
     "label": "police, said, shooting",
-    "trending_score": 0.6448,
-    "count_24h": 20,
+    "trending_score": 0.6195,
+    "count_24h": 19,
     "count_7d": 119,
     "top_articles": [
       {
@@ -216,11 +189,38 @@
     ]
   },
   {
+    "cluster_id": "5",
+    "label": "ai, new, market",
+    "trending_score": 0.5724,
+    "count_24h": 22,
+    "count_7d": 179,
+    "top_articles": [
+      {
+        "id": "3397",
+        "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+        "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+        "date": "2026-07-02 05:30:00"
+      },
+      {
+        "id": "3365",
+        "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
+        "url": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/",
+        "date": "2026-07-01 23:57:55"
+      },
+      {
+        "id": "3354",
+        "title": "Don't expect trackers to save your stolen car, experts say",
+        "url": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-01 23:31:43"
+      }
+    ]
+  },
+  {
     "cluster_id": "12",
     "label": "court, man, police",
-    "trending_score": 0.5816,
-    "count_24h": 21,
-    "count_7d": 119,
+    "trending_score": 0.5356,
+    "count_24h": 18,
+    "count_7d": 118,
     "top_articles": [
       {
         "id": "3402",
@@ -245,8 +245,8 @@
   {
     "cluster_id": "2",
     "label": "said, people, says",
-    "trending_score": 0.3793,
-    "count_24h": 7,
+    "trending_score": 0.3328,
+    "count_24h": 4,
     "count_7d": 95,
     "top_articles": [
       {
@@ -272,8 +272,8 @@
   {
     "cluster_id": "8",
     "label": "new, year, film",
-    "trending_score": 0.2981,
-    "count_24h": 13,
+    "trending_score": 0.2692,
+    "count_24h": 10,
     "count_7d": 73,
     "top_articles": [
       {
@@ -299,8 +299,8 @@
   {
     "cluster_id": "6",
     "label": "china, taiwan, conference glance",
-    "trending_score": 0.233,
-    "count_24h": 8,
+    "trending_score": 0.2126,
+    "count_24h": 6,
     "count_7d": 47,
     "top_articles": [
       {

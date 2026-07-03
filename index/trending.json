@@ -2,7 +2,7 @@
   {
     "cluster_id": "7",
     "label": "venezuela, 02, 00",
-    "trending_score": 0.8218,
+    "trending_score": 0.7921,
     "count_24h": 4,
     "count_7d": 94,
     "top_articles": [
@@ -27,36 +27,9 @@
     ]
   },
   {
-    "cluster_id": "3",
-    "label": "world, cup, world cup",
-    "trending_score": 0.7605,
-    "count_24h": 8,
-    "count_7d": 243,
-    "top_articles": [
-      {
-        "id": "3400",
-        "title": "Will Britain's final four lift Wimbledon gloom?",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cvg73y9lnp8o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-02 05:49:42"
-      },
-      {
-        "id": "3370",
-        "title": "'I spent $6,000 on a World Cup trip but was left stranded at the gate'",
-        "url": "https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-02 04:59:47"
-      },
-      {
-        "id": "3374",
-        "title": "USA march on but will Balogun red card prove costly?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cgjx07ql6v0o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-02 03:53:14"
-      }
-    ]
-  },
-  {
     "cluster_id": "9",
     "label": "burnham, said, defence",
-    "trending_score": 0.7384,
+    "trending_score": 0.7285,
     "count_24h": 2,
     "count_7d": 142,
     "top_articles": [
@@ -81,11 +54,38 @@
     ]
   },
   {
+    "cluster_id": "3",
+    "label": "world, cup, world cup",
+    "trending_score": 0.7133,
+    "count_24h": 5,
+    "count_7d": 243,
+    "top_articles": [
+      {
+        "id": "3400",
+        "title": "Will Britain's final four lift Wimbledon gloom?",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cvg73y9lnp8o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-02 05:49:42"
+      },
+      {
+        "id": "3370",
+        "title": "'I spent $6,000 on a World Cup trip but was left stranded at the gate'",
+        "url": "https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-02 04:59:47"
+      },
+      {
+        "id": "3374",
+        "title": "USA march on but will Balogun red card prove costly?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cgjx07ql6v0o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-02 03:53:14"
+      }
+    ]
+  },
+  {
     "cluster_id": "1",
     "label": "heat, heatwave, temperatures",
-    "trending_score": 0.6883,
+    "trending_score": 0.6818,
     "count_24h": 1,
-    "count_7d": 58,
+    "count_7d": 57,
     "top_articles": [
       {
         "id": "3389",
@@ -110,8 +110,8 @@
   {
     "cluster_id": "10",
     "label": "iran, israel, said",
-    "trending_score": 0.5809,
-    "count_24h": 4,
+    "trending_score": 0.5498,
+    "count_24h": 3,
     "count_7d": 154,
     "top_articles": [
       {
@@ -137,8 +137,8 @@
   {
     "cluster_id": "4",
     "label": "police, said, shooting",
-    "trending_score": 0.4512,
-    "count_24h": 7,
+    "trending_score": 0.4209,
+    "count_24h": 5,
     "count_7d": 118,
     "top_articles": [
       {
@@ -164,9 +164,9 @@
   {
     "cluster_id": "12",
     "label": "court, man, police",
-    "trending_score": 0.4169,
-    "count_24h": 8,
-    "count_7d": 116,
+    "trending_score": 0.405,
+    "count_24h": 7,
+    "count_7d": 114,
     "top_articles": [
       {
         "id": "3402",
@@ -191,8 +191,8 @@
   {
     "cluster_id": "11",
     "label": "trump, latest, court",
-    "trending_score": 0.4142,
-    "count_24h": 2,
+    "trending_score": 0.3869,
+    "count_24h": 1,
     "count_7d": 98,
     "top_articles": [
       {
@@ -218,9 +218,9 @@
   {
     "cluster_id": "5",
     "label": "ai, new, market",
-    "trending_score": 0.3631,
-    "count_24h": 3,
-    "count_7d": 171,
+    "trending_score": 0.3484,
+    "count_24h": 1,
+    "count_7d": 170,
     "top_articles": [
       {
         "id": "3397",
@@ -245,9 +245,9 @@
   {
     "cluster_id": "2",
     "label": "said, people, says",
-    "trending_score": 0.2368,
+    "trending_score": 0.2322,
     "count_24h": 2,
-    "count_7d": 93,
+    "count_7d": 90,
     "top_articles": [
       {
         "id": "3392",
@@ -272,9 +272,9 @@
   {
     "cluster_id": "8",
     "label": "new, year, film",
-    "trending_score": 0.1951,
-    "count_24h": 3,
-    "count_7d": 70,
+    "trending_score": 0.1854,
+    "count_24h": 2,
+    "count_7d": 69,
     "top_articles": [
       {
         "id": "3395",
@@ -326,7 +326,7 @@
   {
     "cluster_id": "0",
     "label": "win, league, major",
-    "trending_score": 0.037,
+    "trending_score": 0.0301,
     "count_24h": 0,
     "count_7d": 7,
     "top_articles": [

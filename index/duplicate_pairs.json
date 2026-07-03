@@ -1,14 +1,235 @@
 [
   {
     "article_a": {
-      "id": "1119",
-      "title": "GOP congressman, Capitol police, others wounded in shooting",
-      "url": "http://www.taiwannews.com.tw/en/news/3188064"
+      "id": "397",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354678"
     },
     "article_b": {
-      "id": "1829",
-      "title": "GOP congressman, Capitol police, others wounded in shooting",
-      "url": "http://www.taiwannews.com.tw/en/news/3188539"
+      "id": "1804",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355199"
+    },
+    "similarity": 1.000000238418579
+  },
+  {
+    "article_a": {
+      "id": "405",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354653"
+    },
+    "article_b": {
+      "id": "1804",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355199"
+    },
+    "similarity": 1.000000238418579
+  },
+  {
+    "article_a": {
+      "id": "589",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354687"
+    },
+    "article_b": {
+      "id": "1804",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355199"
+    },
+    "similarity": 1.000000238418579
+  },
+  {
+    "article_a": {
+      "id": "667",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354593"
+    },
+    "article_b": {
+      "id": "1804",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355199"
+    },
+    "similarity": 1.000000238418579
+  },
+  {
+    "article_a": {
+      "id": "681",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3318386"
+    },
+    "article_b": {
+      "id": "1804",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355199"
+    },
+    "similarity": 1.000000238418579
+  },
+  {
+    "article_a": {
+      "id": "717",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354606"
+    },
+    "article_b": {
+      "id": "1804",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355199"
+    },
+    "similarity": 1.000000238418579
+  },
+  {
+    "article_a": {
+      "id": "816",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354577"
+    },
+    "article_b": {
+      "id": "1804",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355199"
+    },
+    "similarity": 1.000000238418579
+  },
+  {
+    "article_a": {
+      "id": "831",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385974"
+    },
+    "article_b": {
+      "id": "1804",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355199"
+    },
+    "similarity": 1.000000238418579
+  },
+  {
+    "article_a": {
+      "id": "905",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385935"
+    },
+    "article_b": {
+      "id": "1804",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355199"
+    },
+    "similarity": 1.000000238418579
+  },
+  {
+    "article_a": {
+      "id": "1108",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3386087"
+    },
+    "article_b": {
+      "id": "1804",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355199"
+    },
+    "similarity": 1.000000238418579
+  },
+  {
+    "article_a": {
+      "id": "1225",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385913"
+    },
+    "article_b": {
+      "id": "1804",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355199"
+    },
+    "similarity": 1.000000238418579
+  },
+  {
+    "article_a": {
+      "id": "1297",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354594"
+    },
+    "article_b": {
+      "id": "1804",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355199"
+    },
+    "similarity": 1.000000238418579
+  },
+  {
+    "article_a": {
+      "id": "1305",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354642"
+    },
+    "article_b": {
+      "id": "1804",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355199"
+    },
+    "similarity": 1.000000238418579
+  },
+  {
+    "article_a": {
+      "id": "1399",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355152"
+    },
+    "article_b": {
+      "id": "1804",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355199"
+    },
+    "similarity": 1.000000238418579
+  },
+  {
+    "article_a": {
+      "id": "1422",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354637"
+    },
+    "article_b": {
+      "id": "1804",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355199"
+    },
+    "similarity": 1.000000238418579
+  },
+  {
+    "article_a": {
+      "id": "1485",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385908"
+    },
+    "article_b": {
+      "id": "1804",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355199"
+    },
+    "similarity": 1.000000238418579
+  },
+  {
+    "article_a": {
+      "id": "1569",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354581"
+    },
+    "article_b": {
+      "id": "1804",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355199"
+    },
+    "similarity": 1.000000238418579
+  },
+  {
+    "article_a": {
+      "id": "1653",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354091"
+    },
+    "article_b": {
+      "id": "1804",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355199"
     },
     "similarity": 1.000000238418579
   },
@@ -27,14 +248,53 @@
   },
   {
     "article_a": {
-      "id": "268",
-      "title": "Counting the times Kevin Durant’s shoe came off during games",
-      "url": "http://flowingdata.com/2018/05/30/counting-the-times-kevin-durants-shoe-came-off-during-games/"
+      "id": "261",
+      "title": "Waiting Game, through the steps of asylum seekers",
+      "url": "https://flowingdata.com/2018/04/24/waiting-game-through-the-steps-of-asylum-seekers/"
     },
     "article_b": {
-      "id": "269",
-      "title": "Counting the times Kevin Durant’s shoe came off during games",
-      "url": "https://flowingdata.com/2018/05/30/counting-the-times-kevin-durants-shoe-came-off-during-games/"
+      "id": "266",
+      "title": "Waiting Game, through the steps of asylum seekers",
+      "url": "http://flowingdata.com/2018/04/24/waiting-game-through-the-steps-of-asylum-seekers/"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "307",
+      "title": "Keio Plaza Hotel Tokyo Hosts \"The 38th Arita and Imari Porcelain Exhibition\"",
+      "url": "https://www.taiwannews.com.tw/en/news/3444353"
+    },
+    "article_b": {
+      "id": "1584",
+      "title": "Keio Plaza Hotel Tokyo Hosts \"The 38th Arita and Imari Porcelain Exhibition\"",
+      "url": "https://www.taiwannews.com.tw/en/news/3444359"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "307",
+      "title": "Keio Plaza Hotel Tokyo Hosts \"The 38th Arita and Imari Porcelain Exhibition\"",
+      "url": "https://www.taiwannews.com.tw/en/news/3444353"
+    },
+    "article_b": {
+      "id": "1367",
+      "title": "Keio Plaza Hotel Tokyo Hosts \"The 38th Arita and Imari Porcelain Exhibition\"",
+      "url": "https://www.taiwannews.com.tw/en/news/3444355"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "334",
+      "title": "Correction: Deadly Car Wash Shooting-The Latest story",
+      "url": "https://www.taiwannews.com.tw/en/news/3355055"
+    },
+    "article_b": {
+      "id": "741",
+      "title": "Correction: Deadly Car Wash Shooting-The Latest story",
+      "url": "https://www.taiwannews.com.tw/en/news/3355050"
     },
     "similarity": 1.0000001192092896
   },
@@ -53,53 +313,1015 @@
   },
   {
     "article_a": {
-      "id": "413",
-      "title": "Peloton Names Pamela Thomas-Graham to Its Board of Directors",
-      "url": "https://www.taiwannews.com.tw/en/news/3413598"
+      "id": "397",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354678"
     },
     "article_b": {
-      "id": "1326",
-      "title": "Peloton Names Pamela Thomas-Graham to Its Board of Directors",
-      "url": "https://www.taiwannews.com.tw/en/news/3413582"
+      "id": "1225",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385913"
     },
     "similarity": 1.0000001192092896
   },
   {
     "article_a": {
-      "id": "782",
-      "title": "The top iPhone and iPad apps on App Store",
-      "url": "https://www.taiwannews.com.tw/en/news/3354448"
+      "id": "397",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354678"
     },
     "article_b": {
-      "id": "1660",
-      "title": "The top iPhone and iPad apps on App Store",
-      "url": "https://www.taiwannews.com.tw/en/news/3413449"
+      "id": "1108",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3386087"
     },
     "similarity": 1.0000001192092896
   },
   {
     "article_a": {
-      "id": "799",
-      "title": "BC-TEN--French Open Results",
-      "url": "https://www.taiwannews.com.tw/en/news/3444468"
+      "id": "397",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354678"
     },
     "article_b": {
-      "id": "1594",
-      "title": "BC-TEN--French Open Results",
-      "url": "https://www.taiwannews.com.tw/en/news/3444499"
+      "id": "905",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385935"
     },
     "similarity": 1.0000001192092896
   },
   {
     "article_a": {
-      "id": "799",
-      "title": "BC-TEN--French Open Results",
-      "url": "https://www.taiwannews.com.tw/en/news/3444468"
+      "id": "397",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354678"
     },
     "article_b": {
-      "id": "1541",
-      "title": "BC-TEN--French Open Results",
-      "url": "https://www.taiwannews.com.tw/en/news/3444476"
+      "id": "831",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385974"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "397",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354678"
+    },
+    "article_b": {
+      "id": "816",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354577"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "397",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354678"
+    },
+    "article_b": {
+      "id": "717",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354606"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "397",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354678"
+    },
+    "article_b": {
+      "id": "681",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3318386"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "397",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354678"
+    },
+    "article_b": {
+      "id": "667",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354593"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "397",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354678"
+    },
+    "article_b": {
+      "id": "589",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354687"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "397",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354678"
+    },
+    "article_b": {
+      "id": "405",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354653"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "405",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354653"
+    },
+    "article_b": {
+      "id": "1225",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385913"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "405",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354653"
+    },
+    "article_b": {
+      "id": "1108",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3386087"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "405",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354653"
+    },
+    "article_b": {
+      "id": "905",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385935"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "405",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354653"
+    },
+    "article_b": {
+      "id": "831",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385974"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "405",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354653"
+    },
+    "article_b": {
+      "id": "816",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354577"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "405",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354653"
+    },
+    "article_b": {
+      "id": "717",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354606"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "405",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354653"
+    },
+    "article_b": {
+      "id": "681",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3318386"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "405",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354653"
+    },
+    "article_b": {
+      "id": "667",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354593"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "405",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354653"
+    },
+    "article_b": {
+      "id": "589",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354687"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "589",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354687"
+    },
+    "article_b": {
+      "id": "1225",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385913"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "589",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354687"
+    },
+    "article_b": {
+      "id": "1108",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3386087"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "589",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354687"
+    },
+    "article_b": {
+      "id": "905",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385935"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "589",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354687"
+    },
+    "article_b": {
+      "id": "831",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385974"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "589",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354687"
+    },
+    "article_b": {
+      "id": "816",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354577"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "589",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354687"
+    },
+    "article_b": {
+      "id": "717",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354606"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "589",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354687"
+    },
+    "article_b": {
+      "id": "681",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3318386"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "589",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354687"
+    },
+    "article_b": {
+      "id": "667",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354593"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "646",
+      "title": "AP source: Ex-FBI No. 2 official wrote memo on Comey firing",
+      "url": "https://www.taiwannews.com.tw/en/news/3444830"
+    },
+    "article_b": {
+      "id": "950",
+      "title": "AP source: Ex-FBI No. 2 official wrote memo on Comey firing",
+      "url": "https://www.taiwannews.com.tw/en/news/3444689"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "667",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354593"
+    },
+    "article_b": {
+      "id": "1225",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385913"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "667",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354593"
+    },
+    "article_b": {
+      "id": "1108",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3386087"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "667",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354593"
+    },
+    "article_b": {
+      "id": "905",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385935"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "667",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354593"
+    },
+    "article_b": {
+      "id": "831",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385974"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "667",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354593"
+    },
+    "article_b": {
+      "id": "816",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354577"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "667",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354593"
+    },
+    "article_b": {
+      "id": "717",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354606"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "667",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354593"
+    },
+    "article_b": {
+      "id": "681",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3318386"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "675",
+      "title": "Tick tock of terror: New details in Hawaii missile timeline",
+      "url": "https://www.taiwannews.com.tw/en/news/3354559"
+    },
+    "article_b": {
+      "id": "1669",
+      "title": "Tick tock of terror: New details in Hawaii missile timeline",
+      "url": "https://www.taiwannews.com.tw/en/news/3354720"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "681",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3318386"
+    },
+    "article_b": {
+      "id": "1225",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385913"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "681",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3318386"
+    },
+    "article_b": {
+      "id": "1108",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3386087"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "681",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3318386"
+    },
+    "article_b": {
+      "id": "905",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385935"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "681",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3318386"
+    },
+    "article_b": {
+      "id": "831",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385974"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "681",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3318386"
+    },
+    "article_b": {
+      "id": "816",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354577"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "681",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3318386"
+    },
+    "article_b": {
+      "id": "717",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354606"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "717",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354606"
+    },
+    "article_b": {
+      "id": "1225",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385913"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "717",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354606"
+    },
+    "article_b": {
+      "id": "1108",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3386087"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "717",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354606"
+    },
+    "article_b": {
+      "id": "905",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385935"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "717",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354606"
+    },
+    "article_b": {
+      "id": "831",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385974"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "717",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354606"
+    },
+    "article_b": {
+      "id": "816",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354577"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "816",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354577"
+    },
+    "article_b": {
+      "id": "1225",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385913"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "816",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354577"
+    },
+    "article_b": {
+      "id": "1108",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3386087"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "816",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354577"
+    },
+    "article_b": {
+      "id": "905",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385935"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "816",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354577"
+    },
+    "article_b": {
+      "id": "831",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385974"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "831",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385974"
+    },
+    "article_b": {
+      "id": "1225",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385913"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "831",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385974"
+    },
+    "article_b": {
+      "id": "1108",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3386087"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "831",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385974"
+    },
+    "article_b": {
+      "id": "905",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385935"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "905",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385935"
+    },
+    "article_b": {
+      "id": "1225",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385913"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "905",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385935"
+    },
+    "article_b": {
+      "id": "1108",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3386087"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "1108",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3386087"
+    },
+    "article_b": {
+      "id": "1225",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385913"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "1225",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385913"
+    },
+    "article_b": {
+      "id": "1297",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354594"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "1108",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3386087"
+    },
+    "article_b": {
+      "id": "1297",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354594"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "905",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385935"
+    },
+    "article_b": {
+      "id": "1297",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354594"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "831",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385974"
+    },
+    "article_b": {
+      "id": "1297",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354594"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "816",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354577"
+    },
+    "article_b": {
+      "id": "1297",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354594"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "717",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354606"
+    },
+    "article_b": {
+      "id": "1297",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354594"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "681",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3318386"
+    },
+    "article_b": {
+      "id": "1297",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354594"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "667",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354593"
+    },
+    "article_b": {
+      "id": "1297",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354594"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "589",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354687"
+    },
+    "article_b": {
+      "id": "1297",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354594"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "405",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354653"
+    },
+    "article_b": {
+      "id": "1297",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354594"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "1225",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385913"
+    },
+    "article_b": {
+      "id": "1305",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354642"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "1108",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3386087"
+    },
+    "article_b": {
+      "id": "1305",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354642"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "905",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385935"
+    },
+    "article_b": {
+      "id": "1305",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354642"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "831",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385974"
+    },
+    "article_b": {
+      "id": "1305",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354642"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "816",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354577"
+    },
+    "article_b": {
+      "id": "1305",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354642"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "717",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354606"
+    },
+    "article_b": {
+      "id": "1305",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354642"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "681",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3318386"
+    },
+    "article_b": {
+      "id": "1305",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354642"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "667",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354593"
+    },
+    "article_b": {
+      "id": "1305",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354642"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "589",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354687"
+    },
+    "article_b": {
+      "id": "1305",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354642"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "405",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354653"
+    },
+    "article_b": {
+      "id": "1305",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354642"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "1311",
+      "title": "New offshore wind farm project will dwarf nation's 1st one",
+      "url": "https://www.taiwannews.com.tw/en/news/3444549"
+    },
+    "article_b": {
+      "id": "1610",
+      "title": "New offshore wind farm project will dwarf nation's 1st one",
+      "url": "https://www.taiwannews.com.tw/en/news/3444547"
     },
     "similarity": 1.0000001192092896
   },
@@ -118,27 +1340,690 @@
   },
   {
     "article_a": {
-      "id": "1541",
-      "title": "BC-TEN--French Open Results",
-      "url": "https://www.taiwannews.com.tw/en/news/3444476"
+      "id": "1367",
+      "title": "Keio Plaza Hotel Tokyo Hosts \"The 38th Arita and Imari Porcelain Exhibition\"",
+      "url": "https://www.taiwannews.com.tw/en/news/3444355"
     },
     "article_b": {
-      "id": "1594",
-      "title": "BC-TEN--French Open Results",
-      "url": "https://www.taiwannews.com.tw/en/news/3444499"
+      "id": "1584",
+      "title": "Keio Plaza Hotel Tokyo Hosts \"The 38th Arita and Imari Porcelain Exhibition\"",
+      "url": "https://www.taiwannews.com.tw/en/news/3444359"
     },
     "similarity": 1.0000001192092896
   },
   {
     "article_a": {
-      "id": "1937",
-      "title": "Boiling point: The week of extreme heat",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002ypkf?at_medium=RSS&at_campaign=rss"
+      "id": "1225",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385913"
     },
     "article_b": {
-      "id": "2059",
-      "title": "Boiling point: The week of extreme heat",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002ypkf/bbc-news-boiling-point-the-week-of-extreme-heat?at_medium=RSS&at_campaign=rss"
+      "id": "1399",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355152"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "1108",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3386087"
+    },
+    "article_b": {
+      "id": "1399",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355152"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "905",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385935"
+    },
+    "article_b": {
+      "id": "1399",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355152"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "831",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385974"
+    },
+    "article_b": {
+      "id": "1399",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355152"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "816",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354577"
+    },
+    "article_b": {
+      "id": "1399",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355152"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "717",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354606"
+    },
+    "article_b": {
+      "id": "1399",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355152"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "681",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3318386"
+    },
+    "article_b": {
+      "id": "1399",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355152"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "667",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354593"
+    },
+    "article_b": {
+      "id": "1399",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355152"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "589",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354687"
+    },
+    "article_b": {
+      "id": "1399",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355152"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "405",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354653"
+    },
+    "article_b": {
+      "id": "1399",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3355152"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "1225",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385913"
+    },
+    "article_b": {
+      "id": "1422",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354637"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "1108",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3386087"
+    },
+    "article_b": {
+      "id": "1422",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354637"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "905",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385935"
+    },
+    "article_b": {
+      "id": "1422",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354637"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "831",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385974"
+    },
+    "article_b": {
+      "id": "1422",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354637"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "816",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354577"
+    },
+    "article_b": {
+      "id": "1422",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354637"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "717",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354606"
+    },
+    "article_b": {
+      "id": "1422",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354637"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "681",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3318386"
+    },
+    "article_b": {
+      "id": "1422",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354637"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "667",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354593"
+    },
+    "article_b": {
+      "id": "1422",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354637"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "589",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354687"
+    },
+    "article_b": {
+      "id": "1422",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354637"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "405",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354653"
+    },
+    "article_b": {
+      "id": "1422",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354637"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "1225",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385913"
+    },
+    "article_b": {
+      "id": "1485",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385908"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "1108",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3386087"
+    },
+    "article_b": {
+      "id": "1485",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385908"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "905",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385935"
+    },
+    "article_b": {
+      "id": "1485",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385908"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "831",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385974"
+    },
+    "article_b": {
+      "id": "1485",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385908"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "816",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354577"
+    },
+    "article_b": {
+      "id": "1485",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385908"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "717",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354606"
+    },
+    "article_b": {
+      "id": "1485",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385908"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "681",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3318386"
+    },
+    "article_b": {
+      "id": "1485",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385908"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "667",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354593"
+    },
+    "article_b": {
+      "id": "1485",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385908"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "589",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354687"
+    },
+    "article_b": {
+      "id": "1485",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385908"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "405",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354653"
+    },
+    "article_b": {
+      "id": "1485",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385908"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "1506",
+      "title": "Toro Supports 2018 Wyland National Mayor's Challenge for Water Conservation",
+      "url": "https://www.taiwannews.com.tw/en/news/3413533"
+    },
+    "article_b": {
+      "id": "1727",
+      "title": "Toro Supports 2018 Wyland National Mayor's Challenge for Water Conservation",
+      "url": "https://www.taiwannews.com.tw/en/news/3413536"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "1225",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385913"
+    },
+    "article_b": {
+      "id": "1569",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354581"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "1108",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3386087"
+    },
+    "article_b": {
+      "id": "1569",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354581"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "905",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385935"
+    },
+    "article_b": {
+      "id": "1569",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354581"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "831",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385974"
+    },
+    "article_b": {
+      "id": "1569",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354581"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "816",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354577"
+    },
+    "article_b": {
+      "id": "1569",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354581"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "717",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354606"
+    },
+    "article_b": {
+      "id": "1569",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354581"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "681",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3318386"
+    },
+    "article_b": {
+      "id": "1569",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354581"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "667",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354593"
+    },
+    "article_b": {
+      "id": "1569",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354581"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "589",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354687"
+    },
+    "article_b": {
+      "id": "1569",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354581"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "405",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354653"
+    },
+    "article_b": {
+      "id": "1569",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354581"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "1225",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385913"
+    },
+    "article_b": {
+      "id": "1653",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354091"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "1108",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3386087"
+    },
+    "article_b": {
+      "id": "1653",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354091"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "905",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385935"
+    },
+    "article_b": {
+      "id": "1653",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354091"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "831",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3385974"
+    },
+    "article_b": {
+      "id": "1653",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354091"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "816",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354577"
+    },
+    "article_b": {
+      "id": "1653",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354091"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "717",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354606"
+    },
+    "article_b": {
+      "id": "1653",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354091"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "681",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3318386"
+    },
+    "article_b": {
+      "id": "1653",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354091"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "667",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354593"
+    },
+    "article_b": {
+      "id": "1653",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354091"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "589",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354687"
+    },
+    "article_b": {
+      "id": "1653",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354091"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "405",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354653"
+    },
+    "article_b": {
+      "id": "1653",
+      "title": "Expanded Conference Glance",
+      "url": "https://www.taiwannews.com.tw/en/news/3354091"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "1765",
+      "title": "Global Forecast-Fahrenheit",
+      "url": "https://www.taiwannews.com.tw/en/news/3317999"
+    },
+    "article_b": {
+      "id": "1778",
+      "title": "Global Forecast-Fahrenheit",
+      "url": "https://www.taiwannews.com.tw/en/news/3354176"
     },
     "similarity": 1.0000001192092896
   },
@@ -235,53 +2120,14 @@
   },
   {
     "article_a": {
-      "id": "261",
-      "title": "Waiting Game, through the steps of asylum seekers",
-      "url": "https://flowingdata.com/2018/04/24/waiting-game-through-the-steps-of-asylum-seekers/"
+      "id": "268",
+      "title": "Counting the times Kevin Durant’s shoe came off during games",
+      "url": "http://flowingdata.com/2018/05/30/counting-the-times-kevin-durants-shoe-came-off-during-games/"
     },
     "article_b": {
-      "id": "266",
-      "title": "Waiting Game, through the steps of asylum seekers",
-      "url": "http://flowingdata.com/2018/04/24/waiting-game-through-the-steps-of-asylum-seekers/"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "307",
-      "title": "Keio Plaza Hotel Tokyo Hosts \"The 38th Arita and Imari Porcelain Exhibition\"",
-      "url": "https://www.taiwannews.com.tw/en/news/3444353"
-    },
-    "article_b": {
-      "id": "1584",
-      "title": "Keio Plaza Hotel Tokyo Hosts \"The 38th Arita and Imari Porcelain Exhibition\"",
-      "url": "https://www.taiwannews.com.tw/en/news/3444359"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "307",
-      "title": "Keio Plaza Hotel Tokyo Hosts \"The 38th Arita and Imari Porcelain Exhibition\"",
-      "url": "https://www.taiwannews.com.tw/en/news/3444353"
-    },
-    "article_b": {
-      "id": "1367",
-      "title": "Keio Plaza Hotel Tokyo Hosts \"The 38th Arita and Imari Porcelain Exhibition\"",
-      "url": "https://www.taiwannews.com.tw/en/news/3444355"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "334",
-      "title": "Correction: Deadly Car Wash Shooting-The Latest story",
-      "url": "https://www.taiwannews.com.tw/en/news/3355055"
-    },
-    "article_b": {
-      "id": "741",
-      "title": "Correction: Deadly Car Wash Shooting-The Latest story",
-      "url": "https://www.taiwannews.com.tw/en/news/3355050"
+      "id": "269",
+      "title": "Counting the times Kevin Durant’s shoe came off during games",
+      "url": "https://flowingdata.com/2018/05/30/counting-the-times-kevin-durants-shoe-came-off-during-games/"
     },
     "similarity": 1.0
   },
@@ -300,456 +2146,14 @@
   },
   {
     "article_a": {
-      "id": "397",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354678"
+      "id": "413",
+      "title": "Peloton Names Pamela Thomas-Graham to Its Board of Directors",
+      "url": "https://www.taiwannews.com.tw/en/news/3413598"
     },
     "article_b": {
-      "id": "1225",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385913"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "397",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354678"
-    },
-    "article_b": {
-      "id": "1108",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3386087"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "397",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354678"
-    },
-    "article_b": {
-      "id": "905",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385935"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "397",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354678"
-    },
-    "article_b": {
-      "id": "831",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385974"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "397",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354678"
-    },
-    "article_b": {
-      "id": "816",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354577"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "397",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354678"
-    },
-    "article_b": {
-      "id": "717",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354606"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "397",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354678"
-    },
-    "article_b": {
-      "id": "681",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3318386"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "397",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354678"
-    },
-    "article_b": {
-      "id": "667",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354593"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "397",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354678"
-    },
-    "article_b": {
-      "id": "589",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354687"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "397",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354678"
-    },
-    "article_b": {
-      "id": "405",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354653"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "405",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354653"
-    },
-    "article_b": {
-      "id": "1225",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385913"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "405",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354653"
-    },
-    "article_b": {
-      "id": "1108",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3386087"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "405",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354653"
-    },
-    "article_b": {
-      "id": "905",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385935"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "405",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354653"
-    },
-    "article_b": {
-      "id": "831",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385974"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "405",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354653"
-    },
-    "article_b": {
-      "id": "816",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354577"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "405",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354653"
-    },
-    "article_b": {
-      "id": "717",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354606"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "405",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354653"
-    },
-    "article_b": {
-      "id": "681",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3318386"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "405",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354653"
-    },
-    "article_b": {
-      "id": "667",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354593"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "405",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354653"
-    },
-    "article_b": {
-      "id": "589",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354687"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "589",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354687"
-    },
-    "article_b": {
-      "id": "1225",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385913"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "589",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354687"
-    },
-    "article_b": {
-      "id": "1108",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3386087"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "589",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354687"
-    },
-    "article_b": {
-      "id": "905",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385935"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "589",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354687"
-    },
-    "article_b": {
-      "id": "831",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385974"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "589",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354687"
-    },
-    "article_b": {
-      "id": "816",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354577"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "589",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354687"
-    },
-    "article_b": {
-      "id": "717",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354606"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "589",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354687"
-    },
-    "article_b": {
-      "id": "681",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3318386"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "589",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354687"
-    },
-    "article_b": {
-      "id": "667",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354593"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "646",
-      "title": "AP source: Ex-FBI No. 2 official wrote memo on Comey firing",
-      "url": "https://www.taiwannews.com.tw/en/news/3444830"
-    },
-    "article_b": {
-      "id": "950",
-      "title": "AP source: Ex-FBI No. 2 official wrote memo on Comey firing",
-      "url": "https://www.taiwannews.com.tw/en/news/3444689"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "667",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354593"
-    },
-    "article_b": {
-      "id": "1225",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385913"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "667",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354593"
-    },
-    "article_b": {
-      "id": "1108",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3386087"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "667",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354593"
-    },
-    "article_b": {
-      "id": "905",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385935"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "667",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354593"
-    },
-    "article_b": {
-      "id": "831",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385974"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "667",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354593"
-    },
-    "article_b": {
-      "id": "816",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354577"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "667",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354593"
-    },
-    "article_b": {
-      "id": "717",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354606"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "667",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354593"
-    },
-    "article_b": {
-      "id": "681",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3318386"
+      "id": "1326",
+      "title": "Peloton Names Pamela Thomas-Graham to Its Board of Directors",
+      "url": "https://www.taiwannews.com.tw/en/news/3413582"
     },
     "similarity": 1.0
   },
@@ -763,162 +2167,6 @@
       "id": "746",
       "title": "Long history of security incidents, violence at Capitol",
       "url": "http://www.taiwannews.com.tw/en/news/3188109"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "675",
-      "title": "Tick tock of terror: New details in Hawaii missile timeline",
-      "url": "https://www.taiwannews.com.tw/en/news/3354559"
-    },
-    "article_b": {
-      "id": "1669",
-      "title": "Tick tock of terror: New details in Hawaii missile timeline",
-      "url": "https://www.taiwannews.com.tw/en/news/3354720"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "681",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3318386"
-    },
-    "article_b": {
-      "id": "1225",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385913"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "681",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3318386"
-    },
-    "article_b": {
-      "id": "1108",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3386087"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "681",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3318386"
-    },
-    "article_b": {
-      "id": "905",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385935"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "681",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3318386"
-    },
-    "article_b": {
-      "id": "831",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385974"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "681",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3318386"
-    },
-    "article_b": {
-      "id": "816",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354577"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "681",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3318386"
-    },
-    "article_b": {
-      "id": "717",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354606"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "717",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354606"
-    },
-    "article_b": {
-      "id": "1225",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385913"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "717",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354606"
-    },
-    "article_b": {
-      "id": "1108",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3386087"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "717",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354606"
-    },
-    "article_b": {
-      "id": "905",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385935"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "717",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354606"
-    },
-    "article_b": {
-      "id": "831",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385974"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "717",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354606"
-    },
-    "article_b": {
-      "id": "816",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354577"
     },
     "similarity": 1.0
   },
@@ -1067,53 +2315,40 @@
   },
   {
     "article_a": {
-      "id": "816",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354577"
+      "id": "782",
+      "title": "The top iPhone and iPad apps on App Store",
+      "url": "https://www.taiwannews.com.tw/en/news/3354448"
     },
     "article_b": {
-      "id": "1225",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385913"
+      "id": "1660",
+      "title": "The top iPhone and iPad apps on App Store",
+      "url": "https://www.taiwannews.com.tw/en/news/3413449"
     },
     "similarity": 1.0
   },
   {
     "article_a": {
-      "id": "816",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354577"
+      "id": "799",
+      "title": "BC-TEN--French Open Results",
+      "url": "https://www.taiwannews.com.tw/en/news/3444468"
     },
     "article_b": {
-      "id": "1108",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3386087"
+      "id": "1594",
+      "title": "BC-TEN--French Open Results",
+      "url": "https://www.taiwannews.com.tw/en/news/3444499"
     },
     "similarity": 1.0
   },
   {
     "article_a": {
-      "id": "816",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354577"
+      "id": "799",
+      "title": "BC-TEN--French Open Results",
+      "url": "https://www.taiwannews.com.tw/en/news/3444468"
     },
     "article_b": {
-      "id": "905",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385935"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "816",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354577"
-    },
-    "article_b": {
-      "id": "831",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385974"
+      "id": "1541",
+      "title": "BC-TEN--French Open Results",
+      "url": "https://www.taiwannews.com.tw/en/news/3444476"
     },
     "similarity": 1.0
   },
@@ -1236,45 +2471,6 @@
   },
   {
     "article_a": {
-      "id": "831",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385974"
-    },
-    "article_b": {
-      "id": "1225",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385913"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "831",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385974"
-    },
-    "article_b": {
-      "id": "1108",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3386087"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "831",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385974"
-    },
-    "article_b": {
-      "id": "905",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385935"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
       "id": "879",
       "title": "Wednesday's Major League Linescores",
       "url": "https://www.taiwannews.com.tw/en/news/3444699"
@@ -1374,32 +2570,6 @@
       "id": "1158",
       "title": "Wednesday's Major League Linescores",
       "url": "https://www.taiwannews.com.tw/en/news/3444863"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "905",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385935"
-    },
-    "article_b": {
-      "id": "1225",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385913"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "905",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385935"
-    },
-    "article_b": {
-      "id": "1108",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3386087"
     },
     "similarity": 1.0
   },
@@ -1444,14 +2614,14 @@
   },
   {
     "article_a": {
-      "id": "1108",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3386087"
+      "id": "1119",
+      "title": "GOP congressman, Capitol police, others wounded in shooting",
+      "url": "http://www.taiwannews.com.tw/en/news/3188064"
     },
     "article_b": {
-      "id": "1225",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385913"
+      "id": "1829",
+      "title": "GOP congressman, Capitol police, others wounded in shooting",
+      "url": "http://www.taiwannews.com.tw/en/news/3188539"
     },
     "similarity": 1.0
   },
@@ -1561,305 +2731,6 @@
   },
   {
     "article_a": {
-      "id": "1225",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385913"
-    },
-    "article_b": {
-      "id": "1297",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354594"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "1108",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3386087"
-    },
-    "article_b": {
-      "id": "1297",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354594"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "905",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385935"
-    },
-    "article_b": {
-      "id": "1297",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354594"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "831",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385974"
-    },
-    "article_b": {
-      "id": "1297",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354594"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "816",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354577"
-    },
-    "article_b": {
-      "id": "1297",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354594"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "717",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354606"
-    },
-    "article_b": {
-      "id": "1297",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354594"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "681",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3318386"
-    },
-    "article_b": {
-      "id": "1297",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354594"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "667",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354593"
-    },
-    "article_b": {
-      "id": "1297",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354594"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "589",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354687"
-    },
-    "article_b": {
-      "id": "1297",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354594"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "405",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354653"
-    },
-    "article_b": {
-      "id": "1297",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354594"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "397",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354678"
-    },
-    "article_b": {
-      "id": "1297",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354594"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "1225",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385913"
-    },
-    "article_b": {
-      "id": "1305",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354642"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "1108",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3386087"
-    },
-    "article_b": {
-      "id": "1305",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354642"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "905",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385935"
-    },
-    "article_b": {
-      "id": "1305",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354642"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "831",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385974"
-    },
-    "article_b": {
-      "id": "1305",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354642"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "816",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354577"
-    },
-    "article_b": {
-      "id": "1305",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354642"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "717",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354606"
-    },
-    "article_b": {
-      "id": "1305",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354642"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "681",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3318386"
-    },
-    "article_b": {
-      "id": "1305",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354642"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "667",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354593"
-    },
-    "article_b": {
-      "id": "1305",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354642"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "589",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354687"
-    },
-    "article_b": {
-      "id": "1305",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354642"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "405",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354653"
-    },
-    "article_b": {
-      "id": "1305",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354642"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "397",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354678"
-    },
-    "article_b": {
-      "id": "1305",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354642"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "1311",
-      "title": "New offshore wind farm project will dwarf nation's 1st one",
-      "url": "https://www.taiwannews.com.tw/en/news/3444549"
-    },
-    "article_b": {
-      "id": "1610",
-      "title": "New offshore wind farm project will dwarf nation's 1st one",
-      "url": "https://www.taiwannews.com.tw/en/news/3444547"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
       "id": "1347",
       "title": "Wednesday's Major League Linescores",
       "url": "https://www.taiwannews.com.tw/en/news/3474413"
@@ -1938,305 +2809,6 @@
   },
   {
     "article_a": {
-      "id": "1367",
-      "title": "Keio Plaza Hotel Tokyo Hosts \"The 38th Arita and Imari Porcelain Exhibition\"",
-      "url": "https://www.taiwannews.com.tw/en/news/3444355"
-    },
-    "article_b": {
-      "id": "1584",
-      "title": "Keio Plaza Hotel Tokyo Hosts \"The 38th Arita and Imari Porcelain Exhibition\"",
-      "url": "https://www.taiwannews.com.tw/en/news/3444359"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "1225",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385913"
-    },
-    "article_b": {
-      "id": "1399",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3355152"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "1108",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3386087"
-    },
-    "article_b": {
-      "id": "1399",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3355152"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "905",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385935"
-    },
-    "article_b": {
-      "id": "1399",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3355152"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "831",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385974"
-    },
-    "article_b": {
-      "id": "1399",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3355152"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "816",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354577"
-    },
-    "article_b": {
-      "id": "1399",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3355152"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "717",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354606"
-    },
-    "article_b": {
-      "id": "1399",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3355152"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "681",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3318386"
-    },
-    "article_b": {
-      "id": "1399",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3355152"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "667",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354593"
-    },
-    "article_b": {
-      "id": "1399",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3355152"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "589",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354687"
-    },
-    "article_b": {
-      "id": "1399",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3355152"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "405",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354653"
-    },
-    "article_b": {
-      "id": "1399",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3355152"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "397",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354678"
-    },
-    "article_b": {
-      "id": "1399",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3355152"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "1225",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385913"
-    },
-    "article_b": {
-      "id": "1422",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354637"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "1108",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3386087"
-    },
-    "article_b": {
-      "id": "1422",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354637"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "905",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385935"
-    },
-    "article_b": {
-      "id": "1422",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354637"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "831",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385974"
-    },
-    "article_b": {
-      "id": "1422",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354637"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "816",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354577"
-    },
-    "article_b": {
-      "id": "1422",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354637"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "717",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354606"
-    },
-    "article_b": {
-      "id": "1422",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354637"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "681",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3318386"
-    },
-    "article_b": {
-      "id": "1422",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354637"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "667",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354593"
-    },
-    "article_b": {
-      "id": "1422",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354637"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "589",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354687"
-    },
-    "article_b": {
-      "id": "1422",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354637"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "405",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354653"
-    },
-    "article_b": {
-      "id": "1422",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354637"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "397",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354678"
-    },
-    "article_b": {
-      "id": "1422",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354637"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
       "id": "1442",
       "title": "Wednesday's Major League Linescores",
       "url": "https://www.taiwannews.com.tw/en/news/3444596"
@@ -2302,162 +2874,6 @@
   },
   {
     "article_a": {
-      "id": "1225",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385913"
-    },
-    "article_b": {
-      "id": "1485",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385908"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "1108",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3386087"
-    },
-    "article_b": {
-      "id": "1485",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385908"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "905",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385935"
-    },
-    "article_b": {
-      "id": "1485",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385908"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "831",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385974"
-    },
-    "article_b": {
-      "id": "1485",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385908"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "816",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354577"
-    },
-    "article_b": {
-      "id": "1485",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385908"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "717",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354606"
-    },
-    "article_b": {
-      "id": "1485",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385908"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "681",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3318386"
-    },
-    "article_b": {
-      "id": "1485",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385908"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "667",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354593"
-    },
-    "article_b": {
-      "id": "1485",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385908"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "589",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354687"
-    },
-    "article_b": {
-      "id": "1485",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385908"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "405",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354653"
-    },
-    "article_b": {
-      "id": "1485",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385908"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "397",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354678"
-    },
-    "article_b": {
-      "id": "1485",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385908"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "1506",
-      "title": "Toro Supports 2018 Wyland National Mayor's Challenge for Water Conservation",
-      "url": "https://www.taiwannews.com.tw/en/news/3413533"
-    },
-    "article_b": {
-      "id": "1727",
-      "title": "Toro Supports 2018 Wyland National Mayor's Challenge for Water Conservation",
-      "url": "https://www.taiwannews.com.tw/en/news/3413536"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
       "id": "1535",
       "title": "Wednesday's Major League Linescores",
       "url": "https://www.taiwannews.com.tw/en/news/3444833"
@@ -2510,6 +2926,19 @@
   },
   {
     "article_a": {
+      "id": "1541",
+      "title": "BC-TEN--French Open Results",
+      "url": "https://www.taiwannews.com.tw/en/news/3444476"
+    },
+    "article_b": {
+      "id": "1594",
+      "title": "BC-TEN--French Open Results",
+      "url": "https://www.taiwannews.com.tw/en/news/3444499"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
       "id": "1550",
       "title": "Wednesday's Major League Linescores",
       "url": "https://www.taiwannews.com.tw/en/news/3444786"
@@ -2549,292 +2978,6 @@
   },
   {
     "article_a": {
-      "id": "1225",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385913"
-    },
-    "article_b": {
-      "id": "1569",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354581"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "1108",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3386087"
-    },
-    "article_b": {
-      "id": "1569",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354581"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "905",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385935"
-    },
-    "article_b": {
-      "id": "1569",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354581"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "831",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385974"
-    },
-    "article_b": {
-      "id": "1569",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354581"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "816",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354577"
-    },
-    "article_b": {
-      "id": "1569",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354581"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "717",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354606"
-    },
-    "article_b": {
-      "id": "1569",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354581"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "681",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3318386"
-    },
-    "article_b": {
-      "id": "1569",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354581"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "667",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354593"
-    },
-    "article_b": {
-      "id": "1569",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354581"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "589",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354687"
-    },
-    "article_b": {
-      "id": "1569",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354581"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "405",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354653"
-    },
-    "article_b": {
-      "id": "1569",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354581"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "397",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354678"
-    },
-    "article_b": {
-      "id": "1569",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354581"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "1225",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385913"
-    },
-    "article_b": {
-      "id": "1653",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354091"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "1108",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3386087"
-    },
-    "article_b": {
-      "id": "1653",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354091"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "905",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385935"
-    },
-    "article_b": {
-      "id": "1653",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354091"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "831",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385974"
-    },
-    "article_b": {
-      "id": "1653",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354091"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "816",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354577"
-    },
-    "article_b": {
-      "id": "1653",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354091"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "717",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354606"
-    },
-    "article_b": {
-      "id": "1653",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354091"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "681",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3318386"
-    },
-    "article_b": {
-      "id": "1653",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354091"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "667",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354593"
-    },
-    "article_b": {
-      "id": "1653",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354091"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "589",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354687"
-    },
-    "article_b": {
-      "id": "1653",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354091"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "405",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354653"
-    },
-    "article_b": {
-      "id": "1653",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354091"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "397",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354678"
-    },
-    "article_b": {
-      "id": "1653",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354091"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
       "id": "1743",
       "title": "Wednesday's Major League Linescores",
       "url": "https://www.taiwannews.com.tw/en/news/3444878"
@@ -2861,162 +3004,6 @@
   },
   {
     "article_a": {
-      "id": "1765",
-      "title": "Global Forecast-Fahrenheit",
-      "url": "https://www.taiwannews.com.tw/en/news/3317999"
-    },
-    "article_b": {
-      "id": "1778",
-      "title": "Global Forecast-Fahrenheit",
-      "url": "https://www.taiwannews.com.tw/en/news/3354176"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "1225",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385913"
-    },
-    "article_b": {
-      "id": "1804",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3355199"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "1108",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3386087"
-    },
-    "article_b": {
-      "id": "1804",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3355199"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "905",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385935"
-    },
-    "article_b": {
-      "id": "1804",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3355199"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "831",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3385974"
-    },
-    "article_b": {
-      "id": "1804",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3355199"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "816",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354577"
-    },
-    "article_b": {
-      "id": "1804",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3355199"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "717",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354606"
-    },
-    "article_b": {
-      "id": "1804",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3355199"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "681",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3318386"
-    },
-    "article_b": {
-      "id": "1804",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3355199"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "667",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354593"
-    },
-    "article_b": {
-      "id": "1804",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3355199"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "589",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354687"
-    },
-    "article_b": {
-      "id": "1804",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3355199"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "405",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354653"
-    },
-    "article_b": {
-      "id": "1804",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3355199"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "397",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3354678"
-    },
-    "article_b": {
-      "id": "1804",
-      "title": "Expanded Conference Glance",
-      "url": "https://www.taiwannews.com.tw/en/news/3355199"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
       "id": "1808",
       "title": "Wednesday's Major League Linescores",
       "url": "https://www.taiwannews.com.tw/en/news/3444691"
@@ -3025,6 +3012,19 @@
       "id": "1824",
       "title": "Wednesday's Major League Linescores",
       "url": "https://www.taiwannews.com.tw/en/news/3474429"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
+      "id": "1937",
+      "title": "Boiling point: The week of extreme heat",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002ypkf?at_medium=RSS&at_campaign=rss"
+    },
+    "article_b": {
+      "id": "2059",
+      "title": "Boiling point: The week of extreme heat",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002ypkf/bbc-news-boiling-point-the-week-of-extreme-heat?at_medium=RSS&at_campaign=rss"
     },
     "similarity": 1.0
   },
@@ -3130,7 +3130,7 @@
       "title": "Israel launches attacks and incursions inside southern Syria",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-launches-attacks-and-incursions-inside-southern-syria?traffic_source=rss"
     },
-    "similarity": 0.9816622734069824
+    "similarity": 0.9816620349884033
   },
   {
     "article_a": {
@@ -3143,7 +3143,7 @@
       "title": "How major US stock indexes fared Wednesday",
       "url": "https://www.taiwannews.com.tw/en/news/3444550"
     },
-    "similarity": 0.9788514375686646
+    "similarity": 0.978851318359375
   },
   {
     "article_a": {
@@ -3156,7 +3156,7 @@
       "title": "How AI is being weaponised against India’s Muslim women",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/how-ai-is-being-weaponised-against-indias-muslim-women?traffic_source=rss"
     },
-    "similarity": 0.9758651852607727
+    "similarity": 0.9758652448654175
   },
   {
     "article_a": {
@@ -3169,7 +3169,7 @@
       "title": "Rescuers find more bodies under rubble as Venezuela death toll rises",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/rescuers-find-more-bodies-under-rubble-as-venezuela-death-toll-rises?traffic_source=rss"
     },
-    "similarity": 0.9694622755050659
+    "similarity": 0.9694621562957764
   },
   {
     "article_a": {
@@ -3195,7 +3195,7 @@
       "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
       "url": "https://www.aljazeera.com/sports/2026/6/28/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss"
     },
-    "similarity": 0.9603617191314697
+    "similarity": 0.960361659526825
   },
   {
     "article_a": {
@@ -3208,7 +3208,7 @@
       "title": "How major US stock indexes fared Wednesday",
       "url": "https://www.taiwannews.com.tw/en/news/3444550"
     },
-    "similarity": 0.9599462151527405
+    "similarity": 0.9599462747573853
   },
   {
     "article_a": {
@@ -3221,7 +3221,7 @@
       "title": "How major US stock indexes fared on Tuesday",
       "url": "https://www.taiwannews.com.tw/en/news/3354493"
     },
-    "similarity": 0.9597604274749756
+    "similarity": 0.9597605466842651
   },
   {
     "article_a": {
@@ -3234,20 +3234,7 @@
       "title": "Araghchi: Strait of Hormuz remains under Iranian control for 30 days",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/araghchi-strait-of-hormuz-remains-under-iranian-control-for-30-days?traffic_source=rss"
     },
-    "similarity": 0.9592931270599365
-  },
-  {
-    "article_a": {
-      "id": "334",
-      "title": "Correction: Deadly Car Wash Shooting-The Latest story",
-      "url": "https://www.taiwannews.com.tw/en/news/3355055"
-    },
-    "article_b": {
-      "id": "730",
-      "title": "Correction: Deadly Car Wash Shooting story",
-      "url": "https://www.taiwannews.com.tw/en/news/3355052"
-    },
-    "similarity": 0.957680344581604
+    "similarity": 0.9592929482460022
   },
   {
     "article_a": {
@@ -3260,7 +3247,20 @@
       "title": "Correction: Deadly Car Wash Shooting-The Latest story",
       "url": "https://www.taiwannews.com.tw/en/news/3355050"
     },
-    "similarity": 0.957680344581604
+    "similarity": 0.9576802253723145
+  },
+  {
+    "article_a": {
+      "id": "334",
+      "title": "Correction: Deadly Car Wash Shooting-The Latest story",
+      "url": "https://www.taiwannews.com.tw/en/news/3355055"
+    },
+    "article_b": {
+      "id": "730",
+      "title": "Correction: Deadly Car Wash Shooting story",
+      "url": "https://www.taiwannews.com.tw/en/news/3355052"
+    },
+    "similarity": 0.9576801657676697
   },
   {
     "article_a": {
@@ -3286,7 +3286,7 @@
       "title": "How major US stock indexes fared on Tuesday",
       "url": "https://www.taiwannews.com.tw/en/news/3354493"
     },
-    "similarity": 0.953129768371582
+    "similarity": 0.9531297087669373
   },
   {
     "article_a": {
@@ -3299,7 +3299,7 @@
       "title": "Thousands of Kurds gather in Turkiye to demand release of PKK leader",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/thousands-of-kurds-gather-in-turkiye-to-demand-release-of-pkk-leader?traffic_source=rss"
     },
-    "similarity": 0.9524435997009277
+    "similarity": 0.9524436593055725
   },
   {
     "article_a": {
@@ -3312,7 +3312,7 @@
       "title": "Cape Verde becomes tiniest nation to make World Cup knockouts",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/cape-verde-becomes-tiniest-nation-to-make-world-cup-knockouts?traffic_source=rss"
     },
-    "similarity": 0.952067494392395
+    "similarity": 0.9520676136016846
   },
   {
     "article_a": {
@@ -3325,7 +3325,7 @@
       "title": "Tutoring centre roof collapses killing 14 children in Pakistan",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/tutoring-centre-roof-collapses-killing-14-children-in-pakistan?traffic_source=rss"
     },
-    "similarity": 0.9494280815124512
+    "similarity": 0.9494282603263855
   },
   {
     "article_a": {
@@ -3338,7 +3338,7 @@
       "title": "British man arrested in Ecuador after woman’s body found in suitcase in Colombia",
       "url": "https://www.theguardian.com/world/2026/jun/28/british-man-arrested-ecuador-matthew-foster-smith"
     },
-    "similarity": 0.9480588436126709
+    "similarity": 0.9480587244033813
   },
   {
     "article_a": {
@@ -3351,7 +3351,7 @@
       "title": "Fourteen killed in Saudi Arabia helicopter crash",
       "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss"
     },
-    "similarity": 0.9479902386665344
+    "similarity": 0.9479901790618896
   },
   {
     "article_a": {
@@ -3364,7 +3364,7 @@
       "title": "Two killed, dozens injured in Israeli strike on displacement tents in Gaza",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/two-killed-dozens-injured-in-israeli-strike-on-displacement-tents-in-gaza?traffic_source=rss"
     },
-    "similarity": 0.9445832967758179
+    "similarity": 0.9445831775665283
   },
   {
     "article_a": {
@@ -3377,7 +3377,7 @@
       "title": "How much of your life do you spend on social media?",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/how-much-of-your-life-do-you-spend-on-social-media-2?traffic_source=rss"
     },
-    "similarity": 0.9441756010055542
+    "similarity": 0.9441757202148438
   },
   {
     "article_a": {
@@ -3403,7 +3403,7 @@
       "title": "Teenager seriously injured in shooting near Birmingham mosque",
       "url": "https://www.theguardian.com/uk-news/2026/jul/01/teenager-injured-shooting-birmingham-mosque"
     },
-    "similarity": 0.9418386816978455
+    "similarity": 0.941838800907135
   },
   {
     "article_a": {
@@ -3416,7 +3416,7 @@
       "title": "Patient tests negative after Ebola alert at Glasgow hospital",
       "url": "https://www.bbc.co.uk/news/articles/cly7z8ey088o?at_medium=RSS&at_campaign=rss"
     },
-    "similarity": 0.9413096308708191
+    "similarity": 0.9413095712661743
   },
   {
     "article_a": {
@@ -3468,7 +3468,7 @@
       "title": "Feminism; the Merriam-Webster Word of the Year for 2017",
       "url": "https://www.taiwannews.com.tw/en/news/3318568"
     },
-    "similarity": 0.9335390329360962
+    "similarity": 0.9335391521453857
   },
   {
     "article_a": {
@@ -3481,7 +3481,7 @@
       "title": "Man charged after arson attack on Islamic centre in Dublin",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/man-charged-after-arson-attack-on-islamic-centre-in-dublin?traffic_source=rss"
     },
-    "similarity": 0.9328283667564392
+    "similarity": 0.9328283071517944
   },
   {
     "article_a": {
@@ -3520,7 +3520,7 @@
       "title": "Henry Nowak murder: two officers under gross misconduct investigation",
       "url": "https://www.theguardian.com/uk-news/2026/jul/01/henry-nowak-two-officers-under-gross-misconduct-investigation"
     },
-    "similarity": 0.9284524321556091
+    "similarity": 0.9284523725509644
   },
   {
     "article_a": {
@@ -3533,7 +3533,7 @@
       "title": "Hope of finding more Venezuela quake survivors fades despite late rescues",
       "url": "https://www.aljazeera.com/news/2026/6/28/hope-of-finding-more-venezuela-quake-survivors-fades-despite-late-rescues?traffic_source=rss"
     },
-    "similarity": 0.9281636476516724
+    "similarity": 0.9281635284423828
   },
   {
     "article_a": {
@@ -3572,7 +3572,7 @@
       "title": "The world's last male northern white rhino, Sudan, has died after 'age-related complications'",
       "url": "https://www.taiwannews.com.tw/en/news/3386150"
     },
-    "similarity": 0.9261434078216553
+    "similarity": 0.9261435270309448
   },
   {
     "article_a": {
@@ -3585,7 +3585,7 @@
       "title": "Lime begins life as a public company after years of uncertainty",
       "url": "https://techcrunch.com/2026/07/01/lime-begins-life-as-a-public-company-after-years-of-uncertainty/"
     },
-    "similarity": 0.9255800247192383
+    "similarity": 0.9255799055099487
   },
   {
     "article_a": {
@@ -3598,6 +3598,19 @@
       "title": "How major US stock indexes fared Monday",
       "url": "https://www.taiwannews.com.tw/en/news/3385803"
     },
-    "similarity": 0.9231463670730591
+    "similarity": 0.9231462478637695
+  },
+  {
+    "article_a": {
+      "id": "3646",
+      "title": "Relief efforts shift as Venezuela quake survivors seek aid",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/relief-efforts-shift-as-venezuela-quake-survivors-seek-aid?traffic_source=rss"
+    },
+    "article_b": {
+      "id": "3650",
+      "title": "Portugal fans gather ahead of Ronaldo-Modric clash",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/portugal-fans-gather-ahead-of-ronaldo-modric-clash?traffic_source=rss"
+    },
+    "similarity": 0.9224599599838257
   }
 ]

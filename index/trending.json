@@ -2,7 +2,7 @@
   {
     "cluster_id": "7",
     "label": "world, cup, world cup",
-    "trending_score": 1.1058,
+    "trending_score": 1.0962,
     "count_24h": 15,
     "count_7d": 144,
     "top_articles": [
@@ -27,11 +27,38 @@
     ]
   },
   {
+    "cluster_id": "3",
+    "label": "england, world, cup",
+    "trending_score": 0.9274,
+    "count_24h": 7,
+    "count_7d": 85,
+    "top_articles": [
+      {
+        "id": "3681",
+        "title": "‘Bigger than football’: Norway fans’ Viking row makes waves at World Cup",
+        "url": "https://www.theguardian.com/world/2026/jul/03/norway-fans-viking-row-world-cup",
+        "date": "2026-07-03 05:00:19"
+      },
+      {
+        "id": "3644",
+        "title": "Hard work and a disco jacket - how England turned fielding woes around",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cwyedgekzyjo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 00:26:53"
+      },
+      {
+        "id": "3643",
+        "title": "'World cup pubs boost' and 'Kate holds court'",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz8jqq47jo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 00:03:42"
+      }
+    ]
+  },
+  {
     "cluster_id": "9",
     "label": "burnham, said, defence",
-    "trending_score": 1.0066,
-    "count_24h": 14,
-    "count_7d": 139,
+    "trending_score": 0.9073,
+    "count_24h": 11,
+    "count_7d": 136,
     "top_articles": [
       {
         "id": "3697",
@@ -56,9 +83,9 @@
   {
     "cluster_id": "0",
     "label": "heat, temperatures, heatwave",
-    "trending_score": 0.9805,
-    "count_24h": 7,
-    "count_7d": 58,
+    "trending_score": 0.8701,
+    "count_24h": 5,
+    "count_7d": 56,
     "top_articles": [
       {
         "id": "3692",
@@ -81,65 +108,11 @@
     ]
   },
   {
-    "cluster_id": "1",
-    "label": "iran, israel, said",
-    "trending_score": 0.9558,
-    "count_24h": 16,
-    "count_7d": 136,
-    "top_articles": [
-      {
-        "id": "3691",
-        "title": "Iran begins public mourning for Ayatollah killed in February",
-        "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 05:53:56"
-      },
-      {
-        "id": "3696",
-        "title": "Ali Khamenei’s six-day funeral expected to draw millions in Iran",
-        "url": "https://www.theguardian.com/world/2026/jul/03/ali-khamenei-six-day-funeral-millions-iran",
-        "date": "2026-07-03 05:43:55"
-      },
-      {
-        "id": "3664",
-        "title": "Delcy Rodriguez responds to public anger at government response",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/delcy-rodriguez-responds-to-public-anger-at-government-response?traffic_source=rss",
-        "date": "2026-07-03 05:07:23"
-      }
-    ]
-  },
-  {
-    "cluster_id": "3",
-    "label": "england, world, cup",
-    "trending_score": 0.953,
-    "count_24h": 8,
-    "count_7d": 85,
-    "top_articles": [
-      {
-        "id": "3681",
-        "title": "‘Bigger than football’: Norway fans’ Viking row makes waves at World Cup",
-        "url": "https://www.theguardian.com/world/2026/jul/03/norway-fans-viking-row-world-cup",
-        "date": "2026-07-03 05:00:19"
-      },
-      {
-        "id": "3644",
-        "title": "Hard work and a disco jacket - how England turned fielding woes around",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cwyedgekzyjo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 00:26:53"
-      },
-      {
-        "id": "3643",
-        "title": "'World cup pubs boost' and 'Kate holds court'",
-        "url": "https://www.bbc.co.uk/news/articles/c5yz8jqq47jo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 00:03:42"
-      }
-    ]
-  },
-  {
     "cluster_id": "10",
     "label": "said, health, care",
-    "trending_score": 0.9367,
-    "count_24h": 16,
-    "count_7d": 104,
+    "trending_score": 0.8675,
+    "count_24h": 13,
+    "count_7d": 102,
     "top_articles": [
       {
         "id": "3690",
@@ -162,38 +135,38 @@
     ]
   },
   {
-    "cluster_id": "6",
-    "label": "said, police, man",
-    "trending_score": 0.8694,
-    "count_24h": 24,
-    "count_7d": 123,
+    "cluster_id": "1",
+    "label": "iran, israel, said",
+    "trending_score": 0.8453,
+    "count_24h": 12,
+    "count_7d": 135,
     "top_articles": [
       {
-        "id": "3693",
-        "title": "Details of MCG assault against Lidia Thorpe revealed after court lifts suppression order",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/03/lidia-thorpe-mcg-assault-attacker-ebony-bell-convicted-community-work-fine-ntwnfb",
-        "date": "2026-07-03 06:16:39"
+        "id": "3691",
+        "title": "Iran begins public mourning for Ayatollah killed in February",
+        "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 05:53:56"
       },
       {
-        "id": "3677",
-        "title": "Christian Brothers kept nine child abusers as members due to Gospel imperative to help ‘the needy’, court documents reveal",
-        "url": "https://www.theguardian.com/world/2026/jul/03/christian-brothers-kept-nine-child-abusers-in-religious-order-due-to-gospel-imperative-to-help-the-needy-court-documents-reveal-ntwnfb",
-        "date": "2026-07-03 03:36:39"
+        "id": "3696",
+        "title": "Ali Khamenei’s six-day funeral expected to draw millions in Iran",
+        "url": "https://www.theguardian.com/world/2026/jul/03/ali-khamenei-six-day-funeral-millions-iran",
+        "date": "2026-07-03 05:43:55"
       },
       {
-        "id": "3679",
-        "title": "Former AFL player Nicky Winmar found guilty of assaulting woman in northern Victoria",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/03/nicky-winmar-found-guilty-assault-victoria-ntwnfb",
-        "date": "2026-07-03 03:24:56"
+        "id": "3664",
+        "title": "Delcy Rodriguez responds to public anger at government response",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/delcy-rodriguez-responds-to-public-anger-at-government-response?traffic_source=rss",
+        "date": "2026-07-03 05:07:23"
       }
     ]
   },
   {
     "cluster_id": "14",
     "label": "venezuela, 02, 01",
-    "trending_score": 0.8411,
-    "count_24h": 5,
-    "count_7d": 96,
+    "trending_score": 0.7944,
+    "count_24h": 4,
+    "count_7d": 95,
     "top_articles": [
       {
         "id": "3646",
@@ -218,8 +191,8 @@
   {
     "cluster_id": "5",
     "label": "wimbledon, stokes, england",
-    "trending_score": 0.8316,
-    "count_24h": 7,
+    "trending_score": 0.7842,
+    "count_24h": 6,
     "count_7d": 77,
     "top_articles": [
       {
@@ -243,10 +216,37 @@
     ]
   },
   {
+    "cluster_id": "6",
+    "label": "said, police, man",
+    "trending_score": 0.7755,
+    "count_24h": 17,
+    "count_7d": 122,
+    "top_articles": [
+      {
+        "id": "3693",
+        "title": "Details of MCG assault against Lidia Thorpe revealed after court lifts suppression order",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/03/lidia-thorpe-mcg-assault-attacker-ebony-bell-convicted-community-work-fine-ntwnfb",
+        "date": "2026-07-03 06:16:39"
+      },
+      {
+        "id": "3677",
+        "title": "Christian Brothers kept nine child abusers as members due to Gospel imperative to help ‘the needy’, court documents reveal",
+        "url": "https://www.theguardian.com/world/2026/jul/03/christian-brothers-kept-nine-child-abusers-in-religious-order-due-to-gospel-imperative-to-help-the-needy-court-documents-reveal-ntwnfb",
+        "date": "2026-07-03 03:36:39"
+      },
+      {
+        "id": "3679",
+        "title": "Former AFL player Nicky Winmar found guilty of assaulting woman in northern Victoria",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/03/nicky-winmar-found-guilty-assault-victoria-ntwnfb",
+        "date": "2026-07-03 03:24:56"
+      }
+    ]
+  },
+  {
     "cluster_id": "8",
     "label": "said, media, ai",
-    "trending_score": 0.8243,
-    "count_24h": 13,
+    "trending_score": 0.723,
+    "count_24h": 9,
     "count_7d": 82,
     "top_articles": [
       {
@@ -270,64 +270,10 @@
     ]
   },
   {
-    "cluster_id": "19",
-    "label": "ai, new, tech",
-    "trending_score": 0.6216,
-    "count_24h": 18,
-    "count_7d": 107,
-    "top_articles": [
-      {
-        "id": "3656",
-        "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
-        "url": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
-        "date": "2026-07-03 00:00:00"
-      },
-      {
-        "id": "3657",
-        "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-        "date": "2026-07-02 23:38:10"
-      },
-      {
-        "id": "3621",
-        "title": "AI is 'not smart' so what's next in artificial intelligence?",
-        "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-02 23:02:09"
-      }
-    ]
-  },
-  {
-    "cluster_id": "13",
-    "label": "trump, court, president",
-    "trending_score": 0.6205,
-    "count_24h": 12,
-    "count_7d": 104,
-    "top_articles": [
-      {
-        "id": "3698",
-        "title": "Friday briefing: The US at 250: who gets to tell the story?",
-        "url": "https://www.theguardian.com/world/2026/jul/03/friday-briefing-the-us-at-250-who-gets-to-tell-the-story",
-        "date": "2026-07-03 05:47:24"
-      },
-      {
-        "id": "3695",
-        "title": "‘Ridiculous’ for US to maintain current Nato support, Trump warns ahead of alliance summit",
-        "url": "https://www.theguardian.com/us-news/2026/jul/03/trump-nato-alliance-support-ridiculous-ahead-of-summit",
-        "date": "2026-07-03 05:19:33"
-      },
-      {
-        "id": "3684",
-        "title": "Trump hijacks America at 250 celebrations – podcast",
-        "url": "https://www.theguardian.com/politics/audio/2026/jul/03/trump-hijacks-america-at-250-celebrations-podcast",
-        "date": "2026-07-03 04:00:19"
-      }
-    ]
-  },
-  {
     "cluster_id": "12",
     "label": "said, police, killed",
-    "trending_score": 0.619,
-    "count_24h": 15,
+    "trending_score": 0.5806,
+    "count_24h": 12,
     "count_7d": 125,
     "top_articles": [
       {
@@ -351,11 +297,65 @@
     ]
   },
   {
+    "cluster_id": "13",
+    "label": "trump, court, president",
+    "trending_score": 0.5714,
+    "count_24h": 11,
+    "count_7d": 103,
+    "top_articles": [
+      {
+        "id": "3698",
+        "title": "Friday briefing: The US at 250: who gets to tell the story?",
+        "url": "https://www.theguardian.com/world/2026/jul/03/friday-briefing-the-us-at-250-who-gets-to-tell-the-story",
+        "date": "2026-07-03 05:47:24"
+      },
+      {
+        "id": "3695",
+        "title": "‘Ridiculous’ for US to maintain current Nato support, Trump warns ahead of alliance summit",
+        "url": "https://www.theguardian.com/us-news/2026/jul/03/trump-nato-alliance-support-ridiculous-ahead-of-summit",
+        "date": "2026-07-03 05:19:33"
+      },
+      {
+        "id": "3684",
+        "title": "Trump hijacks America at 250 celebrations – podcast",
+        "url": "https://www.theguardian.com/politics/audio/2026/jul/03/trump-hijacks-america-at-250-celebrations-podcast",
+        "date": "2026-07-03 04:00:19"
+      }
+    ]
+  },
+  {
+    "cluster_id": "19",
+    "label": "ai, new, tech",
+    "trending_score": 0.5392,
+    "count_24h": 13,
+    "count_7d": 107,
+    "top_articles": [
+      {
+        "id": "3656",
+        "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
+        "url": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
+        "date": "2026-07-03 00:00:00"
+      },
+      {
+        "id": "3657",
+        "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+        "date": "2026-07-02 23:38:10"
+      },
+      {
+        "id": "3621",
+        "title": "AI is 'not smart' so what's next in artificial intelligence?",
+        "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-02 23:02:09"
+      }
+    ]
+  },
+  {
     "cluster_id": "17",
     "label": "market, said, global",
-    "trending_score": 0.4628,
-    "count_24h": 9,
-    "count_7d": 70,
+    "trending_score": 0.3674,
+    "count_24h": 5,
+    "count_7d": 68,
     "top_articles": [
       {
         "id": "3687",
@@ -380,8 +380,8 @@
   {
     "cluster_id": "2",
     "label": "says, africa, said",
-    "trending_score": 0.3853,
-    "count_24h": 7,
+    "trending_score": 0.3571,
+    "count_24h": 6,
     "count_7d": 97,
     "top_articles": [
       {
@@ -407,9 +407,9 @@
   {
     "cluster_id": "16",
     "label": "new, taiwan, year",
-    "trending_score": 0.269,
-    "count_24h": 9,
-    "count_7d": 62,
+    "trending_score": 0.2507,
+    "count_24h": 8,
+    "count_7d": 61,
     "top_articles": [
       {
         "id": "3682",
@@ -461,7 +461,7 @@
   {
     "cluster_id": "4",
     "label": "latest, california, state",
-    "trending_score": 0.0712,
+    "trending_score": 0.0655,
     "count_24h": 2,
     "count_7d": 11,
     "top_articles": [

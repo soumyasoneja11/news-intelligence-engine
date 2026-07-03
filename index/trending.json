@@ -2,8 +2,8 @@
   {
     "cluster_id": "7",
     "label": "world, cup, world cup",
-    "trending_score": 1.0962,
-    "count_24h": 15,
+    "trending_score": 1.0288,
+    "count_24h": 12,
     "count_7d": 144,
     "top_articles": [
       {
@@ -29,7 +29,7 @@
   {
     "cluster_id": "3",
     "label": "england, world, cup",
-    "trending_score": 0.9274,
+    "trending_score": 0.9017,
     "count_24h": 7,
     "count_7d": 85,
     "top_articles": [
@@ -56,9 +56,9 @@
   {
     "cluster_id": "9",
     "label": "burnham, said, defence",
-    "trending_score": 0.9073,
-    "count_24h": 11,
-    "count_7d": 136,
+    "trending_score": 0.8742,
+    "count_24h": 10,
+    "count_7d": 135,
     "top_articles": [
       {
         "id": "3697",
@@ -81,11 +81,38 @@
     ]
   },
   {
+    "cluster_id": "1",
+    "label": "iran, israel, said",
+    "trending_score": 0.779,
+    "count_24h": 10,
+    "count_7d": 135,
+    "top_articles": [
+      {
+        "id": "3691",
+        "title": "Iran begins public mourning for Ayatollah killed in February",
+        "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 05:53:56"
+      },
+      {
+        "id": "3696",
+        "title": "Ali Khamenei’s six-day funeral expected to draw millions in Iran",
+        "url": "https://www.theguardian.com/world/2026/jul/03/ali-khamenei-six-day-funeral-millions-iran",
+        "date": "2026-07-03 05:43:55"
+      },
+      {
+        "id": "3664",
+        "title": "Delcy Rodriguez responds to public anger at government response",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/delcy-rodriguez-responds-to-public-anger-at-government-response?traffic_source=rss",
+        "date": "2026-07-03 05:07:23"
+      }
+    ]
+  },
+  {
     "cluster_id": "0",
     "label": "heat, temperatures, heatwave",
-    "trending_score": 0.8701,
+    "trending_score": 0.7727,
     "count_24h": 5,
-    "count_7d": 56,
+    "count_7d": 53,
     "top_articles": [
       {
         "id": "3692",
@@ -110,9 +137,9 @@
   {
     "cluster_id": "10",
     "label": "said, health, care",
-    "trending_score": 0.8675,
-    "count_24h": 13,
-    "count_7d": 102,
+    "trending_score": 0.7651,
+    "count_24h": 8,
+    "count_7d": 101,
     "top_articles": [
       {
         "id": "3690",
@@ -135,38 +162,11 @@
     ]
   },
   {
-    "cluster_id": "1",
-    "label": "iran, israel, said",
-    "trending_score": 0.8453,
-    "count_24h": 12,
-    "count_7d": 135,
-    "top_articles": [
-      {
-        "id": "3691",
-        "title": "Iran begins public mourning for Ayatollah killed in February",
-        "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 05:53:56"
-      },
-      {
-        "id": "3696",
-        "title": "Ali Khamenei’s six-day funeral expected to draw millions in Iran",
-        "url": "https://www.theguardian.com/world/2026/jul/03/ali-khamenei-six-day-funeral-millions-iran",
-        "date": "2026-07-03 05:43:55"
-      },
-      {
-        "id": "3664",
-        "title": "Delcy Rodriguez responds to public anger at government response",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/delcy-rodriguez-responds-to-public-anger-at-government-response?traffic_source=rss",
-        "date": "2026-07-03 05:07:23"
-      }
-    ]
-  },
-  {
     "cluster_id": "14",
     "label": "venezuela, 02, 01",
-    "trending_score": 0.7944,
-    "count_24h": 4,
-    "count_7d": 95,
+    "trending_score": 0.7617,
+    "count_24h": 3,
+    "count_7d": 94,
     "top_articles": [
       {
         "id": "3646",
@@ -189,10 +189,37 @@
     ]
   },
   {
+    "cluster_id": "6",
+    "label": "said, police, man",
+    "trending_score": 0.7163,
+    "count_24h": 14,
+    "count_7d": 120,
+    "top_articles": [
+      {
+        "id": "3693",
+        "title": "Details of MCG assault against Lidia Thorpe revealed after court lifts suppression order",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/03/lidia-thorpe-mcg-assault-attacker-ebony-bell-convicted-community-work-fine-ntwnfb",
+        "date": "2026-07-03 06:16:39"
+      },
+      {
+        "id": "3677",
+        "title": "Christian Brothers kept nine child abusers as members due to Gospel imperative to help ‘the needy’, court documents reveal",
+        "url": "https://www.theguardian.com/world/2026/jul/03/christian-brothers-kept-nine-child-abusers-in-religious-order-due-to-gospel-imperative-to-help-the-needy-court-documents-reveal-ntwnfb",
+        "date": "2026-07-03 03:36:39"
+      },
+      {
+        "id": "3679",
+        "title": "Former AFL player Nicky Winmar found guilty of assaulting woman in northern Victoria",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/03/nicky-winmar-found-guilty-assault-victoria-ntwnfb",
+        "date": "2026-07-03 03:24:56"
+      }
+    ]
+  },
+  {
     "cluster_id": "5",
     "label": "wimbledon, stokes, england",
-    "trending_score": 0.7842,
-    "count_24h": 6,
+    "trending_score": 0.6737,
+    "count_24h": 3,
     "count_7d": 77,
     "top_articles": [
       {
@@ -216,37 +243,10 @@
     ]
   },
   {
-    "cluster_id": "6",
-    "label": "said, police, man",
-    "trending_score": 0.7755,
-    "count_24h": 17,
-    "count_7d": 122,
-    "top_articles": [
-      {
-        "id": "3693",
-        "title": "Details of MCG assault against Lidia Thorpe revealed after court lifts suppression order",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/03/lidia-thorpe-mcg-assault-attacker-ebony-bell-convicted-community-work-fine-ntwnfb",
-        "date": "2026-07-03 06:16:39"
-      },
-      {
-        "id": "3677",
-        "title": "Christian Brothers kept nine child abusers as members due to Gospel imperative to help ‘the needy’, court documents reveal",
-        "url": "https://www.theguardian.com/world/2026/jul/03/christian-brothers-kept-nine-child-abusers-in-religious-order-due-to-gospel-imperative-to-help-the-needy-court-documents-reveal-ntwnfb",
-        "date": "2026-07-03 03:36:39"
-      },
-      {
-        "id": "3679",
-        "title": "Former AFL player Nicky Winmar found guilty of assaulting woman in northern Victoria",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/03/nicky-winmar-found-guilty-assault-victoria-ntwnfb",
-        "date": "2026-07-03 03:24:56"
-      }
-    ]
-  },
-  {
     "cluster_id": "8",
     "label": "said, media, ai",
-    "trending_score": 0.723,
-    "count_24h": 9,
+    "trending_score": 0.6723,
+    "count_24h": 7,
     "count_7d": 82,
     "top_articles": [
       {
@@ -270,36 +270,9 @@
     ]
   },
   {
-    "cluster_id": "12",
-    "label": "said, police, killed",
-    "trending_score": 0.5806,
-    "count_24h": 12,
-    "count_7d": 125,
-    "top_articles": [
-      {
-        "id": "3669",
-        "title": "Papua rebels claim to have killed US pilot in Indonesia",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/papua-rebels-claim-to-have-killed-us-pilot-in-indonesia?traffic_source=rss",
-        "date": "2026-07-03 03:48:59"
-      },
-      {
-        "id": "3678",
-        "title": "Tributes for Melbourne boy allegedly left to die from stab wounds, as teen charged with murder",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/03/melbourne-boy-allegedly-stabbed-left-to-die-outside-hospital-teen-charged-murder-ntwnfb",
-        "date": "2026-07-03 03:33:39"
-      },
-      {
-        "id": "3675",
-        "title": "China says man who flew plane into Beijing skyscraper had mental health problems",
-        "url": "https://www.theguardian.com/world/2026/jul/03/china-man-small-plane-beijing-skyscraper-tower-mental-health-problems-statement",
-        "date": "2026-07-03 03:15:13"
-      }
-    ]
-  },
-  {
     "cluster_id": "13",
     "label": "trump, court, president",
-    "trending_score": 0.5714,
+    "trending_score": 0.558,
     "count_24h": 11,
     "count_7d": 103,
     "top_articles": [
@@ -324,11 +297,38 @@
     ]
   },
   {
+    "cluster_id": "12",
+    "label": "said, police, killed",
+    "trending_score": 0.5256,
+    "count_24h": 8,
+    "count_7d": 125,
+    "top_articles": [
+      {
+        "id": "3669",
+        "title": "Papua rebels claim to have killed US pilot in Indonesia",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/papua-rebels-claim-to-have-killed-us-pilot-in-indonesia?traffic_source=rss",
+        "date": "2026-07-03 03:48:59"
+      },
+      {
+        "id": "3678",
+        "title": "Tributes for Melbourne boy allegedly left to die from stab wounds, as teen charged with murder",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/03/melbourne-boy-allegedly-stabbed-left-to-die-outside-hospital-teen-charged-murder-ntwnfb",
+        "date": "2026-07-03 03:33:39"
+      },
+      {
+        "id": "3675",
+        "title": "China says man who flew plane into Beijing skyscraper had mental health problems",
+        "url": "https://www.theguardian.com/world/2026/jul/03/china-man-small-plane-beijing-skyscraper-tower-mental-health-problems-statement",
+        "date": "2026-07-03 03:15:13"
+      }
+    ]
+  },
+  {
     "cluster_id": "19",
     "label": "ai, new, tech",
-    "trending_score": 0.5392,
-    "count_24h": 13,
-    "count_7d": 107,
+    "trending_score": 0.4961,
+    "count_24h": 11,
+    "count_7d": 103,
     "top_articles": [
       {
         "id": "3656",
@@ -351,38 +351,11 @@
     ]
   },
   {
-    "cluster_id": "17",
-    "label": "market, said, global",
-    "trending_score": 0.3674,
-    "count_24h": 5,
-    "count_7d": 68,
-    "top_articles": [
-      {
-        "id": "3687",
-        "title": "Goat and skin in millions of 'lamb' kebabs compared to horsemeat lasagne scandal",
-        "url": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 05:14:17"
-      },
-      {
-        "id": "3668",
-        "title": "Canada’s Carney secures deal for pipeline to expand oil exports beyond US",
-        "url": "https://www.aljazeera.com/economy/2026/7/3/canadas-carney-secures-deal-for-pipeline-to-expand-oil-exports-beyond-us?traffic_source=rss",
-        "date": "2026-07-03 04:17:37"
-      },
-      {
-        "id": "3589",
-        "title": "Supermarket chaos for air conditioner sale in France amid heatwave",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/supermarket-chaos-for-air-conditioner-sale-in-france-amid-heatwave?traffic_source=rss",
-        "date": "2026-07-02 19:34:51"
-      }
-    ]
-  },
-  {
     "cluster_id": "2",
     "label": "says, africa, said",
-    "trending_score": 0.3571,
+    "trending_score": 0.344,
     "count_24h": 6,
-    "count_7d": 97,
+    "count_7d": 96,
     "top_articles": [
       {
         "id": "3671",
@@ -405,9 +378,36 @@
     ]
   },
   {
+    "cluster_id": "17",
+    "label": "market, said, global",
+    "trending_score": 0.3233,
+    "count_24h": 3,
+    "count_7d": 67,
+    "top_articles": [
+      {
+        "id": "3687",
+        "title": "Goat and skin in millions of 'lamb' kebabs compared to horsemeat lasagne scandal",
+        "url": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 05:14:17"
+      },
+      {
+        "id": "3668",
+        "title": "Canada’s Carney secures deal for pipeline to expand oil exports beyond US",
+        "url": "https://www.aljazeera.com/economy/2026/7/3/canadas-carney-secures-deal-for-pipeline-to-expand-oil-exports-beyond-us?traffic_source=rss",
+        "date": "2026-07-03 04:17:37"
+      },
+      {
+        "id": "3589",
+        "title": "Supermarket chaos for air conditioner sale in France amid heatwave",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/supermarket-chaos-for-air-conditioner-sale-in-france-amid-heatwave?traffic_source=rss",
+        "date": "2026-07-02 19:34:51"
+      }
+    ]
+  },
+  {
     "cluster_id": "16",
     "label": "new, taiwan, year",
-    "trending_score": 0.2507,
+    "trending_score": 0.2338,
     "count_24h": 8,
     "count_7d": 61,
     "top_articles": [
@@ -434,9 +434,9 @@
   {
     "cluster_id": "15",
     "label": "court, trump, says",
-    "trending_score": 0.227,
-    "count_24h": 3,
-    "count_7d": 36,
+    "trending_score": 0.1595,
+    "count_24h": 0,
+    "count_7d": 35,
     "top_articles": [
       {
         "id": "3572",

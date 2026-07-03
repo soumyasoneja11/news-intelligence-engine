@@ -2,8 +2,8 @@
   {
     "cluster_id": "7",
     "label": "world, cup, world cup",
-    "trending_score": 1.3974,
-    "count_24h": 26,
+    "trending_score": 1.2244,
+    "count_24h": 20,
     "count_7d": 145,
     "top_articles": [
       {
@@ -27,38 +27,11 @@
     ]
   },
   {
-    "cluster_id": "3",
-    "label": "england, world, cup",
-    "trending_score": 1.1709,
-    "count_24h": 14,
-    "count_7d": 88,
-    "top_articles": [
-      {
-        "id": "3681",
-        "title": "‘Bigger than football’: Norway fans’ Viking row makes waves at World Cup",
-        "url": "https://www.theguardian.com/world/2026/jul/03/norway-fans-viking-row-world-cup",
-        "date": "2026-07-03 05:00:19"
-      },
-      {
-        "id": "3644",
-        "title": "Hard work and a disco jacket - how England turned fielding woes around",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cwyedgekzyjo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 00:26:53"
-      },
-      {
-        "id": "3643",
-        "title": "'World cup pubs boost' and 'Kate holds court'",
-        "url": "https://www.bbc.co.uk/news/articles/c5yz8jqq47jo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 00:03:42"
-      }
-    ]
-  },
-  {
     "cluster_id": "9",
     "label": "burnham, said, defence",
-    "trending_score": 1.1589,
-    "count_24h": 19,
-    "count_7d": 140,
+    "trending_score": 1.0762,
+    "count_24h": 16,
+    "count_7d": 139,
     "top_articles": [
       {
         "id": "3697",
@@ -81,38 +54,38 @@
     ]
   },
   {
-    "cluster_id": "10",
-    "label": "said, health, care",
-    "trending_score": 1.1145,
-    "count_24h": 23,
-    "count_7d": 106,
+    "cluster_id": "3",
+    "label": "england, world, cup",
+    "trending_score": 1.0598,
+    "count_24h": 11,
+    "count_7d": 86,
     "top_articles": [
       {
-        "id": "3690",
-        "title": "Gannet colonies could take 15 years to recover from bird flu",
-        "url": "https://www.bbc.co.uk/news/articles/c3wylj128qlo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 05:36:00"
+        "id": "3681",
+        "title": "‘Bigger than football’: Norway fans’ Viking row makes waves at World Cup",
+        "url": "https://www.theguardian.com/world/2026/jul/03/norway-fans-viking-row-world-cup",
+        "date": "2026-07-03 05:00:19"
       },
       {
-        "id": "3676",
-        "title": "NSW records first suspected case of deadly H5 bird flu as virus reaches Australia’s east coast",
-        "url": "https://www.theguardian.com/world/2026/jul/03/bird-flu-australia-first-suspected-case-nsw-deadly-h5n1-virus",
-        "date": "2026-07-03 03:57:00"
+        "id": "3644",
+        "title": "Hard work and a disco jacket - how England turned fielding woes around",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cwyedgekzyjo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 00:26:53"
       },
       {
-        "id": "3685",
-        "title": "More than 100 passengers on US cruise ship sick from suspected norovirus",
-        "url": "https://www.theguardian.com/us-news/2026/jul/02/norovirus-cruise-ship-outbreak",
-        "date": "2026-07-03 01:42:35"
+        "id": "3643",
+        "title": "'World cup pubs boost' and 'Kate holds court'",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz8jqq47jo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 00:03:42"
       }
     ]
   },
   {
     "cluster_id": "0",
     "label": "heat, temperatures, heatwave",
-    "trending_score": 1.0714,
-    "count_24h": 9,
-    "count_7d": 60,
+    "trending_score": 1.0195,
+    "count_24h": 8,
+    "count_7d": 58,
     "top_articles": [
       {
         "id": "3692",
@@ -135,10 +108,37 @@
     ]
   },
   {
+    "cluster_id": "10",
+    "label": "said, health, care",
+    "trending_score": 0.9819,
+    "count_24h": 18,
+    "count_7d": 104,
+    "top_articles": [
+      {
+        "id": "3690",
+        "title": "Gannet colonies could take 15 years to recover from bird flu",
+        "url": "https://www.bbc.co.uk/news/articles/c3wylj128qlo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 05:36:00"
+      },
+      {
+        "id": "3676",
+        "title": "NSW records first suspected case of deadly H5 bird flu as virus reaches Australia’s east coast",
+        "url": "https://www.theguardian.com/world/2026/jul/03/bird-flu-australia-first-suspected-case-nsw-deadly-h5n1-virus",
+        "date": "2026-07-03 03:57:00"
+      },
+      {
+        "id": "3685",
+        "title": "More than 100 passengers on US cruise ship sick from suspected norovirus",
+        "url": "https://www.theguardian.com/us-news/2026/jul/02/norovirus-cruise-ship-outbreak",
+        "date": "2026-07-03 01:42:35"
+      }
+    ]
+  },
+  {
     "cluster_id": "1",
     "label": "iran, israel, said",
-    "trending_score": 1.0138,
-    "count_24h": 19,
+    "trending_score": 0.9724,
+    "count_24h": 17,
     "count_7d": 136,
     "top_articles": [
       {
@@ -164,9 +164,9 @@
   {
     "cluster_id": "6",
     "label": "said, police, man",
-    "trending_score": 0.9898,
-    "count_24h": 30,
-    "count_7d": 128,
+    "trending_score": 0.9041,
+    "count_24h": 25,
+    "count_7d": 125,
     "top_articles": [
       {
         "id": "3693",
@@ -191,8 +191,8 @@
   {
     "cluster_id": "8",
     "label": "said, media, ai",
-    "trending_score": 0.9459,
-    "count_24h": 17,
+    "trending_score": 0.875,
+    "count_24h": 14,
     "count_7d": 82,
     "top_articles": [
       {
@@ -212,33 +212,6 @@
         "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
         "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-03 03:50:18"
-      }
-    ]
-  },
-  {
-    "cluster_id": "14",
-    "label": "venezuela, 02, 01",
-    "trending_score": 0.9159,
-    "count_24h": 7,
-    "count_7d": 97,
-    "top_articles": [
-      {
-        "id": "3646",
-        "title": "Relief efforts shift as Venezuela quake survivors seek aid",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/relief-efforts-shift-as-venezuela-quake-survivors-seek-aid?traffic_source=rss",
-        "date": "2026-07-03 00:20:29"
-      },
-      {
-        "id": "3650",
-        "title": "Portugal fans gather ahead of Ronaldo-Modric clash",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/portugal-fans-gather-ahead-of-ronaldo-modric-clash?traffic_source=rss",
-        "date": "2026-07-02 22:49:24"
-      },
-      {
-        "id": "3594",
-        "title": "‘Miracle’: Trapped man rescued eight days after Venezuela earthquakes",
-        "url": "https://www.aljazeera.com/news/2026/7/2/miracle-trapped-man-rescued-eight-days-after-venezuela-earthquakes?traffic_source=rss",
-        "date": "2026-07-02 18:12:54"
       }
     ]
   },
@@ -270,10 +243,37 @@
     ]
   },
   {
+    "cluster_id": "14",
+    "label": "venezuela, 02, 01",
+    "trending_score": 0.8411,
+    "count_24h": 5,
+    "count_7d": 96,
+    "top_articles": [
+      {
+        "id": "3646",
+        "title": "Relief efforts shift as Venezuela quake survivors seek aid",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/relief-efforts-shift-as-venezuela-quake-survivors-seek-aid?traffic_source=rss",
+        "date": "2026-07-03 00:20:29"
+      },
+      {
+        "id": "3650",
+        "title": "Portugal fans gather ahead of Ronaldo-Modric clash",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/portugal-fans-gather-ahead-of-ronaldo-modric-clash?traffic_source=rss",
+        "date": "2026-07-02 22:49:24"
+      },
+      {
+        "id": "3594",
+        "title": "‘Miracle’: Trapped man rescued eight days after Venezuela earthquakes",
+        "url": "https://www.aljazeera.com/news/2026/7/2/miracle-trapped-man-rescued-eight-days-after-venezuela-earthquakes?traffic_source=rss",
+        "date": "2026-07-02 18:12:54"
+      }
+    ]
+  },
+  {
     "cluster_id": "12",
     "label": "said, police, killed",
-    "trending_score": 0.7894,
-    "count_24h": 26,
+    "trending_score": 0.7179,
+    "count_24h": 21,
     "count_7d": 125,
     "top_articles": [
       {
@@ -299,8 +299,8 @@
   {
     "cluster_id": "13",
     "label": "trump, court, president",
-    "trending_score": 0.7076,
-    "count_24h": 16,
+    "trending_score": 0.6808,
+    "count_24h": 15,
     "count_7d": 104,
     "top_articles": [
       {
@@ -326,9 +326,9 @@
   {
     "cluster_id": "19",
     "label": "ai, new, tech",
-    "trending_score": 0.6412,
-    "count_24h": 19,
-    "count_7d": 111,
+    "trending_score": 0.6275,
+    "count_24h": 18,
+    "count_7d": 110,
     "top_articles": [
       {
         "id": "3656",
@@ -353,9 +353,9 @@
   {
     "cluster_id": "17",
     "label": "market, said, global",
-    "trending_score": 0.5558,
+    "trending_score": 0.5326,
     "count_24h": 13,
-    "count_7d": 71,
+    "count_7d": 70,
     "top_articles": [
       {
         "id": "3687",
@@ -380,8 +380,8 @@
   {
     "cluster_id": "2",
     "label": "says, africa, said",
-    "trending_score": 0.438,
-    "count_24h": 10,
+    "trending_score": 0.4098,
+    "count_24h": 8,
     "count_7d": 98,
     "top_articles": [
       {
@@ -401,33 +401,6 @@
         "title": "How the American Dream has survived 250 years, but only just",
         "url": "https://www.bbc.co.uk/news/articles/cx2vpz2qee5o?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-02 23:14:29"
-      }
-    ]
-  },
-  {
-    "cluster_id": "15",
-    "label": "court, trump, says",
-    "trending_score": 0.3,
-    "count_24h": 6,
-    "count_7d": 36,
-    "top_articles": [
-      {
-        "id": "3572",
-        "title": "Outrage over ‘cruel’ Florida move to ban undocumented students from college",
-        "url": "https://www.theguardian.com/us-news/2026/jul/02/florida-undocumented-college-students",
-        "date": "2026-07-02 16:56:35"
-      },
-      {
-        "id": "3515",
-        "title": "What is the Society of St Pius X? Why Pope Leo excommunicated its bishops",
-        "url": "https://www.aljazeera.com/news/2026/7/2/what-is-the-society-of-st-pius-x-why-pope-leo-excommunicated-its-bishops?traffic_source=rss",
-        "date": "2026-07-02 15:54:48"
-      },
-      {
-        "id": "3503",
-        "title": "Vatican excommunicates hundreds of thousands of splinter sect followers",
-        "url": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-02 15:44:45"
       }
     ]
   },
@@ -459,11 +432,38 @@
     ]
   },
   {
+    "cluster_id": "15",
+    "label": "court, trump, says",
+    "trending_score": 0.2432,
+    "count_24h": 3,
+    "count_7d": 36,
+    "top_articles": [
+      {
+        "id": "3572",
+        "title": "Outrage over ‘cruel’ Florida move to ban undocumented students from college",
+        "url": "https://www.theguardian.com/us-news/2026/jul/02/florida-undocumented-college-students",
+        "date": "2026-07-02 16:56:35"
+      },
+      {
+        "id": "3515",
+        "title": "What is the Society of St Pius X? Why Pope Leo excommunicated its bishops",
+        "url": "https://www.aljazeera.com/news/2026/7/2/what-is-the-society-of-st-pius-x-why-pope-leo-excommunicated-its-bishops?traffic_source=rss",
+        "date": "2026-07-02 15:54:48"
+      },
+      {
+        "id": "3503",
+        "title": "Vatican excommunicates hundreds of thousands of splinter sect followers",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-02 15:44:45"
+      }
+    ]
+  },
+  {
     "cluster_id": "4",
     "label": "latest, california, state",
-    "trending_score": 0.1011,
-    "count_24h": 4,
-    "count_7d": 12,
+    "trending_score": 0.088,
+    "count_24h": 3,
+    "count_7d": 11,
     "top_articles": [
       {
         "id": "3639",
@@ -488,8 +488,8 @@
   {
     "cluster_id": "11",
     "label": "league, win, major",
-    "trending_score": 0.0355,
-    "count_24h": 1,
+    "trending_score": 0.0203,
+    "count_24h": 0,
     "count_7d": 5,
     "top_articles": [
       {

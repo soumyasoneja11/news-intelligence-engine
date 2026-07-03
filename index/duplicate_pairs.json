@@ -3481,7 +3481,7 @@
       "title": "Feminism; the Merriam-Webster Word of the Year for 2017",
       "url": "https://www.taiwannews.com.tw/en/news/3318568"
     },
-    "similarity": 0.9335390329360962
+    "similarity": 0.9335389733314514
   },
   {
     "article_a": {
@@ -3651,5 +3651,18 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/portugal-fans-gather-ahead-of-ronaldo-modric-clash?traffic_source=rss"
     },
     "similarity": 0.92246013879776
+  },
+  {
+    "article_a": {
+      "id": "3756",
+      "title": "Mourners pay respects as Iran’s slain leader Ali Khamenei lies in state",
+      "url": "https://www.aljazeera.com/news/2026/7/3/mourners-pay-respects-as-irans-slain-leader-ali-khamenei-laid-in-state?traffic_source=rss"
+    },
+    "article_b": {
+      "id": "3840",
+      "title": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
+      "url": "https://www.aljazeera.com/news/2026/7/3/iran-begins-week-of-funeral-ceremonies-for-slain-supreme-leader-khamenei?traffic_source=rss"
+    },
+    "similarity": 0.9210119843482971
   }
 ]

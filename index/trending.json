@@ -2,8 +2,8 @@
   {
     "cluster_id": "7",
     "label": "world, cup, world cup",
-    "trending_score": 0.9904,
-    "count_24h": 11,
+    "trending_score": 0.9712,
+    "count_24h": 10,
     "count_7d": 144,
     "top_articles": [
       {
@@ -29,9 +29,9 @@
   {
     "cluster_id": "9",
     "label": "burnham, said, defence",
-    "trending_score": 0.8344,
-    "count_24h": 8,
-    "count_7d": 135,
+    "trending_score": 0.7914,
+    "count_24h": 6,
+    "count_7d": 134,
     "top_articles": [
       {
         "id": "3697",
@@ -56,8 +56,8 @@
   {
     "cluster_id": "3",
     "label": "england, world, cup",
-    "trending_score": 0.8333,
-    "count_24h": 7,
+    "trending_score": 0.7564,
+    "count_24h": 5,
     "count_7d": 84,
     "top_articles": [
       {
@@ -81,36 +81,9 @@
     ]
   },
   {
-    "cluster_id": "1",
-    "label": "iran, israel, said",
-    "trending_score": 0.7541,
-    "count_24h": 9,
-    "count_7d": 135,
-    "top_articles": [
-      {
-        "id": "3691",
-        "title": "Iran begins public mourning for Ayatollah killed in February",
-        "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 05:53:56"
-      },
-      {
-        "id": "3696",
-        "title": "Ali Khamenei’s six-day funeral expected to draw millions in Iran",
-        "url": "https://www.theguardian.com/world/2026/jul/03/ali-khamenei-six-day-funeral-millions-iran",
-        "date": "2026-07-03 05:43:55"
-      },
-      {
-        "id": "3664",
-        "title": "Delcy Rodriguez responds to public anger at government response",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/delcy-rodriguez-responds-to-public-anger-at-government-response?traffic_source=rss",
-        "date": "2026-07-03 05:07:23"
-      }
-    ]
-  },
-  {
     "cluster_id": "10",
     "label": "said, health, care",
-    "trending_score": 0.744,
+    "trending_score": 0.7349,
     "count_24h": 7,
     "count_7d": 100,
     "top_articles": [
@@ -135,29 +108,29 @@
     ]
   },
   {
-    "cluster_id": "0",
-    "label": "heat, temperatures, heatwave",
-    "trending_score": 0.7273,
-    "count_24h": 4,
-    "count_7d": 52,
+    "cluster_id": "1",
+    "label": "iran, israel, said",
+    "trending_score": 0.7265,
+    "count_24h": 8,
+    "count_7d": 134,
     "top_articles": [
       {
-        "id": "3692",
-        "title": "Are Europe’s extreme summers the new normal? What the science says",
-        "url": "https://www.aljazeera.com/features/2026/7/3/are-europes-extreme-summers-the-new-normal-what-the-science-says?traffic_source=rss",
-        "date": "2026-07-03 05:37:54"
+        "id": "3691",
+        "title": "Iran begins public mourning for Ayatollah killed in February",
+        "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 05:53:56"
       },
       {
-        "id": "3688",
-        "title": "Hosepipe ban for Hampshire and Isle of Wight",
-        "url": "https://www.bbc.co.uk/news/articles/c17yv9710d9o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 05:01:21"
+        "id": "3696",
+        "title": "Ali Khamenei’s six-day funeral expected to draw millions in Iran",
+        "url": "https://www.theguardian.com/world/2026/jul/03/ali-khamenei-six-day-funeral-millions-iran",
+        "date": "2026-07-03 05:43:55"
       },
       {
-        "id": "3660",
-        "title": "Moment huge waterspout twirls over lake in Germany",
-        "url": "https://www.bbc.co.uk/news/videos/ckg8eld7pj7o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 00:54:46"
+        "id": "3664",
+        "title": "Delcy Rodriguez responds to public anger at government response",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/delcy-rodriguez-responds-to-public-anger-at-government-response?traffic_source=rss",
+        "date": "2026-07-03 05:07:23"
       }
     ]
   },
@@ -189,10 +162,37 @@
     ]
   },
   {
+    "cluster_id": "0",
+    "label": "heat, temperatures, heatwave",
+    "trending_score": 0.6558,
+    "count_24h": 3,
+    "count_7d": 50,
+    "top_articles": [
+      {
+        "id": "3692",
+        "title": "Are Europe’s extreme summers the new normal? What the science says",
+        "url": "https://www.aljazeera.com/features/2026/7/3/are-europes-extreme-summers-the-new-normal-what-the-science-says?traffic_source=rss",
+        "date": "2026-07-03 05:37:54"
+      },
+      {
+        "id": "3688",
+        "title": "Hosepipe ban for Hampshire and Isle of Wight",
+        "url": "https://www.bbc.co.uk/news/articles/c17yv9710d9o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 05:01:21"
+      },
+      {
+        "id": "3660",
+        "title": "Moment huge waterspout twirls over lake in Germany",
+        "url": "https://www.bbc.co.uk/news/videos/ckg8eld7pj7o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 00:54:46"
+      }
+    ]
+  },
+  {
     "cluster_id": "6",
     "label": "said, police, man",
-    "trending_score": 0.6776,
-    "count_24h": 12,
+    "trending_score": 0.6469,
+    "count_24h": 10,
     "count_7d": 119,
     "top_articles": [
       {
@@ -218,9 +218,9 @@
   {
     "cluster_id": "5",
     "label": "wimbledon, stokes, england",
-    "trending_score": 0.6105,
+    "trending_score": 0.6053,
     "count_24h": 2,
-    "count_7d": 77,
+    "count_7d": 76,
     "top_articles": [
       {
         "id": "3625",
@@ -245,9 +245,9 @@
   {
     "cluster_id": "8",
     "label": "said, media, ai",
-    "trending_score": 0.6047,
-    "count_24h": 5,
-    "count_7d": 80,
+    "trending_score": 0.5372,
+    "count_24h": 3,
+    "count_7d": 78,
     "top_articles": [
       {
         "id": "3686",
@@ -272,8 +272,8 @@
   {
     "cluster_id": "13",
     "label": "trump, court, president",
-    "trending_score": 0.5446,
-    "count_24h": 11,
+    "trending_score": 0.4978,
+    "count_24h": 9,
     "count_7d": 103,
     "top_articles": [
       {
@@ -299,8 +299,8 @@
   {
     "cluster_id": "12",
     "label": "said, police, killed",
-    "trending_score": 0.4908,
-    "count_24h": 5,
+    "trending_score": 0.4689,
+    "count_24h": 4,
     "count_7d": 124,
     "top_articles": [
       {
@@ -326,9 +326,9 @@
   {
     "cluster_id": "19",
     "label": "ai, new, tech",
-    "trending_score": 0.4431,
-    "count_24h": 8,
-    "count_7d": 100,
+    "trending_score": 0.4059,
+    "count_24h": 6,
+    "count_7d": 99,
     "top_articles": [
       {
         "id": "3656",
@@ -353,8 +353,8 @@
   {
     "cluster_id": "2",
     "label": "says, africa, said",
-    "trending_score": 0.3327,
-    "count_24h": 6,
+    "trending_score": 0.3102,
+    "count_24h": 4,
     "count_7d": 96,
     "top_articles": [
       {
@@ -380,8 +380,8 @@
   {
     "cluster_id": "17",
     "label": "market, said, global",
-    "trending_score": 0.3023,
-    "count_24h": 3,
+    "trending_score": 0.2744,
+    "count_24h": 2,
     "count_7d": 67,
     "top_articles": [
       {

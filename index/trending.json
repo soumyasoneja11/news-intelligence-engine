@@ -2,8 +2,8 @@
   {
     "cluster_id": "7",
     "label": "world, cup, world cup",
-    "trending_score": 0.9712,
-    "count_24h": 10,
+    "trending_score": 0.9423,
+    "count_24h": 9,
     "count_7d": 144,
     "top_articles": [
       {
@@ -27,38 +27,11 @@
     ]
   },
   {
-    "cluster_id": "9",
-    "label": "burnham, said, defence",
-    "trending_score": 0.7914,
-    "count_24h": 6,
-    "count_7d": 134,
-    "top_articles": [
-      {
-        "id": "3697",
-        "title": "Burnham’s funding gap: what state are UK finances in for the PM-in-waiting?",
-        "url": "https://www.theguardian.com/business/2026/jul/03/burnham-funding-gap-uk-finances-pm-in-waiting",
-        "date": "2026-07-03 06:00:20"
-      },
-      {
-        "id": "3694",
-        "title": "Jacinta Allan admits criminals infiltrated Big Build but rejects calls for royal commission",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/03/jacinta-allan-big-build-criminals-alleged-corruption-victoria-cfmeu-royal-commission-ntwnfb",
-        "date": "2026-07-03 05:33:24"
-      },
-      {
-        "id": "3689",
-        "title": "I was 'slam dunk' for SNP leadership until revealing gay marriage views, says Kate Forbes",
-        "url": "https://www.bbc.co.uk/news/articles/c2ky31qelgzo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 05:23:09"
-      }
-    ]
-  },
-  {
     "cluster_id": "3",
     "label": "england, world, cup",
-    "trending_score": 0.7564,
+    "trending_score": 0.7222,
     "count_24h": 5,
-    "count_7d": 84,
+    "count_7d": 82,
     "top_articles": [
       {
         "id": "3681",
@@ -81,10 +54,37 @@
     ]
   },
   {
+    "cluster_id": "9",
+    "label": "burnham, said, defence",
+    "trending_score": 0.7185,
+    "count_24h": 3,
+    "count_7d": 133,
+    "top_articles": [
+      {
+        "id": "3697",
+        "title": "Burnham’s funding gap: what state are UK finances in for the PM-in-waiting?",
+        "url": "https://www.theguardian.com/business/2026/jul/03/burnham-funding-gap-uk-finances-pm-in-waiting",
+        "date": "2026-07-03 06:00:20"
+      },
+      {
+        "id": "3694",
+        "title": "Jacinta Allan admits criminals infiltrated Big Build but rejects calls for royal commission",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/03/jacinta-allan-big-build-criminals-alleged-corruption-victoria-cfmeu-royal-commission-ntwnfb",
+        "date": "2026-07-03 05:33:24"
+      },
+      {
+        "id": "3689",
+        "title": "I was 'slam dunk' for SNP leadership until revealing gay marriage views, says Kate Forbes",
+        "url": "https://www.bbc.co.uk/news/articles/c2ky31qelgzo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 05:23:09"
+      }
+    ]
+  },
+  {
     "cluster_id": "10",
     "label": "said, health, care",
-    "trending_score": 0.7349,
-    "count_24h": 7,
+    "trending_score": 0.6988,
+    "count_24h": 5,
     "count_7d": 100,
     "top_articles": [
       {
@@ -110,9 +110,9 @@
   {
     "cluster_id": "1",
     "label": "iran, israel, said",
-    "trending_score": 0.7265,
+    "trending_score": 0.6961,
     "count_24h": 8,
-    "count_7d": 134,
+    "count_7d": 132,
     "top_articles": [
       {
         "id": "3691",
@@ -131,33 +131,6 @@
         "title": "Delcy Rodriguez responds to public anger at government response",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/delcy-rodriguez-responds-to-public-anger-at-government-response?traffic_source=rss",
         "date": "2026-07-03 05:07:23"
-      }
-    ]
-  },
-  {
-    "cluster_id": "14",
-    "label": "venezuela, 02, 01",
-    "trending_score": 0.6822,
-    "count_24h": 2,
-    "count_7d": 92,
-    "top_articles": [
-      {
-        "id": "3646",
-        "title": "Relief efforts shift as Venezuela quake survivors seek aid",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/relief-efforts-shift-as-venezuela-quake-survivors-seek-aid?traffic_source=rss",
-        "date": "2026-07-03 00:20:29"
-      },
-      {
-        "id": "3650",
-        "title": "Portugal fans gather ahead of Ronaldo-Modric clash",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/portugal-fans-gather-ahead-of-ronaldo-modric-clash?traffic_source=rss",
-        "date": "2026-07-02 22:49:24"
-      },
-      {
-        "id": "3594",
-        "title": "‘Miracle’: Trapped man rescued eight days after Venezuela earthquakes",
-        "url": "https://www.aljazeera.com/news/2026/7/2/miracle-trapped-man-rescued-eight-days-after-venezuela-earthquakes?traffic_source=rss",
-        "date": "2026-07-02 18:12:54"
       }
     ]
   },
@@ -189,10 +162,37 @@
     ]
   },
   {
+    "cluster_id": "14",
+    "label": "venezuela, 02, 01",
+    "trending_score": 0.6449,
+    "count_24h": 2,
+    "count_7d": 90,
+    "top_articles": [
+      {
+        "id": "3646",
+        "title": "Relief efforts shift as Venezuela quake survivors seek aid",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/relief-efforts-shift-as-venezuela-quake-survivors-seek-aid?traffic_source=rss",
+        "date": "2026-07-03 00:20:29"
+      },
+      {
+        "id": "3650",
+        "title": "Portugal fans gather ahead of Ronaldo-Modric clash",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/portugal-fans-gather-ahead-of-ronaldo-modric-clash?traffic_source=rss",
+        "date": "2026-07-02 22:49:24"
+      },
+      {
+        "id": "3594",
+        "title": "‘Miracle’: Trapped man rescued eight days after Venezuela earthquakes",
+        "url": "https://www.aljazeera.com/news/2026/7/2/miracle-trapped-man-rescued-eight-days-after-venezuela-earthquakes?traffic_source=rss",
+        "date": "2026-07-02 18:12:54"
+      }
+    ]
+  },
+  {
     "cluster_id": "6",
     "label": "said, police, man",
-    "trending_score": 0.6469,
-    "count_24h": 10,
+    "trending_score": 0.6102,
+    "count_24h": 8,
     "count_7d": 119,
     "top_articles": [
       {
@@ -218,8 +218,8 @@
   {
     "cluster_id": "5",
     "label": "wimbledon, stokes, england",
-    "trending_score": 0.6053,
-    "count_24h": 2,
+    "trending_score": 0.5737,
+    "count_24h": 1,
     "count_7d": 76,
     "top_articles": [
       {
@@ -245,9 +245,9 @@
   {
     "cluster_id": "8",
     "label": "said, media, ai",
-    "trending_score": 0.5372,
+    "trending_score": 0.5203,
     "count_24h": 3,
-    "count_7d": 78,
+    "count_7d": 76,
     "top_articles": [
       {
         "id": "3686",
@@ -266,33 +266,6 @@
         "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
         "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-03 03:50:18"
-      }
-    ]
-  },
-  {
-    "cluster_id": "13",
-    "label": "trump, court, president",
-    "trending_score": 0.4978,
-    "count_24h": 9,
-    "count_7d": 103,
-    "top_articles": [
-      {
-        "id": "3698",
-        "title": "Friday briefing: The US at 250: who gets to tell the story?",
-        "url": "https://www.theguardian.com/world/2026/jul/03/friday-briefing-the-us-at-250-who-gets-to-tell-the-story",
-        "date": "2026-07-03 05:47:24"
-      },
-      {
-        "id": "3695",
-        "title": "‘Ridiculous’ for US to maintain current Nato support, Trump warns ahead of alliance summit",
-        "url": "https://www.theguardian.com/us-news/2026/jul/03/trump-nato-alliance-support-ridiculous-ahead-of-summit",
-        "date": "2026-07-03 05:19:33"
-      },
-      {
-        "id": "3684",
-        "title": "Trump hijacks America at 250 celebrations – podcast",
-        "url": "https://www.theguardian.com/politics/audio/2026/jul/03/trump-hijacks-america-at-250-celebrations-podcast",
-        "date": "2026-07-03 04:00:19"
       }
     ]
   },
@@ -324,10 +297,37 @@
     ]
   },
   {
+    "cluster_id": "13",
+    "label": "trump, court, president",
+    "trending_score": 0.4688,
+    "count_24h": 8,
+    "count_7d": 102,
+    "top_articles": [
+      {
+        "id": "3698",
+        "title": "Friday briefing: The US at 250: who gets to tell the story?",
+        "url": "https://www.theguardian.com/world/2026/jul/03/friday-briefing-the-us-at-250-who-gets-to-tell-the-story",
+        "date": "2026-07-03 05:47:24"
+      },
+      {
+        "id": "3695",
+        "title": "‘Ridiculous’ for US to maintain current Nato support, Trump warns ahead of alliance summit",
+        "url": "https://www.theguardian.com/us-news/2026/jul/03/trump-nato-alliance-support-ridiculous-ahead-of-summit",
+        "date": "2026-07-03 05:19:33"
+      },
+      {
+        "id": "3684",
+        "title": "Trump hijacks America at 250 celebrations – podcast",
+        "url": "https://www.theguardian.com/politics/audio/2026/jul/03/trump-hijacks-america-at-250-celebrations-podcast",
+        "date": "2026-07-03 04:00:19"
+      }
+    ]
+  },
+  {
     "cluster_id": "19",
     "label": "ai, new, tech",
-    "trending_score": 0.4059,
-    "count_24h": 6,
+    "trending_score": 0.3941,
+    "count_24h": 5,
     "count_7d": 99,
     "top_articles": [
       {
@@ -353,8 +353,8 @@
   {
     "cluster_id": "2",
     "label": "says, africa, said",
-    "trending_score": 0.3102,
-    "count_24h": 4,
+    "trending_score": 0.2989,
+    "count_24h": 3,
     "count_7d": 96,
     "top_articles": [
       {
@@ -407,8 +407,8 @@
   {
     "cluster_id": "16",
     "label": "new, taiwan, year",
-    "trending_score": 0.2211,
-    "count_24h": 7,
+    "trending_score": 0.2127,
+    "count_24h": 6,
     "count_7d": 61,
     "top_articles": [
       {

@@ -2,8 +2,8 @@
   {
     "cluster_id": "7",
     "label": "world, cup, world cup",
-    "trending_score": 1.0288,
-    "count_24h": 12,
+    "trending_score": 0.9904,
+    "count_24h": 11,
     "count_7d": 144,
     "top_articles": [
       {
@@ -27,37 +27,10 @@
     ]
   },
   {
-    "cluster_id": "3",
-    "label": "england, world, cup",
-    "trending_score": 0.9017,
-    "count_24h": 7,
-    "count_7d": 85,
-    "top_articles": [
-      {
-        "id": "3681",
-        "title": "‘Bigger than football’: Norway fans’ Viking row makes waves at World Cup",
-        "url": "https://www.theguardian.com/world/2026/jul/03/norway-fans-viking-row-world-cup",
-        "date": "2026-07-03 05:00:19"
-      },
-      {
-        "id": "3644",
-        "title": "Hard work and a disco jacket - how England turned fielding woes around",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cwyedgekzyjo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 00:26:53"
-      },
-      {
-        "id": "3643",
-        "title": "'World cup pubs boost' and 'Kate holds court'",
-        "url": "https://www.bbc.co.uk/news/articles/c5yz8jqq47jo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 00:03:42"
-      }
-    ]
-  },
-  {
     "cluster_id": "9",
     "label": "burnham, said, defence",
-    "trending_score": 0.8742,
-    "count_24h": 10,
+    "trending_score": 0.8344,
+    "count_24h": 8,
     "count_7d": 135,
     "top_articles": [
       {
@@ -81,10 +54,37 @@
     ]
   },
   {
+    "cluster_id": "3",
+    "label": "england, world, cup",
+    "trending_score": 0.8333,
+    "count_24h": 7,
+    "count_7d": 84,
+    "top_articles": [
+      {
+        "id": "3681",
+        "title": "‘Bigger than football’: Norway fans’ Viking row makes waves at World Cup",
+        "url": "https://www.theguardian.com/world/2026/jul/03/norway-fans-viking-row-world-cup",
+        "date": "2026-07-03 05:00:19"
+      },
+      {
+        "id": "3644",
+        "title": "Hard work and a disco jacket - how England turned fielding woes around",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cwyedgekzyjo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 00:26:53"
+      },
+      {
+        "id": "3643",
+        "title": "'World cup pubs boost' and 'Kate holds court'",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz8jqq47jo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 00:03:42"
+      }
+    ]
+  },
+  {
     "cluster_id": "1",
     "label": "iran, israel, said",
-    "trending_score": 0.779,
-    "count_24h": 10,
+    "trending_score": 0.7541,
+    "count_24h": 9,
     "count_7d": 135,
     "top_articles": [
       {
@@ -108,38 +108,11 @@
     ]
   },
   {
-    "cluster_id": "0",
-    "label": "heat, temperatures, heatwave",
-    "trending_score": 0.7727,
-    "count_24h": 5,
-    "count_7d": 53,
-    "top_articles": [
-      {
-        "id": "3692",
-        "title": "Are Europe’s extreme summers the new normal? What the science says",
-        "url": "https://www.aljazeera.com/features/2026/7/3/are-europes-extreme-summers-the-new-normal-what-the-science-says?traffic_source=rss",
-        "date": "2026-07-03 05:37:54"
-      },
-      {
-        "id": "3688",
-        "title": "Hosepipe ban for Hampshire and Isle of Wight",
-        "url": "https://www.bbc.co.uk/news/articles/c17yv9710d9o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 05:01:21"
-      },
-      {
-        "id": "3660",
-        "title": "Moment huge waterspout twirls over lake in Germany",
-        "url": "https://www.bbc.co.uk/news/videos/ckg8eld7pj7o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 00:54:46"
-      }
-    ]
-  },
-  {
     "cluster_id": "10",
     "label": "said, health, care",
-    "trending_score": 0.7651,
-    "count_24h": 8,
-    "count_7d": 101,
+    "trending_score": 0.744,
+    "count_24h": 7,
+    "count_7d": 100,
     "top_articles": [
       {
         "id": "3690",
@@ -162,11 +135,38 @@
     ]
   },
   {
+    "cluster_id": "0",
+    "label": "heat, temperatures, heatwave",
+    "trending_score": 0.7273,
+    "count_24h": 4,
+    "count_7d": 52,
+    "top_articles": [
+      {
+        "id": "3692",
+        "title": "Are Europe’s extreme summers the new normal? What the science says",
+        "url": "https://www.aljazeera.com/features/2026/7/3/are-europes-extreme-summers-the-new-normal-what-the-science-says?traffic_source=rss",
+        "date": "2026-07-03 05:37:54"
+      },
+      {
+        "id": "3688",
+        "title": "Hosepipe ban for Hampshire and Isle of Wight",
+        "url": "https://www.bbc.co.uk/news/articles/c17yv9710d9o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 05:01:21"
+      },
+      {
+        "id": "3660",
+        "title": "Moment huge waterspout twirls over lake in Germany",
+        "url": "https://www.bbc.co.uk/news/videos/ckg8eld7pj7o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 00:54:46"
+      }
+    ]
+  },
+  {
     "cluster_id": "14",
     "label": "venezuela, 02, 01",
-    "trending_score": 0.7617,
-    "count_24h": 3,
-    "count_7d": 94,
+    "trending_score": 0.6822,
+    "count_24h": 2,
+    "count_7d": 92,
     "top_articles": [
       {
         "id": "3646",
@@ -191,9 +191,9 @@
   {
     "cluster_id": "6",
     "label": "said, police, man",
-    "trending_score": 0.7163,
-    "count_24h": 14,
-    "count_7d": 120,
+    "trending_score": 0.6776,
+    "count_24h": 12,
+    "count_7d": 119,
     "top_articles": [
       {
         "id": "3693",
@@ -218,8 +218,8 @@
   {
     "cluster_id": "5",
     "label": "wimbledon, stokes, england",
-    "trending_score": 0.6737,
-    "count_24h": 3,
+    "trending_score": 0.6105,
+    "count_24h": 2,
     "count_7d": 77,
     "top_articles": [
       {
@@ -245,9 +245,9 @@
   {
     "cluster_id": "8",
     "label": "said, media, ai",
-    "trending_score": 0.6723,
-    "count_24h": 7,
-    "count_7d": 82,
+    "trending_score": 0.6047,
+    "count_24h": 5,
+    "count_7d": 80,
     "top_articles": [
       {
         "id": "3686",
@@ -272,7 +272,7 @@
   {
     "cluster_id": "13",
     "label": "trump, court, president",
-    "trending_score": 0.558,
+    "trending_score": 0.5446,
     "count_24h": 11,
     "count_7d": 103,
     "top_articles": [
@@ -299,9 +299,9 @@
   {
     "cluster_id": "12",
     "label": "said, police, killed",
-    "trending_score": 0.5256,
-    "count_24h": 8,
-    "count_7d": 125,
+    "trending_score": 0.4908,
+    "count_24h": 5,
+    "count_7d": 124,
     "top_articles": [
       {
         "id": "3669",
@@ -326,9 +326,9 @@
   {
     "cluster_id": "19",
     "label": "ai, new, tech",
-    "trending_score": 0.4961,
-    "count_24h": 11,
-    "count_7d": 103,
+    "trending_score": 0.4431,
+    "count_24h": 8,
+    "count_7d": 100,
     "top_articles": [
       {
         "id": "3656",
@@ -353,7 +353,7 @@
   {
     "cluster_id": "2",
     "label": "says, africa, said",
-    "trending_score": 0.344,
+    "trending_score": 0.3327,
     "count_24h": 6,
     "count_7d": 96,
     "top_articles": [
@@ -380,7 +380,7 @@
   {
     "cluster_id": "17",
     "label": "market, said, global",
-    "trending_score": 0.3233,
+    "trending_score": 0.3023,
     "count_24h": 3,
     "count_7d": 67,
     "top_articles": [
@@ -407,8 +407,8 @@
   {
     "cluster_id": "16",
     "label": "new, taiwan, year",
-    "trending_score": 0.2338,
-    "count_24h": 8,
+    "trending_score": 0.2211,
+    "count_24h": 7,
     "count_7d": 61,
     "top_articles": [
       {
@@ -461,8 +461,8 @@
   {
     "cluster_id": "4",
     "label": "latest, california, state",
-    "trending_score": 0.0655,
-    "count_24h": 2,
+    "trending_score": 0.0543,
+    "count_24h": 1,
     "count_7d": 11,
     "top_articles": [
       {
@@ -488,9 +488,9 @@
   {
     "cluster_id": "11",
     "label": "league, win, major",
-    "trending_score": 0.0203,
+    "trending_score": 0.0178,
     "count_24h": 0,
-    "count_7d": 5,
+    "count_7d": 4,
     "top_articles": [
       {
         "id": "3439",

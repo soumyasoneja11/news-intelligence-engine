@@ -1,102 +1,102 @@
 {
   "0": {
     "keywords": [
-      "win",
-      "league",
-      "major",
-      "lead",
-      "wednesday major"
-    ],
-    "label": "win, league, major",
-    "article_count": 216
-  },
-  "1": {
-    "keywords": [
       "heat",
-      "heatwave",
       "temperatures",
+      "heatwave",
       "europe",
       "weather"
     ],
-    "label": "heat, heatwave, temperatures",
+    "label": "heat, temperatures, heatwave",
     "article_count": 77
+  },
+  "1": {
+    "keywords": [
+      "iran",
+      "israel",
+      "said",
+      "lebanon",
+      "strait"
+    ],
+    "label": "iran, israel, said",
+    "article_count": 181
   },
   "2": {
     "keywords": [
-      "said",
-      "people",
       "says",
-      "health",
-      "latest"
+      "africa",
+      "said",
+      "play",
+      "egypt"
     ],
-    "label": "said, people, says",
-    "article_count": 323
+    "label": "says, africa, said",
+    "article_count": 266
   },
   "3": {
+    "keywords": [
+      "england",
+      "world",
+      "cup",
+      "world cup",
+      "scotland"
+    ],
+    "label": "england, world, cup",
+    "article_count": 117
+  },
+  "4": {
+    "keywords": [
+      "latest",
+      "california",
+      "state",
+      "national",
+      "new"
+    ],
+    "label": "latest, california, state",
+    "article_count": 267
+  },
+  "5": {
+    "keywords": [
+      "wimbledon",
+      "stokes",
+      "england",
+      "tennis",
+      "williams"
+    ],
+    "label": "wimbledon, stokes, england",
+    "article_count": 95
+  },
+  "6": {
+    "keywords": [
+      "said",
+      "police",
+      "man",
+      "court",
+      "arrested"
+    ],
+    "label": "said, police, man",
+    "article_count": 245
+  },
+  "7": {
     "keywords": [
       "world",
       "cup",
       "world cup",
-      "england",
+      "list",
       "team"
     ],
     "label": "world, cup, world cup",
-    "article_count": 286
-  },
-  "4": {
-    "keywords": [
-      "police",
-      "said",
-      "shooting",
-      "man",
-      "killed"
-    ],
-    "label": "police, said, shooting",
-    "article_count": 297
-  },
-  "5": {
-    "keywords": [
-      "ai",
-      "new",
-      "market",
-      "said",
-      "company"
-    ],
-    "label": "ai, new, market",
-    "article_count": 442
-  },
-  "6": {
-    "keywords": [
-      "china",
-      "taiwan",
-      "conference glance",
-      "expanded conference",
-      "expanded"
-    ],
-    "label": "china, taiwan, conference glance",
-    "article_count": 294
-  },
-  "7": {
-    "keywords": [
-      "venezuela",
-      "02",
-      "00",
-      "01",
-      "earthquakes"
-    ],
-    "label": "venezuela, 02, 00",
-    "article_count": 101
+    "article_count": 156
   },
   "8": {
     "keywords": [
-      "new",
-      "year",
-      "film",
-      "10",
-      "time"
+      "said",
+      "media",
+      "ai",
+      "apple",
+      "data"
     ],
-    "label": "new, year, film",
-    "article_count": 364
+    "label": "said, media, ai",
+    "article_count": 148
   },
   "9": {
     "keywords": [
@@ -111,35 +111,112 @@
   },
   "10": {
     "keywords": [
-      "iran",
-      "israel",
       "said",
-      "lebanon",
-      "syria"
+      "health",
+      "care",
+      "says",
+      "children"
     ],
-    "label": "iran, israel, said",
-    "article_count": 241
+    "label": "said, health, care",
+    "article_count": 166
   },
   "11": {
     "keywords": [
-      "trump",
-      "latest",
-      "court",
-      "president",
-      "says"
+      "league",
+      "win",
+      "major",
+      "league linescores",
+      "linescores"
     ],
-    "label": "trump, latest, court",
-    "article_count": 274
+    "label": "league, win, major",
+    "article_count": 197
   },
   "12": {
     "keywords": [
-      "court",
-      "man",
-      "police",
       "said",
-      "case"
+      "police",
+      "killed",
+      "man",
+      "shooting"
     ],
-    "label": "court, man, police",
-    "article_count": 337
+    "label": "said, police, killed",
+    "article_count": 273
+  },
+  "13": {
+    "keywords": [
+      "trump",
+      "court",
+      "president",
+      "latest",
+      "said"
+    ],
+    "label": "trump, court, president",
+    "article_count": 224
+  },
+  "14": {
+    "keywords": [
+      "venezuela",
+      "02",
+      "01",
+      "earthquakes",
+      "said"
+    ],
+    "label": "venezuela, 02, 01",
+    "article_count": 107
+  },
+  "15": {
+    "keywords": [
+      "court",
+      "trump",
+      "says",
+      "lawsuit",
+      "judge"
+    ],
+    "label": "court, trump, says",
+    "article_count": 185
+  },
+  "16": {
+    "keywords": [
+      "new",
+      "taiwan",
+      "year",
+      "film",
+      "china"
+    ],
+    "label": "new, taiwan, year",
+    "article_count": 355
+  },
+  "17": {
+    "keywords": [
+      "market",
+      "said",
+      "global",
+      "sales",
+      "energy"
+    ],
+    "label": "market, said, global",
+    "article_count": 215
+  },
+  "18": {
+    "keywords": [
+      "glance",
+      "expanded conference",
+      "conference glance",
+      "expanded",
+      "conference"
+    ],
+    "label": "glance, expanded conference, conference glance",
+    "article_count": 19
+  },
+  "19": {
+    "keywords": [
+      "ai",
+      "new",
+      "tech",
+      "company",
+      "techcrunch"
+    ],
+    "label": "ai, new, tech",
+    "article_count": 255
   }
 }

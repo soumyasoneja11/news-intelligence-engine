@@ -2,9 +2,9 @@
   {
     "cluster_id": "7",
     "label": "world, cup, world cup",
-    "trending_score": 1.2244,
-    "count_24h": 20,
-    "count_7d": 145,
+    "trending_score": 1.1058,
+    "count_24h": 15,
+    "count_7d": 144,
     "top_articles": [
       {
         "id": "3665",
@@ -29,8 +29,8 @@
   {
     "cluster_id": "9",
     "label": "burnham, said, defence",
-    "trending_score": 1.0762,
-    "count_24h": 16,
+    "trending_score": 1.0066,
+    "count_24h": 14,
     "count_7d": 139,
     "top_articles": [
       {
@@ -54,37 +54,10 @@
     ]
   },
   {
-    "cluster_id": "3",
-    "label": "england, world, cup",
-    "trending_score": 1.0598,
-    "count_24h": 11,
-    "count_7d": 86,
-    "top_articles": [
-      {
-        "id": "3681",
-        "title": "‘Bigger than football’: Norway fans’ Viking row makes waves at World Cup",
-        "url": "https://www.theguardian.com/world/2026/jul/03/norway-fans-viking-row-world-cup",
-        "date": "2026-07-03 05:00:19"
-      },
-      {
-        "id": "3644",
-        "title": "Hard work and a disco jacket - how England turned fielding woes around",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cwyedgekzyjo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 00:26:53"
-      },
-      {
-        "id": "3643",
-        "title": "'World cup pubs boost' and 'Kate holds court'",
-        "url": "https://www.bbc.co.uk/news/articles/c5yz8jqq47jo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 00:03:42"
-      }
-    ]
-  },
-  {
     "cluster_id": "0",
     "label": "heat, temperatures, heatwave",
-    "trending_score": 1.0195,
-    "count_24h": 8,
+    "trending_score": 0.9805,
+    "count_24h": 7,
     "count_7d": 58,
     "top_articles": [
       {
@@ -108,37 +81,10 @@
     ]
   },
   {
-    "cluster_id": "10",
-    "label": "said, health, care",
-    "trending_score": 0.9819,
-    "count_24h": 18,
-    "count_7d": 104,
-    "top_articles": [
-      {
-        "id": "3690",
-        "title": "Gannet colonies could take 15 years to recover from bird flu",
-        "url": "https://www.bbc.co.uk/news/articles/c3wylj128qlo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 05:36:00"
-      },
-      {
-        "id": "3676",
-        "title": "NSW records first suspected case of deadly H5 bird flu as virus reaches Australia’s east coast",
-        "url": "https://www.theguardian.com/world/2026/jul/03/bird-flu-australia-first-suspected-case-nsw-deadly-h5n1-virus",
-        "date": "2026-07-03 03:57:00"
-      },
-      {
-        "id": "3685",
-        "title": "More than 100 passengers on US cruise ship sick from suspected norovirus",
-        "url": "https://www.theguardian.com/us-news/2026/jul/02/norovirus-cruise-ship-outbreak",
-        "date": "2026-07-03 01:42:35"
-      }
-    ]
-  },
-  {
     "cluster_id": "1",
     "label": "iran, israel, said",
-    "trending_score": 0.9724,
-    "count_24h": 17,
+    "trending_score": 0.9558,
+    "count_24h": 16,
     "count_7d": 136,
     "top_articles": [
       {
@@ -162,11 +108,65 @@
     ]
   },
   {
+    "cluster_id": "3",
+    "label": "england, world, cup",
+    "trending_score": 0.953,
+    "count_24h": 8,
+    "count_7d": 85,
+    "top_articles": [
+      {
+        "id": "3681",
+        "title": "‘Bigger than football’: Norway fans’ Viking row makes waves at World Cup",
+        "url": "https://www.theguardian.com/world/2026/jul/03/norway-fans-viking-row-world-cup",
+        "date": "2026-07-03 05:00:19"
+      },
+      {
+        "id": "3644",
+        "title": "Hard work and a disco jacket - how England turned fielding woes around",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cwyedgekzyjo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 00:26:53"
+      },
+      {
+        "id": "3643",
+        "title": "'World cup pubs boost' and 'Kate holds court'",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz8jqq47jo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 00:03:42"
+      }
+    ]
+  },
+  {
+    "cluster_id": "10",
+    "label": "said, health, care",
+    "trending_score": 0.9367,
+    "count_24h": 16,
+    "count_7d": 104,
+    "top_articles": [
+      {
+        "id": "3690",
+        "title": "Gannet colonies could take 15 years to recover from bird flu",
+        "url": "https://www.bbc.co.uk/news/articles/c3wylj128qlo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 05:36:00"
+      },
+      {
+        "id": "3676",
+        "title": "NSW records first suspected case of deadly H5 bird flu as virus reaches Australia’s east coast",
+        "url": "https://www.theguardian.com/world/2026/jul/03/bird-flu-australia-first-suspected-case-nsw-deadly-h5n1-virus",
+        "date": "2026-07-03 03:57:00"
+      },
+      {
+        "id": "3685",
+        "title": "More than 100 passengers on US cruise ship sick from suspected norovirus",
+        "url": "https://www.theguardian.com/us-news/2026/jul/02/norovirus-cruise-ship-outbreak",
+        "date": "2026-07-03 01:42:35"
+      }
+    ]
+  },
+  {
     "cluster_id": "6",
     "label": "said, police, man",
-    "trending_score": 0.9041,
-    "count_24h": 25,
-    "count_7d": 125,
+    "trending_score": 0.8694,
+    "count_24h": 24,
+    "count_7d": 123,
     "top_articles": [
       {
         "id": "3693",
@@ -185,60 +185,6 @@
         "title": "Former AFL player Nicky Winmar found guilty of assaulting woman in northern Victoria",
         "url": "https://www.theguardian.com/australia-news/2026/jul/03/nicky-winmar-found-guilty-assault-victoria-ntwnfb",
         "date": "2026-07-03 03:24:56"
-      }
-    ]
-  },
-  {
-    "cluster_id": "8",
-    "label": "said, media, ai",
-    "trending_score": 0.875,
-    "count_24h": 14,
-    "count_7d": 82,
-    "top_articles": [
-      {
-        "id": "3686",
-        "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
-        "url": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
-        "date": "2026-07-03 05:05:00"
-      },
-      {
-        "id": "3680",
-        "title": "Spyware used against MEP investigating Pegasus abuses, report finds",
-        "url": "https://www.theguardian.com/world/2026/jul/03/spyware-used-against-mep-investigating-pegasus-abuses-report-finds",
-        "date": "2026-07-03 05:00:20"
-      },
-      {
-        "id": "3658",
-        "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
-        "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 03:50:18"
-      }
-    ]
-  },
-  {
-    "cluster_id": "5",
-    "label": "wimbledon, stokes, england",
-    "trending_score": 0.8632,
-    "count_24h": 7,
-    "count_7d": 77,
-    "top_articles": [
-      {
-        "id": "3625",
-        "title": "The French-born star carrying British hopes at Wimbledon",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cx2vr595pg7o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-02 22:28:30"
-      },
-      {
-        "id": "3607",
-        "title": "Sciver-Brunt leads superb England into World Cup final",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cy731p46j5mo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-02 21:29:40"
-      },
-      {
-        "id": "3547",
-        "title": "Maddy Cusack's coach her 'nemesis', mum tells inquest",
-        "url": "https://www.bbc.co.uk/news/articles/cpwej79vnkgo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-02 17:41:32"
       }
     ]
   },
@@ -270,37 +216,91 @@
     ]
   },
   {
-    "cluster_id": "12",
-    "label": "said, police, killed",
-    "trending_score": 0.7179,
-    "count_24h": 21,
-    "count_7d": 125,
+    "cluster_id": "5",
+    "label": "wimbledon, stokes, england",
+    "trending_score": 0.8316,
+    "count_24h": 7,
+    "count_7d": 77,
     "top_articles": [
       {
-        "id": "3669",
-        "title": "Papua rebels claim to have killed US pilot in Indonesia",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/papua-rebels-claim-to-have-killed-us-pilot-in-indonesia?traffic_source=rss",
-        "date": "2026-07-03 03:48:59"
+        "id": "3625",
+        "title": "The French-born star carrying British hopes at Wimbledon",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cx2vr595pg7o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-02 22:28:30"
       },
       {
-        "id": "3678",
-        "title": "Tributes for Melbourne boy allegedly left to die from stab wounds, as teen charged with murder",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/03/melbourne-boy-allegedly-stabbed-left-to-die-outside-hospital-teen-charged-murder-ntwnfb",
-        "date": "2026-07-03 03:33:39"
+        "id": "3607",
+        "title": "Sciver-Brunt leads superb England into World Cup final",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cy731p46j5mo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-02 21:29:40"
       },
       {
-        "id": "3675",
-        "title": "China says man who flew plane into Beijing skyscraper had mental health problems",
-        "url": "https://www.theguardian.com/world/2026/jul/03/china-man-small-plane-beijing-skyscraper-tower-mental-health-problems-statement",
-        "date": "2026-07-03 03:15:13"
+        "id": "3547",
+        "title": "Maddy Cusack's coach her 'nemesis', mum tells inquest",
+        "url": "https://www.bbc.co.uk/news/articles/cpwej79vnkgo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-02 17:41:32"
+      }
+    ]
+  },
+  {
+    "cluster_id": "8",
+    "label": "said, media, ai",
+    "trending_score": 0.8243,
+    "count_24h": 13,
+    "count_7d": 82,
+    "top_articles": [
+      {
+        "id": "3686",
+        "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+        "url": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
+        "date": "2026-07-03 05:05:00"
+      },
+      {
+        "id": "3680",
+        "title": "Spyware used against MEP investigating Pegasus abuses, report finds",
+        "url": "https://www.theguardian.com/world/2026/jul/03/spyware-used-against-mep-investigating-pegasus-abuses-report-finds",
+        "date": "2026-07-03 05:00:20"
+      },
+      {
+        "id": "3658",
+        "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
+        "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 03:50:18"
+      }
+    ]
+  },
+  {
+    "cluster_id": "19",
+    "label": "ai, new, tech",
+    "trending_score": 0.6216,
+    "count_24h": 18,
+    "count_7d": 107,
+    "top_articles": [
+      {
+        "id": "3656",
+        "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
+        "url": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
+        "date": "2026-07-03 00:00:00"
+      },
+      {
+        "id": "3657",
+        "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+        "date": "2026-07-02 23:38:10"
+      },
+      {
+        "id": "3621",
+        "title": "AI is 'not smart' so what's next in artificial intelligence?",
+        "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-02 23:02:09"
       }
     ]
   },
   {
     "cluster_id": "13",
     "label": "trump, court, president",
-    "trending_score": 0.6808,
-    "count_24h": 15,
+    "trending_score": 0.6205,
+    "count_24h": 12,
     "count_7d": 104,
     "top_articles": [
       {
@@ -324,37 +324,37 @@
     ]
   },
   {
-    "cluster_id": "19",
-    "label": "ai, new, tech",
-    "trending_score": 0.6275,
-    "count_24h": 18,
-    "count_7d": 110,
+    "cluster_id": "12",
+    "label": "said, police, killed",
+    "trending_score": 0.619,
+    "count_24h": 15,
+    "count_7d": 125,
     "top_articles": [
       {
-        "id": "3656",
-        "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
-        "url": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
-        "date": "2026-07-03 00:00:00"
+        "id": "3669",
+        "title": "Papua rebels claim to have killed US pilot in Indonesia",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/papua-rebels-claim-to-have-killed-us-pilot-in-indonesia?traffic_source=rss",
+        "date": "2026-07-03 03:48:59"
       },
       {
-        "id": "3657",
-        "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-        "date": "2026-07-02 23:38:10"
+        "id": "3678",
+        "title": "Tributes for Melbourne boy allegedly left to die from stab wounds, as teen charged with murder",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/03/melbourne-boy-allegedly-stabbed-left-to-die-outside-hospital-teen-charged-murder-ntwnfb",
+        "date": "2026-07-03 03:33:39"
       },
       {
-        "id": "3621",
-        "title": "AI is 'not smart' so what's next in artificial intelligence?",
-        "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-02 23:02:09"
+        "id": "3675",
+        "title": "China says man who flew plane into Beijing skyscraper had mental health problems",
+        "url": "https://www.theguardian.com/world/2026/jul/03/china-man-small-plane-beijing-skyscraper-tower-mental-health-problems-statement",
+        "date": "2026-07-03 03:15:13"
       }
     ]
   },
   {
     "cluster_id": "17",
     "label": "market, said, global",
-    "trending_score": 0.5326,
-    "count_24h": 13,
+    "trending_score": 0.4628,
+    "count_24h": 9,
     "count_7d": 70,
     "top_articles": [
       {
@@ -380,9 +380,9 @@
   {
     "cluster_id": "2",
     "label": "says, africa, said",
-    "trending_score": 0.4098,
-    "count_24h": 8,
-    "count_7d": 98,
+    "trending_score": 0.3853,
+    "count_24h": 7,
+    "count_7d": 97,
     "top_articles": [
       {
         "id": "3671",
@@ -407,8 +407,8 @@
   {
     "cluster_id": "16",
     "label": "new, taiwan, year",
-    "trending_score": 0.2944,
-    "count_24h": 11,
+    "trending_score": 0.269,
+    "count_24h": 9,
     "count_7d": 62,
     "top_articles": [
       {
@@ -434,7 +434,7 @@
   {
     "cluster_id": "15",
     "label": "court, trump, says",
-    "trending_score": 0.2432,
+    "trending_score": 0.227,
     "count_24h": 3,
     "count_7d": 36,
     "top_articles": [
@@ -461,8 +461,8 @@
   {
     "cluster_id": "4",
     "label": "latest, california, state",
-    "trending_score": 0.088,
-    "count_24h": 3,
+    "trending_score": 0.0712,
+    "count_24h": 2,
     "count_7d": 11,
     "top_articles": [
       {

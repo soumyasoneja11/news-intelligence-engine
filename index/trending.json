@@ -2,8 +2,8 @@
   {
     "cluster_id": "18",
     "label": "world, cup, world cup",
-    "trending_score": 0.8668,
-    "count_24h": 14,
+    "trending_score": 0.8263,
+    "count_24h": 12,
     "count_7d": 206,
     "top_articles": [
       {
@@ -29,8 +29,8 @@
   {
     "cluster_id": "17",
     "label": "burnham, said, uk",
-    "trending_score": 0.76,
-    "count_24h": 8,
+    "trending_score": 0.7375,
+    "count_24h": 7,
     "count_7d": 172,
     "top_articles": [
       {
@@ -83,9 +83,9 @@
   {
     "cluster_id": "5",
     "label": "venezuela, 01, 00",
-    "trending_score": 0.625,
-    "count_24h": 5,
-    "count_7d": 80,
+    "trending_score": 0.567,
+    "count_24h": 3,
+    "count_7d": 79,
     "top_articles": [
       {
         "id": "3886",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "7",
     "label": "england, wimbledon, stokes",
-    "trending_score": 0.5464,
-    "count_24h": 1,
-    "count_7d": 108,
+    "trending_score": 0.5107,
+    "count_24h": 0,
+    "count_7d": 107,
     "top_articles": [
       {
         "id": "3881",
@@ -137,7 +137,7 @@
   {
     "cluster_id": "1",
     "label": "said, police, man",
-    "trending_score": 0.485,
+    "trending_score": 0.4786,
     "count_24h": 2,
     "count_7d": 134,
     "top_articles": [
@@ -158,33 +158,6 @@
         "title": "Woman denies consensual encounter in Top Boy actor rape trial",
         "url": "https://www.bbc.co.uk/news/articles/c24y2303ev8o?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-03 19:38:34"
-      }
-    ]
-  },
-  {
-    "cluster_id": "10",
-    "label": "iran, israel, said",
-    "trending_score": 0.481,
-    "count_24h": 1,
-    "count_7d": 105,
-    "top_articles": [
-      {
-        "id": "3891",
-        "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
-        "date": "2026-07-04 00:00:00"
-      },
-      {
-        "id": "3836",
-        "title": "Lebanon-Israel deal betrays ‘victims of war crimes’, rights groups say",
-        "url": "https://www.aljazeera.com/news/2026/7/3/lebanon-israel-deal-betrays-victims-of-war-crimes-rights-groups-say?traffic_source=rss",
-        "date": "2026-07-03 19:27:15"
-      },
-      {
-        "id": "3840",
-        "title": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
-        "url": "https://www.aljazeera.com/news/2026/7/3/iran-begins-week-of-funeral-ceremonies-for-slain-supreme-leader-khamenei?traffic_source=rss",
-        "date": "2026-07-03 18:39:31"
       }
     ]
   },
@@ -212,6 +185,33 @@
         "title": "Russia looks to students to make up for mounting losses in Ukraine",
         "url": "https://www.bbc.co.uk/news/articles/cp8lnnr080go?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-03 23:24:20"
+      }
+    ]
+  },
+  {
+    "cluster_id": "10",
+    "label": "iran, israel, said",
+    "trending_score": 0.4728,
+    "count_24h": 1,
+    "count_7d": 102,
+    "top_articles": [
+      {
+        "id": "3891",
+        "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
+        "date": "2026-07-04 00:00:00"
+      },
+      {
+        "id": "3836",
+        "title": "Lebanon-Israel deal betrays ‘victims of war crimes’, rights groups say",
+        "url": "https://www.aljazeera.com/news/2026/7/3/lebanon-israel-deal-betrays-victims-of-war-crimes-rights-groups-say?traffic_source=rss",
+        "date": "2026-07-03 19:27:15"
+      },
+      {
+        "id": "3840",
+        "title": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
+        "url": "https://www.aljazeera.com/news/2026/7/3/iran-begins-week-of-funeral-ceremonies-for-slain-supreme-leader-khamenei?traffic_source=rss",
+        "date": "2026-07-03 18:39:31"
       }
     ]
   },
@@ -245,7 +245,7 @@
   {
     "cluster_id": "15",
     "label": "trump, latest, president",
-    "trending_score": 0.3439,
+    "trending_score": 0.3376,
     "count_24h": 4,
     "count_7d": 76,
     "top_articles": [
@@ -272,7 +272,7 @@
   {
     "cluster_id": "3",
     "label": "ai, tech, new",
-    "trending_score": 0.3125,
+    "trending_score": 0.3074,
     "count_24h": 1,
     "count_7d": 134,
     "top_articles": [
@@ -299,7 +299,7 @@
   {
     "cluster_id": "13",
     "label": "new, image, said",
-    "trending_score": 0.2701,
+    "trending_score": 0.2653,
     "count_24h": 5,
     "count_7d": 78,
     "top_articles": [
@@ -326,8 +326,8 @@
   {
     "cluster_id": "9",
     "label": "police, said, shooting",
-    "trending_score": 0.2239,
-    "count_24h": 2,
+    "trending_score": 0.2109,
+    "count_24h": 1,
     "count_7d": 73,
     "top_articles": [
       {
@@ -347,33 +347,6 @@
         "title": "Man charged with manslaughter over Tesla crash originally blamed on car’s self-driving mode",
         "url": "https://www.theguardian.com/us-news/2026/jul/03/tesla-texas-crash-manslaughter",
         "date": "2026-07-03 16:15:41"
-      }
-    ]
-  },
-  {
-    "cluster_id": "6",
-    "label": "china, taiwan, chinese",
-    "trending_score": 0.1818,
-    "count_24h": 1,
-    "count_7d": 28,
-    "top_articles": [
-      {
-        "id": "3878",
-        "title": "China's internet got so mad about a celebrity's 'bad' singing, her concert was cancelled",
-        "url": "https://www.bbc.co.uk/news/articles/cdx7d254lrjo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 22:46:42"
-      },
-      {
-        "id": "3853",
-        "title": "Is China’s new ethnic unity law a step towards forced assimilation?",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/7/3/is-chinas-new-ethnic-unity-law-a-step-towards-forced-assimilation-2?traffic_source=rss",
-        "date": "2026-07-03 19:59:27"
-      },
-      {
-        "id": "3802",
-        "title": "Dissident Hong Kong bookseller Lam Wing-kee dies aged 70",
-        "url": "https://www.bbc.co.uk/news/articles/cwy0wy0nenvo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 16:31:40"
       }
     ]
   },
@@ -405,9 +378,36 @@
     ]
   },
   {
+    "cluster_id": "6",
+    "label": "china, taiwan, chinese",
+    "trending_score": 0.1713,
+    "count_24h": 1,
+    "count_7d": 28,
+    "top_articles": [
+      {
+        "id": "3878",
+        "title": "China's internet got so mad about a celebrity's 'bad' singing, her concert was cancelled",
+        "url": "https://www.bbc.co.uk/news/articles/cdx7d254lrjo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 22:46:42"
+      },
+      {
+        "id": "3853",
+        "title": "Is China’s new ethnic unity law a step towards forced assimilation?",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/7/3/is-chinas-new-ethnic-unity-law-a-step-towards-forced-assimilation-2?traffic_source=rss",
+        "date": "2026-07-03 19:59:27"
+      },
+      {
+        "id": "3802",
+        "title": "Dissident Hong Kong bookseller Lam Wing-kee dies aged 70",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0wy0nenvo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 16:31:40"
+      }
+    ]
+  },
+  {
     "cluster_id": "8",
     "label": "court, trump, supreme court",
-    "trending_score": 0.1311,
+    "trending_score": 0.125,
     "count_24h": 0,
     "count_7d": 55,
     "top_articles": [
@@ -434,7 +434,7 @@
   {
     "cluster_id": "0",
     "label": "new, says, signs",
-    "trending_score": 0.1142,
+    "trending_score": 0.11,
     "count_24h": 2,
     "count_7d": 40,
     "top_articles": [

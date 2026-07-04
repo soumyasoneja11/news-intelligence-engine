@@ -2,9 +2,9 @@
   {
     "cluster_id": "18",
     "label": "world, cup, world cup",
-    "trending_score": 0.9691,
-    "count_24h": 19,
-    "count_7d": 211,
+    "trending_score": 0.9498,
+    "count_24h": 18,
+    "count_7d": 210,
     "top_articles": [
       {
         "id": "3905",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "17",
     "label": "burnham, said, uk",
-    "trending_score": 0.8925,
-    "count_24h": 12,
-    "count_7d": 174,
+    "trending_score": 0.8675,
+    "count_24h": 11,
+    "count_7d": 173,
     "top_articles": [
       {
         "id": "3903",
@@ -56,8 +56,8 @@
   {
     "cluster_id": "14",
     "label": "heat, temperatures, heatwave",
-    "trending_score": 0.7917,
-    "count_24h": 6,
+    "trending_score": 0.756,
+    "count_24h": 5,
     "count_7d": 52,
     "top_articles": [
       {
@@ -77,33 +77,6 @@
         "title": "UK temperatures forecast to exceed 30C as another heatwave imminent",
         "url": "https://www.bbc.co.uk/weather/articles/c621j44jwe1o?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-04 00:23:47"
-      }
-    ]
-  },
-  {
-    "cluster_id": "7",
-    "label": "england, wimbledon, stokes",
-    "trending_score": 0.7429,
-    "count_24h": 7,
-    "count_7d": 115,
-    "top_articles": [
-      {
-        "id": "3881",
-        "title": "Tartan Army's World Cup traffic cone high jinks are taking over Scotland",
-        "url": "https://www.bbc.co.uk/news/articles/cvgm4d4jv8eo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 22:16:01"
-      },
-      {
-        "id": "3847",
-        "title": "Williams sisters earmarked for doubles on Saturday",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c621e4j10ldo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 20:19:18"
-      },
-      {
-        "id": "3846",
-        "title": "Qualifiers eye more shocks after causing Wimbledon upsets",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cq81px242d4o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 20:10:01"
       }
     ]
   },
@@ -135,10 +108,37 @@
     ]
   },
   {
+    "cluster_id": "7",
+    "label": "england, wimbledon, stokes",
+    "trending_score": 0.7036,
+    "count_24h": 6,
+    "count_7d": 113,
+    "top_articles": [
+      {
+        "id": "3881",
+        "title": "Tartan Army's World Cup traffic cone high jinks are taking over Scotland",
+        "url": "https://www.bbc.co.uk/news/articles/cvgm4d4jv8eo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 22:16:01"
+      },
+      {
+        "id": "3847",
+        "title": "Williams sisters earmarked for doubles on Saturday",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c621e4j10ldo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 20:19:18"
+      },
+      {
+        "id": "3846",
+        "title": "Qualifiers eye more shocks after causing Wimbledon upsets",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cq81px242d4o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 20:10:01"
+      }
+    ]
+  },
+  {
     "cluster_id": "1",
     "label": "said, police, man",
-    "trending_score": 0.641,
-    "count_24h": 9,
+    "trending_score": 0.5962,
+    "count_24h": 6,
     "count_7d": 135,
     "top_articles": [
       {
@@ -164,9 +164,9 @@
   {
     "cluster_id": "2",
     "label": "video, play arrow, video duration",
-    "trending_score": 0.6004,
+    "trending_score": 0.5812,
     "count_24h": 7,
-    "count_7d": 155,
+    "count_7d": 152,
     "top_articles": [
       {
         "id": "3897",
@@ -191,9 +191,9 @@
   {
     "cluster_id": "10",
     "label": "iran, israel, said",
-    "trending_score": 0.5924,
-    "count_24h": 6,
-    "count_7d": 107,
+    "trending_score": 0.5734,
+    "count_24h": 5,
+    "count_7d": 106,
     "top_articles": [
       {
         "id": "3891",
@@ -218,8 +218,8 @@
   {
     "cluster_id": "11",
     "label": "said, health, ebola",
-    "trending_score": 0.4944,
-    "count_24h": 2,
+    "trending_score": 0.452,
+    "count_24h": 1,
     "count_7d": 94,
     "top_articles": [
       {
@@ -245,9 +245,9 @@
   {
     "cluster_id": "3",
     "label": "ai, tech, new",
-    "trending_score": 0.424,
+    "trending_score": 0.402,
     "count_24h": 6,
-    "count_7d": 137,
+    "count_7d": 136,
     "top_articles": [
       {
         "id": "3867",
@@ -272,8 +272,8 @@
   {
     "cluster_id": "15",
     "label": "trump, latest, president",
-    "trending_score": 0.4114,
-    "count_24h": 8,
+    "trending_score": 0.3734,
+    "count_24h": 5,
     "count_7d": 81,
     "top_articles": [
       {
@@ -299,8 +299,8 @@
   {
     "cluster_id": "13",
     "label": "new, image, said",
-    "trending_score": 0.3087,
-    "count_24h": 8,
+    "trending_score": 0.2942,
+    "count_24h": 7,
     "count_7d": 78,
     "top_articles": [
       {
@@ -326,9 +326,9 @@
   {
     "cluster_id": "9",
     "label": "police, said, shooting",
-    "trending_score": 0.2543,
-    "count_24h": 3,
-    "count_7d": 75,
+    "trending_score": 0.2326,
+    "count_24h": 2,
+    "count_7d": 74,
     "top_articles": [
       {
         "id": "3863",
@@ -353,8 +353,8 @@
   {
     "cluster_id": "6",
     "label": "china, taiwan, chinese",
-    "trending_score": 0.2273,
-    "count_24h": 3,
+    "trending_score": 0.2063,
+    "count_24h": 2,
     "count_7d": 29,
     "top_articles": [
       {
@@ -380,8 +380,8 @@
   {
     "cluster_id": "16",
     "label": "market, new, energy",
-    "trending_score": 0.2184,
-    "count_24h": 2,
+    "trending_score": 0.1878,
+    "count_24h": 0,
     "count_7d": 68,
     "top_articles": [
       {
@@ -407,7 +407,7 @@
   {
     "cluster_id": "8",
     "label": "court, trump, supreme court",
-    "trending_score": 0.1496,
+    "trending_score": 0.1434,
     "count_24h": 0,
     "count_7d": 55,
     "top_articles": [
@@ -434,8 +434,8 @@
   {
     "cluster_id": "0",
     "label": "new, says, signs",
-    "trending_score": 0.1379,
-    "count_24h": 4,
+    "trending_score": 0.1253,
+    "count_24h": 3,
     "count_7d": 42,
     "top_articles": [
       {

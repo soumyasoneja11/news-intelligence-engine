@@ -2,8 +2,8 @@
   {
     "cluster_id": "18",
     "label": "world, cup, world cup",
-    "trending_score": 1.1371,
-    "count_24h": 29,
+    "trending_score": 1.0386,
+    "count_24h": 23,
     "count_7d": 214,
     "top_articles": [
       {
@@ -29,9 +29,9 @@
   {
     "cluster_id": "17",
     "label": "burnham, said, uk",
-    "trending_score": 1.0475,
+    "trending_score": 1.03,
     "count_24h": 18,
-    "count_7d": 176,
+    "count_7d": 175,
     "top_articles": [
       {
         "id": "3903",
@@ -54,37 +54,10 @@
     ]
   },
   {
-    "cluster_id": "14",
-    "label": "heat, temperatures, heatwave",
-    "trending_score": 0.8869,
-    "count_24h": 6,
-    "count_7d": 56,
-    "top_articles": [
-      {
-        "id": "3901",
-        "title": "Sydney records hottest June since 1859 as expert warns new high a ‘signature’ of global warming",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/04/sydney-records-hottest-june-since-1859-as-expert-warns-new-high-a-signature-of-global-warming",
-        "date": "2026-07-04 04:37:24"
-      },
-      {
-        "id": "3875",
-        "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
-        "url": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-04 00:57:05"
-      },
-      {
-        "id": "3870",
-        "title": "UK temperatures forecast to exceed 30C as another heatwave imminent",
-        "url": "https://www.bbc.co.uk/weather/articles/c621j44jwe1o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-04 00:23:47"
-      }
-    ]
-  },
-  {
     "cluster_id": "7",
     "label": "england, wimbledon, stokes",
-    "trending_score": 0.875,
-    "count_24h": 10,
+    "trending_score": 0.8536,
+    "count_24h": 9,
     "count_7d": 119,
     "top_articles": [
       {
@@ -108,11 +81,38 @@
     ]
   },
   {
+    "cluster_id": "14",
+    "label": "heat, temperatures, heatwave",
+    "trending_score": 0.8393,
+    "count_24h": 6,
+    "count_7d": 54,
+    "top_articles": [
+      {
+        "id": "3901",
+        "title": "Sydney records hottest June since 1859 as expert warns new high a ‘signature’ of global warming",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/04/sydney-records-hottest-june-since-1859-as-expert-warns-new-high-a-signature-of-global-warming",
+        "date": "2026-07-04 04:37:24"
+      },
+      {
+        "id": "3875",
+        "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
+        "url": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-04 00:57:05"
+      },
+      {
+        "id": "3870",
+        "title": "UK temperatures forecast to exceed 30C as another heatwave imminent",
+        "url": "https://www.bbc.co.uk/weather/articles/c621j44jwe1o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-04 00:23:47"
+      }
+    ]
+  },
+  {
     "cluster_id": "1",
     "label": "said, police, man",
-    "trending_score": 0.8312,
-    "count_24h": 18,
-    "count_7d": 140,
+    "trending_score": 0.7927,
+    "count_24h": 16,
+    "count_7d": 137,
     "top_articles": [
       {
         "id": "3871",
@@ -137,7 +137,7 @@
   {
     "cluster_id": "5",
     "label": "venezuela, 01, 00",
-    "trending_score": 0.7679,
+    "trending_score": 0.7545,
     "count_24h": 7,
     "count_7d": 88,
     "top_articles": [
@@ -164,9 +164,9 @@
   {
     "cluster_id": "2",
     "label": "video, play arrow, video duration",
-    "trending_score": 0.7329,
-    "count_24h": 13,
-    "count_7d": 157,
+    "trending_score": 0.6709,
+    "count_24h": 10,
+    "count_7d": 155,
     "top_articles": [
       {
         "id": "3897",
@@ -191,8 +191,8 @@
   {
     "cluster_id": "10",
     "label": "iran, israel, said",
-    "trending_score": 0.6793,
-    "count_24h": 9,
+    "trending_score": 0.663,
+    "count_24h": 8,
     "count_7d": 112,
     "top_articles": [
       {
@@ -218,9 +218,9 @@
   {
     "cluster_id": "11",
     "label": "said, health, ebola",
-    "trending_score": 0.6299,
-    "count_24h": 7,
-    "count_7d": 97,
+    "trending_score": 0.5508,
+    "count_24h": 3,
+    "count_7d": 96,
     "top_articles": [
       {
         "id": "3856",
@@ -245,9 +245,9 @@
   {
     "cluster_id": "3",
     "label": "ai, tech, new",
-    "trending_score": 0.4865,
+    "trending_score": 0.4797,
     "count_24h": 8,
-    "count_7d": 138,
+    "count_7d": 137,
     "top_articles": [
       {
         "id": "3867",
@@ -272,8 +272,8 @@
   {
     "cluster_id": "15",
     "label": "trump, latest, president",
-    "trending_score": 0.4831,
-    "count_24h": 12,
+    "trending_score": 0.4388,
+    "count_24h": 9,
     "count_7d": 82,
     "top_articles": [
       {
@@ -299,9 +299,9 @@
   {
     "cluster_id": "13",
     "label": "new, image, said",
-    "trending_score": 0.3312,
-    "count_24h": 9,
-    "count_7d": 80,
+    "trending_score": 0.3151,
+    "count_24h": 8,
+    "count_7d": 79,
     "top_articles": [
       {
         "id": "3894",
@@ -326,7 +326,7 @@
   {
     "cluster_id": "9",
     "label": "police, said, shooting",
-    "trending_score": 0.2891,
+    "trending_score": 0.2826,
     "count_24h": 3,
     "count_7d": 76,
     "top_articles": [
@@ -353,7 +353,7 @@
   {
     "cluster_id": "16",
     "label": "market, new, energy",
-    "trending_score": 0.2857,
+    "trending_score": 0.2673,
     "count_24h": 4,
     "count_7d": 68,
     "top_articles": [
@@ -380,9 +380,9 @@
   {
     "cluster_id": "6",
     "label": "china, taiwan, chinese",
-    "trending_score": 0.2413,
+    "trending_score": 0.2378,
     "count_24h": 3,
-    "count_7d": 30,
+    "count_7d": 29,
     "top_articles": [
       {
         "id": "3878",
@@ -434,8 +434,8 @@
   {
     "cluster_id": "0",
     "label": "new, says, signs",
-    "trending_score": 0.1546,
-    "count_24h": 5,
+    "trending_score": 0.1462,
+    "count_24h": 4,
     "count_7d": 42,
     "top_articles": [
       {
@@ -461,7 +461,7 @@
   {
     "cluster_id": "12",
     "label": "league, win, major",
-    "trending_score": 0.0199,
+    "trending_score": 0.0124,
     "count_24h": 0,
     "count_7d": 5,
     "top_articles": [

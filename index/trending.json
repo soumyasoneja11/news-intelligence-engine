@@ -1,36 +1,9 @@
 [
   {
-    "cluster_id": "18",
-    "label": "world, cup, world cup",
-    "trending_score": 1.0386,
-    "count_24h": 23,
-    "count_7d": 214,
-    "top_articles": [
-      {
-        "id": "3905",
-        "title": "Pull an all-nighter? How parents, schools, fans and police plan to cope with England’s 1am kick-off",
-        "url": "https://www.theguardian.com/football/2026/jul/04/pull-an-all-nighter-how-parents-schools-fans-and-police-plan-to-cope-with-englands-1am-kick-off",
-        "date": "2026-07-04 06:00:07"
-      },
-      {
-        "id": "3899",
-        "title": "FIFA World Cup: Round of 16 match schedule and which teams qualified",
-        "url": "https://www.aljazeera.com/sports/2026/7/4/fifa-world-cup-round-of-16-match-schedule-which-teams-qualified?traffic_source=rss",
-        "date": "2026-07-04 04:14:29"
-      },
-      {
-        "id": "3884",
-        "title": "Arias sends Colombia into World Cup last-16 with 1-0 win over Ghana",
-        "url": "https://www.aljazeera.com/news/2026/7/4/arias-sends-colombia-into-world-cup-last-16-with-1-0-win-over-ghana?traffic_source=rss",
-        "date": "2026-07-04 03:41:22"
-      }
-    ]
-  },
-  {
     "cluster_id": "17",
     "label": "burnham, said, uk",
-    "trending_score": 1.03,
-    "count_24h": 18,
+    "trending_score": 0.985,
+    "count_24h": 17,
     "count_7d": 175,
     "top_articles": [
       {
@@ -54,38 +27,38 @@
     ]
   },
   {
-    "cluster_id": "7",
-    "label": "england, wimbledon, stokes",
-    "trending_score": 0.8536,
-    "count_24h": 9,
-    "count_7d": 119,
+    "cluster_id": "18",
+    "label": "world, cup, world cup",
+    "trending_score": 0.9826,
+    "count_24h": 19,
+    "count_7d": 212,
     "top_articles": [
       {
-        "id": "3881",
-        "title": "Tartan Army's World Cup traffic cone high jinks are taking over Scotland",
-        "url": "https://www.bbc.co.uk/news/articles/cvgm4d4jv8eo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 22:16:01"
+        "id": "3905",
+        "title": "Pull an all-nighter? How parents, schools, fans and police plan to cope with England’s 1am kick-off",
+        "url": "https://www.theguardian.com/football/2026/jul/04/pull-an-all-nighter-how-parents-schools-fans-and-police-plan-to-cope-with-englands-1am-kick-off",
+        "date": "2026-07-04 06:00:07"
       },
       {
-        "id": "3847",
-        "title": "Williams sisters earmarked for doubles on Saturday",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c621e4j10ldo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 20:19:18"
+        "id": "3899",
+        "title": "FIFA World Cup: Round of 16 match schedule and which teams qualified",
+        "url": "https://www.aljazeera.com/sports/2026/7/4/fifa-world-cup-round-of-16-match-schedule-which-teams-qualified?traffic_source=rss",
+        "date": "2026-07-04 04:14:29"
       },
       {
-        "id": "3846",
-        "title": "Qualifiers eye more shocks after causing Wimbledon upsets",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cq81px242d4o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 20:10:01"
+        "id": "3884",
+        "title": "Arias sends Colombia into World Cup last-16 with 1-0 win over Ghana",
+        "url": "https://www.aljazeera.com/news/2026/7/4/arias-sends-colombia-into-world-cup-last-16-with-1-0-win-over-ghana?traffic_source=rss",
+        "date": "2026-07-04 03:41:22"
       }
     ]
   },
   {
     "cluster_id": "14",
     "label": "heat, temperatures, heatwave",
-    "trending_score": 0.8393,
+    "trending_score": 0.8155,
     "count_24h": 6,
-    "count_7d": 54,
+    "count_7d": 53,
     "top_articles": [
       {
         "id": "3901",
@@ -108,38 +81,38 @@
     ]
   },
   {
-    "cluster_id": "1",
-    "label": "said, police, man",
-    "trending_score": 0.7927,
-    "count_24h": 16,
-    "count_7d": 137,
+    "cluster_id": "7",
+    "label": "england, wimbledon, stokes",
+    "trending_score": 0.7643,
+    "count_24h": 7,
+    "count_7d": 118,
     "top_articles": [
       {
-        "id": "3871",
-        "title": "Mini-marts linked to convicted people smuggler closed after BBC investigation",
-        "url": "https://www.bbc.co.uk/news/articles/cjwgp00l84qo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-04 01:54:31"
+        "id": "3881",
+        "title": "Tartan Army's World Cup traffic cone high jinks are taking over Scotland",
+        "url": "https://www.bbc.co.uk/news/articles/cvgm4d4jv8eo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 22:16:01"
       },
       {
-        "id": "3893",
-        "title": "Third teenager charged after 15-year-old Melbourne boy allegedly left to die from stab wounds",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/04/third-teenager-charged-after-15-year-old-melbourne-boy-allegedly-left-to-die-from-stab-wounds-ntwnfb",
-        "date": "2026-07-04 01:42:25"
+        "id": "3847",
+        "title": "Williams sisters earmarked for doubles on Saturday",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c621e4j10ldo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 20:19:18"
       },
       {
-        "id": "3833",
-        "title": "Woman denies consensual encounter in Top Boy actor rape trial",
-        "url": "https://www.bbc.co.uk/news/articles/c24y2303ev8o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 19:38:34"
+        "id": "3846",
+        "title": "Qualifiers eye more shocks after causing Wimbledon upsets",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cq81px242d4o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 20:10:01"
       }
     ]
   },
   {
     "cluster_id": "5",
     "label": "venezuela, 01, 00",
-    "trending_score": 0.7545,
+    "trending_score": 0.7277,
     "count_24h": 7,
-    "count_7d": 88,
+    "count_7d": 85,
     "top_articles": [
       {
         "id": "3886",
@@ -162,10 +135,64 @@
     ]
   },
   {
+    "cluster_id": "1",
+    "label": "said, police, man",
+    "trending_score": 0.7137,
+    "count_24h": 12,
+    "count_7d": 136,
+    "top_articles": [
+      {
+        "id": "3871",
+        "title": "Mini-marts linked to convicted people smuggler closed after BBC investigation",
+        "url": "https://www.bbc.co.uk/news/articles/cjwgp00l84qo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-04 01:54:31"
+      },
+      {
+        "id": "3893",
+        "title": "Third teenager charged after 15-year-old Melbourne boy allegedly left to die from stab wounds",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/04/third-teenager-charged-after-15-year-old-melbourne-boy-allegedly-left-to-die-from-stab-wounds-ntwnfb",
+        "date": "2026-07-04 01:42:25"
+      },
+      {
+        "id": "3833",
+        "title": "Woman denies consensual encounter in Top Boy actor rape trial",
+        "url": "https://www.bbc.co.uk/news/articles/c24y2303ev8o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 19:38:34"
+      }
+    ]
+  },
+  {
+    "cluster_id": "10",
+    "label": "iran, israel, said",
+    "trending_score": 0.625,
+    "count_24h": 7,
+    "count_7d": 110,
+    "top_articles": [
+      {
+        "id": "3891",
+        "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
+        "date": "2026-07-04 00:00:00"
+      },
+      {
+        "id": "3836",
+        "title": "Lebanon-Israel deal betrays ‘victims of war crimes’, rights groups say",
+        "url": "https://www.aljazeera.com/news/2026/7/3/lebanon-israel-deal-betrays-victims-of-war-crimes-rights-groups-say?traffic_source=rss",
+        "date": "2026-07-03 19:27:15"
+      },
+      {
+        "id": "3840",
+        "title": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
+        "url": "https://www.aljazeera.com/news/2026/7/3/iran-begins-week-of-funeral-ceremonies-for-slain-supreme-leader-khamenei?traffic_source=rss",
+        "date": "2026-07-03 18:39:31"
+      }
+    ]
+  },
+  {
     "cluster_id": "2",
     "label": "video, play arrow, video duration",
-    "trending_score": 0.6709,
-    "count_24h": 10,
+    "trending_score": 0.6197,
+    "count_24h": 8,
     "count_7d": 155,
     "top_articles": [
       {
@@ -189,38 +216,11 @@
     ]
   },
   {
-    "cluster_id": "10",
-    "label": "iran, israel, said",
-    "trending_score": 0.663,
-    "count_24h": 8,
-    "count_7d": 112,
-    "top_articles": [
-      {
-        "id": "3891",
-        "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
-        "date": "2026-07-04 00:00:00"
-      },
-      {
-        "id": "3836",
-        "title": "Lebanon-Israel deal betrays ‘victims of war crimes’, rights groups say",
-        "url": "https://www.aljazeera.com/news/2026/7/3/lebanon-israel-deal-betrays-victims-of-war-crimes-rights-groups-say?traffic_source=rss",
-        "date": "2026-07-03 19:27:15"
-      },
-      {
-        "id": "3840",
-        "title": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
-        "url": "https://www.aljazeera.com/news/2026/7/3/iran-begins-week-of-funeral-ceremonies-for-slain-supreme-leader-khamenei?traffic_source=rss",
-        "date": "2026-07-03 18:39:31"
-      }
-    ]
-  },
-  {
     "cluster_id": "11",
     "label": "said, health, ebola",
-    "trending_score": 0.5508,
+    "trending_score": 0.5226,
     "count_24h": 3,
-    "count_7d": 96,
+    "count_7d": 95,
     "top_articles": [
       {
         "id": "3856",
@@ -245,8 +245,8 @@
   {
     "cluster_id": "3",
     "label": "ai, tech, new",
-    "trending_score": 0.4797,
-    "count_24h": 8,
+    "trending_score": 0.4595,
+    "count_24h": 7,
     "count_7d": 137,
     "top_articles": [
       {
@@ -272,8 +272,8 @@
   {
     "cluster_id": "15",
     "label": "trump, latest, president",
-    "trending_score": 0.4388,
-    "count_24h": 9,
+    "trending_score": 0.4198,
+    "count_24h": 8,
     "count_7d": 82,
     "top_articles": [
       {
@@ -299,9 +299,9 @@
   {
     "cluster_id": "13",
     "label": "new, image, said",
-    "trending_score": 0.3151,
+    "trending_score": 0.3135,
     "count_24h": 8,
-    "count_7d": 79,
+    "count_7d": 78,
     "top_articles": [
       {
         "id": "3894",
@@ -326,9 +326,9 @@
   {
     "cluster_id": "9",
     "label": "police, said, shooting",
-    "trending_score": 0.2826,
+    "trending_score": 0.2739,
     "count_24h": 3,
-    "count_7d": 76,
+    "count_7d": 75,
     "top_articles": [
       {
         "id": "3863",
@@ -353,7 +353,7 @@
   {
     "cluster_id": "16",
     "label": "market, new, energy",
-    "trending_score": 0.2673,
+    "trending_score": 0.2551,
     "count_24h": 4,
     "count_7d": 68,
     "top_articles": [
@@ -380,7 +380,7 @@
   {
     "cluster_id": "6",
     "label": "china, taiwan, chinese",
-    "trending_score": 0.2378,
+    "trending_score": 0.2273,
     "count_24h": 3,
     "count_7d": 29,
     "top_articles": [
@@ -407,8 +407,8 @@
   {
     "cluster_id": "8",
     "label": "court, trump, supreme court",
-    "trending_score": 0.168,
-    "count_24h": 1,
+    "trending_score": 0.1496,
+    "count_24h": 0,
     "count_7d": 55,
     "top_articles": [
       {
@@ -434,7 +434,7 @@
   {
     "cluster_id": "0",
     "label": "new, says, signs",
-    "trending_score": 0.1462,
+    "trending_score": 0.1421,
     "count_24h": 4,
     "count_7d": 42,
     "top_articles": [

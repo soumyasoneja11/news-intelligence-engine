@@ -2,9 +2,9 @@
   {
     "cluster_id": "18",
     "label": "world, cup, world cup",
-    "trending_score": 1.3629,
+    "trending_score": 1.3552,
     "count_24h": 42,
-    "count_7d": 220,
+    "count_7d": 219,
     "top_articles": [
       {
         "id": "3905",
@@ -56,8 +56,8 @@
   {
     "cluster_id": "14",
     "label": "heat, temperatures, heatwave",
-    "trending_score": 1.0595,
-    "count_24h": 10,
+    "trending_score": 1.0238,
+    "count_24h": 9,
     "count_7d": 58,
     "top_articles": [
       {
@@ -83,8 +83,8 @@
   {
     "cluster_id": "7",
     "label": "england, wimbledon, stokes",
-    "trending_score": 0.9214,
-    "count_24h": 11,
+    "trending_score": 0.9,
+    "count_24h": 10,
     "count_7d": 120,
     "top_articles": [
       {
@@ -110,9 +110,9 @@
   {
     "cluster_id": "1",
     "label": "said, police, man",
-    "trending_score": 0.8868,
+    "trending_score": 0.8846,
     "count_24h": 19,
-    "count_7d": 142,
+    "count_7d": 141,
     "top_articles": [
       {
         "id": "3871",
@@ -131,33 +131,6 @@
         "title": "Woman denies consensual encounter in Top Boy actor rape trial",
         "url": "https://www.bbc.co.uk/news/articles/c24y2303ev8o?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-03 19:38:34"
-      }
-    ]
-  },
-  {
-    "cluster_id": "2",
-    "label": "video, play arrow, video duration",
-    "trending_score": 0.8162,
-    "count_24h": 17,
-    "count_7d": 157,
-    "top_articles": [
-      {
-        "id": "3897",
-        "title": "Could Israel really build settlements in Gaza?",
-        "url": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss",
-        "date": "2026-07-04 05:41:23"
-      },
-      {
-        "id": "3900",
-        "title": "Thirty-two years on, young Rwandans reflect on progress, pain and hope",
-        "url": "https://www.aljazeera.com/news/2026/7/4/thirty-two-years-on-young-rwandans-reflect-on-progress-pain-and-hope?traffic_source=rss",
-        "date": "2026-07-04 04:12:20"
-      },
-      {
-        "id": "3879",
-        "title": "Russia looks to students to make up for mounting losses in Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/cp8lnnr080go?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 23:24:20"
       }
     ]
   },
@@ -189,11 +162,38 @@
     ]
   },
   {
+    "cluster_id": "2",
+    "label": "video, play arrow, video duration",
+    "trending_score": 0.797,
+    "count_24h": 16,
+    "count_7d": 157,
+    "top_articles": [
+      {
+        "id": "3897",
+        "title": "Could Israel really build settlements in Gaza?",
+        "url": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss",
+        "date": "2026-07-04 05:41:23"
+      },
+      {
+        "id": "3900",
+        "title": "Thirty-two years on, young Rwandans reflect on progress, pain and hope",
+        "url": "https://www.aljazeera.com/news/2026/7/4/thirty-two-years-on-young-rwandans-reflect-on-progress-pain-and-hope?traffic_source=rss",
+        "date": "2026-07-04 04:12:20"
+      },
+      {
+        "id": "3879",
+        "title": "Russia looks to students to make up for mounting losses in Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/cp8lnnr080go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 23:24:20"
+      }
+    ]
+  },
+  {
     "cluster_id": "10",
     "label": "iran, israel, said",
-    "trending_score": 0.7908,
+    "trending_score": 0.7853,
     "count_24h": 14,
-    "count_7d": 117,
+    "count_7d": 115,
     "top_articles": [
       {
         "id": "3891",
@@ -218,7 +218,7 @@
   {
     "cluster_id": "11",
     "label": "said, health, ebola",
-    "trending_score": 0.6977,
+    "trending_score": 0.6893,
     "count_24h": 8,
     "count_7d": 97,
     "top_articles": [
@@ -299,7 +299,7 @@
   {
     "cluster_id": "13",
     "label": "new, image, said",
-    "trending_score": 0.3826,
+    "trending_score": 0.3778,
     "count_24h": 13,
     "count_7d": 82,
     "top_articles": [
@@ -353,9 +353,9 @@
   {
     "cluster_id": "16",
     "label": "market, new, energy",
-    "trending_score": 0.302,
+    "trending_score": 0.3,
     "count_24h": 5,
-    "count_7d": 70,
+    "count_7d": 69,
     "top_articles": [
       {
         "id": "3817",
@@ -380,7 +380,7 @@
   {
     "cluster_id": "6",
     "label": "china, taiwan, chinese",
-    "trending_score": 0.2937,
+    "trending_score": 0.2832,
     "count_24h": 4,
     "count_7d": 30,
     "top_articles": [

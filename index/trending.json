@@ -2,7 +2,7 @@
   {
     "cluster_id": "7",
     "label": "world, cup, world cup",
-    "trending_score": 0.8654,
+    "trending_score": 0.8558,
     "count_24h": 5,
     "count_7d": 144,
     "top_articles": [
@@ -56,8 +56,8 @@
   {
     "cluster_id": "1",
     "label": "iran, israel, said",
-    "trending_score": 0.6851,
-    "count_24h": 8,
+    "trending_score": 0.6436,
+    "count_24h": 6,
     "count_7d": 131,
     "top_articles": [
       {
@@ -81,36 +81,9 @@
     ]
   },
   {
-    "cluster_id": "3",
-    "label": "england, world, cup",
-    "trending_score": 0.6581,
-    "count_24h": 3,
-    "count_7d": 82,
-    "top_articles": [
-      {
-        "id": "3681",
-        "title": "‘Bigger than football’: Norway fans’ Viking row makes waves at World Cup",
-        "url": "https://www.theguardian.com/world/2026/jul/03/norway-fans-viking-row-world-cup",
-        "date": "2026-07-03 05:00:19"
-      },
-      {
-        "id": "3644",
-        "title": "Hard work and a disco jacket - how England turned fielding woes around",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cwyedgekzyjo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 00:26:53"
-      },
-      {
-        "id": "3643",
-        "title": "'World cup pubs boost' and 'Kate holds court'",
-        "url": "https://www.bbc.co.uk/news/articles/c5yz8jqq47jo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 00:03:42"
-      }
-    ]
-  },
-  {
     "cluster_id": "0",
     "label": "heat, temperatures, heatwave",
-    "trending_score": 0.6558,
+    "trending_score": 0.6364,
     "count_24h": 3,
     "count_7d": 50,
     "top_articles": [
@@ -137,9 +110,9 @@
   {
     "cluster_id": "10",
     "label": "said, health, care",
-    "trending_score": 0.6386,
-    "count_24h": 4,
-    "count_7d": 98,
+    "trending_score": 0.6175,
+    "count_24h": 3,
+    "count_7d": 97,
     "top_articles": [
       {
         "id": "3690",
@@ -189,10 +162,37 @@
     ]
   },
   {
+    "cluster_id": "3",
+    "label": "england, world, cup",
+    "trending_score": 0.6068,
+    "count_24h": 2,
+    "count_7d": 82,
+    "top_articles": [
+      {
+        "id": "3681",
+        "title": "‘Bigger than football’: Norway fans’ Viking row makes waves at World Cup",
+        "url": "https://www.theguardian.com/world/2026/jul/03/norway-fans-viking-row-world-cup",
+        "date": "2026-07-03 05:00:19"
+      },
+      {
+        "id": "3644",
+        "title": "Hard work and a disco jacket - how England turned fielding woes around",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cwyedgekzyjo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 00:26:53"
+      },
+      {
+        "id": "3643",
+        "title": "'World cup pubs boost' and 'Kate holds court'",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz8jqq47jo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 00:03:42"
+      }
+    ]
+  },
+  {
     "cluster_id": "6",
     "label": "said, police, man",
-    "trending_score": 0.5673,
-    "count_24h": 6,
+    "trending_score": 0.549,
+    "count_24h": 5,
     "count_7d": 119,
     "top_articles": [
       {
@@ -245,7 +245,7 @@
   {
     "cluster_id": "8",
     "label": "said, media, ai",
-    "trending_score": 0.5034,
+    "trending_score": 0.4932,
     "count_24h": 3,
     "count_7d": 74,
     "top_articles": [
@@ -299,8 +299,8 @@
   {
     "cluster_id": "13",
     "label": "trump, court, president",
-    "trending_score": 0.4397,
-    "count_24h": 7,
+    "trending_score": 0.3862,
+    "count_24h": 3,
     "count_7d": 101,
     "top_articles": [
       {
@@ -326,8 +326,8 @@
   {
     "cluster_id": "19",
     "label": "ai, new, tech",
-    "trending_score": 0.3451,
-    "count_24h": 2,
+    "trending_score": 0.3157,
+    "count_24h": 0,
     "count_7d": 98,
     "top_articles": [
       {
@@ -347,33 +347,6 @@
         "title": "AI is 'not smart' so what's next in artificial intelligence?",
         "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-02 23:02:09"
-      }
-    ]
-  },
-  {
-    "cluster_id": "2",
-    "label": "says, africa, said",
-    "trending_score": 0.2951,
-    "count_24h": 3,
-    "count_7d": 94,
-    "top_articles": [
-      {
-        "id": "3671",
-        "title": "Who are the rogue bishops defying Pope Leo XIV?",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/who-are-the-rogue-bishops-defying-pope-leo-xiv?traffic_source=rss",
-        "date": "2026-07-03 02:36:54"
-      },
-      {
-        "id": "3651",
-        "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
-        "url": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
-        "date": "2026-07-03 00:00:13"
-      },
-      {
-        "id": "3638",
-        "title": "How the American Dream has survived 250 years, but only just",
-        "url": "https://www.bbc.co.uk/news/articles/cx2vpz2qee5o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-02 23:14:29"
       }
     ]
   },
@@ -405,11 +378,38 @@
     ]
   },
   {
+    "cluster_id": "2",
+    "label": "says, africa, said",
+    "trending_score": 0.2726,
+    "count_24h": 1,
+    "count_7d": 94,
+    "top_articles": [
+      {
+        "id": "3671",
+        "title": "Who are the rogue bishops defying Pope Leo XIV?",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/who-are-the-rogue-bishops-defying-pope-leo-xiv?traffic_source=rss",
+        "date": "2026-07-03 02:36:54"
+      },
+      {
+        "id": "3651",
+        "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
+        "url": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
+        "date": "2026-07-03 00:00:13"
+      },
+      {
+        "id": "3638",
+        "title": "How the American Dream has survived 250 years, but only just",
+        "url": "https://www.bbc.co.uk/news/articles/cx2vpz2qee5o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-02 23:14:29"
+      }
+    ]
+  },
+  {
     "cluster_id": "16",
     "label": "new, taiwan, year",
-    "trending_score": 0.1915,
-    "count_24h": 4,
-    "count_7d": 61,
+    "trending_score": 0.1732,
+    "count_24h": 3,
+    "count_7d": 60,
     "top_articles": [
       {
         "id": "3682",
@@ -461,8 +461,8 @@
   {
     "cluster_id": "4",
     "label": "latest, california, state",
-    "trending_score": 0.0543,
-    "count_24h": 1,
+    "trending_score": 0.0431,
+    "count_24h": 0,
     "count_7d": 11,
     "top_articles": [
       {

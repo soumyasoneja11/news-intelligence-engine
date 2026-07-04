@@ -2796,6 +2796,32 @@
   },
   {
     "article_a": {
+      "id": "1989",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002wcyp?at_medium=RSS&at_campaign=rss"
+    },
+    "article_b": {
+      "id": "2212",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "1989",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002wcyp?at_medium=RSS&at_campaign=rss"
+    },
+    "article_b": {
+      "id": "2028",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002wcyp/tech-now-deep-dive-underwater-tech?at_medium=RSS&at_campaign=rss"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
       "id": "2026",
       "title": "Tech Now",
       "url": "https://www.bbc.co.uk/iplayer/episode/m002x058/tech-now-building-my-body?at_medium=RSS&at_campaign=rss"
@@ -2804,6 +2830,19 @@
       "id": "3550",
       "title": "Tech Now",
       "url": "https://www.bbc.co.uk/iplayer/episode/m002x058/tech-now-building-my-body?at_campaign=rss&at_medium=RSS"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "2028",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002wcyp/tech-now-deep-dive-underwater-tech?at_medium=RSS&at_campaign=rss"
+    },
+    "article_b": {
+      "id": "2212",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss"
     },
     "similarity": 1.0000001192092896
   },
@@ -3100,6 +3139,19 @@
       "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq?at_medium=RSS&at_campaign=rss"
     },
     "article_b": {
+      "id": "4009",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq/tech-now-world-cup-gamechanging-tech?at_campaign=rss&at_medium=RSS"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
+      "id": "1986",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq?at_medium=RSS&at_campaign=rss"
+    },
+    "article_b": {
       "id": "2025",
       "title": "Tech Now",
       "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq/tech-now-world-cup-gamechanging-tech?at_medium=RSS&at_campaign=rss"
@@ -3108,40 +3160,14 @@
   },
   {
     "article_a": {
-      "id": "1989",
+      "id": "2025",
       "title": "Tech Now",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002wcyp?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq/tech-now-world-cup-gamechanging-tech?at_medium=RSS&at_campaign=rss"
     },
     "article_b": {
-      "id": "2212",
+      "id": "4009",
       "title": "Tech Now",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "1989",
-      "title": "Tech Now",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002wcyp?at_medium=RSS&at_campaign=rss"
-    },
-    "article_b": {
-      "id": "2028",
-      "title": "Tech Now",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002wcyp/tech-now-deep-dive-underwater-tech?at_medium=RSS&at_campaign=rss"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "2028",
-      "title": "Tech Now",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002wcyp/tech-now-deep-dive-underwater-tech?at_medium=RSS&at_campaign=rss"
-    },
-    "article_b": {
-      "id": "2212",
-      "title": "Tech Now",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq/tech-now-world-cup-gamechanging-tech?at_campaign=rss&at_medium=RSS"
     },
     "similarity": 1.0
   },
@@ -3208,7 +3234,7 @@
       "title": "How AI is being weaponised against India’s Muslim women",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/how-ai-is-being-weaponised-against-indias-muslim-women?traffic_source=rss"
     },
-    "similarity": 0.9758653044700623
+    "similarity": 0.9758652448654175
   },
   {
     "article_a": {
@@ -3585,7 +3611,7 @@
       "title": "Rally for Luxembourg teacher fired over pro-Gaza posts",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/rally-for-luxembourg-teacher-fired-over-pro-gaza-posts?traffic_source=rss"
     },
-    "similarity": 0.9290658235549927
+    "similarity": 0.9290659427642822
   },
   {
     "article_a": {
@@ -3728,7 +3754,7 @@
       "title": "Portugal fans gather ahead of Ronaldo-Modric clash",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/portugal-fans-gather-ahead-of-ronaldo-modric-clash?traffic_source=rss"
     },
-    "similarity": 0.9224599599838257
+    "similarity": 0.9224600195884705
   },
   {
     "article_a": {

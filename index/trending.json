@@ -2,9 +2,9 @@
   {
     "cluster_id": "18",
     "label": "world, cup, world cup",
-    "trending_score": 1.3552,
-    "count_24h": 42,
-    "count_7d": 219,
+    "trending_score": 1.2452,
+    "count_24h": 36,
+    "count_7d": 216,
     "top_articles": [
       {
         "id": "3905",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "17",
     "label": "burnham, said, uk",
-    "trending_score": 1.1625,
-    "count_24h": 22,
-    "count_7d": 180,
+    "trending_score": 1.1,
+    "count_24h": 20,
+    "count_7d": 179,
     "top_articles": [
       {
         "id": "3903",
@@ -56,9 +56,9 @@
   {
     "cluster_id": "14",
     "label": "heat, temperatures, heatwave",
-    "trending_score": 1.0238,
-    "count_24h": 9,
-    "count_7d": 58,
+    "trending_score": 0.9286,
+    "count_24h": 7,
+    "count_7d": 57,
     "top_articles": [
       {
         "id": "3901",
@@ -83,7 +83,7 @@
   {
     "cluster_id": "7",
     "label": "england, wimbledon, stokes",
-    "trending_score": 0.9,
+    "trending_score": 0.8786,
     "count_24h": 10,
     "count_7d": 120,
     "top_articles": [
@@ -110,9 +110,9 @@
   {
     "cluster_id": "1",
     "label": "said, police, man",
-    "trending_score": 0.8846,
-    "count_24h": 19,
-    "count_7d": 141,
+    "trending_score": 0.8504,
+    "count_24h": 18,
+    "count_7d": 140,
     "top_articles": [
       {
         "id": "3871",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "5",
     "label": "venezuela, 01, 00",
-    "trending_score": 0.8125,
+    "trending_score": 0.7946,
     "count_24h": 8,
-    "count_7d": 89,
+    "count_7d": 88,
     "top_articles": [
       {
         "id": "3886",
@@ -164,8 +164,8 @@
   {
     "cluster_id": "2",
     "label": "video, play arrow, video duration",
-    "trending_score": 0.797,
-    "count_24h": 16,
+    "trending_score": 0.7585,
+    "count_24h": 14,
     "count_7d": 157,
     "top_articles": [
       {
@@ -191,8 +191,8 @@
   {
     "cluster_id": "10",
     "label": "iran, israel, said",
-    "trending_score": 0.7853,
-    "count_24h": 14,
+    "trending_score": 0.7527,
+    "count_24h": 13,
     "count_7d": 115,
     "top_articles": [
       {
@@ -218,8 +218,8 @@
   {
     "cluster_id": "11",
     "label": "said, health, ebola",
-    "trending_score": 0.6893,
-    "count_24h": 8,
+    "trending_score": 0.6469,
+    "count_24h": 7,
     "count_7d": 97,
     "top_articles": [
       {
@@ -243,36 +243,9 @@
     ]
   },
   {
-    "cluster_id": "15",
-    "label": "trump, latest, president",
-    "trending_score": 0.5295,
-    "count_24h": 14,
-    "count_7d": 83,
-    "top_articles": [
-      {
-        "id": "3908",
-        "title": "Trump launches America’s 250th birthday celebrations with partisan attack",
-        "url": "https://www.theguardian.com/us-news/2026/jul/04/trump-launches-americas-250th-birthday-celebrations-with-partisan-attack",
-        "date": "2026-07-04 05:30:35"
-      },
-      {
-        "id": "3898",
-        "title": "Trump calls communism a ‘mortal threat’ at US 250th birthday event",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/trump-calls-communism-a-mortal-threat-at-us-250th-birthday-event?traffic_source=rss",
-        "date": "2026-07-04 04:54:40"
-      },
-      {
-        "id": "3895",
-        "title": "Fireworks, flyovers and a 'really long' Trump speech ahead as US celebrates 250th",
-        "url": "https://www.bbc.co.uk/news/articles/cp36l4e6v9po?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-04 04:31:13"
-      }
-    ]
-  },
-  {
     "cluster_id": "3",
     "label": "ai, tech, new",
-    "trending_score": 0.5236,
+    "trending_score": 0.5186,
     "count_24h": 10,
     "count_7d": 139,
     "top_articles": [
@@ -297,11 +270,38 @@
     ]
   },
   {
+    "cluster_id": "15",
+    "label": "trump, latest, president",
+    "trending_score": 0.5105,
+    "count_24h": 13,
+    "count_7d": 83,
+    "top_articles": [
+      {
+        "id": "3908",
+        "title": "Trump launches America’s 250th birthday celebrations with partisan attack",
+        "url": "https://www.theguardian.com/us-news/2026/jul/04/trump-launches-americas-250th-birthday-celebrations-with-partisan-attack",
+        "date": "2026-07-04 05:30:35"
+      },
+      {
+        "id": "3898",
+        "title": "Trump calls communism a ‘mortal threat’ at US 250th birthday event",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/trump-calls-communism-a-mortal-threat-at-us-250th-birthday-event?traffic_source=rss",
+        "date": "2026-07-04 04:54:40"
+      },
+      {
+        "id": "3895",
+        "title": "Fireworks, flyovers and a 'really long' Trump speech ahead as US celebrates 250th",
+        "url": "https://www.bbc.co.uk/news/articles/cp36l4e6v9po?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-04 04:31:13"
+      }
+    ]
+  },
+  {
     "cluster_id": "13",
     "label": "new, image, said",
-    "trending_score": 0.3778,
+    "trending_score": 0.3746,
     "count_24h": 13,
-    "count_7d": 82,
+    "count_7d": 80,
     "top_articles": [
       {
         "id": "3894",
@@ -326,9 +326,9 @@
   {
     "cluster_id": "9",
     "label": "police, said, shooting",
-    "trending_score": 0.3304,
+    "trending_score": 0.3261,
     "count_24h": 4,
-    "count_7d": 80,
+    "count_7d": 78,
     "top_articles": [
       {
         "id": "3863",
@@ -380,8 +380,8 @@
   {
     "cluster_id": "6",
     "label": "china, taiwan, chinese",
-    "trending_score": 0.2832,
-    "count_24h": 4,
+    "trending_score": 0.2517,
+    "count_24h": 3,
     "count_7d": 30,
     "top_articles": [
       {

@@ -40,6 +40,19 @@
   },
   {
     "article_a": {
+      "id": "388",
+      "title": "Dallas man set to die for killing daughters, 9 and 6",
+      "url": "https://www.taiwannews.com.tw/en/news/3354964"
+    },
+    "article_b": {
+      "id": "1391",
+      "title": "Dallas man set to die for killing daughters, 9 and 6",
+      "url": "https://www.taiwannews.com.tw/en/news/3355191"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
       "id": "413",
       "title": "Peloton Names Pamela Thomas-Graham to Its Board of Directors",
       "url": "https://www.taiwannews.com.tw/en/news/3413598"
@@ -295,19 +308,6 @@
       "id": "1406",
       "title": "Pakistan eliminates Zimbabwe from tri-series tournament",
       "url": "https://www.taiwannews.com.tw/en/news/3474223"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "388",
-      "title": "Dallas man set to die for killing daughters, 9 and 6",
-      "url": "https://www.taiwannews.com.tw/en/news/3354964"
-    },
-    "article_b": {
-      "id": "1391",
-      "title": "Dallas man set to die for killing daughters, 9 and 6",
-      "url": "https://www.taiwannews.com.tw/en/news/3355191"
     },
     "similarity": 1.0
   },
@@ -3494,7 +3494,7 @@
       "title": "Iran to hold talks with Qatar on MoU deal with US, frozen assets",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/iran-to-hold-talks-with-qatar-on-mou-deal-with-us-frozen-assets?traffic_source=rss"
     },
-    "similarity": 0.937150776386261
+    "similarity": 0.9371508359909058
   },
   {
     "article_a": {

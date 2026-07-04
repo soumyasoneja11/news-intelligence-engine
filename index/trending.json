@@ -1,37 +1,10 @@
 [
   {
-    "cluster_id": "17",
-    "label": "burnham, said, uk",
-    "trending_score": 0.985,
-    "count_24h": 17,
-    "count_7d": 175,
-    "top_articles": [
-      {
-        "id": "3903",
-        "title": "Brexit rule change means British teens in EU face soaring student fees for UK degrees",
-        "url": "https://www.theguardian.com/money/2026/jul/04/british-teens-eu-student-fees-jump-uk-degrees-brexit-loans",
-        "date": "2026-07-04 06:00:06"
-      },
-      {
-        "id": "3904",
-        "title": "UK and Ireland leaders fear for union’s future under Farage-led government",
-        "url": "https://www.theguardian.com/politics/2026/jul/04/uk-ireland-leaders-fear-union-future-nigel-farage-led-government",
-        "date": "2026-07-04 06:00:05"
-      },
-      {
-        "id": "3906",
-        "title": "As the US marks 250, does the special relationship still exist – or is the UK just irrelevant?",
-        "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/04/us-250-britain-special-relationship",
-        "date": "2026-07-04 05:00:07"
-      }
-    ]
-  },
-  {
     "cluster_id": "18",
     "label": "world, cup, world cup",
-    "trending_score": 0.9826,
+    "trending_score": 0.9691,
     "count_24h": 19,
-    "count_7d": 212,
+    "count_7d": 211,
     "top_articles": [
       {
         "id": "3905",
@@ -54,11 +27,38 @@
     ]
   },
   {
+    "cluster_id": "17",
+    "label": "burnham, said, uk",
+    "trending_score": 0.8925,
+    "count_24h": 12,
+    "count_7d": 174,
+    "top_articles": [
+      {
+        "id": "3903",
+        "title": "Brexit rule change means British teens in EU face soaring student fees for UK degrees",
+        "url": "https://www.theguardian.com/money/2026/jul/04/british-teens-eu-student-fees-jump-uk-degrees-brexit-loans",
+        "date": "2026-07-04 06:00:06"
+      },
+      {
+        "id": "3904",
+        "title": "UK and Ireland leaders fear for union’s future under Farage-led government",
+        "url": "https://www.theguardian.com/politics/2026/jul/04/uk-ireland-leaders-fear-union-future-nigel-farage-led-government",
+        "date": "2026-07-04 06:00:05"
+      },
+      {
+        "id": "3906",
+        "title": "As the US marks 250, does the special relationship still exist – or is the UK just irrelevant?",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/04/us-250-britain-special-relationship",
+        "date": "2026-07-04 05:00:07"
+      }
+    ]
+  },
+  {
     "cluster_id": "14",
     "label": "heat, temperatures, heatwave",
-    "trending_score": 0.8155,
+    "trending_score": 0.7917,
     "count_24h": 6,
-    "count_7d": 53,
+    "count_7d": 52,
     "top_articles": [
       {
         "id": "3901",
@@ -83,9 +83,9 @@
   {
     "cluster_id": "7",
     "label": "england, wimbledon, stokes",
-    "trending_score": 0.7643,
+    "trending_score": 0.7429,
     "count_24h": 7,
-    "count_7d": 118,
+    "count_7d": 115,
     "top_articles": [
       {
         "id": "3881",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "5",
     "label": "venezuela, 01, 00",
-    "trending_score": 0.7277,
+    "trending_score": 0.7232,
     "count_24h": 7,
-    "count_7d": 85,
+    "count_7d": 84,
     "top_articles": [
       {
         "id": "3886",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "1",
     "label": "said, police, man",
-    "trending_score": 0.7137,
-    "count_24h": 12,
-    "count_7d": 136,
+    "trending_score": 0.641,
+    "count_24h": 9,
+    "count_7d": 135,
     "top_articles": [
       {
         "id": "3871",
@@ -162,37 +162,10 @@
     ]
   },
   {
-    "cluster_id": "10",
-    "label": "iran, israel, said",
-    "trending_score": 0.625,
-    "count_24h": 7,
-    "count_7d": 110,
-    "top_articles": [
-      {
-        "id": "3891",
-        "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
-        "date": "2026-07-04 00:00:00"
-      },
-      {
-        "id": "3836",
-        "title": "Lebanon-Israel deal betrays ‘victims of war crimes’, rights groups say",
-        "url": "https://www.aljazeera.com/news/2026/7/3/lebanon-israel-deal-betrays-victims-of-war-crimes-rights-groups-say?traffic_source=rss",
-        "date": "2026-07-03 19:27:15"
-      },
-      {
-        "id": "3840",
-        "title": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
-        "url": "https://www.aljazeera.com/news/2026/7/3/iran-begins-week-of-funeral-ceremonies-for-slain-supreme-leader-khamenei?traffic_source=rss",
-        "date": "2026-07-03 18:39:31"
-      }
-    ]
-  },
-  {
     "cluster_id": "2",
     "label": "video, play arrow, video duration",
-    "trending_score": 0.6197,
-    "count_24h": 8,
+    "trending_score": 0.6004,
+    "count_24h": 7,
     "count_7d": 155,
     "top_articles": [
       {
@@ -216,11 +189,38 @@
     ]
   },
   {
+    "cluster_id": "10",
+    "label": "iran, israel, said",
+    "trending_score": 0.5924,
+    "count_24h": 6,
+    "count_7d": 107,
+    "top_articles": [
+      {
+        "id": "3891",
+        "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
+        "date": "2026-07-04 00:00:00"
+      },
+      {
+        "id": "3836",
+        "title": "Lebanon-Israel deal betrays ‘victims of war crimes’, rights groups say",
+        "url": "https://www.aljazeera.com/news/2026/7/3/lebanon-israel-deal-betrays-victims-of-war-crimes-rights-groups-say?traffic_source=rss",
+        "date": "2026-07-03 19:27:15"
+      },
+      {
+        "id": "3840",
+        "title": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
+        "url": "https://www.aljazeera.com/news/2026/7/3/iran-begins-week-of-funeral-ceremonies-for-slain-supreme-leader-khamenei?traffic_source=rss",
+        "date": "2026-07-03 18:39:31"
+      }
+    ]
+  },
+  {
     "cluster_id": "11",
     "label": "said, health, ebola",
-    "trending_score": 0.5226,
-    "count_24h": 3,
-    "count_7d": 95,
+    "trending_score": 0.4944,
+    "count_24h": 2,
+    "count_7d": 94,
     "top_articles": [
       {
         "id": "3856",
@@ -245,8 +245,8 @@
   {
     "cluster_id": "3",
     "label": "ai, tech, new",
-    "trending_score": 0.4595,
-    "count_24h": 7,
+    "trending_score": 0.424,
+    "count_24h": 6,
     "count_7d": 137,
     "top_articles": [
       {
@@ -272,9 +272,9 @@
   {
     "cluster_id": "15",
     "label": "trump, latest, president",
-    "trending_score": 0.4198,
+    "trending_score": 0.4114,
     "count_24h": 8,
-    "count_7d": 82,
+    "count_7d": 81,
     "top_articles": [
       {
         "id": "3908",
@@ -299,7 +299,7 @@
   {
     "cluster_id": "13",
     "label": "new, image, said",
-    "trending_score": 0.3135,
+    "trending_score": 0.3087,
     "count_24h": 8,
     "count_7d": 78,
     "top_articles": [
@@ -326,7 +326,7 @@
   {
     "cluster_id": "9",
     "label": "police, said, shooting",
-    "trending_score": 0.2739,
+    "trending_score": 0.2543,
     "count_24h": 3,
     "count_7d": 75,
     "top_articles": [
@@ -347,33 +347,6 @@
         "title": "Man charged with manslaughter over Tesla crash originally blamed on car’s self-driving mode",
         "url": "https://www.theguardian.com/us-news/2026/jul/03/tesla-texas-crash-manslaughter",
         "date": "2026-07-03 16:15:41"
-      }
-    ]
-  },
-  {
-    "cluster_id": "16",
-    "label": "market, new, energy",
-    "trending_score": 0.2551,
-    "count_24h": 4,
-    "count_7d": 68,
-    "top_articles": [
-      {
-        "id": "3817",
-        "title": "Chevy built an all-American EV truck — why is nobody buying it?",
-        "url": "https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/",
-        "date": "2026-07-03 16:30:00"
-      },
-      {
-        "id": "3815",
-        "title": "London has lost ‘catastrophic’ 89% of car club vehicles since Zipcar exit",
-        "url": "https://www.theguardian.com/money/2026/jul/03/london-car-club-vehicles-zipcar-exit",
-        "date": "2026-07-03 16:00:32"
-      },
-      {
-        "id": "3811",
-        "title": "New pipeline in Canada to proceed after C$150bn pledged to ease BC and First Nations concerns",
-        "url": "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline",
-        "date": "2026-07-03 15:34:32"
       }
     ]
   },
@@ -401,6 +374,33 @@
         "title": "Dissident Hong Kong bookseller Lam Wing-kee dies aged 70",
         "url": "https://www.bbc.co.uk/news/articles/cwy0wy0nenvo?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-03 16:31:40"
+      }
+    ]
+  },
+  {
+    "cluster_id": "16",
+    "label": "market, new, energy",
+    "trending_score": 0.2184,
+    "count_24h": 2,
+    "count_7d": 68,
+    "top_articles": [
+      {
+        "id": "3817",
+        "title": "Chevy built an all-American EV truck — why is nobody buying it?",
+        "url": "https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/",
+        "date": "2026-07-03 16:30:00"
+      },
+      {
+        "id": "3815",
+        "title": "London has lost ‘catastrophic’ 89% of car club vehicles since Zipcar exit",
+        "url": "https://www.theguardian.com/money/2026/jul/03/london-car-club-vehicles-zipcar-exit",
+        "date": "2026-07-03 16:00:32"
+      },
+      {
+        "id": "3811",
+        "title": "New pipeline in Canada to proceed after C$150bn pledged to ease BC and First Nations concerns",
+        "url": "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline",
+        "date": "2026-07-03 15:34:32"
       }
     ]
   },
@@ -434,7 +434,7 @@
   {
     "cluster_id": "0",
     "label": "new, says, signs",
-    "trending_score": 0.1421,
+    "trending_score": 0.1379,
     "count_24h": 4,
     "count_7d": 42,
     "top_articles": [

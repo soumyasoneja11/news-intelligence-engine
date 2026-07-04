@@ -2,9 +2,9 @@
   {
     "cluster_id": "18",
     "label": "world, cup, world cup",
-    "trending_score": 1.2452,
-    "count_24h": 36,
-    "count_7d": 216,
+    "trending_score": 1.1371,
+    "count_24h": 29,
+    "count_7d": 214,
     "top_articles": [
       {
         "id": "3905",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "17",
     "label": "burnham, said, uk",
-    "trending_score": 1.1,
-    "count_24h": 20,
-    "count_7d": 179,
+    "trending_score": 1.0475,
+    "count_24h": 18,
+    "count_7d": 176,
     "top_articles": [
       {
         "id": "3903",
@@ -56,9 +56,9 @@
   {
     "cluster_id": "14",
     "label": "heat, temperatures, heatwave",
-    "trending_score": 0.9286,
-    "count_24h": 7,
-    "count_7d": 57,
+    "trending_score": 0.8869,
+    "count_24h": 6,
+    "count_7d": 56,
     "top_articles": [
       {
         "id": "3901",
@@ -83,9 +83,9 @@
   {
     "cluster_id": "7",
     "label": "england, wimbledon, stokes",
-    "trending_score": 0.8786,
+    "trending_score": 0.875,
     "count_24h": 10,
-    "count_7d": 120,
+    "count_7d": 119,
     "top_articles": [
       {
         "id": "3881",
@@ -110,7 +110,7 @@
   {
     "cluster_id": "1",
     "label": "said, police, man",
-    "trending_score": 0.8504,
+    "trending_score": 0.8312,
     "count_24h": 18,
     "count_7d": 140,
     "top_articles": [
@@ -137,8 +137,8 @@
   {
     "cluster_id": "5",
     "label": "venezuela, 01, 00",
-    "trending_score": 0.7946,
-    "count_24h": 8,
+    "trending_score": 0.7679,
+    "count_24h": 7,
     "count_7d": 88,
     "top_articles": [
       {
@@ -164,8 +164,8 @@
   {
     "cluster_id": "2",
     "label": "video, play arrow, video duration",
-    "trending_score": 0.7585,
-    "count_24h": 14,
+    "trending_score": 0.7329,
+    "count_24h": 13,
     "count_7d": 157,
     "top_articles": [
       {
@@ -191,9 +191,9 @@
   {
     "cluster_id": "10",
     "label": "iran, israel, said",
-    "trending_score": 0.7527,
-    "count_24h": 13,
-    "count_7d": 115,
+    "trending_score": 0.6793,
+    "count_24h": 9,
+    "count_7d": 112,
     "top_articles": [
       {
         "id": "3891",
@@ -218,7 +218,7 @@
   {
     "cluster_id": "11",
     "label": "said, health, ebola",
-    "trending_score": 0.6469,
+    "trending_score": 0.6299,
     "count_24h": 7,
     "count_7d": 97,
     "top_articles": [
@@ -245,9 +245,9 @@
   {
     "cluster_id": "3",
     "label": "ai, tech, new",
-    "trending_score": 0.5186,
-    "count_24h": 10,
-    "count_7d": 139,
+    "trending_score": 0.4865,
+    "count_24h": 8,
+    "count_7d": 138,
     "top_articles": [
       {
         "id": "3867",
@@ -272,9 +272,9 @@
   {
     "cluster_id": "15",
     "label": "trump, latest, president",
-    "trending_score": 0.5105,
-    "count_24h": 13,
-    "count_7d": 83,
+    "trending_score": 0.4831,
+    "count_24h": 12,
+    "count_7d": 82,
     "top_articles": [
       {
         "id": "3908",
@@ -299,8 +299,8 @@
   {
     "cluster_id": "13",
     "label": "new, image, said",
-    "trending_score": 0.3746,
-    "count_24h": 13,
+    "trending_score": 0.3312,
+    "count_24h": 9,
     "count_7d": 80,
     "top_articles": [
       {
@@ -326,9 +326,9 @@
   {
     "cluster_id": "9",
     "label": "police, said, shooting",
-    "trending_score": 0.3261,
-    "count_24h": 4,
-    "count_7d": 78,
+    "trending_score": 0.2891,
+    "count_24h": 3,
+    "count_7d": 76,
     "top_articles": [
       {
         "id": "3863",
@@ -353,9 +353,9 @@
   {
     "cluster_id": "16",
     "label": "market, new, energy",
-    "trending_score": 0.3,
-    "count_24h": 5,
-    "count_7d": 69,
+    "trending_score": 0.2857,
+    "count_24h": 4,
+    "count_7d": 68,
     "top_articles": [
       {
         "id": "3817",
@@ -380,7 +380,7 @@
   {
     "cluster_id": "6",
     "label": "china, taiwan, chinese",
-    "trending_score": 0.2517,
+    "trending_score": 0.2413,
     "count_24h": 3,
     "count_7d": 30,
     "top_articles": [
@@ -405,10 +405,37 @@
     ]
   },
   {
+    "cluster_id": "8",
+    "label": "court, trump, supreme court",
+    "trending_score": 0.168,
+    "count_24h": 1,
+    "count_7d": 55,
+    "top_articles": [
+      {
+        "id": "3794",
+        "title": "Louisiana court halts criminal indictment against state attorney general",
+        "url": "https://www.theguardian.com/us-news/2026/jul/03/louisiana-criminal-indictment-halted-attorney-general-liz-murrill",
+        "date": "2026-07-03 14:06:20"
+      },
+      {
+        "id": "3648",
+        "title": "Trump administration indicts Olympic athlete for Reflecting Pool vandalism",
+        "url": "https://www.aljazeera.com/news/2026/7/2/trump-administration-indicts-olympic-athlete-for-reflecting-pool-vandalism?traffic_source=rss",
+        "date": "2026-07-02 23:31:22"
+      },
+      {
+        "id": "3631",
+        "title": "Louisiana: Republican attorney general indicted on criminal charges",
+        "url": "https://www.theguardian.com/us-news/2026/jul/02/louisiana-republican-attorney-general-liz-murrill",
+        "date": "2026-07-02 21:57:30"
+      }
+    ]
+  },
+  {
     "cluster_id": "0",
     "label": "new, says, signs",
-    "trending_score": 0.1713,
-    "count_24h": 6,
+    "trending_score": 0.1546,
+    "count_24h": 5,
     "count_7d": 42,
     "top_articles": [
       {
@@ -428,33 +455,6 @@
         "title": "Keiko Fujimori officially declared winner of Peru presidential race",
         "url": "https://www.aljazeera.com/news/2026/7/3/keiko-fujimori-officially-declared-winner-of-peru-presidential-race?traffic_source=rss",
         "date": "2026-07-03 18:14:45"
-      }
-    ]
-  },
-  {
-    "cluster_id": "8",
-    "label": "court, trump, supreme court",
-    "trending_score": 0.1701,
-    "count_24h": 1,
-    "count_7d": 56,
-    "top_articles": [
-      {
-        "id": "3794",
-        "title": "Louisiana court halts criminal indictment against state attorney general",
-        "url": "https://www.theguardian.com/us-news/2026/jul/03/louisiana-criminal-indictment-halted-attorney-general-liz-murrill",
-        "date": "2026-07-03 14:06:20"
-      },
-      {
-        "id": "3648",
-        "title": "Trump administration indicts Olympic athlete for Reflecting Pool vandalism",
-        "url": "https://www.aljazeera.com/news/2026/7/2/trump-administration-indicts-olympic-athlete-for-reflecting-pool-vandalism?traffic_source=rss",
-        "date": "2026-07-02 23:31:22"
-      },
-      {
-        "id": "3631",
-        "title": "Louisiana: Republican attorney general indicted on criminal charges",
-        "url": "https://www.theguardian.com/us-news/2026/jul/02/louisiana-republican-attorney-general-liz-murrill",
-        "date": "2026-07-02 21:57:30"
       }
     ]
   },

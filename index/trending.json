@@ -2,9 +2,9 @@
   {
     "cluster_id": "18",
     "label": "world, cup, world cup",
-    "trending_score": 0.9498,
+    "trending_score": 0.9421,
     "count_24h": 18,
-    "count_7d": 210,
+    "count_7d": 209,
     "top_articles": [
       {
         "id": "3905",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "17",
     "label": "burnham, said, uk",
-    "trending_score": 0.8675,
-    "count_24h": 11,
-    "count_7d": 173,
+    "trending_score": 0.82,
+    "count_24h": 9,
+    "count_7d": 172,
     "top_articles": [
       {
         "id": "3903",
@@ -56,7 +56,7 @@
   {
     "cluster_id": "14",
     "label": "heat, temperatures, heatwave",
-    "trending_score": 0.756,
+    "trending_score": 0.7381,
     "count_24h": 5,
     "count_7d": 52,
     "top_articles": [
@@ -83,7 +83,7 @@
   {
     "cluster_id": "5",
     "label": "venezuela, 01, 00",
-    "trending_score": 0.7232,
+    "trending_score": 0.6964,
     "count_24h": 7,
     "count_7d": 84,
     "top_articles": [
@@ -110,9 +110,9 @@
   {
     "cluster_id": "7",
     "label": "england, wimbledon, stokes",
-    "trending_score": 0.7036,
-    "count_24h": 6,
-    "count_7d": 113,
+    "trending_score": 0.6286,
+    "count_24h": 4,
+    "count_7d": 110,
     "top_articles": [
       {
         "id": "3881",
@@ -135,37 +135,10 @@
     ]
   },
   {
-    "cluster_id": "1",
-    "label": "said, police, man",
-    "trending_score": 0.5962,
-    "count_24h": 6,
-    "count_7d": 135,
-    "top_articles": [
-      {
-        "id": "3871",
-        "title": "Mini-marts linked to convicted people smuggler closed after BBC investigation",
-        "url": "https://www.bbc.co.uk/news/articles/cjwgp00l84qo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-04 01:54:31"
-      },
-      {
-        "id": "3893",
-        "title": "Third teenager charged after 15-year-old Melbourne boy allegedly left to die from stab wounds",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/04/third-teenager-charged-after-15-year-old-melbourne-boy-allegedly-left-to-die-from-stab-wounds-ntwnfb",
-        "date": "2026-07-04 01:42:25"
-      },
-      {
-        "id": "3833",
-        "title": "Woman denies consensual encounter in Top Boy actor rape trial",
-        "url": "https://www.bbc.co.uk/news/articles/c24y2303ev8o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 19:38:34"
-      }
-    ]
-  },
-  {
     "cluster_id": "2",
     "label": "video, play arrow, video duration",
-    "trending_score": 0.5812,
-    "count_24h": 7,
+    "trending_score": 0.5427,
+    "count_24h": 6,
     "count_7d": 152,
     "top_articles": [
       {
@@ -189,11 +162,38 @@
     ]
   },
   {
+    "cluster_id": "1",
+    "label": "said, police, man",
+    "trending_score": 0.5321,
+    "count_24h": 3,
+    "count_7d": 135,
+    "top_articles": [
+      {
+        "id": "3871",
+        "title": "Mini-marts linked to convicted people smuggler closed after BBC investigation",
+        "url": "https://www.bbc.co.uk/news/articles/cjwgp00l84qo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-04 01:54:31"
+      },
+      {
+        "id": "3893",
+        "title": "Third teenager charged after 15-year-old Melbourne boy allegedly left to die from stab wounds",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/04/third-teenager-charged-after-15-year-old-melbourne-boy-allegedly-left-to-die-from-stab-wounds-ntwnfb",
+        "date": "2026-07-04 01:42:25"
+      },
+      {
+        "id": "3833",
+        "title": "Woman denies consensual encounter in Top Boy actor rape trial",
+        "url": "https://www.bbc.co.uk/news/articles/c24y2303ev8o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 19:38:34"
+      }
+    ]
+  },
+  {
     "cluster_id": "10",
     "label": "iran, israel, said",
-    "trending_score": 0.5734,
-    "count_24h": 5,
-    "count_7d": 106,
+    "trending_score": 0.5217,
+    "count_24h": 3,
+    "count_7d": 105,
     "top_articles": [
       {
         "id": "3891",
@@ -218,9 +218,9 @@
   {
     "cluster_id": "11",
     "label": "said, health, ebola",
-    "trending_score": 0.452,
+    "trending_score": 0.4322,
     "count_24h": 1,
-    "count_7d": 94,
+    "count_7d": 93,
     "top_articles": [
       {
         "id": "3856",
@@ -245,8 +245,8 @@
   {
     "cluster_id": "3",
     "label": "ai, tech, new",
-    "trending_score": 0.402,
-    "count_24h": 6,
+    "trending_score": 0.3818,
+    "count_24h": 5,
     "count_7d": 136,
     "top_articles": [
       {
@@ -272,9 +272,9 @@
   {
     "cluster_id": "15",
     "label": "trump, latest, president",
-    "trending_score": 0.3734,
-    "count_24h": 5,
-    "count_7d": 81,
+    "trending_score": 0.3586,
+    "count_24h": 4,
+    "count_7d": 80,
     "top_articles": [
       {
         "id": "3908",
@@ -299,8 +299,8 @@
   {
     "cluster_id": "13",
     "label": "new, image, said",
-    "trending_score": 0.2942,
-    "count_24h": 7,
+    "trending_score": 0.2797,
+    "count_24h": 6,
     "count_7d": 78,
     "top_articles": [
       {
@@ -353,9 +353,9 @@
   {
     "cluster_id": "6",
     "label": "china, taiwan, chinese",
-    "trending_score": 0.2063,
+    "trending_score": 0.2028,
     "count_24h": 2,
-    "count_7d": 29,
+    "count_7d": 28,
     "top_articles": [
       {
         "id": "3878",
@@ -407,7 +407,7 @@
   {
     "cluster_id": "8",
     "label": "court, trump, supreme court",
-    "trending_score": 0.1434,
+    "trending_score": 0.1373,
     "count_24h": 0,
     "count_7d": 55,
     "top_articles": [
@@ -434,8 +434,8 @@
   {
     "cluster_id": "0",
     "label": "new, says, signs",
-    "trending_score": 0.1253,
-    "count_24h": 3,
+    "trending_score": 0.117,
+    "count_24h": 2,
     "count_7d": 42,
     "top_articles": [
       {

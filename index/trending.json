@@ -1,496 +1,469 @@
 [
   {
-    "cluster_id": "7",
+    "cluster_id": "18",
     "label": "world, cup, world cup",
-    "trending_score": 0.7692,
-    "count_24h": 2,
-    "count_7d": 141,
+    "trending_score": 1.3629,
+    "count_24h": 42,
+    "count_7d": 220,
     "top_articles": [
       {
-        "id": "3665",
-        "title": "Switzerland beat Algeria 2-0 to reach World Cup Round of 16 in style",
-        "url": "https://www.aljazeera.com/sports/2026/7/3/switzerland-algeria-fifa-world-cup-2026-score-embolo-ndoye?traffic_source=rss",
-        "date": "2026-07-03 04:57:11"
+        "id": "3905",
+        "title": "Pull an all-nighter? How parents, schools, fans and police plan to cope with England’s 1am kick-off",
+        "url": "https://www.theguardian.com/football/2026/jul/04/pull-an-all-nighter-how-parents-schools-fans-and-police-plan-to-cope-with-englands-1am-kick-off",
+        "date": "2026-07-04 06:00:07"
       },
       {
-        "id": "3661",
-        "title": "Huge VAR call prolongs Ronaldo's last dance but ends Modric's",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cz0jee3vy39o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 04:42:51"
+        "id": "3899",
+        "title": "FIFA World Cup: Round of 16 match schedule and which teams qualified",
+        "url": "https://www.aljazeera.com/sports/2026/7/4/fifa-world-cup-round-of-16-match-schedule-which-teams-qualified?traffic_source=rss",
+        "date": "2026-07-04 04:14:29"
       },
       {
-        "id": "3662",
-        "title": "Portugal through to last 16 after dramatic victory over Croatia",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cy9r11gj8lzo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 02:57:22"
-      }
-    ]
-  },
-  {
-    "cluster_id": "9",
-    "label": "burnham, said, defence",
-    "trending_score": 0.7053,
-    "count_24h": 3,
-    "count_7d": 132,
-    "top_articles": [
-      {
-        "id": "3697",
-        "title": "Burnham’s funding gap: what state are UK finances in for the PM-in-waiting?",
-        "url": "https://www.theguardian.com/business/2026/jul/03/burnham-funding-gap-uk-finances-pm-in-waiting",
-        "date": "2026-07-03 06:00:20"
-      },
-      {
-        "id": "3694",
-        "title": "Jacinta Allan admits criminals infiltrated Big Build but rejects calls for royal commission",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/03/jacinta-allan-big-build-criminals-alleged-corruption-victoria-cfmeu-royal-commission-ntwnfb",
-        "date": "2026-07-03 05:33:24"
-      },
-      {
-        "id": "3689",
-        "title": "I was 'slam dunk' for SNP leadership until revealing gay marriage views, says Kate Forbes",
-        "url": "https://www.bbc.co.uk/news/articles/c2ky31qelgzo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 05:23:09"
-      }
-    ]
-  },
-  {
-    "cluster_id": "1",
-    "label": "iran, israel, said",
-    "trending_score": 0.6243,
-    "count_24h": 5,
-    "count_7d": 130,
-    "top_articles": [
-      {
-        "id": "3691",
-        "title": "Iran begins public mourning for Ayatollah killed in February",
-        "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 05:53:56"
-      },
-      {
-        "id": "3696",
-        "title": "Ali Khamenei’s six-day funeral expected to draw millions in Iran",
-        "url": "https://www.theguardian.com/world/2026/jul/03/ali-khamenei-six-day-funeral-millions-iran",
-        "date": "2026-07-03 05:43:55"
-      },
-      {
-        "id": "3664",
-        "title": "Delcy Rodriguez responds to public anger at government response",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/delcy-rodriguez-responds-to-public-anger-at-government-response?traffic_source=rss",
-        "date": "2026-07-03 05:07:23"
-      }
-    ]
-  },
-  {
-    "cluster_id": "0",
-    "label": "heat, temperatures, heatwave",
-    "trending_score": 0.5649,
-    "count_24h": 2,
-    "count_7d": 48,
-    "top_articles": [
-      {
-        "id": "3692",
-        "title": "Are Europe’s extreme summers the new normal? What the science says",
-        "url": "https://www.aljazeera.com/features/2026/7/3/are-europes-extreme-summers-the-new-normal-what-the-science-says?traffic_source=rss",
-        "date": "2026-07-03 05:37:54"
-      },
-      {
-        "id": "3688",
-        "title": "Hosepipe ban for Hampshire and Isle of Wight",
-        "url": "https://www.bbc.co.uk/news/articles/c17yv9710d9o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 05:01:21"
-      },
-      {
-        "id": "3660",
-        "title": "Moment huge waterspout twirls over lake in Germany",
-        "url": "https://www.bbc.co.uk/news/videos/ckg8eld7pj7o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 00:54:46"
-      }
-    ]
-  },
-  {
-    "cluster_id": "10",
-    "label": "said, health, care",
-    "trending_score": 0.5633,
-    "count_24h": 1,
-    "count_7d": 97,
-    "top_articles": [
-      {
-        "id": "3690",
-        "title": "Gannet colonies could take 15 years to recover from bird flu",
-        "url": "https://www.bbc.co.uk/news/articles/c3wylj128qlo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 05:36:00"
-      },
-      {
-        "id": "3676",
-        "title": "NSW records first suspected case of deadly H5 bird flu as virus reaches Australia’s east coast",
-        "url": "https://www.theguardian.com/world/2026/jul/03/bird-flu-australia-first-suspected-case-nsw-deadly-h5n1-virus",
-        "date": "2026-07-03 03:57:00"
-      },
-      {
-        "id": "3685",
-        "title": "More than 100 passengers on US cruise ship sick from suspected norovirus",
-        "url": "https://www.theguardian.com/us-news/2026/jul/02/norovirus-cruise-ship-outbreak",
-        "date": "2026-07-03 01:42:35"
-      }
-    ]
-  },
-  {
-    "cluster_id": "3",
-    "label": "england, world, cup",
-    "trending_score": 0.5598,
-    "count_24h": 1,
-    "count_7d": 80,
-    "top_articles": [
-      {
-        "id": "3681",
-        "title": "‘Bigger than football’: Norway fans’ Viking row makes waves at World Cup",
-        "url": "https://www.theguardian.com/world/2026/jul/03/norway-fans-viking-row-world-cup",
-        "date": "2026-07-03 05:00:19"
-      },
-      {
-        "id": "3644",
-        "title": "Hard work and a disco jacket - how England turned fielding woes around",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cwyedgekzyjo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 00:26:53"
-      },
-      {
-        "id": "3643",
-        "title": "'World cup pubs boost' and 'Kate holds court'",
-        "url": "https://www.bbc.co.uk/news/articles/c5yz8jqq47jo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 00:03:42"
-      }
-    ]
-  },
-  {
-    "cluster_id": "5",
-    "label": "wimbledon, stokes, england",
-    "trending_score": 0.5421,
-    "count_24h": 0,
-    "count_7d": 76,
-    "top_articles": [
-      {
-        "id": "3625",
-        "title": "The French-born star carrying British hopes at Wimbledon",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cx2vr595pg7o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-02 22:28:30"
-      },
-      {
-        "id": "3607",
-        "title": "Sciver-Brunt leads superb England into World Cup final",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cy731p46j5mo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-02 21:29:40"
-      },
-      {
-        "id": "3547",
-        "title": "Maddy Cusack's coach her 'nemesis', mum tells inquest",
-        "url": "https://www.bbc.co.uk/news/articles/cpwej79vnkgo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-02 17:41:32"
-      }
-    ]
-  },
-  {
-    "cluster_id": "14",
-    "label": "venezuela, 02, 01",
-    "trending_score": 0.5421,
-    "count_24h": 0,
-    "count_7d": 86,
-    "top_articles": [
-      {
-        "id": "3646",
-        "title": "Relief efforts shift as Venezuela quake survivors seek aid",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/relief-efforts-shift-as-venezuela-quake-survivors-seek-aid?traffic_source=rss",
-        "date": "2026-07-03 00:20:29"
-      },
-      {
-        "id": "3650",
-        "title": "Portugal fans gather ahead of Ronaldo-Modric clash",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/portugal-fans-gather-ahead-of-ronaldo-modric-clash?traffic_source=rss",
-        "date": "2026-07-02 22:49:24"
-      },
-      {
-        "id": "3594",
-        "title": "‘Miracle’: Trapped man rescued eight days after Venezuela earthquakes",
-        "url": "https://www.aljazeera.com/news/2026/7/2/miracle-trapped-man-rescued-eight-days-after-venezuela-earthquakes?traffic_source=rss",
-        "date": "2026-07-02 18:12:54"
-      }
-    ]
-  },
-  {
-    "cluster_id": "6",
-    "label": "said, police, man",
-    "trending_score": 0.4735,
-    "count_24h": 1,
-    "count_7d": 118,
-    "top_articles": [
-      {
-        "id": "3693",
-        "title": "Details of MCG assault against Lidia Thorpe revealed after court lifts suppression order",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/03/lidia-thorpe-mcg-assault-attacker-ebony-bell-convicted-community-work-fine-ntwnfb",
-        "date": "2026-07-03 06:16:39"
-      },
-      {
-        "id": "3677",
-        "title": "Christian Brothers kept nine child abusers as members due to Gospel imperative to help ‘the needy’, court documents reveal",
-        "url": "https://www.theguardian.com/world/2026/jul/03/christian-brothers-kept-nine-child-abusers-in-religious-order-due-to-gospel-imperative-to-help-the-needy-court-documents-reveal-ntwnfb",
-        "date": "2026-07-03 03:36:39"
-      },
-      {
-        "id": "3679",
-        "title": "Former AFL player Nicky Winmar found guilty of assaulting woman in northern Victoria",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/03/nicky-winmar-found-guilty-assault-victoria-ntwnfb",
-        "date": "2026-07-03 03:24:56"
-      }
-    ]
-  },
-  {
-    "cluster_id": "8",
-    "label": "said, media, ai",
-    "trending_score": 0.4561,
-    "count_24h": 2,
-    "count_7d": 72,
-    "top_articles": [
-      {
-        "id": "3686",
-        "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
-        "url": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
-        "date": "2026-07-03 05:05:00"
-      },
-      {
-        "id": "3680",
-        "title": "Spyware used against MEP investigating Pegasus abuses, report finds",
-        "url": "https://www.theguardian.com/world/2026/jul/03/spyware-used-against-mep-investigating-pegasus-abuses-report-finds",
-        "date": "2026-07-03 05:00:20"
-      },
-      {
-        "id": "3658",
-        "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
-        "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 03:50:18"
-      }
-    ]
-  },
-  {
-    "cluster_id": "12",
-    "label": "said, police, killed",
-    "trending_score": 0.3901,
-    "count_24h": 0,
-    "count_7d": 123,
-    "top_articles": [
-      {
-        "id": "3669",
-        "title": "Papua rebels claim to have killed US pilot in Indonesia",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/papua-rebels-claim-to-have-killed-us-pilot-in-indonesia?traffic_source=rss",
-        "date": "2026-07-03 03:48:59"
-      },
-      {
-        "id": "3678",
-        "title": "Tributes for Melbourne boy allegedly left to die from stab wounds, as teen charged with murder",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/03/melbourne-boy-allegedly-stabbed-left-to-die-outside-hospital-teen-charged-murder-ntwnfb",
-        "date": "2026-07-03 03:33:39"
-      },
-      {
-        "id": "3675",
-        "title": "China says man who flew plane into Beijing skyscraper had mental health problems",
-        "url": "https://www.theguardian.com/world/2026/jul/03/china-man-small-plane-beijing-skyscraper-tower-mental-health-problems-statement",
-        "date": "2026-07-03 03:15:13"
-      }
-    ]
-  },
-  {
-    "cluster_id": "13",
-    "label": "trump, court, president",
-    "trending_score": 0.3571,
-    "count_24h": 2,
-    "count_7d": 100,
-    "top_articles": [
-      {
-        "id": "3698",
-        "title": "Friday briefing: The US at 250: who gets to tell the story?",
-        "url": "https://www.theguardian.com/world/2026/jul/03/friday-briefing-the-us-at-250-who-gets-to-tell-the-story",
-        "date": "2026-07-03 05:47:24"
-      },
-      {
-        "id": "3695",
-        "title": "‘Ridiculous’ for US to maintain current Nato support, Trump warns ahead of alliance summit",
-        "url": "https://www.theguardian.com/us-news/2026/jul/03/trump-nato-alliance-support-ridiculous-ahead-of-summit",
-        "date": "2026-07-03 05:19:33"
-      },
-      {
-        "id": "3684",
-        "title": "Trump hijacks America at 250 celebrations – podcast",
-        "url": "https://www.theguardian.com/politics/audio/2026/jul/03/trump-hijacks-america-at-250-celebrations-podcast",
-        "date": "2026-07-03 04:00:19"
-      }
-    ]
-  },
-  {
-    "cluster_id": "19",
-    "label": "ai, new, tech",
-    "trending_score": 0.3137,
-    "count_24h": 0,
-    "count_7d": 97,
-    "top_articles": [
-      {
-        "id": "3656",
-        "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
-        "url": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
-        "date": "2026-07-03 00:00:00"
-      },
-      {
-        "id": "3657",
-        "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-        "date": "2026-07-02 23:38:10"
-      },
-      {
-        "id": "3621",
-        "title": "AI is 'not smart' so what's next in artificial intelligence?",
-        "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-02 23:02:09"
+        "id": "3884",
+        "title": "Arias sends Colombia into World Cup last-16 with 1-0 win over Ghana",
+        "url": "https://www.aljazeera.com/news/2026/7/4/arias-sends-colombia-into-world-cup-last-16-with-1-0-win-over-ghana?traffic_source=rss",
+        "date": "2026-07-04 03:41:22"
       }
     ]
   },
   {
     "cluster_id": "17",
-    "label": "market, said, global",
-    "trending_score": 0.2721,
-    "count_24h": 2,
-    "count_7d": 66,
+    "label": "burnham, said, uk",
+    "trending_score": 1.1625,
+    "count_24h": 22,
+    "count_7d": 180,
     "top_articles": [
       {
-        "id": "3687",
-        "title": "Goat and skin in millions of 'lamb' kebabs compared to horsemeat lasagne scandal",
-        "url": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 05:14:17"
+        "id": "3903",
+        "title": "Brexit rule change means British teens in EU face soaring student fees for UK degrees",
+        "url": "https://www.theguardian.com/money/2026/jul/04/british-teens-eu-student-fees-jump-uk-degrees-brexit-loans",
+        "date": "2026-07-04 06:00:06"
       },
       {
-        "id": "3668",
-        "title": "Canada’s Carney secures deal for pipeline to expand oil exports beyond US",
-        "url": "https://www.aljazeera.com/economy/2026/7/3/canadas-carney-secures-deal-for-pipeline-to-expand-oil-exports-beyond-us?traffic_source=rss",
-        "date": "2026-07-03 04:17:37"
+        "id": "3904",
+        "title": "UK and Ireland leaders fear for union’s future under Farage-led government",
+        "url": "https://www.theguardian.com/politics/2026/jul/04/uk-ireland-leaders-fear-union-future-nigel-farage-led-government",
+        "date": "2026-07-04 06:00:05"
       },
       {
-        "id": "3589",
-        "title": "Supermarket chaos for air conditioner sale in France amid heatwave",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/supermarket-chaos-for-air-conditioner-sale-in-france-amid-heatwave?traffic_source=rss",
-        "date": "2026-07-02 19:34:51"
+        "id": "3906",
+        "title": "As the US marks 250, does the special relationship still exist – or is the UK just irrelevant?",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/04/us-250-britain-special-relationship",
+        "date": "2026-07-04 05:00:07"
+      }
+    ]
+  },
+  {
+    "cluster_id": "14",
+    "label": "heat, temperatures, heatwave",
+    "trending_score": 1.0595,
+    "count_24h": 10,
+    "count_7d": 58,
+    "top_articles": [
+      {
+        "id": "3901",
+        "title": "Sydney records hottest June since 1859 as expert warns new high a ‘signature’ of global warming",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/04/sydney-records-hottest-june-since-1859-as-expert-warns-new-high-a-signature-of-global-warming",
+        "date": "2026-07-04 04:37:24"
+      },
+      {
+        "id": "3875",
+        "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
+        "url": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-04 00:57:05"
+      },
+      {
+        "id": "3870",
+        "title": "UK temperatures forecast to exceed 30C as another heatwave imminent",
+        "url": "https://www.bbc.co.uk/weather/articles/c621j44jwe1o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-04 00:23:47"
+      }
+    ]
+  },
+  {
+    "cluster_id": "7",
+    "label": "england, wimbledon, stokes",
+    "trending_score": 0.9214,
+    "count_24h": 11,
+    "count_7d": 120,
+    "top_articles": [
+      {
+        "id": "3881",
+        "title": "Tartan Army's World Cup traffic cone high jinks are taking over Scotland",
+        "url": "https://www.bbc.co.uk/news/articles/cvgm4d4jv8eo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 22:16:01"
+      },
+      {
+        "id": "3847",
+        "title": "Williams sisters earmarked for doubles on Saturday",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c621e4j10ldo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 20:19:18"
+      },
+      {
+        "id": "3846",
+        "title": "Qualifiers eye more shocks after causing Wimbledon upsets",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cq81px242d4o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 20:10:01"
+      }
+    ]
+  },
+  {
+    "cluster_id": "1",
+    "label": "said, police, man",
+    "trending_score": 0.8868,
+    "count_24h": 19,
+    "count_7d": 142,
+    "top_articles": [
+      {
+        "id": "3871",
+        "title": "Mini-marts linked to convicted people smuggler closed after BBC investigation",
+        "url": "https://www.bbc.co.uk/news/articles/cjwgp00l84qo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-04 01:54:31"
+      },
+      {
+        "id": "3893",
+        "title": "Third teenager charged after 15-year-old Melbourne boy allegedly left to die from stab wounds",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/04/third-teenager-charged-after-15-year-old-melbourne-boy-allegedly-left-to-die-from-stab-wounds-ntwnfb",
+        "date": "2026-07-04 01:42:25"
+      },
+      {
+        "id": "3833",
+        "title": "Woman denies consensual encounter in Top Boy actor rape trial",
+        "url": "https://www.bbc.co.uk/news/articles/c24y2303ev8o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 19:38:34"
       }
     ]
   },
   {
     "cluster_id": "2",
-    "label": "says, africa, said",
-    "trending_score": 0.25,
-    "count_24h": 0,
-    "count_7d": 94,
+    "label": "video, play arrow, video duration",
+    "trending_score": 0.8162,
+    "count_24h": 17,
+    "count_7d": 157,
     "top_articles": [
       {
-        "id": "3671",
-        "title": "Who are the rogue bishops defying Pope Leo XIV?",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/who-are-the-rogue-bishops-defying-pope-leo-xiv?traffic_source=rss",
-        "date": "2026-07-03 02:36:54"
+        "id": "3897",
+        "title": "Could Israel really build settlements in Gaza?",
+        "url": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss",
+        "date": "2026-07-04 05:41:23"
       },
       {
-        "id": "3651",
-        "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
-        "url": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
-        "date": "2026-07-03 00:00:13"
+        "id": "3900",
+        "title": "Thirty-two years on, young Rwandans reflect on progress, pain and hope",
+        "url": "https://www.aljazeera.com/news/2026/7/4/thirty-two-years-on-young-rwandans-reflect-on-progress-pain-and-hope?traffic_source=rss",
+        "date": "2026-07-04 04:12:20"
       },
       {
-        "id": "3638",
-        "title": "How the American Dream has survived 250 years, but only just",
-        "url": "https://www.bbc.co.uk/news/articles/cx2vpz2qee5o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-02 23:14:29"
+        "id": "3879",
+        "title": "Russia looks to students to make up for mounting losses in Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/cp8lnnr080go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 23:24:20"
       }
     ]
   },
   {
-    "cluster_id": "16",
-    "label": "new, taiwan, year",
-    "trending_score": 0.1451,
-    "count_24h": 0,
-    "count_7d": 58,
+    "cluster_id": "5",
+    "label": "venezuela, 01, 00",
+    "trending_score": 0.8125,
+    "count_24h": 8,
+    "count_7d": 89,
     "top_articles": [
       {
-        "id": "3682",
-        "title": "Portrait of Angela Merkel unveiled at museum in Berlin",
-        "url": "https://www.theguardian.com/world/2026/jul/03/portrait-angela-merkel-unveiled-berlin-jeremie-queyras",
-        "date": "2026-07-03 04:00:18"
+        "id": "3886",
+        "title": "‘El Obeid crisis could be worse than El Fasher,’ warns ex-UN official",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/el-obeid-crisis-could-be-worse-than-el-fasher-warns-ex-un-official?traffic_source=rss",
+        "date": "2026-07-04 02:28:17"
       },
       {
-        "id": "3683",
-        "title": "Dolphins increasingly rely on trawlers for food in overfished Adriatic, say scientists",
-        "url": "https://www.theguardian.com/environment/2026/jul/03/dolphins-scavenging-food-trawlers-adriatic-study",
-        "date": "2026-07-03 04:00:18"
+        "id": "3887",
+        "title": "Ronaldo sends message to Venezuelan earthquake survivor",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/ronaldo-sends-message-to-venezuelan-earthquake-survivor?traffic_source=rss",
+        "date": "2026-07-04 01:32:28"
       },
       {
-        "id": "3634",
-        "title": "Taylor Swift's rumoured wedding celebrations begin with star-studded New York event",
-        "url": "https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 01:00:48"
+        "id": "3892",
+        "title": "Quakes reduce Venezuela tourist town to rubble, leaving economy in tatters",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/quakes-reduce-venezuela-tourist-town-to-rubble-leaving-economy-in-tatters?traffic_source=rss",
+        "date": "2026-07-03 23:57:24"
       }
     ]
   },
   {
-    "cluster_id": "15",
-    "label": "court, trump, says",
-    "trending_score": 0.1405,
-    "count_24h": 0,
-    "count_7d": 34,
+    "cluster_id": "10",
+    "label": "iran, israel, said",
+    "trending_score": 0.7908,
+    "count_24h": 14,
+    "count_7d": 117,
     "top_articles": [
       {
-        "id": "3572",
-        "title": "Outrage over ‘cruel’ Florida move to ban undocumented students from college",
-        "url": "https://www.theguardian.com/us-news/2026/jul/02/florida-undocumented-college-students",
-        "date": "2026-07-02 16:56:35"
+        "id": "3891",
+        "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
+        "date": "2026-07-04 00:00:00"
       },
       {
-        "id": "3515",
-        "title": "What is the Society of St Pius X? Why Pope Leo excommunicated its bishops",
-        "url": "https://www.aljazeera.com/news/2026/7/2/what-is-the-society-of-st-pius-x-why-pope-leo-excommunicated-its-bishops?traffic_source=rss",
-        "date": "2026-07-02 15:54:48"
+        "id": "3836",
+        "title": "Lebanon-Israel deal betrays ‘victims of war crimes’, rights groups say",
+        "url": "https://www.aljazeera.com/news/2026/7/3/lebanon-israel-deal-betrays-victims-of-war-crimes-rights-groups-say?traffic_source=rss",
+        "date": "2026-07-03 19:27:15"
       },
       {
-        "id": "3503",
-        "title": "Vatican excommunicates hundreds of thousands of splinter sect followers",
-        "url": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-02 15:44:45"
-      }
-    ]
-  },
-  {
-    "cluster_id": "4",
-    "label": "latest, california, state",
-    "trending_score": 0.0412,
-    "count_24h": 0,
-    "count_7d": 10,
-    "top_articles": [
-      {
-        "id": "3639",
-        "title": "Rare copy of US Declaration of Independence found by volunteer in UK archives",
-        "url": "https://www.bbc.co.uk/news/articles/cgrkl104ly5o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-02 23:39:29"
-      },
-      {
-        "id": "3603",
-        "title": "FAA proposal: Supersonic airliners can fly over US cities if they’re quiet",
-        "url": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/",
-        "date": "2026-07-02 17:29:37"
-      },
-      {
-        "id": "3481",
-        "title": "From Alabama to Yosemite: 50 US places with Native American origins",
-        "url": "https://www.aljazeera.com/features/longform/2026/7/2/from-alabama-to-yosemite-50-us-places-with-native-american-origins?traffic_source=rss",
-        "date": "2026-07-02 12:56:59"
+        "id": "3840",
+        "title": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
+        "url": "https://www.aljazeera.com/news/2026/7/3/iran-begins-week-of-funeral-ceremonies-for-slain-supreme-leader-khamenei?traffic_source=rss",
+        "date": "2026-07-03 18:39:31"
       }
     ]
   },
   {
     "cluster_id": "11",
+    "label": "said, health, ebola",
+    "trending_score": 0.6977,
+    "count_24h": 8,
+    "count_7d": 97,
+    "top_articles": [
+      {
+        "id": "3856",
+        "title": "CDC investigates parasite that’s caused cases of ‘explosive’ diarrhea in 18 US states",
+        "url": "https://www.theguardian.com/us-news/2026/jul/03/cdc-investigates-parasite-explosive-diarrhea",
+        "date": "2026-07-03 21:13:46"
+      },
+      {
+        "id": "3796",
+        "title": "Parents warned not to publicly share children’s images amid AI abuse risks",
+        "url": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 15:57:42"
+      },
+      {
+        "id": "3772",
+        "title": "German row over plan for workers to need sick note on first day of illness",
+        "url": "https://www.bbc.co.uk/news/articles/c4gyxnj38m1o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 14:56:30"
+      }
+    ]
+  },
+  {
+    "cluster_id": "15",
+    "label": "trump, latest, president",
+    "trending_score": 0.5295,
+    "count_24h": 14,
+    "count_7d": 83,
+    "top_articles": [
+      {
+        "id": "3908",
+        "title": "Trump launches America’s 250th birthday celebrations with partisan attack",
+        "url": "https://www.theguardian.com/us-news/2026/jul/04/trump-launches-americas-250th-birthday-celebrations-with-partisan-attack",
+        "date": "2026-07-04 05:30:35"
+      },
+      {
+        "id": "3898",
+        "title": "Trump calls communism a ‘mortal threat’ at US 250th birthday event",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/trump-calls-communism-a-mortal-threat-at-us-250th-birthday-event?traffic_source=rss",
+        "date": "2026-07-04 04:54:40"
+      },
+      {
+        "id": "3895",
+        "title": "Fireworks, flyovers and a 'really long' Trump speech ahead as US celebrates 250th",
+        "url": "https://www.bbc.co.uk/news/articles/cp36l4e6v9po?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-04 04:31:13"
+      }
+    ]
+  },
+  {
+    "cluster_id": "3",
+    "label": "ai, tech, new",
+    "trending_score": 0.5236,
+    "count_24h": 10,
+    "count_7d": 139,
+    "top_articles": [
+      {
+        "id": "3867",
+        "title": "Tech Now",
+        "url": "https://www.bbc.co.uk/iplayer/episode/m002ysd5/tech-now-saving-a-shipwreck?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-04 01:00:00"
+      },
+      {
+        "id": "3857",
+        "title": "The only AI glossary you’ll need this year",
+        "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "date": "2026-07-03 21:20:00"
+      },
+      {
+        "id": "3849",
+        "title": "NASA launches robotic mission to save telescope falling back to Earth",
+        "url": "https://www.aljazeera.com/news/2026/7/3/nasa-launches-robotic-mission-to-save-telescope-falling-back-to-earth?traffic_source=rss",
+        "date": "2026-07-03 21:05:39"
+      }
+    ]
+  },
+  {
+    "cluster_id": "13",
+    "label": "new, image, said",
+    "trending_score": 0.3826,
+    "count_24h": 13,
+    "count_7d": 82,
+    "top_articles": [
+      {
+        "id": "3894",
+        "title": "Watch: Taylor Swift and Travis Kelce are married - here's how the day unfolded",
+        "url": "https://www.bbc.co.uk/news/videos/cewqpdgqj0ko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-04 04:50:06"
+      },
+      {
+        "id": "3868",
+        "title": "Taylor Swift and Travis Kelce wed in NYC in ceremony officiated by Adam Sandler",
+        "url": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-04 02:26:54"
+      },
+      {
+        "id": "3880",
+        "title": "Ear plugs have become a festival must-have - but they aren't all created equal",
+        "url": "https://www.bbc.co.uk/news/articles/c87288g4zrgo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-04 01:29:21"
+      }
+    ]
+  },
+  {
+    "cluster_id": "9",
+    "label": "police, said, shooting",
+    "trending_score": 0.3304,
+    "count_24h": 4,
+    "count_7d": 80,
+    "top_articles": [
+      {
+        "id": "3863",
+        "title": "Two people dead and a third injured in shooting at Michigan shopping mall",
+        "url": "https://www.theguardian.com/us-news/2026/jul/03/two-people-dead-michigan-mall-shooting",
+        "date": "2026-07-03 22:32:22"
+      },
+      {
+        "id": "3862",
+        "title": "Thousands forced to evacuate in Colorado as wildfire spreads",
+        "url": "https://www.aljazeera.com/news/2026/7/3/thousands-forced-to-evacuate-in-colorado-as-wildfire-spreads?traffic_source=rss",
+        "date": "2026-07-03 21:32:05"
+      },
+      {
+        "id": "3816",
+        "title": "Man charged with manslaughter over Tesla crash originally blamed on car’s self-driving mode",
+        "url": "https://www.theguardian.com/us-news/2026/jul/03/tesla-texas-crash-manslaughter",
+        "date": "2026-07-03 16:15:41"
+      }
+    ]
+  },
+  {
+    "cluster_id": "16",
+    "label": "market, new, energy",
+    "trending_score": 0.302,
+    "count_24h": 5,
+    "count_7d": 70,
+    "top_articles": [
+      {
+        "id": "3817",
+        "title": "Chevy built an all-American EV truck — why is nobody buying it?",
+        "url": "https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/",
+        "date": "2026-07-03 16:30:00"
+      },
+      {
+        "id": "3815",
+        "title": "London has lost ‘catastrophic’ 89% of car club vehicles since Zipcar exit",
+        "url": "https://www.theguardian.com/money/2026/jul/03/london-car-club-vehicles-zipcar-exit",
+        "date": "2026-07-03 16:00:32"
+      },
+      {
+        "id": "3811",
+        "title": "New pipeline in Canada to proceed after C$150bn pledged to ease BC and First Nations concerns",
+        "url": "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline",
+        "date": "2026-07-03 15:34:32"
+      }
+    ]
+  },
+  {
+    "cluster_id": "6",
+    "label": "china, taiwan, chinese",
+    "trending_score": 0.2937,
+    "count_24h": 4,
+    "count_7d": 30,
+    "top_articles": [
+      {
+        "id": "3878",
+        "title": "China's internet got so mad about a celebrity's 'bad' singing, her concert was cancelled",
+        "url": "https://www.bbc.co.uk/news/articles/cdx7d254lrjo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 22:46:42"
+      },
+      {
+        "id": "3853",
+        "title": "Is China’s new ethnic unity law a step towards forced assimilation?",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/7/3/is-chinas-new-ethnic-unity-law-a-step-towards-forced-assimilation-2?traffic_source=rss",
+        "date": "2026-07-03 19:59:27"
+      },
+      {
+        "id": "3802",
+        "title": "Dissident Hong Kong bookseller Lam Wing-kee dies aged 70",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0wy0nenvo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 16:31:40"
+      }
+    ]
+  },
+  {
+    "cluster_id": "0",
+    "label": "new, says, signs",
+    "trending_score": 0.1713,
+    "count_24h": 6,
+    "count_7d": 42,
+    "top_articles": [
+      {
+        "id": "3896",
+        "title": "Row after Indian state drops eggs from school lunch menu",
+        "url": "https://www.bbc.co.uk/news/articles/c33yldyd62po?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-04 00:55:10"
+      },
+      {
+        "id": "3882",
+        "title": "'Flamingo Revolution' takes off as thousands demand Albanian PM's resignation",
+        "url": "https://www.bbc.co.uk/news/articles/c8925jnl0z3o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-04 00:43:26"
+      },
+      {
+        "id": "3826",
+        "title": "Keiko Fujimori officially declared winner of Peru presidential race",
+        "url": "https://www.aljazeera.com/news/2026/7/3/keiko-fujimori-officially-declared-winner-of-peru-presidential-race?traffic_source=rss",
+        "date": "2026-07-03 18:14:45"
+      }
+    ]
+  },
+  {
+    "cluster_id": "8",
+    "label": "court, trump, supreme court",
+    "trending_score": 0.1701,
+    "count_24h": 1,
+    "count_7d": 56,
+    "top_articles": [
+      {
+        "id": "3794",
+        "title": "Louisiana court halts criminal indictment against state attorney general",
+        "url": "https://www.theguardian.com/us-news/2026/jul/03/louisiana-criminal-indictment-halted-attorney-general-liz-murrill",
+        "date": "2026-07-03 14:06:20"
+      },
+      {
+        "id": "3648",
+        "title": "Trump administration indicts Olympic athlete for Reflecting Pool vandalism",
+        "url": "https://www.aljazeera.com/news/2026/7/2/trump-administration-indicts-olympic-athlete-for-reflecting-pool-vandalism?traffic_source=rss",
+        "date": "2026-07-02 23:31:22"
+      },
+      {
+        "id": "3631",
+        "title": "Louisiana: Republican attorney general indicted on criminal charges",
+        "url": "https://www.theguardian.com/us-news/2026/jul/02/louisiana-republican-attorney-general-liz-murrill",
+        "date": "2026-07-02 21:57:30"
+      }
+    ]
+  },
+  {
+    "cluster_id": "12",
     "label": "league, win, major",
-    "trending_score": 0.0178,
+    "trending_score": 0.0199,
     "count_24h": 0,
-    "count_7d": 4,
+    "count_7d": 5,
     "top_articles": [
       {
         "id": "3439",
@@ -499,21 +472,21 @@
         "date": "2026-07-02 11:29:36"
       },
       {
+        "id": "3170",
+        "title": "Hull sell two players hours before deadline to avoid points deduction",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5yz5dprjq0o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-01 11:40:25"
+      },
+      {
         "id": "3107",
         "title": "LeBron James thanks LA Lakers ahead of free agency exit for 24th season",
         "url": "https://www.aljazeera.com/sports/2026/7/1/lebron-james-thanks-la-lakers-ahead-of-free-agency-exit-for-24th-season?traffic_source=rss",
         "date": "2026-07-01 01:45:15"
-      },
-      {
-        "id": "2940",
-        "title": "Basketball superstar James to leave LA Lakers",
-        "url": "https://www.bbc.co.uk/sport/basketball/articles/c9v20gn7r21o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-06-30 18:11:09"
       }
     ]
   },
   {
-    "cluster_id": "18",
+    "cluster_id": "4",
     "label": "glance, expanded conference, conference glance",
     "trending_score": 0.0,
     "count_24h": 0,

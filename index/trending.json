@@ -2,9 +2,9 @@
   {
     "cluster_id": "7",
     "label": "world, cup, world cup",
-    "trending_score": 0.8558,
-    "count_24h": 5,
-    "count_7d": 144,
+    "trending_score": 0.7692,
+    "count_24h": 2,
+    "count_7d": 141,
     "top_articles": [
       {
         "id": "3665",
@@ -29,7 +29,7 @@
   {
     "cluster_id": "9",
     "label": "burnham, said, defence",
-    "trending_score": 0.7152,
+    "trending_score": 0.7053,
     "count_24h": 3,
     "count_7d": 132,
     "top_articles": [
@@ -56,9 +56,9 @@
   {
     "cluster_id": "1",
     "label": "iran, israel, said",
-    "trending_score": 0.6436,
-    "count_24h": 6,
-    "count_7d": 131,
+    "trending_score": 0.6243,
+    "count_24h": 5,
+    "count_7d": 130,
     "top_articles": [
       {
         "id": "3691",
@@ -83,9 +83,9 @@
   {
     "cluster_id": "0",
     "label": "heat, temperatures, heatwave",
-    "trending_score": 0.6364,
-    "count_24h": 3,
-    "count_7d": 50,
+    "trending_score": 0.5649,
+    "count_24h": 2,
+    "count_7d": 48,
     "top_articles": [
       {
         "id": "3692",
@@ -110,8 +110,8 @@
   {
     "cluster_id": "10",
     "label": "said, health, care",
-    "trending_score": 0.6175,
-    "count_24h": 3,
+    "trending_score": 0.5633,
+    "count_24h": 1,
     "count_7d": 97,
     "top_articles": [
       {
@@ -135,38 +135,11 @@
     ]
   },
   {
-    "cluster_id": "14",
-    "label": "venezuela, 02, 01",
-    "trending_score": 0.6075,
-    "count_24h": 1,
-    "count_7d": 88,
-    "top_articles": [
-      {
-        "id": "3646",
-        "title": "Relief efforts shift as Venezuela quake survivors seek aid",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/relief-efforts-shift-as-venezuela-quake-survivors-seek-aid?traffic_source=rss",
-        "date": "2026-07-03 00:20:29"
-      },
-      {
-        "id": "3650",
-        "title": "Portugal fans gather ahead of Ronaldo-Modric clash",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/portugal-fans-gather-ahead-of-ronaldo-modric-clash?traffic_source=rss",
-        "date": "2026-07-02 22:49:24"
-      },
-      {
-        "id": "3594",
-        "title": "‘Miracle’: Trapped man rescued eight days after Venezuela earthquakes",
-        "url": "https://www.aljazeera.com/news/2026/7/2/miracle-trapped-man-rescued-eight-days-after-venezuela-earthquakes?traffic_source=rss",
-        "date": "2026-07-02 18:12:54"
-      }
-    ]
-  },
-  {
     "cluster_id": "3",
     "label": "england, world, cup",
-    "trending_score": 0.6068,
-    "count_24h": 2,
-    "count_7d": 82,
+    "trending_score": 0.5598,
+    "count_24h": 1,
+    "count_7d": 80,
     "top_articles": [
       {
         "id": "3681",
@@ -185,33 +158,6 @@
         "title": "'World cup pubs boost' and 'Kate holds court'",
         "url": "https://www.bbc.co.uk/news/articles/c5yz8jqq47jo?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-03 00:03:42"
-      }
-    ]
-  },
-  {
-    "cluster_id": "6",
-    "label": "said, police, man",
-    "trending_score": 0.549,
-    "count_24h": 5,
-    "count_7d": 119,
-    "top_articles": [
-      {
-        "id": "3693",
-        "title": "Details of MCG assault against Lidia Thorpe revealed after court lifts suppression order",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/03/lidia-thorpe-mcg-assault-attacker-ebony-bell-convicted-community-work-fine-ntwnfb",
-        "date": "2026-07-03 06:16:39"
-      },
-      {
-        "id": "3677",
-        "title": "Christian Brothers kept nine child abusers as members due to Gospel imperative to help ‘the needy’, court documents reveal",
-        "url": "https://www.theguardian.com/world/2026/jul/03/christian-brothers-kept-nine-child-abusers-in-religious-order-due-to-gospel-imperative-to-help-the-needy-court-documents-reveal-ntwnfb",
-        "date": "2026-07-03 03:36:39"
-      },
-      {
-        "id": "3679",
-        "title": "Former AFL player Nicky Winmar found guilty of assaulting woman in northern Victoria",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/03/nicky-winmar-found-guilty-assault-victoria-ntwnfb",
-        "date": "2026-07-03 03:24:56"
       }
     ]
   },
@@ -243,11 +189,65 @@
     ]
   },
   {
+    "cluster_id": "14",
+    "label": "venezuela, 02, 01",
+    "trending_score": 0.5421,
+    "count_24h": 0,
+    "count_7d": 86,
+    "top_articles": [
+      {
+        "id": "3646",
+        "title": "Relief efforts shift as Venezuela quake survivors seek aid",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/relief-efforts-shift-as-venezuela-quake-survivors-seek-aid?traffic_source=rss",
+        "date": "2026-07-03 00:20:29"
+      },
+      {
+        "id": "3650",
+        "title": "Portugal fans gather ahead of Ronaldo-Modric clash",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/portugal-fans-gather-ahead-of-ronaldo-modric-clash?traffic_source=rss",
+        "date": "2026-07-02 22:49:24"
+      },
+      {
+        "id": "3594",
+        "title": "‘Miracle’: Trapped man rescued eight days after Venezuela earthquakes",
+        "url": "https://www.aljazeera.com/news/2026/7/2/miracle-trapped-man-rescued-eight-days-after-venezuela-earthquakes?traffic_source=rss",
+        "date": "2026-07-02 18:12:54"
+      }
+    ]
+  },
+  {
+    "cluster_id": "6",
+    "label": "said, police, man",
+    "trending_score": 0.4735,
+    "count_24h": 1,
+    "count_7d": 118,
+    "top_articles": [
+      {
+        "id": "3693",
+        "title": "Details of MCG assault against Lidia Thorpe revealed after court lifts suppression order",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/03/lidia-thorpe-mcg-assault-attacker-ebony-bell-convicted-community-work-fine-ntwnfb",
+        "date": "2026-07-03 06:16:39"
+      },
+      {
+        "id": "3677",
+        "title": "Christian Brothers kept nine child abusers as members due to Gospel imperative to help ‘the needy’, court documents reveal",
+        "url": "https://www.theguardian.com/world/2026/jul/03/christian-brothers-kept-nine-child-abusers-in-religious-order-due-to-gospel-imperative-to-help-the-needy-court-documents-reveal-ntwnfb",
+        "date": "2026-07-03 03:36:39"
+      },
+      {
+        "id": "3679",
+        "title": "Former AFL player Nicky Winmar found guilty of assaulting woman in northern Victoria",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/03/nicky-winmar-found-guilty-assault-victoria-ntwnfb",
+        "date": "2026-07-03 03:24:56"
+      }
+    ]
+  },
+  {
     "cluster_id": "8",
     "label": "said, media, ai",
-    "trending_score": 0.4932,
-    "count_24h": 3,
-    "count_7d": 74,
+    "trending_score": 0.4561,
+    "count_24h": 2,
+    "count_7d": 72,
     "top_articles": [
       {
         "id": "3686",
@@ -272,9 +272,9 @@
   {
     "cluster_id": "12",
     "label": "said, police, killed",
-    "trending_score": 0.4469,
-    "count_24h": 4,
-    "count_7d": 124,
+    "trending_score": 0.3901,
+    "count_24h": 0,
+    "count_7d": 123,
     "top_articles": [
       {
         "id": "3669",
@@ -299,9 +299,9 @@
   {
     "cluster_id": "13",
     "label": "trump, court, president",
-    "trending_score": 0.3862,
-    "count_24h": 3,
-    "count_7d": 101,
+    "trending_score": 0.3571,
+    "count_24h": 2,
+    "count_7d": 100,
     "top_articles": [
       {
         "id": "3698",
@@ -326,9 +326,9 @@
   {
     "cluster_id": "19",
     "label": "ai, new, tech",
-    "trending_score": 0.3157,
+    "trending_score": 0.3137,
     "count_24h": 0,
-    "count_7d": 98,
+    "count_7d": 97,
     "top_articles": [
       {
         "id": "3656",
@@ -353,9 +353,9 @@
   {
     "cluster_id": "17",
     "label": "market, said, global",
-    "trending_score": 0.2744,
+    "trending_score": 0.2721,
     "count_24h": 2,
-    "count_7d": 67,
+    "count_7d": 66,
     "top_articles": [
       {
         "id": "3687",
@@ -380,8 +380,8 @@
   {
     "cluster_id": "2",
     "label": "says, africa, said",
-    "trending_score": 0.2726,
-    "count_24h": 1,
+    "trending_score": 0.25,
+    "count_24h": 0,
     "count_7d": 94,
     "top_articles": [
       {
@@ -407,9 +407,9 @@
   {
     "cluster_id": "16",
     "label": "new, taiwan, year",
-    "trending_score": 0.1732,
-    "count_24h": 3,
-    "count_7d": 60,
+    "trending_score": 0.1451,
+    "count_24h": 0,
+    "count_7d": 58,
     "top_articles": [
       {
         "id": "3682",
@@ -434,9 +434,9 @@
   {
     "cluster_id": "15",
     "label": "court, trump, says",
-    "trending_score": 0.1514,
+    "trending_score": 0.1405,
     "count_24h": 0,
-    "count_7d": 35,
+    "count_7d": 34,
     "top_articles": [
       {
         "id": "3572",
@@ -461,9 +461,9 @@
   {
     "cluster_id": "4",
     "label": "latest, california, state",
-    "trending_score": 0.0431,
+    "trending_score": 0.0412,
     "count_24h": 0,
-    "count_7d": 11,
+    "count_7d": 10,
     "top_articles": [
       {
         "id": "3639",

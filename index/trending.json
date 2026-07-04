@@ -2,9 +2,9 @@
   {
     "cluster_id": "18",
     "label": "world, cup, world cup",
-    "trending_score": 0.8977,
-    "count_24h": 16,
-    "count_7d": 207,
+    "trending_score": 0.8668,
+    "count_24h": 14,
+    "count_7d": 206,
     "top_articles": [
       {
         "id": "3905",
@@ -29,8 +29,8 @@
   {
     "cluster_id": "17",
     "label": "burnham, said, uk",
-    "trending_score": 0.7975,
-    "count_24h": 9,
+    "trending_score": 0.76,
+    "count_24h": 8,
     "count_7d": 172,
     "top_articles": [
       {
@@ -56,9 +56,9 @@
   {
     "cluster_id": "14",
     "label": "heat, temperatures, heatwave",
-    "trending_score": 0.6845,
-    "count_24h": 4,
-    "count_7d": 52,
+    "trending_score": 0.6429,
+    "count_24h": 3,
+    "count_7d": 51,
     "top_articles": [
       {
         "id": "3901",
@@ -83,9 +83,9 @@
   {
     "cluster_id": "5",
     "label": "venezuela, 01, 00",
-    "trending_score": 0.683,
-    "count_24h": 7,
-    "count_7d": 81,
+    "trending_score": 0.625,
+    "count_24h": 5,
+    "count_7d": 80,
     "top_articles": [
       {
         "id": "3886",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "7",
     "label": "england, wimbledon, stokes",
-    "trending_score": 0.5821,
-    "count_24h": 2,
-    "count_7d": 109,
+    "trending_score": 0.5464,
+    "count_24h": 1,
+    "count_7d": 108,
     "top_articles": [
       {
         "id": "3881",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "1",
     "label": "said, police, man",
-    "trending_score": 0.4936,
+    "trending_score": 0.485,
     "count_24h": 2,
-    "count_7d": 135,
+    "count_7d": 134,
     "top_articles": [
       {
         "id": "3871",
@@ -158,33 +158,6 @@
         "title": "Woman denies consensual encounter in Top Boy actor rape trial",
         "url": "https://www.bbc.co.uk/news/articles/c24y2303ev8o?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-03 19:38:34"
-      }
-    ]
-  },
-  {
-    "cluster_id": "2",
-    "label": "video, play arrow, video duration",
-    "trending_score": 0.4829,
-    "count_24h": 3,
-    "count_7d": 148,
-    "top_articles": [
-      {
-        "id": "3897",
-        "title": "Could Israel really build settlements in Gaza?",
-        "url": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss",
-        "date": "2026-07-04 05:41:23"
-      },
-      {
-        "id": "3900",
-        "title": "Thirty-two years on, young Rwandans reflect on progress, pain and hope",
-        "url": "https://www.aljazeera.com/news/2026/7/4/thirty-two-years-on-young-rwandans-reflect-on-progress-pain-and-hope?traffic_source=rss",
-        "date": "2026-07-04 04:12:20"
-      },
-      {
-        "id": "3879",
-        "title": "Russia looks to students to make up for mounting losses in Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/cp8lnnr080go?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 23:24:20"
       }
     ]
   },
@@ -216,10 +189,37 @@
     ]
   },
   {
+    "cluster_id": "2",
+    "label": "video, play arrow, video duration",
+    "trending_score": 0.4744,
+    "count_24h": 3,
+    "count_7d": 147,
+    "top_articles": [
+      {
+        "id": "3897",
+        "title": "Could Israel really build settlements in Gaza?",
+        "url": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss",
+        "date": "2026-07-04 05:41:23"
+      },
+      {
+        "id": "3900",
+        "title": "Thirty-two years on, young Rwandans reflect on progress, pain and hope",
+        "url": "https://www.aljazeera.com/news/2026/7/4/thirty-two-years-on-young-rwandans-reflect-on-progress-pain-and-hope?traffic_source=rss",
+        "date": "2026-07-04 04:12:20"
+      },
+      {
+        "id": "3879",
+        "title": "Russia looks to students to make up for mounting losses in Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/cp8lnnr080go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 23:24:20"
+      }
+    ]
+  },
+  {
     "cluster_id": "11",
     "label": "said, health, ebola",
-    "trending_score": 0.4209,
-    "count_24h": 1,
+    "trending_score": 0.387,
+    "count_24h": 0,
     "count_7d": 92,
     "top_articles": [
       {
@@ -245,9 +245,9 @@
   {
     "cluster_id": "15",
     "label": "trump, latest, president",
-    "trending_score": 0.3544,
+    "trending_score": 0.3439,
     "count_24h": 4,
-    "count_7d": 78,
+    "count_7d": 76,
     "top_articles": [
       {
         "id": "3908",
@@ -272,9 +272,9 @@
   {
     "cluster_id": "3",
     "label": "ai, tech, new",
-    "trending_score": 0.3463,
-    "count_24h": 3,
-    "count_7d": 136,
+    "trending_score": 0.3125,
+    "count_24h": 1,
+    "count_7d": 134,
     "top_articles": [
       {
         "id": "3867",
@@ -434,9 +434,9 @@
   {
     "cluster_id": "0",
     "label": "new, says, signs",
-    "trending_score": 0.117,
+    "trending_score": 0.1142,
     "count_24h": 2,
-    "count_7d": 42,
+    "count_7d": 40,
     "top_articles": [
       {
         "id": "3896",

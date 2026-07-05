@@ -2,8 +2,8 @@
   {
     "cluster_id": "2",
     "label": "wimbledon, england, stokes",
-    "trending_score": 0.94,
-    "count_24h": 15,
+    "trending_score": 0.89,
+    "count_24h": 13,
     "count_7d": 114,
     "top_articles": [
       {
@@ -29,9 +29,9 @@
   {
     "cluster_id": "5",
     "label": "world, cup, world cup",
-    "trending_score": 0.8625,
-    "count_24h": 18,
-    "count_7d": 220,
+    "trending_score": 0.8041,
+    "count_24h": 16,
+    "count_7d": 219,
     "top_articles": [
       {
         "id": "4070",
@@ -56,9 +56,9 @@
   {
     "cluster_id": "11",
     "label": "burnham, said, uk",
-    "trending_score": 0.7932,
-    "count_24h": 15,
-    "count_7d": 218,
+    "trending_score": 0.7726,
+    "count_24h": 14,
+    "count_7d": 216,
     "top_articles": [
       {
         "id": "4076",
@@ -83,9 +83,9 @@
   {
     "cluster_id": "10",
     "label": "iran, israel, said",
-    "trending_score": 0.6929,
+    "trending_score": 0.6833,
     "count_24h": 14,
-    "count_7d": 120,
+    "count_7d": 119,
     "top_articles": [
       {
         "id": "4063",
@@ -108,37 +108,10 @@
     ]
   },
   {
-    "cluster_id": "3",
-    "label": "said, gaza, play",
-    "trending_score": 0.5291,
-    "count_24h": 10,
-    "count_7d": 204,
-    "top_articles": [
-      {
-        "id": "4077",
-        "title": "Mysterious debris found on Queensland beaches could be ‘space balls’ – and may contain toxic rocket fuel",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/05/mysterious-debris-found-on-queensland-beaches-could-be-space-balls-and-may-contain-toxic-rocket-fuel",
-        "date": "2026-07-05 05:52:24"
-      },
-      {
-        "id": "4017",
-        "title": "At least 20 drown as boat carrying students after exams sinks in DR Congo",
-        "url": "https://www.aljazeera.com/news/2026/7/4/at-least-20-drown-as-boat-carrying-students-after-exams-sinks-in-dr-congo?traffic_source=rss",
-        "date": "2026-07-04 19:16:17"
-      },
-      {
-        "id": "4023",
-        "title": "Ukrainian drones hit St Petersburg oil terminal and nearby port",
-        "url": "https://www.theguardian.com/world/2026/jul/04/ukrainian-drones-hit-st-petersburg-oil-terminal-and-nearby-port",
-        "date": "2026-07-04 19:09:06"
-      }
-    ]
-  },
-  {
     "cluster_id": "9",
     "label": "trump, court, president",
-    "trending_score": 0.5172,
-    "count_24h": 11,
+    "trending_score": 0.4943,
+    "count_24h": 10,
     "count_7d": 130,
     "top_articles": [
       {
@@ -158,6 +131,33 @@
         "title": "Fireworks light up New York City to mark 250 years of US independence",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_fireworks-light-up-new-york-city-to-mark-250-years-040726?traffic_source=rss",
         "date": "2026-07-05 02:55:06"
+      }
+    ]
+  },
+  {
+    "cluster_id": "3",
+    "label": "said, gaza, play",
+    "trending_score": 0.4755,
+    "count_24h": 6,
+    "count_7d": 199,
+    "top_articles": [
+      {
+        "id": "4077",
+        "title": "Mysterious debris found on Queensland beaches could be ‘space balls’ – and may contain toxic rocket fuel",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/05/mysterious-debris-found-on-queensland-beaches-could-be-space-balls-and-may-contain-toxic-rocket-fuel",
+        "date": "2026-07-05 05:52:24"
+      },
+      {
+        "id": "4017",
+        "title": "At least 20 drown as boat carrying students after exams sinks in DR Congo",
+        "url": "https://www.aljazeera.com/news/2026/7/4/at-least-20-drown-as-boat-carrying-students-after-exams-sinks-in-dr-congo?traffic_source=rss",
+        "date": "2026-07-04 19:16:17"
+      },
+      {
+        "id": "4023",
+        "title": "Ukrainian drones hit St Petersburg oil terminal and nearby port",
+        "url": "https://www.theguardian.com/world/2026/jul/04/ukrainian-drones-hit-st-petersburg-oil-terminal-and-nearby-port",
+        "date": "2026-07-04 19:09:06"
       }
     ]
   },
@@ -191,9 +191,9 @@
   {
     "cluster_id": "1",
     "label": "venezuela, 01, 00",
-    "trending_score": 0.4174,
+    "trending_score": 0.4043,
     "count_24h": 0,
-    "count_7d": 75,
+    "count_7d": 72,
     "top_articles": [
       {
         "id": "3886",
@@ -218,9 +218,9 @@
   {
     "cluster_id": "12",
     "label": "said, police, man",
-    "trending_score": 0.4008,
-    "count_24h": 5,
-    "count_7d": 176,
+    "trending_score": 0.366,
+    "count_24h": 3,
+    "count_7d": 174,
     "top_articles": [
       {
         "id": "4060",
@@ -245,8 +245,8 @@
   {
     "cluster_id": "8",
     "label": "ai, new, said",
-    "trending_score": 0.3189,
-    "count_24h": 9,
+    "trending_score": 0.3038,
+    "count_24h": 7,
     "count_7d": 203,
     "top_articles": [
       {
@@ -272,8 +272,8 @@
   {
     "cluster_id": "7",
     "label": "china, taiwan, says",
-    "trending_score": 0.2247,
-    "count_24h": 8,
+    "trending_score": 0.2108,
+    "count_24h": 7,
     "count_7d": 81,
     "top_articles": [
       {
@@ -299,8 +299,8 @@
   {
     "cluster_id": "0",
     "label": "new, image, year",
-    "trending_score": 0.2192,
-    "count_24h": 5,
+    "trending_score": 0.2014,
+    "count_24h": 3,
     "count_7d": 92,
     "top_articles": [
       {
@@ -326,9 +326,9 @@
   {
     "cluster_id": "6",
     "label": "latest, state, california",
-    "trending_score": 0.0842,
+    "trending_score": 0.0829,
     "count_24h": 4,
-    "count_7d": 28,
+    "count_7d": 27,
     "top_articles": [
       {
         "id": "4071",

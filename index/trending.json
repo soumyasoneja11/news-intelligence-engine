@@ -2,9 +2,9 @@
   {
     "cluster_id": "5",
     "label": "world, cup, world cup",
-    "trending_score": 1.0464,
-    "count_24h": 28,
-    "count_7d": 228,
+    "trending_score": 0.9519,
+    "count_24h": 23,
+    "count_7d": 221,
     "top_articles": [
       {
         "id": "4070",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "2",
     "label": "wimbledon, england, stokes",
-    "trending_score": 0.9767,
-    "count_24h": 16,
-    "count_7d": 116,
+    "trending_score": 0.94,
+    "count_24h": 15,
+    "count_7d": 114,
     "top_articles": [
       {
         "id": "4069",
@@ -56,9 +56,9 @@
   {
     "cluster_id": "11",
     "label": "burnham, said, uk",
-    "trending_score": 0.8665,
-    "count_24h": 19,
-    "count_7d": 221,
+    "trending_score": 0.8271,
+    "count_24h": 17,
+    "count_7d": 218,
     "top_articles": [
       {
         "id": "4076",
@@ -83,9 +83,9 @@
   {
     "cluster_id": "10",
     "label": "iran, israel, said",
-    "trending_score": 0.8238,
-    "count_24h": 20,
-    "count_7d": 124,
+    "trending_score": 0.7667,
+    "count_24h": 17,
+    "count_7d": 121,
     "top_articles": [
       {
         "id": "4063",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "3",
     "label": "said, gaza, play",
-    "trending_score": 0.612,
-    "count_24h": 14,
-    "count_7d": 207,
+    "trending_score": 0.5736,
+    "count_24h": 13,
+    "count_7d": 206,
     "top_articles": [
       {
         "id": "4077",
@@ -137,8 +137,8 @@
   {
     "cluster_id": "9",
     "label": "trump, court, president",
-    "trending_score": 0.5706,
-    "count_24h": 14,
+    "trending_score": 0.542,
+    "count_24h": 12,
     "count_7d": 131,
     "top_articles": [
       {
@@ -164,9 +164,9 @@
   {
     "cluster_id": "13",
     "label": "heat, temperatures, heatwave",
-    "trending_score": 0.5496,
+    "trending_score": 0.5038,
     "count_24h": 3,
-    "count_7d": 72,
+    "count_7d": 69,
     "top_articles": [
       {
         "id": "3987",
@@ -191,9 +191,9 @@
   {
     "cluster_id": "1",
     "label": "venezuela, 01, 00",
-    "trending_score": 0.4391,
+    "trending_score": 0.4304,
     "count_24h": 0,
-    "count_7d": 77,
+    "count_7d": 75,
     "top_articles": [
       {
         "id": "3886",
@@ -218,9 +218,9 @@
   {
     "cluster_id": "12",
     "label": "said, police, man",
-    "trending_score": 0.4303,
-    "count_24h": 8,
-    "count_7d": 180,
+    "trending_score": 0.4196,
+    "count_24h": 7,
+    "count_7d": 178,
     "top_articles": [
       {
         "id": "4060",
@@ -245,9 +245,9 @@
   {
     "cluster_id": "8",
     "label": "ai, new, said",
-    "trending_score": 0.331,
+    "trending_score": 0.33,
     "count_24h": 10,
-    "count_7d": 206,
+    "count_7d": 205,
     "top_articles": [
       {
         "id": "4040",
@@ -272,8 +272,8 @@
   {
     "cluster_id": "0",
     "label": "new, image, year",
-    "trending_score": 0.2749,
-    "count_24h": 9,
+    "trending_score": 0.2536,
+    "count_24h": 6,
     "count_7d": 94,
     "top_articles": [
       {
@@ -299,8 +299,8 @@
   {
     "cluster_id": "7",
     "label": "china, taiwan, says",
-    "trending_score": 0.273,
-    "count_24h": 14,
+    "trending_score": 0.2523,
+    "count_24h": 11,
     "count_7d": 81,
     "top_articles": [
       {

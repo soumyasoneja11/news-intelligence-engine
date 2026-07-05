@@ -2,9 +2,9 @@
   {
     "cluster_id": "5",
     "label": "world, cup, world cup",
-    "trending_score": 0.7182,
-    "count_24h": 11,
-    "count_7d": 214,
+    "trending_score": 0.6959,
+    "count_24h": 9,
+    "count_7d": 213,
     "top_articles": [
       {
         "id": "4070",
@@ -27,37 +27,10 @@
     ]
   },
   {
-    "cluster_id": "2",
-    "label": "wimbledon, england, stokes",
-    "trending_score": 0.69,
-    "count_24h": 8,
-    "count_7d": 102,
-    "top_articles": [
-      {
-        "id": "4069",
-        "title": "A rivalry renewed - Sabalenka and Osaka meet again",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cg53p7mn85mo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-05 05:00:51"
-      },
-      {
-        "id": "4049",
-        "title": "A very British love affair - why Wimbledon regulars keep coming back",
-        "url": "https://www.bbc.co.uk/news/articles/ckg54yldw1eo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-05 01:55:14"
-      },
-      {
-        "id": "4045",
-        "title": "Cow corner: cricket match abandoned after runaway bull stops play",
-        "url": "https://www.theguardian.com/world/2026/jul/04/cricket-match-abandoned-after-charging-bull-stops-play",
-        "date": "2026-07-04 22:25:08"
-      }
-    ]
-  },
-  {
     "cluster_id": "11",
     "label": "burnham, said, uk",
-    "trending_score": 0.6466,
-    "count_24h": 9,
+    "trending_score": 0.6353,
+    "count_24h": 8,
     "count_7d": 206,
     "top_articles": [
       {
@@ -81,10 +54,37 @@
     ]
   },
   {
+    "cluster_id": "2",
+    "label": "wimbledon, england, stokes",
+    "trending_score": 0.5967,
+    "count_24h": 5,
+    "count_7d": 98,
+    "top_articles": [
+      {
+        "id": "4069",
+        "title": "A rivalry renewed - Sabalenka and Osaka meet again",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cg53p7mn85mo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-05 05:00:51"
+      },
+      {
+        "id": "4049",
+        "title": "A very British love affair - why Wimbledon regulars keep coming back",
+        "url": "https://www.bbc.co.uk/news/articles/ckg54yldw1eo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-05 01:55:14"
+      },
+      {
+        "id": "4045",
+        "title": "Cow corner: cricket match abandoned after runaway bull stops play",
+        "url": "https://www.theguardian.com/world/2026/jul/04/cricket-match-abandoned-after-charging-bull-stops-play",
+        "date": "2026-07-04 22:25:08"
+      }
+    ]
+  },
+  {
     "cluster_id": "10",
     "label": "iran, israel, said",
-    "trending_score": 0.5476,
-    "count_24h": 9,
+    "trending_score": 0.4833,
+    "count_24h": 5,
     "count_7d": 110,
     "top_articles": [
       {
@@ -110,8 +110,8 @@
   {
     "cluster_id": "9",
     "label": "trump, court, president",
-    "trending_score": 0.4427,
-    "count_24h": 9,
+    "trending_score": 0.4198,
+    "count_24h": 7,
     "count_7d": 124,
     "top_articles": [
       {
@@ -137,9 +137,9 @@
   {
     "cluster_id": "3",
     "label": "said, gaza, play",
-    "trending_score": 0.3942,
-    "count_24h": 2,
-    "count_7d": 191,
+    "trending_score": 0.3788,
+    "count_24h": 1,
+    "count_7d": 187,
     "top_articles": [
       {
         "id": "4077",
@@ -164,9 +164,9 @@
   {
     "cluster_id": "1",
     "label": "venezuela, 01, 00",
-    "trending_score": 0.387,
+    "trending_score": 0.3739,
     "count_24h": 0,
-    "count_7d": 68,
+    "count_7d": 65,
     "top_articles": [
       {
         "id": "3886",
@@ -191,7 +191,7 @@
   {
     "cluster_id": "13",
     "label": "heat, temperatures, heatwave",
-    "trending_score": 0.3511,
+    "trending_score": 0.3282,
     "count_24h": 0,
     "count_7d": 62,
     "top_articles": [
@@ -218,7 +218,7 @@
   {
     "cluster_id": "12",
     "label": "said, police, man",
-    "trending_score": 0.3003,
+    "trending_score": 0.2962,
     "count_24h": 2,
     "count_7d": 170,
     "top_articles": [
@@ -245,8 +245,8 @@
   {
     "cluster_id": "8",
     "label": "ai, new, said",
-    "trending_score": 0.2626,
-    "count_24h": 4,
+    "trending_score": 0.2535,
+    "count_24h": 3,
     "count_7d": 198,
     "top_articles": [
       {
@@ -272,9 +272,9 @@
   {
     "cluster_id": "0",
     "label": "new, image, year",
-    "trending_score": 0.1825,
+    "trending_score": 0.1777,
     "count_24h": 2,
-    "count_7d": 91,
+    "count_7d": 90,
     "top_articles": [
       {
         "id": "4050",
@@ -299,8 +299,8 @@
   {
     "cluster_id": "7",
     "label": "china, taiwan, says",
-    "trending_score": 0.1786,
-    "count_24h": 4,
+    "trending_score": 0.1682,
+    "count_24h": 3,
     "count_7d": 80,
     "top_articles": [
       {
@@ -326,8 +326,8 @@
   {
     "cluster_id": "6",
     "label": "latest, state, california",
-    "trending_score": 0.0716,
-    "count_24h": 3,
+    "trending_score": 0.0641,
+    "count_24h": 2,
     "count_7d": 27,
     "top_articles": [
       {

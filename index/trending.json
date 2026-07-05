@@ -1,37 +1,10 @@
 [
   {
-    "cluster_id": "2",
-    "label": "wimbledon, england, stokes",
-    "trending_score": 0.8133,
-    "count_24h": 11,
-    "count_7d": 109,
-    "top_articles": [
-      {
-        "id": "4069",
-        "title": "A rivalry renewed - Sabalenka and Osaka meet again",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cg53p7mn85mo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-05 05:00:51"
-      },
-      {
-        "id": "4049",
-        "title": "A very British love affair - why Wimbledon regulars keep coming back",
-        "url": "https://www.bbc.co.uk/news/articles/ckg54yldw1eo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-05 01:55:14"
-      },
-      {
-        "id": "4045",
-        "title": "Cow corner: cricket match abandoned after runaway bull stops play",
-        "url": "https://www.theguardian.com/world/2026/jul/04/cricket-match-abandoned-after-charging-bull-stops-play",
-        "date": "2026-07-04 22:25:08"
-      }
-    ]
-  },
-  {
     "cluster_id": "5",
     "label": "world, cup, world cup",
-    "trending_score": 0.7784,
-    "count_24h": 15,
-    "count_7d": 216,
+    "trending_score": 0.7612,
+    "count_24h": 14,
+    "count_7d": 215,
     "top_articles": [
       {
         "id": "4070",
@@ -54,11 +27,38 @@
     ]
   },
   {
+    "cluster_id": "2",
+    "label": "wimbledon, england, stokes",
+    "trending_score": 0.73,
+    "count_24h": 9,
+    "count_7d": 105,
+    "top_articles": [
+      {
+        "id": "4069",
+        "title": "A rivalry renewed - Sabalenka and Osaka meet again",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cg53p7mn85mo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-05 05:00:51"
+      },
+      {
+        "id": "4049",
+        "title": "A very British love affair - why Wimbledon regulars keep coming back",
+        "url": "https://www.bbc.co.uk/news/articles/ckg54yldw1eo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-05 01:55:14"
+      },
+      {
+        "id": "4045",
+        "title": "Cow corner: cricket match abandoned after runaway bull stops play",
+        "url": "https://www.theguardian.com/world/2026/jul/04/cricket-match-abandoned-after-charging-bull-stops-play",
+        "date": "2026-07-04 22:25:08"
+      }
+    ]
+  },
+  {
     "cluster_id": "11",
     "label": "burnham, said, uk",
-    "trending_score": 0.6805,
+    "trending_score": 0.6673,
     "count_24h": 10,
-    "count_7d": 209,
+    "count_7d": 208,
     "top_articles": [
       {
         "id": "4076",
@@ -83,8 +83,8 @@
   {
     "cluster_id": "10",
     "label": "iran, israel, said",
-    "trending_score": 0.6381,
-    "count_24h": 13,
+    "trending_score": 0.6095,
+    "count_24h": 12,
     "count_7d": 112,
     "top_articles": [
       {
@@ -110,9 +110,9 @@
   {
     "cluster_id": "9",
     "label": "trump, court, president",
-    "trending_score": 0.4656,
+    "trending_score": 0.4523,
     "count_24h": 9,
-    "count_7d": 127,
+    "count_7d": 126,
     "top_articles": [
       {
         "id": "4072",
@@ -137,8 +137,8 @@
   {
     "cluster_id": "3",
     "label": "said, gaza, play",
-    "trending_score": 0.4387,
-    "count_24h": 5,
+    "trending_score": 0.4202,
+    "count_24h": 3,
     "count_7d": 193,
     "top_articles": [
       {
@@ -164,9 +164,9 @@
   {
     "cluster_id": "1",
     "label": "venezuela, 01, 00",
-    "trending_score": 0.4,
+    "trending_score": 0.3913,
     "count_24h": 0,
-    "count_7d": 71,
+    "count_7d": 69,
     "top_articles": [
       {
         "id": "3886",
@@ -191,9 +191,9 @@
   {
     "cluster_id": "13",
     "label": "heat, temperatures, heatwave",
-    "trending_score": 0.374,
+    "trending_score": 0.3511,
     "count_24h": 0,
-    "count_7d": 65,
+    "count_7d": 62,
     "top_articles": [
       {
         "id": "3987",
@@ -218,9 +218,9 @@
   {
     "cluster_id": "12",
     "label": "said, police, man",
-    "trending_score": 0.3311,
+    "trending_score": 0.3097,
     "count_24h": 2,
-    "count_7d": 172,
+    "count_7d": 171,
     "top_articles": [
       {
         "id": "4060",
@@ -245,9 +245,9 @@
   {
     "cluster_id": "8",
     "label": "ai, new, said",
-    "trending_score": 0.2857,
-    "count_24h": 6,
-    "count_7d": 200,
+    "trending_score": 0.2757,
+    "count_24h": 5,
+    "count_7d": 199,
     "top_articles": [
       {
         "id": "4040",
@@ -266,33 +266,6 @@
         "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
         "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
         "date": "2026-07-04 20:55:25"
-      }
-    ]
-  },
-  {
-    "cluster_id": "7",
-    "label": "china, taiwan, says",
-    "trending_score": 0.197,
-    "count_24h": 5,
-    "count_7d": 81,
-    "top_articles": [
-      {
-        "id": "4062",
-        "title": "Chinese underground church figure Jin Mingri freed from prison",
-        "url": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-05 05:58:21"
-      },
-      {
-        "id": "4073",
-        "title": "A name, a document, a future: Cameroon’s fight to register every child",
-        "url": "https://www.aljazeera.com/news/2026/7/5/a-name-a-document-a-future-cameroons-fight-to-register-every-child?traffic_source=rss",
-        "date": "2026-07-05 03:55:54"
-      },
-      {
-        "id": "4059",
-        "title": "Founder of prominent underground church released from prison in China",
-        "url": "https://www.theguardian.com/world/2026/jul/05/founder-of-prominent-underground-church-released-from-prison-in-china",
-        "date": "2026-07-05 01:40:15"
       }
     ]
   },
@@ -324,10 +297,37 @@
     ]
   },
   {
+    "cluster_id": "7",
+    "label": "china, taiwan, says",
+    "trending_score": 0.1866,
+    "count_24h": 4,
+    "count_7d": 81,
+    "top_articles": [
+      {
+        "id": "4062",
+        "title": "Chinese underground church figure Jin Mingri freed from prison",
+        "url": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-05 05:58:21"
+      },
+      {
+        "id": "4073",
+        "title": "A name, a document, a future: Cameroon’s fight to register every child",
+        "url": "https://www.aljazeera.com/news/2026/7/5/a-name-a-document-a-future-cameroons-fight-to-register-every-child?traffic_source=rss",
+        "date": "2026-07-05 03:55:54"
+      },
+      {
+        "id": "4059",
+        "title": "Founder of prominent underground church released from prison in China",
+        "url": "https://www.theguardian.com/world/2026/jul/05/founder-of-prominent-underground-church-released-from-prison-in-china",
+        "date": "2026-07-05 01:40:15"
+      }
+    ]
+  },
+  {
     "cluster_id": "6",
     "label": "latest, state, california",
-    "trending_score": 0.0791,
-    "count_24h": 4,
+    "trending_score": 0.0716,
+    "count_24h": 3,
     "count_7d": 27,
     "top_articles": [
       {

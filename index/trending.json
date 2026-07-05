@@ -2,9 +2,9 @@
   {
     "cluster_id": "2",
     "label": "wimbledon, england, stokes",
-    "trending_score": 0.8667,
-    "count_24h": 13,
-    "count_7d": 113,
+    "trending_score": 0.8133,
+    "count_24h": 11,
+    "count_7d": 109,
     "top_articles": [
       {
         "id": "4069",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "5",
     "label": "world, cup, world cup",
-    "trending_score": 0.7818,
+    "trending_score": 0.7784,
     "count_24h": 15,
-    "count_7d": 218,
+    "count_7d": 216,
     "top_articles": [
       {
         "id": "4070",
@@ -56,9 +56,9 @@
   {
     "cluster_id": "11",
     "label": "burnham, said, uk",
-    "trending_score": 0.7274,
-    "count_24h": 11,
-    "count_7d": 213,
+    "trending_score": 0.6805,
+    "count_24h": 10,
+    "count_7d": 209,
     "top_articles": [
       {
         "id": "4076",
@@ -83,9 +83,9 @@
   {
     "cluster_id": "10",
     "label": "iran, israel, said",
-    "trending_score": 0.6667,
-    "count_24h": 14,
-    "count_7d": 115,
+    "trending_score": 0.6381,
+    "count_24h": 13,
+    "count_7d": 112,
     "top_articles": [
       {
         "id": "4063",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "9",
     "label": "trump, court, president",
-    "trending_score": 0.4771,
+    "trending_score": 0.4656,
     "count_24h": 9,
-    "count_7d": 130,
+    "count_7d": 127,
     "top_articles": [
       {
         "id": "4072",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "3",
     "label": "said, gaza, play",
-    "trending_score": 0.4571,
-    "count_24h": 6,
-    "count_7d": 196,
+    "trending_score": 0.4387,
+    "count_24h": 5,
+    "count_7d": 193,
     "top_articles": [
       {
         "id": "4077",
@@ -158,33 +158,6 @@
         "title": "Ukrainian drones hit St Petersburg oil terminal and nearby port",
         "url": "https://www.theguardian.com/world/2026/jul/04/ukrainian-drones-hit-st-petersburg-oil-terminal-and-nearby-port",
         "date": "2026-07-04 19:09:06"
-      }
-    ]
-  },
-  {
-    "cluster_id": "13",
-    "label": "heat, temperatures, heatwave",
-    "trending_score": 0.4046,
-    "count_24h": 0,
-    "count_7d": 67,
-    "top_articles": [
-      {
-        "id": "3987",
-        "title": "Week-long heatwave due in England with 34C peak in south-east",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/04/week-long-heatwave-due-in-england-with-34c-peak-in-south-east",
-        "date": "2026-07-04 14:40:42"
-      },
-      {
-        "id": "3981",
-        "title": "Washington DC’s Fourth of July parade canceled due to soaring temperature",
-        "url": "https://www.theguardian.com/us-news/2026/jul/04/washington-dc-fourth-of-july-parade-canceled-extreme-heat",
-        "date": "2026-07-04 13:31:41"
-      },
-      {
-        "id": "3936",
-        "title": "America250: How the US heatwave will affect Fourth of July celebrations",
-        "url": "https://www.aljazeera.com/news/2026/7/4/america250-how-the-us-heatwave-will-affect-fourth-of-july-celebrations?traffic_source=rss",
-        "date": "2026-07-04 11:00:47"
       }
     ]
   },
@@ -216,10 +189,37 @@
     ]
   },
   {
+    "cluster_id": "13",
+    "label": "heat, temperatures, heatwave",
+    "trending_score": 0.374,
+    "count_24h": 0,
+    "count_7d": 65,
+    "top_articles": [
+      {
+        "id": "3987",
+        "title": "Week-long heatwave due in England with 34C peak in south-east",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/04/week-long-heatwave-due-in-england-with-34c-peak-in-south-east",
+        "date": "2026-07-04 14:40:42"
+      },
+      {
+        "id": "3981",
+        "title": "Washington DC’s Fourth of July parade canceled due to soaring temperature",
+        "url": "https://www.theguardian.com/us-news/2026/jul/04/washington-dc-fourth-of-july-parade-canceled-extreme-heat",
+        "date": "2026-07-04 13:31:41"
+      },
+      {
+        "id": "3936",
+        "title": "America250: How the US heatwave will affect Fourth of July celebrations",
+        "url": "https://www.aljazeera.com/news/2026/7/4/america250-how-the-us-heatwave-will-affect-fourth-of-july-celebrations?traffic_source=rss",
+        "date": "2026-07-04 11:00:47"
+      }
+    ]
+  },
+  {
     "cluster_id": "12",
     "label": "said, police, man",
-    "trending_score": 0.3472,
-    "count_24h": 3,
+    "trending_score": 0.3311,
+    "count_24h": 2,
     "count_7d": 172,
     "top_articles": [
       {
@@ -245,9 +245,9 @@
   {
     "cluster_id": "8",
     "label": "ai, new, said",
-    "trending_score": 0.3028,
-    "count_24h": 7,
-    "count_7d": 202,
+    "trending_score": 0.2857,
+    "count_24h": 6,
+    "count_7d": 200,
     "top_articles": [
       {
         "id": "4040",
@@ -272,8 +272,8 @@
   {
     "cluster_id": "7",
     "label": "china, taiwan, says",
-    "trending_score": 0.2039,
-    "count_24h": 6,
+    "trending_score": 0.197,
+    "count_24h": 5,
     "count_7d": 81,
     "top_articles": [
       {
@@ -299,7 +299,7 @@
   {
     "cluster_id": "0",
     "label": "new, image, year",
-    "trending_score": 0.1979,
+    "trending_score": 0.1943,
     "count_24h": 3,
     "count_7d": 92,
     "top_articles": [
@@ -326,7 +326,7 @@
   {
     "cluster_id": "6",
     "label": "latest, state, california",
-    "trending_score": 0.0829,
+    "trending_score": 0.0791,
     "count_24h": 4,
     "count_7d": 27,
     "top_articles": [

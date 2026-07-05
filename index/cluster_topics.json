@@ -2,59 +2,15 @@
   "0": {
     "keywords": [
       "new",
-      "says",
-      "signs",
-      "state",
-      "olympic"
+      "image",
+      "year",
+      "glance",
+      "said"
     ],
-    "label": "new, says, signs",
-    "article_count": 359
+    "label": "new, image, year",
+    "article_count": 422
   },
   "1": {
-    "keywords": [
-      "said",
-      "police",
-      "man",
-      "court",
-      "woman"
-    ],
-    "label": "said, police, man",
-    "article_count": 234
-  },
-  "2": {
-    "keywords": [
-      "video",
-      "play arrow",
-      "video duration",
-      "duration",
-      "arrow"
-    ],
-    "label": "video, play arrow, video duration",
-    "article_count": 234
-  },
-  "3": {
-    "keywords": [
-      "ai",
-      "tech",
-      "new",
-      "google",
-      "techcrunch"
-    ],
-    "label": "ai, tech, new",
-    "article_count": 296
-  },
-  "4": {
-    "keywords": [
-      "glance",
-      "expanded conference",
-      "conference glance",
-      "expanded",
-      "conference"
-    ],
-    "label": "glance, expanded conference, conference glance",
-    "article_count": 19
-  },
-  "5": {
     "keywords": [
       "venezuela",
       "01",
@@ -63,51 +19,95 @@
       "duration"
     ],
     "label": "venezuela, 01, 00",
-    "article_count": 112
+    "article_count": 115
+  },
+  "2": {
+    "keywords": [
+      "wimbledon",
+      "england",
+      "stokes",
+      "tennis",
+      "world"
+    ],
+    "label": "wimbledon, england, stokes",
+    "article_count": 150
+  },
+  "3": {
+    "keywords": [
+      "said",
+      "gaza",
+      "play",
+      "killed",
+      "arrow"
+    ],
+    "label": "said, gaza, play",
+    "article_count": 326
+  },
+  "4": {
+    "keywords": [
+      "league",
+      "win",
+      "major",
+      "league linescores",
+      "linescores"
+    ],
+    "label": "league, win, major",
+    "article_count": 207
+  },
+  "5": {
+    "keywords": [
+      "world",
+      "cup",
+      "world cup",
+      "england",
+      "team"
+    ],
+    "label": "world, cup, world cup",
+    "article_count": 291
   },
   "6": {
     "keywords": [
-      "china",
-      "taiwan",
-      "chinese",
-      "taipei",
-      "korea"
+      "latest",
+      "state",
+      "california",
+      "says",
+      "new"
     ],
-    "label": "china, taiwan, chinese",
-    "article_count": 143
+    "label": "latest, state, california",
+    "article_count": 398
   },
   "7": {
     "keywords": [
-      "england",
-      "wimbledon",
-      "stokes",
-      "world",
-      "tennis"
+      "china",
+      "taiwan",
+      "says",
+      "new",
+      "russia"
     ],
-    "label": "england, wimbledon, stokes",
-    "article_count": 140
+    "label": "china, taiwan, says",
+    "article_count": 434
   },
   "8": {
     "keywords": [
-      "court",
-      "trump",
-      "supreme court",
-      "supreme",
-      "judge"
+      "ai",
+      "new",
+      "said",
+      "company",
+      "market"
     ],
-    "label": "court, trump, supreme court",
-    "article_count": 244
+    "label": "ai, new, said",
+    "article_count": 497
   },
   "9": {
     "keywords": [
-      "police",
+      "trump",
+      "court",
+      "president",
       "said",
-      "shooting",
-      "man",
-      "killed"
+      "latest"
     ],
-    "label": "police, said, shooting",
-    "article_count": 230
+    "label": "trump, court, president",
+    "article_count": 262
   },
   "10": {
     "keywords": [
@@ -118,94 +118,39 @@
       "strait"
     ],
     "label": "iran, israel, said",
-    "article_count": 184
+    "article_count": 210
   },
   "11": {
-    "keywords": [
-      "said",
-      "health",
-      "ebola",
-      "outbreak",
-      "media"
-    ],
-    "label": "said, health, ebola",
-    "article_count": 177
-  },
-  "12": {
-    "keywords": [
-      "league",
-      "win",
-      "major",
-      "wednesday major",
-      "linescores"
-    ],
-    "label": "league, win, major",
-    "article_count": 201
-  },
-  "13": {
-    "keywords": [
-      "new",
-      "image",
-      "said",
-      "year",
-      "film"
-    ],
-    "label": "new, image, said",
-    "article_count": 311
-  },
-  "14": {
-    "keywords": [
-      "heat",
-      "temperatures",
-      "heatwave",
-      "europe",
-      "uk"
-    ],
-    "label": "heat, temperatures, heatwave",
-    "article_count": 84
-  },
-  "15": {
-    "keywords": [
-      "trump",
-      "latest",
-      "president",
-      "house",
-      "says"
-    ],
-    "label": "trump, latest, president",
-    "article_count": 237
-  },
-  "16": {
-    "keywords": [
-      "market",
-      "new",
-      "energy",
-      "global",
-      "sales"
-    ],
-    "label": "market, new, energy",
-    "article_count": 245
-  },
-  "17": {
     "keywords": [
       "burnham",
       "said",
       "uk",
       "defence",
-      "starmer"
+      "labour"
     ],
     "label": "burnham, said, uk",
-    "article_count": 200
+    "article_count": 266
   },
-  "18": {
+  "12": {
     "keywords": [
-      "world",
-      "cup",
-      "world cup",
-      "england",
-      "team"
+      "said",
+      "police",
+      "man",
+      "court",
+      "woman"
     ],
-    "label": "world, cup, world cup",
-    "article_count": 259
+    "label": "said, police, man",
+    "article_count": 373
+  },
+  "13": {
+    "keywords": [
+      "heat",
+      "temperatures",
+      "heatwave",
+      "europe",
+      "said"
+    ],
+    "label": "heat, temperatures, heatwave",
+    "article_count": 131
   }
 }

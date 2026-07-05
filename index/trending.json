@@ -1,32 +1,5 @@
 [
   {
-    "cluster_id": "5",
-    "label": "world, cup, world cup",
-    "trending_score": 0.9519,
-    "count_24h": 23,
-    "count_7d": 221,
-    "top_articles": [
-      {
-        "id": "4070",
-        "title": "Brazil vs Norway: FIFA World Cup last 16 – Vinicius, Haaland and prediction",
-        "url": "https://www.aljazeera.com/sports/2026/7/5/brazil-vs-norway-fifa-world-cup-last-16-vinicius-haaland-and-prediction?traffic_source=rss",
-        "date": "2026-07-05 06:22:26"
-      },
-      {
-        "id": "4047",
-        "title": "Tuchel praises respectful Mexico fans amid increased security",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c8r2827pyxlo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-05 02:15:19"
-      },
-      {
-        "id": "4051",
-        "title": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-05 01:53:01"
-      }
-    ]
-  },
-  {
     "cluster_id": "2",
     "label": "wimbledon, england, stokes",
     "trending_score": 0.94,
@@ -54,10 +27,37 @@
     ]
   },
   {
+    "cluster_id": "5",
+    "label": "world, cup, world cup",
+    "trending_score": 0.8625,
+    "count_24h": 18,
+    "count_7d": 220,
+    "top_articles": [
+      {
+        "id": "4070",
+        "title": "Brazil vs Norway: FIFA World Cup last 16 – Vinicius, Haaland and prediction",
+        "url": "https://www.aljazeera.com/sports/2026/7/5/brazil-vs-norway-fifa-world-cup-last-16-vinicius-haaland-and-prediction?traffic_source=rss",
+        "date": "2026-07-05 06:22:26"
+      },
+      {
+        "id": "4047",
+        "title": "Tuchel praises respectful Mexico fans amid increased security",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c8r2827pyxlo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-05 02:15:19"
+      },
+      {
+        "id": "4051",
+        "title": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-05 01:53:01"
+      }
+    ]
+  },
+  {
     "cluster_id": "11",
     "label": "burnham, said, uk",
-    "trending_score": 0.8271,
-    "count_24h": 17,
+    "trending_score": 0.7932,
+    "count_24h": 15,
     "count_7d": 218,
     "top_articles": [
       {
@@ -83,9 +83,9 @@
   {
     "cluster_id": "10",
     "label": "iran, israel, said",
-    "trending_score": 0.7667,
-    "count_24h": 17,
-    "count_7d": 121,
+    "trending_score": 0.6929,
+    "count_24h": 14,
+    "count_7d": 120,
     "top_articles": [
       {
         "id": "4063",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "3",
     "label": "said, gaza, play",
-    "trending_score": 0.5736,
-    "count_24h": 13,
-    "count_7d": 206,
+    "trending_score": 0.5291,
+    "count_24h": 10,
+    "count_7d": 204,
     "top_articles": [
       {
         "id": "4077",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "9",
     "label": "trump, court, president",
-    "trending_score": 0.542,
-    "count_24h": 12,
-    "count_7d": 131,
+    "trending_score": 0.5172,
+    "count_24h": 11,
+    "count_7d": 130,
     "top_articles": [
       {
         "id": "4072",
@@ -164,9 +164,9 @@
   {
     "cluster_id": "13",
     "label": "heat, temperatures, heatwave",
-    "trending_score": 0.5038,
-    "count_24h": 3,
-    "count_7d": 69,
+    "trending_score": 0.4656,
+    "count_24h": 2,
+    "count_7d": 68,
     "top_articles": [
       {
         "id": "3987",
@@ -191,7 +191,7 @@
   {
     "cluster_id": "1",
     "label": "venezuela, 01, 00",
-    "trending_score": 0.4304,
+    "trending_score": 0.4174,
     "count_24h": 0,
     "count_7d": 75,
     "top_articles": [
@@ -218,9 +218,9 @@
   {
     "cluster_id": "12",
     "label": "said, police, man",
-    "trending_score": 0.4196,
-    "count_24h": 7,
-    "count_7d": 178,
+    "trending_score": 0.4008,
+    "count_24h": 5,
+    "count_7d": 176,
     "top_articles": [
       {
         "id": "4060",
@@ -245,9 +245,9 @@
   {
     "cluster_id": "8",
     "label": "ai, new, said",
-    "trending_score": 0.33,
-    "count_24h": 10,
-    "count_7d": 205,
+    "trending_score": 0.3189,
+    "count_24h": 9,
+    "count_7d": 203,
     "top_articles": [
       {
         "id": "4040",
@@ -270,37 +270,10 @@
     ]
   },
   {
-    "cluster_id": "0",
-    "label": "new, image, year",
-    "trending_score": 0.2536,
-    "count_24h": 6,
-    "count_7d": 94,
-    "top_articles": [
-      {
-        "id": "4050",
-        "title": "TikTokers on how Manchester became an 'influencer heaven'",
-        "url": "https://www.bbc.co.uk/news/articles/cp8p8y937ydo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-05 01:52:18"
-      },
-      {
-        "id": "4033",
-        "title": "Female US rower completes historic solo journey from California to Hawaii",
-        "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
-        "date": "2026-07-04 21:06:56"
-      },
-      {
-        "id": "4005",
-        "title": "Tens of thousands march in London for annual Pride parade",
-        "url": "https://www.theguardian.com/world/2026/jul/04/tens-of-thousands-march-in-london-for-annual-pride-parade",
-        "date": "2026-07-04 18:06:08"
-      }
-    ]
-  },
-  {
     "cluster_id": "7",
     "label": "china, taiwan, says",
-    "trending_score": 0.2523,
-    "count_24h": 11,
+    "trending_score": 0.2247,
+    "count_24h": 8,
     "count_7d": 81,
     "top_articles": [
       {
@@ -320,6 +293,33 @@
         "title": "Founder of prominent underground church released from prison in China",
         "url": "https://www.theguardian.com/world/2026/jul/05/founder-of-prominent-underground-church-released-from-prison-in-china",
         "date": "2026-07-05 01:40:15"
+      }
+    ]
+  },
+  {
+    "cluster_id": "0",
+    "label": "new, image, year",
+    "trending_score": 0.2192,
+    "count_24h": 5,
+    "count_7d": 92,
+    "top_articles": [
+      {
+        "id": "4050",
+        "title": "TikTokers on how Manchester became an 'influencer heaven'",
+        "url": "https://www.bbc.co.uk/news/articles/cp8p8y937ydo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-05 01:52:18"
+      },
+      {
+        "id": "4033",
+        "title": "Female US rower completes historic solo journey from California to Hawaii",
+        "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+        "date": "2026-07-04 21:06:56"
+      },
+      {
+        "id": "4005",
+        "title": "Tens of thousands march in London for annual Pride parade",
+        "url": "https://www.theguardian.com/world/2026/jul/04/tens-of-thousands-march-in-london-for-annual-pride-parade",
+        "date": "2026-07-04 18:06:08"
       }
     ]
   },

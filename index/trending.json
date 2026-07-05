@@ -2,9 +2,9 @@
   {
     "cluster_id": "5",
     "label": "world, cup, world cup",
-    "trending_score": 0.7612,
-    "count_24h": 14,
-    "count_7d": 215,
+    "trending_score": 0.7182,
+    "count_24h": 11,
+    "count_7d": 214,
     "top_articles": [
       {
         "id": "4070",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "2",
     "label": "wimbledon, england, stokes",
-    "trending_score": 0.73,
-    "count_24h": 9,
-    "count_7d": 105,
+    "trending_score": 0.69,
+    "count_24h": 8,
+    "count_7d": 102,
     "top_articles": [
       {
         "id": "4069",
@@ -56,9 +56,9 @@
   {
     "cluster_id": "11",
     "label": "burnham, said, uk",
-    "trending_score": 0.6673,
-    "count_24h": 10,
-    "count_7d": 208,
+    "trending_score": 0.6466,
+    "count_24h": 9,
+    "count_7d": 206,
     "top_articles": [
       {
         "id": "4076",
@@ -83,9 +83,9 @@
   {
     "cluster_id": "10",
     "label": "iran, israel, said",
-    "trending_score": 0.6095,
-    "count_24h": 12,
-    "count_7d": 112,
+    "trending_score": 0.5476,
+    "count_24h": 9,
+    "count_7d": 110,
     "top_articles": [
       {
         "id": "4063",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "9",
     "label": "trump, court, president",
-    "trending_score": 0.4523,
+    "trending_score": 0.4427,
     "count_24h": 9,
-    "count_7d": 126,
+    "count_7d": 124,
     "top_articles": [
       {
         "id": "4072",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "3",
     "label": "said, gaza, play",
-    "trending_score": 0.4202,
-    "count_24h": 3,
-    "count_7d": 193,
+    "trending_score": 0.3942,
+    "count_24h": 2,
+    "count_7d": 191,
     "top_articles": [
       {
         "id": "4077",
@@ -164,9 +164,9 @@
   {
     "cluster_id": "1",
     "label": "venezuela, 01, 00",
-    "trending_score": 0.3913,
+    "trending_score": 0.387,
     "count_24h": 0,
-    "count_7d": 69,
+    "count_7d": 68,
     "top_articles": [
       {
         "id": "3886",
@@ -218,9 +218,9 @@
   {
     "cluster_id": "12",
     "label": "said, police, man",
-    "trending_score": 0.3097,
+    "trending_score": 0.3003,
     "count_24h": 2,
-    "count_7d": 171,
+    "count_7d": 170,
     "top_articles": [
       {
         "id": "4060",
@@ -245,9 +245,9 @@
   {
     "cluster_id": "8",
     "label": "ai, new, said",
-    "trending_score": 0.2757,
-    "count_24h": 5,
-    "count_7d": 199,
+    "trending_score": 0.2626,
+    "count_24h": 4,
+    "count_7d": 198,
     "top_articles": [
       {
         "id": "4040",
@@ -272,9 +272,9 @@
   {
     "cluster_id": "0",
     "label": "new, image, year",
-    "trending_score": 0.1943,
-    "count_24h": 3,
-    "count_7d": 92,
+    "trending_score": 0.1825,
+    "count_24h": 2,
+    "count_7d": 91,
     "top_articles": [
       {
         "id": "4050",
@@ -299,9 +299,9 @@
   {
     "cluster_id": "7",
     "label": "china, taiwan, says",
-    "trending_score": 0.1866,
+    "trending_score": 0.1786,
     "count_24h": 4,
-    "count_7d": 81,
+    "count_7d": 80,
     "top_articles": [
       {
         "id": "4062",

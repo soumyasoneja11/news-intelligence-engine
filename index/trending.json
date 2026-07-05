@@ -2,9 +2,9 @@
   {
     "cluster_id": "18",
     "label": "world, cup, world cup",
-    "trending_score": 0.8108,
-    "count_24h": 12,
-    "count_7d": 204,
+    "trending_score": 0.7124,
+    "count_24h": 5,
+    "count_7d": 201,
     "top_articles": [
       {
         "id": "3905",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "17",
     "label": "burnham, said, uk",
-    "trending_score": 0.715,
-    "count_24h": 6,
-    "count_7d": 172,
+    "trending_score": 0.6825,
+    "count_24h": 5,
+    "count_7d": 168,
     "top_articles": [
       {
         "id": "3903",
@@ -56,8 +56,8 @@
   {
     "cluster_id": "14",
     "label": "heat, temperatures, heatwave",
-    "trending_score": 0.6429,
-    "count_24h": 3,
+    "trending_score": 0.5536,
+    "count_24h": 1,
     "count_7d": 51,
     "top_articles": [
       {
@@ -81,38 +81,11 @@
     ]
   },
   {
-    "cluster_id": "5",
-    "label": "venezuela, 01, 00",
-    "trending_score": 0.5536,
-    "count_24h": 3,
-    "count_7d": 79,
-    "top_articles": [
-      {
-        "id": "3886",
-        "title": "‘El Obeid crisis could be worse than El Fasher,’ warns ex-UN official",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/el-obeid-crisis-could-be-worse-than-el-fasher-warns-ex-un-official?traffic_source=rss",
-        "date": "2026-07-04 02:28:17"
-      },
-      {
-        "id": "3887",
-        "title": "Ronaldo sends message to Venezuelan earthquake survivor",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/ronaldo-sends-message-to-venezuelan-earthquake-survivor?traffic_source=rss",
-        "date": "2026-07-04 01:32:28"
-      },
-      {
-        "id": "3892",
-        "title": "Quakes reduce Venezuela tourist town to rubble, leaving economy in tatters",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/quakes-reduce-venezuela-tourist-town-to-rubble-leaving-economy-in-tatters?traffic_source=rss",
-        "date": "2026-07-03 23:57:24"
-      }
-    ]
-  },
-  {
     "cluster_id": "7",
     "label": "england, wimbledon, stokes",
-    "trending_score": 0.5071,
+    "trending_score": 0.4893,
     "count_24h": 0,
-    "count_7d": 106,
+    "count_7d": 104,
     "top_articles": [
       {
         "id": "3881",
@@ -135,63 +108,36 @@
     ]
   },
   {
-    "cluster_id": "1",
-    "label": "said, police, man",
-    "trending_score": 0.4658,
-    "count_24h": 2,
-    "count_7d": 134,
+    "cluster_id": "5",
+    "label": "venezuela, 01, 00",
+    "trending_score": 0.4554,
+    "count_24h": 0,
+    "count_7d": 78,
     "top_articles": [
       {
-        "id": "3871",
-        "title": "Mini-marts linked to convicted people smuggler closed after BBC investigation",
-        "url": "https://www.bbc.co.uk/news/articles/cjwgp00l84qo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-04 01:54:31"
+        "id": "3886",
+        "title": "‘El Obeid crisis could be worse than El Fasher,’ warns ex-UN official",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/el-obeid-crisis-could-be-worse-than-el-fasher-warns-ex-un-official?traffic_source=rss",
+        "date": "2026-07-04 02:28:17"
       },
       {
-        "id": "3893",
-        "title": "Third teenager charged after 15-year-old Melbourne boy allegedly left to die from stab wounds",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/04/third-teenager-charged-after-15-year-old-melbourne-boy-allegedly-left-to-die-from-stab-wounds-ntwnfb",
-        "date": "2026-07-04 01:42:25"
+        "id": "3887",
+        "title": "Ronaldo sends message to Venezuelan earthquake survivor",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/ronaldo-sends-message-to-venezuelan-earthquake-survivor?traffic_source=rss",
+        "date": "2026-07-04 01:32:28"
       },
       {
-        "id": "3833",
-        "title": "Woman denies consensual encounter in Top Boy actor rape trial",
-        "url": "https://www.bbc.co.uk/news/articles/c24y2303ev8o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-03 19:38:34"
-      }
-    ]
-  },
-  {
-    "cluster_id": "10",
-    "label": "iran, israel, said",
-    "trending_score": 0.4647,
-    "count_24h": 1,
-    "count_7d": 102,
-    "top_articles": [
-      {
-        "id": "3891",
-        "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
-        "date": "2026-07-04 00:00:00"
-      },
-      {
-        "id": "3836",
-        "title": "Lebanon-Israel deal betrays ‘victims of war crimes’, rights groups say",
-        "url": "https://www.aljazeera.com/news/2026/7/3/lebanon-israel-deal-betrays-victims-of-war-crimes-rights-groups-say?traffic_source=rss",
-        "date": "2026-07-03 19:27:15"
-      },
-      {
-        "id": "3840",
-        "title": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
-        "url": "https://www.aljazeera.com/news/2026/7/3/iran-begins-week-of-funeral-ceremonies-for-slain-supreme-leader-khamenei?traffic_source=rss",
-        "date": "2026-07-03 18:39:31"
+        "id": "3892",
+        "title": "Quakes reduce Venezuela tourist town to rubble, leaving economy in tatters",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/quakes-reduce-venezuela-tourist-town-to-rubble-leaving-economy-in-tatters?traffic_source=rss",
+        "date": "2026-07-03 23:57:24"
       }
     ]
   },
   {
     "cluster_id": "2",
     "label": "video, play arrow, video duration",
-    "trending_score": 0.4615,
+    "trending_score": 0.4551,
     "count_24h": 2,
     "count_7d": 147,
     "top_articles": [
@@ -216,11 +162,65 @@
     ]
   },
   {
+    "cluster_id": "10",
+    "label": "iran, israel, said",
+    "trending_score": 0.4348,
+    "count_24h": 0,
+    "count_7d": 100,
+    "top_articles": [
+      {
+        "id": "3891",
+        "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
+        "date": "2026-07-04 00:00:00"
+      },
+      {
+        "id": "3836",
+        "title": "Lebanon-Israel deal betrays ‘victims of war crimes’, rights groups say",
+        "url": "https://www.aljazeera.com/news/2026/7/3/lebanon-israel-deal-betrays-victims-of-war-crimes-rights-groups-say?traffic_source=rss",
+        "date": "2026-07-03 19:27:15"
+      },
+      {
+        "id": "3840",
+        "title": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
+        "url": "https://www.aljazeera.com/news/2026/7/3/iran-begins-week-of-funeral-ceremonies-for-slain-supreme-leader-khamenei?traffic_source=rss",
+        "date": "2026-07-03 18:39:31"
+      }
+    ]
+  },
+  {
+    "cluster_id": "1",
+    "label": "said, police, man",
+    "trending_score": 0.4338,
+    "count_24h": 0,
+    "count_7d": 134,
+    "top_articles": [
+      {
+        "id": "3871",
+        "title": "Mini-marts linked to convicted people smuggler closed after BBC investigation",
+        "url": "https://www.bbc.co.uk/news/articles/cjwgp00l84qo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-04 01:54:31"
+      },
+      {
+        "id": "3893",
+        "title": "Third teenager charged after 15-year-old Melbourne boy allegedly left to die from stab wounds",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/04/third-teenager-charged-after-15-year-old-melbourne-boy-allegedly-left-to-die-from-stab-wounds-ntwnfb",
+        "date": "2026-07-04 01:42:25"
+      },
+      {
+        "id": "3833",
+        "title": "Woman denies consensual encounter in Top Boy actor rape trial",
+        "url": "https://www.bbc.co.uk/news/articles/c24y2303ev8o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 19:38:34"
+      }
+    ]
+  },
+  {
     "cluster_id": "11",
     "label": "said, health, ebola",
-    "trending_score": 0.3729,
+    "trending_score": 0.3588,
     "count_24h": 0,
-    "count_7d": 90,
+    "count_7d": 88,
     "top_articles": [
       {
         "id": "3856",
@@ -245,8 +245,8 @@
   {
     "cluster_id": "15",
     "label": "trump, latest, president",
-    "trending_score": 0.3249,
-    "count_24h": 4,
+    "trending_score": 0.3059,
+    "count_24h": 3,
     "count_7d": 76,
     "top_articles": [
       {
@@ -272,8 +272,8 @@
   {
     "cluster_id": "3",
     "label": "ai, tech, new",
-    "trending_score": 0.2956,
-    "count_24h": 1,
+    "trending_score": 0.2753,
+    "count_24h": 0,
     "count_7d": 133,
     "top_articles": [
       {
@@ -299,9 +299,9 @@
   {
     "cluster_id": "13",
     "label": "new, image, said",
-    "trending_score": 0.2476,
-    "count_24h": 5,
-    "count_7d": 76,
+    "trending_score": 0.1994,
+    "count_24h": 1,
+    "count_7d": 73,
     "top_articles": [
       {
         "id": "3894",
@@ -320,33 +320,6 @@
         "title": "Ear plugs have become a festival must-have - but they aren't all created equal",
         "url": "https://www.bbc.co.uk/news/articles/c87288g4zrgo?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-04 01:29:21"
-      }
-    ]
-  },
-  {
-    "cluster_id": "9",
-    "label": "police, said, shooting",
-    "trending_score": 0.1957,
-    "count_24h": 0,
-    "count_7d": 72,
-    "top_articles": [
-      {
-        "id": "3863",
-        "title": "Two people dead and a third injured in shooting at Michigan shopping mall",
-        "url": "https://www.theguardian.com/us-news/2026/jul/03/two-people-dead-michigan-mall-shooting",
-        "date": "2026-07-03 22:32:22"
-      },
-      {
-        "id": "3862",
-        "title": "Thousands forced to evacuate in Colorado as wildfire spreads",
-        "url": "https://www.aljazeera.com/news/2026/7/3/thousands-forced-to-evacuate-in-colorado-as-wildfire-spreads?traffic_source=rss",
-        "date": "2026-07-03 21:32:05"
-      },
-      {
-        "id": "3816",
-        "title": "Man charged with manslaughter over Tesla crash originally blamed on car’s self-driving mode",
-        "url": "https://www.theguardian.com/us-news/2026/jul/03/tesla-texas-crash-manslaughter",
-        "date": "2026-07-03 16:15:41"
       }
     ]
   },
@@ -374,6 +347,33 @@
         "title": "New pipeline in Canada to proceed after C$150bn pledged to ease BC and First Nations concerns",
         "url": "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline",
         "date": "2026-07-03 15:34:32"
+      }
+    ]
+  },
+  {
+    "cluster_id": "9",
+    "label": "police, said, shooting",
+    "trending_score": 0.1804,
+    "count_24h": 0,
+    "count_7d": 71,
+    "top_articles": [
+      {
+        "id": "3863",
+        "title": "Two people dead and a third injured in shooting at Michigan shopping mall",
+        "url": "https://www.theguardian.com/us-news/2026/jul/03/two-people-dead-michigan-mall-shooting",
+        "date": "2026-07-03 22:32:22"
+      },
+      {
+        "id": "3862",
+        "title": "Thousands forced to evacuate in Colorado as wildfire spreads",
+        "url": "https://www.aljazeera.com/news/2026/7/3/thousands-forced-to-evacuate-in-colorado-as-wildfire-spreads?traffic_source=rss",
+        "date": "2026-07-03 21:32:05"
+      },
+      {
+        "id": "3816",
+        "title": "Man charged with manslaughter over Tesla crash originally blamed on car’s self-driving mode",
+        "url": "https://www.theguardian.com/us-news/2026/jul/03/tesla-texas-crash-manslaughter",
+        "date": "2026-07-03 16:15:41"
       }
     ]
   },
@@ -434,9 +434,9 @@
   {
     "cluster_id": "0",
     "label": "new, says, signs",
-    "trending_score": 0.1058,
-    "count_24h": 2,
-    "count_7d": 40,
+    "trending_score": 0.0836,
+    "count_24h": 0,
+    "count_7d": 39,
     "top_articles": [
       {
         "id": "3896",

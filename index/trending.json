@@ -2,9 +2,9 @@
   {
     "cluster_id": "5",
     "label": "world, cup, world cup",
-    "trending_score": 0.5825,
-    "count_24h": 3,
-    "count_7d": 207,
+    "trending_score": 0.5155,
+    "count_24h": 1,
+    "count_7d": 204,
     "top_articles": [
       {
         "id": "4070",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "11",
     "label": "burnham, said, uk",
-    "trending_score": 0.5714,
-    "count_24h": 6,
-    "count_7d": 196,
+    "trending_score": 0.4981,
+    "count_24h": 2,
+    "count_7d": 190,
     "top_articles": [
       {
         "id": "4076",
@@ -56,9 +56,9 @@
   {
     "cluster_id": "2",
     "label": "wimbledon, england, stokes",
-    "trending_score": 0.5133,
-    "count_24h": 2,
-    "count_7d": 94,
+    "trending_score": 0.47,
+    "count_24h": 0,
+    "count_7d": 93,
     "top_articles": [
       {
         "id": "4069",
@@ -83,9 +83,9 @@
   {
     "cluster_id": "10",
     "label": "iran, israel, said",
-    "trending_score": 0.4167,
-    "count_24h": 1,
-    "count_7d": 109,
+    "trending_score": 0.3976,
+    "count_24h": 0,
+    "count_7d": 107,
     "top_articles": [
       {
         "id": "4063",
@@ -108,10 +108,37 @@
     ]
   },
   {
+    "cluster_id": "3",
+    "label": "said, gaza, play",
+    "trending_score": 0.339,
+    "count_24h": 0,
+    "count_7d": 179,
+    "top_articles": [
+      {
+        "id": "4077",
+        "title": "Mysterious debris found on Queensland beaches could be ‘space balls’ – and may contain toxic rocket fuel",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/05/mysterious-debris-found-on-queensland-beaches-could-be-space-balls-and-may-contain-toxic-rocket-fuel",
+        "date": "2026-07-05 05:52:24"
+      },
+      {
+        "id": "4017",
+        "title": "At least 20 drown as boat carrying students after exams sinks in DR Congo",
+        "url": "https://www.aljazeera.com/news/2026/7/4/at-least-20-drown-as-boat-carrying-students-after-exams-sinks-in-dr-congo?traffic_source=rss",
+        "date": "2026-07-04 19:16:17"
+      },
+      {
+        "id": "4023",
+        "title": "Ukrainian drones hit St Petersburg oil terminal and nearby port",
+        "url": "https://www.theguardian.com/world/2026/jul/04/ukrainian-drones-hit-st-petersburg-oil-terminal-and-nearby-port",
+        "date": "2026-07-04 19:09:06"
+      }
+    ]
+  },
+  {
     "cluster_id": "9",
     "label": "trump, court, president",
-    "trending_score": 0.3798,
-    "count_24h": 4,
+    "trending_score": 0.3168,
+    "count_24h": 0,
     "count_7d": 124,
     "top_articles": [
       {
@@ -135,63 +162,9 @@
     ]
   },
   {
-    "cluster_id": "3",
-    "label": "said, gaza, play",
-    "trending_score": 0.365,
-    "count_24h": 1,
-    "count_7d": 184,
-    "top_articles": [
-      {
-        "id": "4077",
-        "title": "Mysterious debris found on Queensland beaches could be ‘space balls’ – and may contain toxic rocket fuel",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/05/mysterious-debris-found-on-queensland-beaches-could-be-space-balls-and-may-contain-toxic-rocket-fuel",
-        "date": "2026-07-05 05:52:24"
-      },
-      {
-        "id": "4017",
-        "title": "At least 20 drown as boat carrying students after exams sinks in DR Congo",
-        "url": "https://www.aljazeera.com/news/2026/7/4/at-least-20-drown-as-boat-carrying-students-after-exams-sinks-in-dr-congo?traffic_source=rss",
-        "date": "2026-07-04 19:16:17"
-      },
-      {
-        "id": "4023",
-        "title": "Ukrainian drones hit St Petersburg oil terminal and nearby port",
-        "url": "https://www.theguardian.com/world/2026/jul/04/ukrainian-drones-hit-st-petersburg-oil-terminal-and-nearby-port",
-        "date": "2026-07-04 19:09:06"
-      }
-    ]
-  },
-  {
-    "cluster_id": "1",
-    "label": "venezuela, 01, 00",
-    "trending_score": 0.3,
-    "count_24h": 0,
-    "count_7d": 63,
-    "top_articles": [
-      {
-        "id": "3886",
-        "title": "‘El Obeid crisis could be worse than El Fasher,’ warns ex-UN official",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/el-obeid-crisis-could-be-worse-than-el-fasher-warns-ex-un-official?traffic_source=rss",
-        "date": "2026-07-04 02:28:17"
-      },
-      {
-        "id": "3887",
-        "title": "Ronaldo sends message to Venezuelan earthquake survivor",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/ronaldo-sends-message-to-venezuelan-earthquake-survivor?traffic_source=rss",
-        "date": "2026-07-04 01:32:28"
-      },
-      {
-        "id": "3892",
-        "title": "Quakes reduce Venezuela tourist town to rubble, leaving economy in tatters",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/quakes-reduce-venezuela-tourist-town-to-rubble-leaving-economy-in-tatters?traffic_source=rss",
-        "date": "2026-07-03 23:57:24"
-      }
-    ]
-  },
-  {
     "cluster_id": "13",
     "label": "heat, temperatures, heatwave",
-    "trending_score": 0.2748,
+    "trending_score": 0.2634,
     "count_24h": 0,
     "count_7d": 60,
     "top_articles": [
@@ -216,11 +189,38 @@
     ]
   },
   {
+    "cluster_id": "1",
+    "label": "venezuela, 01, 00",
+    "trending_score": 0.2609,
+    "count_24h": 0,
+    "count_7d": 60,
+    "top_articles": [
+      {
+        "id": "3886",
+        "title": "‘El Obeid crisis could be worse than El Fasher,’ warns ex-UN official",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/el-obeid-crisis-could-be-worse-than-el-fasher-warns-ex-un-official?traffic_source=rss",
+        "date": "2026-07-04 02:28:17"
+      },
+      {
+        "id": "3887",
+        "title": "Ronaldo sends message to Venezuelan earthquake survivor",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/ronaldo-sends-message-to-venezuelan-earthquake-survivor?traffic_source=rss",
+        "date": "2026-07-04 01:32:28"
+      },
+      {
+        "id": "3892",
+        "title": "Quakes reduce Venezuela tourist town to rubble, leaving economy in tatters",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/quakes-reduce-venezuela-tourist-town-to-rubble-leaving-economy-in-tatters?traffic_source=rss",
+        "date": "2026-07-03 23:57:24"
+      }
+    ]
+  },
+  {
     "cluster_id": "12",
     "label": "said, police, man",
-    "trending_score": 0.2654,
+    "trending_score": 0.2534,
     "count_24h": 0,
-    "count_7d": 168,
+    "count_7d": 165,
     "top_articles": [
       {
         "id": "4060",
@@ -245,9 +245,9 @@
   {
     "cluster_id": "8",
     "label": "ai, new, said",
-    "trending_score": 0.2284,
+    "trending_score": 0.2274,
     "count_24h": 0,
-    "count_7d": 197,
+    "count_7d": 196,
     "top_articles": [
       {
         "id": "4040",
@@ -272,9 +272,9 @@
   {
     "cluster_id": "7",
     "label": "china, taiwan, says",
-    "trending_score": 0.159,
-    "count_24h": 3,
-    "count_7d": 78,
+    "trending_score": 0.1429,
+    "count_24h": 1,
+    "count_7d": 76,
     "top_articles": [
       {
         "id": "4062",
@@ -299,9 +299,9 @@
   {
     "cluster_id": "0",
     "label": "new, image, year",
-    "trending_score": 0.1552,
-    "count_24h": 1,
-    "count_7d": 89,
+    "trending_score": 0.1363,
+    "count_24h": 0,
+    "count_7d": 88,
     "top_articles": [
       {
         "id": "4050",

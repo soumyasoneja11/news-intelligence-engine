@@ -1,156 +1,145 @@
 {
   "0": {
     "keywords": [
-      "new",
-      "image",
-      "year",
-      "glance",
-      "said"
+      "said",
+      "china",
+      "says",
+      "president",
+      "taiwan"
     ],
-    "label": "new, image, year",
-    "article_count": 422
+    "label": "said, china, says",
+    "article_count": 478
   },
   "1": {
     "keywords": [
-      "venezuela",
-      "01",
-      "00",
-      "earthquakes",
-      "duration"
+      "heat",
+      "heatwave",
+      "temperatures",
+      "said",
+      "europe"
     ],
-    "label": "venezuela, 01, 00",
-    "article_count": 115
+    "label": "heat, heatwave, temperatures",
+    "article_count": 151
   },
   "2": {
     "keywords": [
-      "wimbledon",
-      "england",
-      "stokes",
-      "tennis",
-      "world"
+      "trump",
+      "latest",
+      "court",
+      "says",
+      "said"
     ],
-    "label": "wimbledon, england, stokes",
-    "article_count": 150
+    "label": "trump, latest, court",
+    "article_count": 427
   },
   "3": {
     "keywords": [
+      "ai",
+      "new",
       "said",
-      "gaza",
-      "play",
-      "killed",
-      "arrow"
+      "tech",
+      "company"
     ],
-    "label": "said, gaza, play",
-    "article_count": 326
+    "label": "ai, new, said",
+    "article_count": 641
   },
   "4": {
     "keywords": [
       "league",
       "win",
+      "lead",
       "major",
-      "league linescores",
-      "linescores"
+      "league linescores"
     ],
-    "label": "league, win, major",
-    "article_count": 207
+    "label": "league, win, lead",
+    "article_count": 216
   },
   "5": {
     "keywords": [
-      "world",
-      "cup",
-      "world cup",
-      "england",
-      "team"
+      "said",
+      "gaza",
+      "00",
+      "video duration",
+      "seconds play"
     ],
-    "label": "world, cup, world cup",
-    "article_count": 291
+    "label": "said, gaza, 00",
+    "article_count": 313
   },
   "6": {
     "keywords": [
-      "latest",
-      "state",
-      "california",
-      "says",
-      "new"
+      "police",
+      "said",
+      "man",
+      "court",
+      "woman"
     ],
-    "label": "latest, state, california",
-    "article_count": 398
+    "label": "police, said, man",
+    "article_count": 471
   },
   "7": {
     "keywords": [
-      "china",
-      "taiwan",
-      "says",
-      "new",
-      "russia"
+      "england",
+      "wimbledon",
+      "stokes",
+      "world",
+      "said"
     ],
-    "label": "china, taiwan, says",
-    "article_count": 434
+    "label": "england, wimbledon, stokes",
+    "article_count": 168
   },
   "8": {
-    "keywords": [
-      "ai",
-      "new",
-      "said",
-      "company",
-      "market"
-    ],
-    "label": "ai, new, said",
-    "article_count": 497
-  },
-  "9": {
-    "keywords": [
-      "trump",
-      "court",
-      "president",
-      "said",
-      "latest"
-    ],
-    "label": "trump, court, president",
-    "article_count": 262
-  },
-  "10": {
-    "keywords": [
-      "iran",
-      "israel",
-      "said",
-      "lebanon",
-      "strait"
-    ],
-    "label": "iran, israel, said",
-    "article_count": 210
-  },
-  "11": {
     "keywords": [
       "burnham",
       "said",
       "uk",
       "defence",
-      "labour"
+      "government"
     ],
     "label": "burnham, said, uk",
-    "article_count": 266
+    "article_count": 288
+  },
+  "9": {
+    "keywords": [
+      "new",
+      "image",
+      "said",
+      "year",
+      "glance"
+    ],
+    "label": "new, image, said",
+    "article_count": 500
+  },
+  "10": {
+    "keywords": [
+      "iran",
+      "israel",
+      "strait",
+      "said",
+      "lebanon"
+    ],
+    "label": "iran, israel, strait",
+    "article_count": 173
+  },
+  "11": {
+    "keywords": [
+      "venezuela",
+      "01",
+      "00",
+      "earthquakes",
+      "video duration"
+    ],
+    "label": "venezuela, 01, 00",
+    "article_count": 123
   },
   "12": {
     "keywords": [
-      "said",
-      "police",
-      "man",
-      "court",
-      "woman"
+      "world",
+      "cup",
+      "world cup",
+      "england",
+      "mexico"
     ],
-    "label": "said, police, man",
-    "article_count": 373
-  },
-  "13": {
-    "keywords": [
-      "heat",
-      "temperatures",
-      "heatwave",
-      "europe",
-      "said"
-    ],
-    "label": "heat, temperatures, heatwave",
-    "article_count": 131
+    "label": "world, cup, world cup",
+    "article_count": 335
   }
 }

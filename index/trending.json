@@ -2,9 +2,9 @@
   {
     "cluster_id": "5",
     "label": "world, cup, world cup",
-    "trending_score": 0.6375,
-    "count_24h": 6,
-    "count_7d": 209,
+    "trending_score": 0.5825,
+    "count_24h": 3,
+    "count_7d": 207,
     "top_articles": [
       {
         "id": "4070",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "11",
     "label": "burnham, said, uk",
-    "trending_score": 0.6053,
-    "count_24h": 8,
-    "count_7d": 199,
+    "trending_score": 0.5714,
+    "count_24h": 6,
+    "count_7d": 196,
     "top_articles": [
       {
         "id": "4076",
@@ -83,9 +83,9 @@
   {
     "cluster_id": "10",
     "label": "iran, israel, said",
-    "trending_score": 0.4405,
-    "count_24h": 2,
-    "count_7d": 110,
+    "trending_score": 0.4167,
+    "count_24h": 1,
+    "count_7d": 109,
     "top_articles": [
       {
         "id": "4063",
@@ -110,8 +110,8 @@
   {
     "cluster_id": "9",
     "label": "trump, court, president",
-    "trending_score": 0.4198,
-    "count_24h": 7,
+    "trending_score": 0.3798,
+    "count_24h": 4,
     "count_7d": 124,
     "top_articles": [
       {
@@ -137,9 +137,9 @@
   {
     "cluster_id": "3",
     "label": "said, gaza, play",
-    "trending_score": 0.3773,
+    "trending_score": 0.365,
     "count_24h": 1,
-    "count_7d": 186,
+    "count_7d": 184,
     "top_articles": [
       {
         "id": "4077",
@@ -164,9 +164,9 @@
   {
     "cluster_id": "1",
     "label": "venezuela, 01, 00",
-    "trending_score": 0.3217,
+    "trending_score": 0.3,
     "count_24h": 0,
-    "count_7d": 65,
+    "count_7d": 63,
     "top_articles": [
       {
         "id": "3886",
@@ -191,9 +191,9 @@
   {
     "cluster_id": "13",
     "label": "heat, temperatures, heatwave",
-    "trending_score": 0.3015,
+    "trending_score": 0.2748,
     "count_24h": 0,
-    "count_7d": 61,
+    "count_7d": 60,
     "top_articles": [
       {
         "id": "3987",
@@ -218,9 +218,9 @@
   {
     "cluster_id": "12",
     "label": "said, police, man",
-    "trending_score": 0.2869,
-    "count_24h": 2,
-    "count_7d": 169,
+    "trending_score": 0.2654,
+    "count_24h": 0,
+    "count_7d": 168,
     "top_articles": [
       {
         "id": "4060",
@@ -245,8 +245,8 @@
   {
     "cluster_id": "8",
     "label": "ai, new, said",
-    "trending_score": 0.2344,
-    "count_24h": 1,
+    "trending_score": 0.2284,
+    "count_24h": 0,
     "count_7d": 197,
     "top_articles": [
       {
@@ -272,9 +272,9 @@
   {
     "cluster_id": "7",
     "label": "china, taiwan, says",
-    "trending_score": 0.1671,
+    "trending_score": 0.159,
     "count_24h": 3,
-    "count_7d": 79,
+    "count_7d": 78,
     "top_articles": [
       {
         "id": "4062",
@@ -299,7 +299,7 @@
   {
     "cluster_id": "0",
     "label": "new, image, year",
-    "trending_score": 0.1659,
+    "trending_score": 0.1552,
     "count_24h": 1,
     "count_7d": 89,
     "top_articles": [
@@ -326,8 +326,8 @@
   {
     "cluster_id": "6",
     "label": "latest, state, california",
-    "trending_score": 0.0628,
-    "count_24h": 2,
+    "trending_score": 0.0553,
+    "count_24h": 1,
     "count_7d": 26,
     "top_articles": [
       {

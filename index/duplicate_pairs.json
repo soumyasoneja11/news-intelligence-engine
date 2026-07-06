@@ -66,6 +66,32 @@
   },
   {
     "article_a": {
+      "id": "722",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444846"
+    },
+    "article_b": {
+      "id": "879",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444699"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "722",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444846"
+    },
+    "article_b": {
+      "id": "830",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444668"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
       "id": "782",
       "title": "The top iPhone and iPad apps on App Store",
       "url": "https://www.taiwannews.com.tw/en/news/3354448"
@@ -100,6 +126,19 @@
       "id": "1541",
       "title": "BC-TEN--French Open Results",
       "url": "https://www.taiwannews.com.tw/en/news/3444476"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "830",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444668"
+    },
+    "article_b": {
+      "id": "879",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444699"
     },
     "similarity": 1.0000001192092896
   },
@@ -1067,32 +1106,6 @@
   },
   {
     "article_a": {
-      "id": "722",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444846"
-    },
-    "article_b": {
-      "id": "879",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444699"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "722",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444846"
-    },
-    "article_b": {
-      "id": "830",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444668"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
       "id": "745",
       "title": "The top 10 books on Apple's iBooks-US",
       "url": "https://www.taiwannews.com.tw/en/news/3413450"
@@ -1257,19 +1270,6 @@
       "id": "1158",
       "title": "Wednesday's Major League Linescores",
       "url": "https://www.taiwannews.com.tw/en/news/3444863"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "830",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444668"
-    },
-    "article_b": {
-      "id": "879",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444699"
     },
     "similarity": 1.0
   },
@@ -3100,6 +3100,19 @@
       "url": "https://www.bbc.co.uk/iplayer/episode/m002wp83?at_medium=RSS&at_campaign=rss"
     },
     "article_b": {
+      "id": "4284",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002wp83/tech-now-high-tech-heart-surgery?at_campaign=rss&at_medium=RSS"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
+      "id": "1988",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002wp83?at_medium=RSS&at_campaign=rss"
+    },
+    "article_b": {
       "id": "2027",
       "title": "Tech Now",
       "url": "https://www.bbc.co.uk/iplayer/episode/m002wp83/tech-now-high-tech-heart-surgery?at_medium=RSS&at_campaign=rss"
@@ -3142,6 +3155,19 @@
       "id": "3550",
       "title": "Tech Now",
       "url": "https://www.bbc.co.uk/iplayer/episode/m002x058/tech-now-building-my-body?at_campaign=rss&at_medium=RSS"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
+      "id": "2027",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002wp83/tech-now-high-tech-heart-surgery?at_medium=RSS&at_campaign=rss"
+    },
+    "article_b": {
+      "id": "4284",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002wp83/tech-now-high-tech-heart-surgery?at_campaign=rss&at_medium=RSS"
     },
     "similarity": 1.0
   },
@@ -3221,7 +3247,7 @@
       "title": "Ronaldo sends message to Venezuelan earthquake survivor",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/ronaldo-sends-message-to-venezuelan-earthquake-survivor?traffic_source=rss"
     },
-    "similarity": 0.9760199785232544
+    "similarity": 0.9760198593139648
   },
   {
     "article_a": {
@@ -3481,7 +3507,7 @@
       "title": "Fourteen killed in Saudi Arabia helicopter crash",
       "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss"
     },
-    "similarity": 0.9479902386665344
+    "similarity": 0.9479901194572449
   },
   {
     "article_a": {
@@ -3559,7 +3585,7 @@
       "title": "Teenager seriously injured in shooting near Birmingham mosque",
       "url": "https://www.theguardian.com/uk-news/2026/jul/01/teenager-injured-shooting-birmingham-mosque"
     },
-    "similarity": 0.9418386816978455
+    "similarity": 0.9418387413024902
   },
   {
     "article_a": {
@@ -3702,7 +3728,7 @@
       "title": "Khamenei’s coffin readied as Iran prepares for seven-day funeral",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/khameneis-coffin-readied-as-iran-prepares-for-seven-day-funeral?traffic_source=rss"
     },
-    "similarity": 0.9310815334320068
+    "similarity": 0.9310814142227173
   },
   {
     "article_a": {

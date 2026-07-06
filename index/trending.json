@@ -2,9 +2,9 @@
   {
     "cluster_id": "12",
     "label": "world, cup, world cup",
-    "trending_score": 1.0343,
-    "count_24h": 41,
-    "count_7d": 240,
+    "trending_score": 0.9269,
+    "count_24h": 33,
+    "count_7d": 237,
     "top_articles": [
       {
         "id": "4269",
@@ -27,11 +27,38 @@
     ]
   },
   {
+    "cluster_id": "7",
+    "label": "england, wimbledon, stokes",
+    "trending_score": 0.8333,
+    "count_24h": 13,
+    "count_7d": 109,
+    "top_articles": [
+      {
+        "id": "4245",
+        "title": "London Diamond League is pricing us out, say families",
+        "url": "https://www.bbc.co.uk/news/articles/cqx1lgjgx7lo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-06 05:01:05"
+      },
+      {
+        "id": "4260",
+        "title": "Melbourne teacher receiving end-of-life care after horror head clash during suburban football game",
+        "url": "https://www.theguardian.com/sport/2026/jul/06/nathan-fitzgerald-epping-footballer-victoria-head-injury-aussie-rules-football-game",
+        "date": "2026-07-06 02:37:18"
+      },
+      {
+        "id": "4206",
+        "title": "Australia give improved England plenty to ponder one year out from Ashes",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c5yzz0yp629o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-05 21:55:04"
+      }
+    ]
+  },
+  {
     "cluster_id": "8",
     "label": "burnham, said, uk",
-    "trending_score": 0.8646,
-    "count_24h": 26,
-    "count_7d": 207,
+    "trending_score": 0.8247,
+    "count_24h": 25,
+    "count_7d": 202,
     "top_articles": [
       {
         "id": "4280",
@@ -56,9 +83,9 @@
   {
     "cluster_id": "10",
     "label": "iran, israel, strait",
-    "trending_score": 0.8642,
-    "count_24h": 17,
-    "count_7d": 98,
+    "trending_score": 0.7919,
+    "count_24h": 15,
+    "count_7d": 97,
     "top_articles": [
       {
         "id": "4268",
@@ -81,38 +108,11 @@
     ]
   },
   {
-    "cluster_id": "7",
-    "label": "england, wimbledon, stokes",
-    "trending_score": 0.8631,
-    "count_24h": 14,
-    "count_7d": 110,
-    "top_articles": [
-      {
-        "id": "4245",
-        "title": "London Diamond League is pricing us out, say families",
-        "url": "https://www.bbc.co.uk/news/articles/cqx1lgjgx7lo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-06 05:01:05"
-      },
-      {
-        "id": "4260",
-        "title": "Melbourne teacher receiving end-of-life care after horror head clash during suburban football game",
-        "url": "https://www.theguardian.com/sport/2026/jul/06/nathan-fitzgerald-epping-footballer-victoria-head-injury-aussie-rules-football-game",
-        "date": "2026-07-06 02:37:18"
-      },
-      {
-        "id": "4206",
-        "title": "Australia give improved England plenty to ponder one year out from Ashes",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c5yzz0yp629o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-05 21:55:04"
-      }
-    ]
-  },
-  {
     "cluster_id": "5",
     "label": "said, gaza, 00",
-    "trending_score": 0.7364,
-    "count_24h": 24,
-    "count_7d": 194,
+    "trending_score": 0.7077,
+    "count_24h": 23,
+    "count_7d": 191,
     "top_articles": [
       {
         "id": "4270",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "11",
     "label": "venezuela, 01, 00",
-    "trending_score": 0.6138,
+    "trending_score": 0.6016,
     "count_24h": 9,
-    "count_7d": 70,
+    "count_7d": 67,
     "top_articles": [
       {
         "id": "4264",
@@ -164,9 +164,9 @@
   {
     "cluster_id": "1",
     "label": "heat, heatwave, temperatures",
-    "trending_score": 0.4669,
-    "count_24h": 6,
-    "count_7d": 72,
+    "trending_score": 0.4437,
+    "count_24h": 5,
+    "count_7d": 71,
     "top_articles": [
       {
         "id": "4227",
@@ -191,9 +191,9 @@
   {
     "cluster_id": "6",
     "label": "police, said, man",
-    "trending_score": 0.3588,
-    "count_24h": 15,
-    "count_7d": 179,
+    "trending_score": 0.3429,
+    "count_24h": 13,
+    "count_7d": 176,
     "top_articles": [
       {
         "id": "4258",
@@ -218,9 +218,9 @@
   {
     "cluster_id": "3",
     "label": "ai, new, said",
-    "trending_score": 0.3323,
+    "trending_score": 0.3292,
     "count_24h": 19,
-    "count_7d": 225,
+    "count_7d": 221,
     "top_articles": [
       {
         "id": "4278",
@@ -245,9 +245,9 @@
   {
     "cluster_id": "2",
     "label": "trump, latest, court",
-    "trending_score": 0.3091,
+    "trending_score": 0.3044,
     "count_24h": 9,
-    "count_7d": 138,
+    "count_7d": 137,
     "top_articles": [
       {
         "id": "4275",
@@ -272,9 +272,9 @@
   {
     "cluster_id": "0",
     "label": "said, china, says",
-    "trending_score": 0.2814,
-    "count_24h": 12,
-    "count_7d": 125,
+    "trending_score": 0.2563,
+    "count_24h": 10,
+    "count_7d": 122,
     "top_articles": [
       {
         "id": "4273",
@@ -299,9 +299,9 @@
   {
     "cluster_id": "9",
     "label": "new, image, said",
-    "trending_score": 0.193,
+    "trending_score": 0.182,
     "count_24h": 7,
-    "count_7d": 100,
+    "count_7d": 98,
     "top_articles": [
       {
         "id": "4276",

@@ -40,19 +40,6 @@
   },
   {
     "article_a": {
-      "id": "388",
-      "title": "Dallas man set to die for killing daughters, 9 and 6",
-      "url": "https://www.taiwannews.com.tw/en/news/3354964"
-    },
-    "article_b": {
-      "id": "1391",
-      "title": "Dallas man set to die for killing daughters, 9 and 6",
-      "url": "https://www.taiwannews.com.tw/en/news/3355191"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
       "id": "413",
       "title": "Peloton Names Pamela Thomas-Graham to Its Board of Directors",
       "url": "https://www.taiwannews.com.tw/en/news/3413598"
@@ -61,6 +48,19 @@
       "id": "1326",
       "title": "Peloton Names Pamela Thomas-Graham to Its Board of Directors",
       "url": "https://www.taiwannews.com.tw/en/news/3413582"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "646",
+      "title": "AP source: Ex-FBI No. 2 official wrote memo on Comey firing",
+      "url": "https://www.taiwannews.com.tw/en/news/3444830"
+    },
+    "article_b": {
+      "id": "950",
+      "title": "AP source: Ex-FBI No. 2 official wrote memo on Comey firing",
+      "url": "https://www.taiwannews.com.tw/en/news/3444689"
     },
     "similarity": 1.0000001192092896
   },
@@ -339,6 +339,19 @@
   },
   {
     "article_a": {
+      "id": "388",
+      "title": "Dallas man set to die for killing daughters, 9 and 6",
+      "url": "https://www.taiwannews.com.tw/en/news/3354964"
+    },
+    "article_b": {
+      "id": "1391",
+      "title": "Dallas man set to die for killing daughters, 9 and 6",
+      "url": "https://www.taiwannews.com.tw/en/news/3355191"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
       "id": "397",
       "title": "Expanded Conference Glance",
       "url": "https://www.taiwannews.com.tw/en/news/3354678"
@@ -685,19 +698,6 @@
       "id": "667",
       "title": "Expanded Conference Glance",
       "url": "https://www.taiwannews.com.tw/en/news/3354593"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "646",
-      "title": "AP source: Ex-FBI No. 2 official wrote memo on Comey firing",
-      "url": "https://www.taiwannews.com.tw/en/news/3444830"
-    },
-    "article_b": {
-      "id": "950",
-      "title": "AP source: Ex-FBI No. 2 official wrote memo on Comey firing",
-      "url": "https://www.taiwannews.com.tw/en/news/3444689"
     },
     "similarity": 1.0
   },
@@ -3225,6 +3225,19 @@
   },
   {
     "article_a": {
+      "id": "4447",
+      "title": "USA vs Belgium LIVE: FIFA World Cup 2026 last 16",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/6/in-3-2-last-16-thriller?traffic_source=rss"
+    },
+    "article_b": {
+      "id": "4485",
+      "title": "LIVE: USA vs Belgium – FIFA World Cup 2026 round of 16",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/6/usa-belgium-live-fifa-world-cup-2026-round-of-16?traffic_source=rss"
+    },
+    "similarity": 0.9807011485099792
+  },
+  {
+    "article_a": {
       "id": "522",
       "title": "How major US stock market indexes fared on Wednesday",
       "url": "http://www.taiwannews.com.tw/en/news/3188134"
@@ -3260,7 +3273,7 @@
       "title": "Ronaldo sends message to Venezuelan earthquake survivor",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/ronaldo-sends-message-to-venezuelan-earthquake-survivor?traffic_source=rss"
     },
-    "similarity": 0.9760198593139648
+    "similarity": 0.9760199785232544
   },
   {
     "article_a": {
@@ -3274,6 +3287,19 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/how-ai-is-being-weaponised-against-indias-muslim-women?traffic_source=rss"
     },
     "similarity": 0.9758651852607727
+  },
+  {
+    "article_a": {
+      "id": "4479",
+      "title": "One Phone Call, One Vanishing Red Card — The Balogun Scandal",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/aje-onl-nf_the-balogun-scandal-060726?traffic_source=rss"
+    },
+    "article_b": {
+      "id": "4481",
+      "title": "Influencers say they’re ‘honoured’ to attend Khamenei funeral",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/influencers-say-theyre-honoured-to-attend-khamenei-funeral?traffic_source=rss"
+    },
+    "similarity": 0.9716673493385315
   },
   {
     "article_a": {
@@ -3338,7 +3364,7 @@
       "title": "How New York’s ‘Little Egypt’ celebrates the World Cup",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/how-new-yorks-little-egypt-celebrates-the-world-cup?traffic_source=rss"
     },
-    "similarity": 0.962218701839447
+    "similarity": 0.9622188210487366
   },
   {
     "article_a": {
@@ -3533,7 +3559,7 @@
       "title": "Fourteen killed in Saudi Arabia helicopter crash",
       "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss"
     },
-    "similarity": 0.9479901194572449
+    "similarity": 0.9479901790618896
   },
   {
     "article_a": {
@@ -3780,7 +3806,7 @@
       "title": "Khamenei’s coffin readied as Iran prepares for seven-day funeral",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/khameneis-coffin-readied-as-iran-prepares-for-seven-day-funeral?traffic_source=rss"
     },
-    "similarity": 0.9310814142227173
+    "similarity": 0.9310815334320068
   },
   {
     "article_a": {
@@ -3884,7 +3910,7 @@
       "title": "The world's last male northern white rhino, Sudan, has died after 'age-related complications'",
       "url": "https://www.taiwannews.com.tw/en/news/3386150"
     },
-    "similarity": 0.9261434078216553
+    "similarity": 0.9261434674263
   },
   {
     "article_a": {

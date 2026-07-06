@@ -3199,6 +3199,19 @@
   },
   {
     "article_a": {
+      "id": "4439",
+      "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
+      "url": "https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/"
+    },
+    "article_b": {
+      "id": "4467",
+      "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
+      "url": "https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
       "id": "2670",
       "title": "Pakistani strikes kill dozens of Afghan villagers",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/pakistani-strikes-kill-dozens-of-afghan-villagers?traffic_source=rss"
@@ -3325,7 +3338,7 @@
       "title": "How New York’s ‘Little Egypt’ celebrates the World Cup",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/how-new-yorks-little-egypt-celebrates-the-world-cup?traffic_source=rss"
     },
-    "similarity": 0.9622188210487366
+    "similarity": 0.962218701839447
   },
   {
     "article_a": {
@@ -3433,6 +3446,19 @@
   },
   {
     "article_a": {
+      "id": "4449",
+      "title": "Crowds hold ‘destroy Israel’ banner at Spain’s Pamplona bull run",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/crowds-hold-destroy-israel-banner-at-spains-pamplona-bull-run?traffic_source=rss"
+    },
+    "article_b": {
+      "id": "4455",
+      "title": "Pro-Palestine protesters rally for ‘Filton 25’ activists at UK court",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/pro-palestine-protesters-rally-for-filton-25-activists-at-uk-court?traffic_source=rss"
+    },
+    "similarity": 0.9537694454193115
+  },
+  {
+    "article_a": {
       "id": "522",
       "title": "How major US stock market indexes fared on Wednesday",
       "url": "http://www.taiwannews.com.tw/en/news/3188134"
@@ -3507,7 +3533,7 @@
       "title": "Fourteen killed in Saudi Arabia helicopter crash",
       "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss"
     },
-    "similarity": 0.9479902386665344
+    "similarity": 0.9479901194572449
   },
   {
     "article_a": {
@@ -3667,6 +3693,19 @@
   },
   {
     "article_a": {
+      "id": "2609",
+      "title": "Top Boy actor Micheal Ward raped woman in car, court told",
+      "url": "https://www.bbc.co.uk/news/articles/cdr4en37yk8o?at_medium=RSS&at_campaign=rss"
+    },
+    "article_b": {
+      "id": "4444",
+      "title": "Top Boy actor tells rape trial that encounter was consensual",
+      "url": "https://www.bbc.co.uk/news/articles/cly77j4741lo?at_medium=RSS&at_campaign=rss"
+    },
+    "similarity": 0.9378760457038879
+  },
+  {
+    "article_a": {
       "id": "2901",
       "title": "SCOTUS rules against Trump’s order limiting birthright citizenship",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/scotus-rules-against-trumps-order-limiting-birthright-citizenship?traffic_source=rss"
@@ -3741,7 +3780,7 @@
       "title": "Khamenei’s coffin readied as Iran prepares for seven-day funeral",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/khameneis-coffin-readied-as-iran-prepares-for-seven-day-funeral?traffic_source=rss"
     },
-    "similarity": 0.9310815334320068
+    "similarity": 0.9310814142227173
   },
   {
     "article_a": {

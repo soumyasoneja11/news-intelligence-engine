@@ -2,9 +2,9 @@
   {
     "cluster_id": "12",
     "label": "world, cup, world cup",
-    "trending_score": 0.8672,
-    "count_24h": 30,
-    "count_7d": 233,
+    "trending_score": 0.8164,
+    "count_24h": 25,
+    "count_7d": 232,
     "top_articles": [
       {
         "id": "4269",
@@ -27,11 +27,38 @@
     ]
   },
   {
+    "cluster_id": "8",
+    "label": "burnham, said, uk",
+    "trending_score": 0.6649,
+    "count_24h": 14,
+    "count_7d": 191,
+    "top_articles": [
+      {
+        "id": "4280",
+        "title": "‘It’s smoke and mirrors’: hope turns to fear in Scottish village chosen for AI datacentre",
+        "url": "https://www.theguardian.com/technology/2026/jul/06/scotland-lanarkshire-village-ai-datacentre",
+        "date": "2026-07-06 07:00:06"
+      },
+      {
+        "id": "4274",
+        "title": "Anthony Albanese’s ‘shag, marry, date-gate’ underscores the double-edged sword of social media appearances",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/06/anthony-albanese-shag-marry-date-kylie-minogue-nikki-osborne-podcast-australian-prime-minister-social-media",
+        "date": "2026-07-06 06:38:27"
+      },
+      {
+        "id": "4282",
+        "title": "Half of affordable new homes in rural England could be at risk if planning rules relaxed, analysis shows",
+        "url": "https://www.theguardian.com/society/2026/jul/06/half-affordable-new-homes-rural-england-risk-planning-rules-relaxed-analysis",
+        "date": "2026-07-06 06:00:04"
+      }
+    ]
+  },
+  {
     "cluster_id": "7",
     "label": "england, wimbledon, stokes",
-    "trending_score": 0.7887,
-    "count_24h": 12,
-    "count_7d": 106,
+    "trending_score": 0.6577,
+    "count_24h": 8,
+    "count_7d": 98,
     "top_articles": [
       {
         "id": "4245",
@@ -56,9 +83,9 @@
   {
     "cluster_id": "10",
     "label": "iran, israel, strait",
-    "trending_score": 0.737,
-    "count_24h": 12,
-    "count_7d": 96,
+    "trending_score": 0.6272,
+    "count_24h": 8,
+    "count_7d": 88,
     "top_articles": [
       {
         "id": "4268",
@@ -81,65 +108,11 @@
     ]
   },
   {
-    "cluster_id": "8",
-    "label": "burnham, said, uk",
-    "trending_score": 0.7222,
-    "count_24h": 17,
-    "count_7d": 200,
-    "top_articles": [
-      {
-        "id": "4280",
-        "title": "‘It’s smoke and mirrors’: hope turns to fear in Scottish village chosen for AI datacentre",
-        "url": "https://www.theguardian.com/technology/2026/jul/06/scotland-lanarkshire-village-ai-datacentre",
-        "date": "2026-07-06 07:00:06"
-      },
-      {
-        "id": "4274",
-        "title": "Anthony Albanese’s ‘shag, marry, date-gate’ underscores the double-edged sword of social media appearances",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/06/anthony-albanese-shag-marry-date-kylie-minogue-nikki-osborne-podcast-australian-prime-minister-social-media",
-        "date": "2026-07-06 06:38:27"
-      },
-      {
-        "id": "4282",
-        "title": "Half of affordable new homes in rural England could be at risk if planning rules relaxed, analysis shows",
-        "url": "https://www.theguardian.com/society/2026/jul/06/half-affordable-new-homes-rural-england-risk-planning-rules-relaxed-analysis",
-        "date": "2026-07-06 06:00:04"
-      }
-    ]
-  },
-  {
-    "cluster_id": "5",
-    "label": "said, gaza, 00",
-    "trending_score": 0.623,
-    "count_24h": 19,
-    "count_7d": 183,
-    "top_articles": [
-      {
-        "id": "4270",
-        "title": "Russian attacks on Ukraine kill 11 on eve of NATO summit, authorities say",
-        "url": "https://www.aljazeera.com/news/2026/7/6/russian-attacks-on-ukraine-kill-11-on-eve-of-nato-summit-authorities-say?traffic_source=rss",
-        "date": "2026-07-06 06:35:50"
-      },
-      {
-        "id": "4271",
-        "title": "Sudan’s maternity wards reopen, bringing hope amid post-war struggles",
-        "url": "https://www.aljazeera.com/features/2026/7/6/sudans-maternity-wards-reopen-bringing-hope-amid-post-war-struggles?traffic_source=rss",
-        "date": "2026-07-06 06:18:48"
-      },
-      {
-        "id": "4265",
-        "title": "Why Ukrainian strikes on annexed Crimea are a blow to Putin",
-        "url": "https://www.bbc.co.uk/news/videos/c2dy21549w1o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-06 06:00:05"
-      }
-    ]
-  },
-  {
     "cluster_id": "11",
     "label": "venezuela, 01, 00",
-    "trending_score": 0.5894,
+    "trending_score": 0.5813,
     "count_24h": 9,
-    "count_7d": 64,
+    "count_7d": 62,
     "top_articles": [
       {
         "id": "4264",
@@ -162,11 +135,38 @@
     ]
   },
   {
+    "cluster_id": "5",
+    "label": "said, gaza, 00",
+    "trending_score": 0.5655,
+    "count_24h": 16,
+    "count_7d": 174,
+    "top_articles": [
+      {
+        "id": "4270",
+        "title": "Russian attacks on Ukraine kill 11 on eve of NATO summit, authorities say",
+        "url": "https://www.aljazeera.com/news/2026/7/6/russian-attacks-on-ukraine-kill-11-on-eve-of-nato-summit-authorities-say?traffic_source=rss",
+        "date": "2026-07-06 06:35:50"
+      },
+      {
+        "id": "4271",
+        "title": "Sudan’s maternity wards reopen, bringing hope amid post-war struggles",
+        "url": "https://www.aljazeera.com/features/2026/7/6/sudans-maternity-wards-reopen-bringing-hope-amid-post-war-struggles?traffic_source=rss",
+        "date": "2026-07-06 06:18:48"
+      },
+      {
+        "id": "4265",
+        "title": "Why Ukrainian strikes on annexed Crimea are a blow to Putin",
+        "url": "https://www.bbc.co.uk/news/videos/c2dy21549w1o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-06 06:00:05"
+      }
+    ]
+  },
+  {
     "cluster_id": "1",
     "label": "heat, heatwave, temperatures",
-    "trending_score": 0.3709,
-    "count_24h": 3,
-    "count_7d": 67,
+    "trending_score": 0.3377,
+    "count_24h": 2,
+    "count_7d": 66,
     "top_articles": [
       {
         "id": "4227",
@@ -189,38 +189,11 @@
     ]
   },
   {
-    "cluster_id": "3",
-    "label": "ai, new, said",
-    "trending_score": 0.3058,
-    "count_24h": 17,
-    "count_7d": 212,
-    "top_articles": [
-      {
-        "id": "4278",
-        "title": "Sky owner announces £1.6bn takeover of ITV’s broadcasting arm",
-        "url": "https://www.theguardian.com/business/2026/jul/06/sky-owner-announces-16bn-takeover-of-itvs-broadcasting-arm",
-        "date": "2026-07-06 07:03:40"
-      },
-      {
-        "id": "4266",
-        "title": "ITV sells media and entertainment arm to Sky for £1.6bn",
-        "url": "https://www.bbc.co.uk/news/articles/cx2wwgeg041o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-06 07:00:31"
-      },
-      {
-        "id": "4279",
-        "title": "Big brewers ‘misleading drinkers’ over craft beer credentials, says Camra",
-        "url": "https://www.theguardian.com/business/2026/jul/06/big-brewers-independents-craft-beer-credentials-camra",
-        "date": "2026-07-06 07:00:06"
-      }
-    ]
-  },
-  {
     "cluster_id": "6",
     "label": "police, said, man",
-    "trending_score": 0.3004,
+    "trending_score": 0.2909,
     "count_24h": 9,
-    "count_7d": 172,
+    "count_7d": 166,
     "top_articles": [
       {
         "id": "4258",
@@ -243,11 +216,38 @@
     ]
   },
   {
+    "cluster_id": "3",
+    "label": "ai, new, said",
+    "trending_score": 0.2754,
+    "count_24h": 13,
+    "count_7d": 203,
+    "top_articles": [
+      {
+        "id": "4278",
+        "title": "Sky owner announces £1.6bn takeover of ITV’s broadcasting arm",
+        "url": "https://www.theguardian.com/business/2026/jul/06/sky-owner-announces-16bn-takeover-of-itvs-broadcasting-arm",
+        "date": "2026-07-06 07:03:40"
+      },
+      {
+        "id": "4266",
+        "title": "ITV sells media and entertainment arm to Sky for £1.6bn",
+        "url": "https://www.bbc.co.uk/news/articles/cx2wwgeg041o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-06 07:00:31"
+      },
+      {
+        "id": "4279",
+        "title": "Big brewers ‘misleading drinkers’ over craft beer credentials, says Camra",
+        "url": "https://www.theguardian.com/business/2026/jul/06/big-brewers-independents-craft-beer-credentials-camra",
+        "date": "2026-07-06 07:00:06"
+      }
+    ]
+  },
+  {
     "cluster_id": "2",
     "label": "trump, latest, court",
-    "trending_score": 0.2763,
-    "count_24h": 6,
-    "count_7d": 134,
+    "trending_score": 0.2541,
+    "count_24h": 5,
+    "count_7d": 127,
     "top_articles": [
       {
         "id": "4275",
@@ -272,7 +272,7 @@
   {
     "cluster_id": "0",
     "label": "said, china, says",
-    "trending_score": 0.2165,
+    "trending_score": 0.2134,
     "count_24h": 6,
     "count_7d": 120,
     "top_articles": [
@@ -299,9 +299,9 @@
   {
     "cluster_id": "9",
     "label": "new, image, said",
-    "trending_score": 0.153,
-    "count_24h": 5,
-    "count_7d": 93,
+    "trending_score": 0.139,
+    "count_24h": 3,
+    "count_7d": 91,
     "top_articles": [
       {
         "id": "4276",

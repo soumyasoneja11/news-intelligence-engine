@@ -2770,6 +2770,32 @@
   },
   {
     "article_a": {
+      "id": "1986",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq?at_medium=RSS&at_campaign=rss"
+    },
+    "article_b": {
+      "id": "4009",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq/tech-now-world-cup-gamechanging-tech?at_campaign=rss&at_medium=RSS"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "1986",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq?at_medium=RSS&at_campaign=rss"
+    },
+    "article_b": {
+      "id": "2025",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq/tech-now-world-cup-gamechanging-tech?at_medium=RSS&at_campaign=rss"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
       "id": "1987",
       "title": "Tech Now",
       "url": "https://www.bbc.co.uk/iplayer/episode/m002x058?at_medium=RSS&at_campaign=rss"
@@ -2843,6 +2869,19 @@
       "id": "2028",
       "title": "Tech Now",
       "url": "https://www.bbc.co.uk/iplayer/episode/m002wcyp/tech-now-deep-dive-underwater-tech?at_medium=RSS&at_campaign=rss"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "2025",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq/tech-now-world-cup-gamechanging-tech?at_medium=RSS&at_campaign=rss"
+    },
+    "article_b": {
+      "id": "4009",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq/tech-now-world-cup-gamechanging-tech?at_campaign=rss&at_medium=RSS"
     },
     "similarity": 1.0000001192092896
   },
@@ -3160,45 +3199,6 @@
   },
   {
     "article_a": {
-      "id": "1986",
-      "title": "Tech Now",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq?at_medium=RSS&at_campaign=rss"
-    },
-    "article_b": {
-      "id": "4009",
-      "title": "Tech Now",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq/tech-now-world-cup-gamechanging-tech?at_campaign=rss&at_medium=RSS"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "1986",
-      "title": "Tech Now",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq?at_medium=RSS&at_campaign=rss"
-    },
-    "article_b": {
-      "id": "2025",
-      "title": "Tech Now",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq/tech-now-world-cup-gamechanging-tech?at_medium=RSS&at_campaign=rss"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "2025",
-      "title": "Tech Now",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq/tech-now-world-cup-gamechanging-tech?at_medium=RSS&at_campaign=rss"
-    },
-    "article_b": {
-      "id": "4009",
-      "title": "Tech Now",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq/tech-now-world-cup-gamechanging-tech?at_campaign=rss&at_medium=RSS"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
       "id": "4439",
       "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
       "url": "https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/"
@@ -3325,7 +3325,7 @@
       "title": "Rescuers find more bodies under rubble as Venezuela death toll rises",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/rescuers-find-more-bodies-under-rubble-as-venezuela-death-toll-rises?traffic_source=rss"
     },
-    "similarity": 0.9694623351097107
+    "similarity": 0.9694622755050659
   },
   {
     "article_a": {
@@ -3520,7 +3520,7 @@
       "title": "Cape Verde becomes tiniest nation to make World Cup knockouts",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/cape-verde-becomes-tiniest-nation-to-make-world-cup-knockouts?traffic_source=rss"
     },
-    "similarity": 0.9520676136016846
+    "similarity": 0.9520674347877502
   },
   {
     "article_a": {

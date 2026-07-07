@@ -2,9 +2,9 @@
   {
     "cluster_id": "3",
     "label": "world, cup, world cup",
-    "trending_score": 0.8225,
-    "count_24h": 26,
-    "count_7d": 259,
+    "trending_score": 0.7788,
+    "count_24h": 22,
+    "count_7d": 257,
     "top_articles": [
       {
         "id": "4556",
@@ -29,8 +29,8 @@
   {
     "cluster_id": "7",
     "label": "israel, israeli, gaza",
-    "trending_score": 0.5894,
-    "count_24h": 6,
+    "trending_score": 0.5695,
+    "count_24h": 5,
     "count_7d": 70,
     "top_articles": [
       {
@@ -56,9 +56,9 @@
   {
     "cluster_id": "5",
     "label": "burnham, said, uk",
-    "trending_score": 0.5557,
+    "trending_score": 0.547,
     "count_24h": 9,
-    "count_7d": 151,
+    "count_7d": 149,
     "top_articles": [
       {
         "id": "4568",
@@ -76,33 +76,6 @@
         "id": "4541",
         "title": "Student loan promotion in England and Wales amounted to mis-selling, MPs say",
         "url": "https://www.theguardian.com/money/2026/jul/07/promotion-student-loans-england-wales-mis-selling",
-        "date": "2026-07-07 04:00:31"
-      }
-    ]
-  },
-  {
-    "cluster_id": "15",
-    "label": "russia, russian, ukraine",
-    "trending_score": 0.5022,
-    "count_24h": 8,
-    "count_7d": 94,
-    "top_articles": [
-      {
-        "id": "4553",
-        "title": "NATO summit begins: Who is attending and what is at stake?",
-        "url": "https://www.aljazeera.com/news/2026/7/7/nato-summit-begins-who-is-attending-and-what-is-at-stake?traffic_source=rss",
-        "date": "2026-07-07 06:12:19"
-      },
-      {
-        "id": "4513",
-        "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
-        "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 04:18:19"
-      },
-      {
-        "id": "4534",
-        "title": "Nato braces for difficult summit as Trump puts pressure on spending",
-        "url": "https://www.theguardian.com/world/2026/jul/07/nato-braces-for-difficult-summit-as-trump-puts-pressure-on-spending",
         "date": "2026-07-07 04:00:31"
       }
     ]
@@ -135,11 +108,38 @@
     ]
   },
   {
+    "cluster_id": "15",
+    "label": "russia, russian, ukraine",
+    "trending_score": 0.4333,
+    "count_24h": 5,
+    "count_7d": 93,
+    "top_articles": [
+      {
+        "id": "4553",
+        "title": "NATO summit begins: Who is attending and what is at stake?",
+        "url": "https://www.aljazeera.com/news/2026/7/7/nato-summit-begins-who-is-attending-and-what-is-at-stake?traffic_source=rss",
+        "date": "2026-07-07 06:12:19"
+      },
+      {
+        "id": "4513",
+        "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
+        "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 04:18:19"
+      },
+      {
+        "id": "4534",
+        "title": "Nato braces for difficult summit as Trump puts pressure on spending",
+        "url": "https://www.theguardian.com/world/2026/jul/07/nato-braces-for-difficult-summit-as-trump-puts-pressure-on-spending",
+        "date": "2026-07-07 04:00:31"
+      }
+    ]
+  },
+  {
     "cluster_id": "16",
     "label": "england, wimbledon, world",
-    "trending_score": 0.4425,
-    "count_24h": 4,
-    "count_7d": 82,
+    "trending_score": 0.3994,
+    "count_24h": 3,
+    "count_7d": 79,
     "top_articles": [
       {
         "id": "4533",
@@ -162,38 +162,11 @@
     ]
   },
   {
-    "cluster_id": "12",
-    "label": "venezuela, 01, 00",
-    "trending_score": 0.4213,
-    "count_24h": 4,
-    "count_7d": 50,
-    "top_articles": [
-      {
-        "id": "4560",
-        "title": "Cuba loses power across nation for third time this year",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/cuba-loses-power-across-nation-for-third-time-this-year?traffic_source=rss",
-        "date": "2026-07-07 04:50:50"
-      },
-      {
-        "id": "4522",
-        "title": "Cuba sees nationwide power blackout for third time in six months",
-        "url": "https://www.aljazeera.com/news/2026/7/7/cuba-sees-nationwide-power-blackout-for-third-time-in-six-months?traffic_source=rss",
-        "date": "2026-07-07 02:29:45"
-      },
-      {
-        "id": "4526",
-        "title": "Venezuela earthquakes death toll jumps to more than 3,500",
-        "url": "https://www.aljazeera.com/news/2026/7/7/venezuela-earthquakes-death-toll-jumps-to-more-than-3500?traffic_source=rss",
-        "date": "2026-07-07 01:50:44"
-      }
-    ]
-  },
-  {
     "cluster_id": "1",
     "label": "said, africa, south",
-    "trending_score": 0.3974,
-    "count_24h": 6,
-    "count_7d": 68,
+    "trending_score": 0.3769,
+    "count_24h": 5,
+    "count_7d": 66,
     "top_articles": [
       {
         "id": "4544",
@@ -218,9 +191,9 @@
   {
     "cluster_id": "10",
     "label": "ai, tech, new",
-    "trending_score": 0.3886,
+    "trending_score": 0.3757,
     "count_24h": 8,
-    "count_7d": 128,
+    "count_7d": 122,
     "top_articles": [
       {
         "id": "4566",
@@ -243,29 +216,29 @@
     ]
   },
   {
-    "cluster_id": "8",
-    "label": "said, police, court",
-    "trending_score": 0.3718,
-    "count_24h": 11,
-    "count_7d": 111,
+    "cluster_id": "12",
+    "label": "venezuela, 01, 00",
+    "trending_score": 0.374,
+    "count_24h": 3,
+    "count_7d": 47,
     "top_articles": [
       {
-        "id": "4565",
-        "title": "Five charged in Liberia after more than 200kg of cocaine seized in drug bust",
-        "url": "https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust",
-        "date": "2026-07-07 06:30:31"
+        "id": "4560",
+        "title": "Cuba loses power across nation for third time this year",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/cuba-loses-power-across-nation-for-third-time-this-year?traffic_source=rss",
+        "date": "2026-07-07 04:50:50"
       },
       {
-        "id": "4552",
-        "title": "France’s Court of Appeal to rule on Le Pen conviction – what it’s all about",
-        "url": "https://www.aljazeera.com/news/2026/7/7/frances-court-of-appeal-to-rule-on-le-pen-conviction-what-its-all-about?traffic_source=rss",
-        "date": "2026-07-07 06:15:40"
+        "id": "4522",
+        "title": "Cuba sees nationwide power blackout for third time in six months",
+        "url": "https://www.aljazeera.com/news/2026/7/7/cuba-sees-nationwide-power-blackout-for-third-time-in-six-months?traffic_source=rss",
+        "date": "2026-07-07 02:29:45"
       },
       {
-        "id": "4570",
-        "title": "US airman accused of exposing himself to 16-year-old girl avoided British trial",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/07/us-airman-accused-of-exposing-himself-to-16-year-old-girl-court-martial",
-        "date": "2026-07-07 05:00:30"
+        "id": "4526",
+        "title": "Venezuela earthquakes death toll jumps to more than 3,500",
+        "url": "https://www.aljazeera.com/news/2026/7/7/venezuela-earthquakes-death-toll-jumps-to-more-than-3500?traffic_source=rss",
+        "date": "2026-07-07 01:50:44"
       }
     ]
   },
@@ -297,10 +270,37 @@
     ]
   },
   {
+    "cluster_id": "8",
+    "label": "said, police, court",
+    "trending_score": 0.3507,
+    "count_24h": 9,
+    "count_7d": 111,
+    "top_articles": [
+      {
+        "id": "4565",
+        "title": "Five charged in Liberia after more than 200kg of cocaine seized in drug bust",
+        "url": "https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust",
+        "date": "2026-07-07 06:30:31"
+      },
+      {
+        "id": "4552",
+        "title": "France’s Court of Appeal to rule on Le Pen conviction – what it’s all about",
+        "url": "https://www.aljazeera.com/news/2026/7/7/frances-court-of-appeal-to-rule-on-le-pen-conviction-what-its-all-about?traffic_source=rss",
+        "date": "2026-07-07 06:15:40"
+      },
+      {
+        "id": "4570",
+        "title": "US airman accused of exposing himself to 16-year-old girl avoided British trial",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/07/us-airman-accused-of-exposing-himself-to-16-year-old-girl-court-martial",
+        "date": "2026-07-07 05:00:30"
+      }
+    ]
+  },
+  {
     "cluster_id": "13",
     "label": "china, taiwan, taipei",
-    "trending_score": 0.2841,
-    "count_24h": 6,
+    "trending_score": 0.2705,
+    "count_24h": 5,
     "count_7d": 47,
     "top_articles": [
       {
@@ -326,7 +326,7 @@
   {
     "cluster_id": "11",
     "label": "said, police, man",
-    "trending_score": 0.2539,
+    "trending_score": 0.2492,
     "count_24h": 4,
     "count_7d": 92,
     "top_articles": [
@@ -353,8 +353,8 @@
   {
     "cluster_id": "0",
     "label": "said, image, new",
-    "trending_score": 0.2079,
-    "count_24h": 5,
+    "trending_score": 0.2009,
+    "count_24h": 4,
     "count_7d": 97,
     "top_articles": [
       {
@@ -380,9 +380,9 @@
   {
     "cluster_id": "2",
     "label": "trump, court, latest",
-    "trending_score": 0.1924,
+    "trending_score": 0.1865,
     "count_24h": 3,
-    "count_7d": 105,
+    "count_7d": 103,
     "top_articles": [
       {
         "id": "4536",
@@ -407,8 +407,8 @@
   {
     "cluster_id": "6",
     "label": "new, market, said",
-    "trending_score": 0.147,
-    "count_24h": 3,
+    "trending_score": 0.1403,
+    "count_24h": 2,
     "count_7d": 63,
     "top_articles": [
       {

@@ -2,9 +2,9 @@
   {
     "cluster_id": "3",
     "label": "world, cup, world cup",
-    "trending_score": 1.025,
-    "count_24h": 46,
-    "count_7d": 271,
+    "trending_score": 0.9788,
+    "count_24h": 41,
+    "count_7d": 267,
     "top_articles": [
       {
         "id": "4556",
@@ -29,8 +29,8 @@
   {
     "cluster_id": "7",
     "label": "israel, israeli, gaza",
-    "trending_score": 0.9371,
-    "count_24h": 20,
+    "trending_score": 0.8278,
+    "count_24h": 15,
     "count_7d": 73,
     "top_articles": [
       {
@@ -54,38 +54,11 @@
     ]
   },
   {
-    "cluster_id": "14",
-    "label": "iran, khamenei, strait",
-    "trending_score": 0.741,
-    "count_24h": 9,
-    "count_7d": 80,
-    "top_articles": [
-      {
-        "id": "4564",
-        "title": "Tanker on fire in Strait of Hormuz after being hit by projectile off Oman",
-        "url": "https://www.aljazeera.com/news/2026/7/7/tanker-on-fire-off-coast-of-oman-after-being-hit-by-projectile?traffic_source=rss",
-        "date": "2026-07-07 04:06:03"
-      },
-      {
-        "id": "4514",
-        "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
-        "url": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 00:46:03"
-      },
-      {
-        "id": "4532",
-        "title": "Iran war live: Khamenei’s funeral under way in Qom; ship attacked in Hormuz",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/iran-war-live-khameneis-body-arrives-in-qom-hamas-cedes-gaza-governance?traffic_source=rss",
-        "date": "2026-07-07 00:00:00"
-      }
-    ]
-  },
-  {
     "cluster_id": "5",
     "label": "burnham, said, uk",
-    "trending_score": 0.7369,
+    "trending_score": 0.7108,
     "count_24h": 19,
-    "count_7d": 171,
+    "count_7d": 168,
     "top_articles": [
       {
         "id": "4568",
@@ -108,11 +81,38 @@
     ]
   },
   {
+    "cluster_id": "14",
+    "label": "iran, khamenei, strait",
+    "trending_score": 0.6799,
+    "count_24h": 7,
+    "count_7d": 78,
+    "top_articles": [
+      {
+        "id": "4564",
+        "title": "Tanker on fire in Strait of Hormuz after being hit by projectile off Oman",
+        "url": "https://www.aljazeera.com/news/2026/7/7/tanker-on-fire-off-coast-of-oman-after-being-hit-by-projectile?traffic_source=rss",
+        "date": "2026-07-07 04:06:03"
+      },
+      {
+        "id": "4514",
+        "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
+        "url": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 00:46:03"
+      },
+      {
+        "id": "4532",
+        "title": "Iran war live: Khamenei’s funeral under way in Qom; ship attacked in Hormuz",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/iran-war-live-khameneis-body-arrives-in-qom-hamas-cedes-gaza-governance?traffic_source=rss",
+        "date": "2026-07-07 00:00:00"
+      }
+    ]
+  },
+  {
     "cluster_id": "16",
     "label": "england, wimbledon, world",
-    "trending_score": 0.6523,
+    "trending_score": 0.6408,
     "count_24h": 10,
-    "count_7d": 95,
+    "count_7d": 91,
     "top_articles": [
       {
         "id": "4533",
@@ -137,8 +137,8 @@
   {
     "cluster_id": "15",
     "label": "russia, russian, ukraine",
-    "trending_score": 0.6489,
-    "count_24h": 17,
+    "trending_score": 0.5956,
+    "count_24h": 13,
     "count_7d": 100,
     "top_articles": [
       {
@@ -164,9 +164,9 @@
   {
     "cluster_id": "10",
     "label": "ai, tech, new",
-    "trending_score": 0.5857,
-    "count_24h": 24,
-    "count_7d": 155,
+    "trending_score": 0.5629,
+    "count_24h": 23,
+    "count_7d": 151,
     "top_articles": [
       {
         "id": "4566",
@@ -191,9 +191,9 @@
   {
     "cluster_id": "1",
     "label": "said, africa, south",
-    "trending_score": 0.5564,
-    "count_24h": 13,
-    "count_7d": 82,
+    "trending_score": 0.5,
+    "count_24h": 11,
+    "count_7d": 78,
     "top_articles": [
       {
         "id": "4544",
@@ -212,33 +212,6 @@
         "title": "Why el-Obeid matters as Sudan’s war enters a new phase",
         "url": "https://www.aljazeera.com/news/2026/7/7/why-el-obeid-matters-as-sudans-war-enters-a-new-phase?traffic_source=rss",
         "date": "2026-07-07 00:34:41"
-      }
-    ]
-  },
-  {
-    "cluster_id": "9",
-    "label": "heat, temperatures, heatwave",
-    "trending_score": 0.5297,
-    "count_24h": 5,
-    "count_7d": 47,
-    "top_articles": [
-      {
-        "id": "4569",
-        "title": "June heatwave in UK led to ‘mass sleep deprivation’, poll suggests",
-        "url": "https://www.theguardian.com/environment/2026/jul/07/june-heatwave-in-uk-led-to-mass-sleep-deprivation-poll-suggests",
-        "date": "2026-07-07 05:00:30"
-      },
-      {
-        "id": "4396",
-        "title": "Extreme high temperatures double young people’s risk of mental health admissions, Australian research shows",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/07/extreme-high-temperatures-young-people-mental-health-hospital-admission",
-        "date": "2026-07-06 15:00:15"
-      },
-      {
-        "id": "4319",
-        "title": "Wildfire in southern France forces evacuation of 10,000 people",
-        "url": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-06 13:08:23"
       }
     ]
   },
@@ -272,9 +245,9 @@
   {
     "cluster_id": "8",
     "label": "said, police, court",
-    "trending_score": 0.4592,
+    "trending_score": 0.4563,
     "count_24h": 20,
-    "count_7d": 116,
+    "count_7d": 114,
     "top_articles": [
       {
         "id": "4565",
@@ -297,36 +270,36 @@
     ]
   },
   {
-    "cluster_id": "11",
-    "label": "said, police, man",
-    "trending_score": 0.3498,
-    "count_24h": 10,
-    "count_7d": 100,
+    "cluster_id": "9",
+    "label": "heat, temperatures, heatwave",
+    "trending_score": 0.4257,
+    "count_24h": 2,
+    "count_7d": 47,
     "top_articles": [
       {
-        "id": "4549",
-        "title": "E-bike injury payouts top £110m and push up insurance premiums",
-        "url": "https://www.bbc.co.uk/news/articles/c05y9pe5p1jo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 05:40:34"
+        "id": "4569",
+        "title": "June heatwave in UK led to ‘mass sleep deprivation’, poll suggests",
+        "url": "https://www.theguardian.com/environment/2026/jul/07/june-heatwave-in-uk-led-to-mass-sleep-deprivation-poll-suggests",
+        "date": "2026-07-07 05:00:30"
       },
       {
-        "id": "4557",
-        "title": "‘Limited damage’: Upcoming Bollywood film angers Kashmir pellet gun victims",
-        "url": "https://www.aljazeera.com/news/2026/7/7/limited-damage-upcoming-bollywood-film-angers-kashmir-pellet-gun-victims?traffic_source=rss",
-        "date": "2026-07-07 05:11:53"
+        "id": "4396",
+        "title": "Extreme high temperatures double young people’s risk of mental health admissions, Australian research shows",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/07/extreme-high-temperatures-young-people-mental-health-hospital-admission",
+        "date": "2026-07-06 15:00:15"
       },
       {
-        "id": "4538",
-        "title": "Dowry murders in India no longer spark public anger or debate, study finds",
-        "url": "https://www.theguardian.com/global-development/2026/jul/07/dowry-murders-in-india-no-longer-spark-public-anger-or-debate-study-finds",
-        "date": "2026-07-07 04:00:29"
+        "id": "4319",
+        "title": "Wildfire in southern France forces evacuation of 10,000 people",
+        "url": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-06 13:08:23"
       }
     ]
   },
   {
     "cluster_id": "13",
     "label": "china, taiwan, taipei",
-    "trending_score": 0.3409,
+    "trending_score": 0.3341,
     "count_24h": 9,
     "count_7d": 48,
     "top_articles": [
@@ -351,9 +324,36 @@
     ]
   },
   {
+    "cluster_id": "11",
+    "label": "said, police, man",
+    "trending_score": 0.3158,
+    "count_24h": 7,
+    "count_7d": 99,
+    "top_articles": [
+      {
+        "id": "4549",
+        "title": "E-bike injury payouts top £110m and push up insurance premiums",
+        "url": "https://www.bbc.co.uk/news/articles/c05y9pe5p1jo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 05:40:34"
+      },
+      {
+        "id": "4557",
+        "title": "‘Limited damage’: Upcoming Bollywood film angers Kashmir pellet gun victims",
+        "url": "https://www.aljazeera.com/news/2026/7/7/limited-damage-upcoming-bollywood-film-angers-kashmir-pellet-gun-victims?traffic_source=rss",
+        "date": "2026-07-07 05:11:53"
+      },
+      {
+        "id": "4538",
+        "title": "Dowry murders in India no longer spark public anger or debate, study finds",
+        "url": "https://www.theguardian.com/global-development/2026/jul/07/dowry-murders-in-india-no-longer-spark-public-anger-or-debate-study-finds",
+        "date": "2026-07-07 04:00:29"
+      }
+    ]
+  },
+  {
     "cluster_id": "2",
     "label": "trump, court, latest",
-    "trending_score": 0.2767,
+    "trending_score": 0.2732,
     "count_24h": 9,
     "count_7d": 125,
     "top_articles": [
@@ -380,9 +380,9 @@
   {
     "cluster_id": "0",
     "label": "said, image, new",
-    "trending_score": 0.2593,
+    "trending_score": 0.257,
     "count_24h": 10,
-    "count_7d": 102,
+    "count_7d": 100,
     "top_articles": [
       {
         "id": "4518",
@@ -407,9 +407,9 @@
   {
     "cluster_id": "6",
     "label": "new, market, said",
-    "trending_score": 0.2127,
-    "count_24h": 9,
-    "count_7d": 71,
+    "trending_score": 0.1982,
+    "count_24h": 7,
+    "count_7d": 70,
     "top_articles": [
       {
         "id": "4561",

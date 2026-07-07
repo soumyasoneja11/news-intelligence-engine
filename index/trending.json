@@ -2,9 +2,9 @@
   {
     "cluster_id": "3",
     "label": "world, cup, world cup",
-    "trending_score": 0.9788,
-    "count_24h": 41,
-    "count_7d": 267,
+    "trending_score": 0.9225,
+    "count_24h": 36,
+    "count_7d": 264,
     "top_articles": [
       {
         "id": "4556",
@@ -29,8 +29,8 @@
   {
     "cluster_id": "7",
     "label": "israel, israeli, gaza",
-    "trending_score": 0.8278,
-    "count_24h": 15,
+    "trending_score": 0.6689,
+    "count_24h": 8,
     "count_7d": 73,
     "top_articles": [
       {
@@ -54,38 +54,11 @@
     ]
   },
   {
-    "cluster_id": "5",
-    "label": "burnham, said, uk",
-    "trending_score": 0.7108,
-    "count_24h": 19,
-    "count_7d": 168,
-    "top_articles": [
-      {
-        "id": "4568",
-        "title": "Tuesday briefing: What challenges would Ed Miliband face as chancellor?",
-        "url": "https://www.theguardian.com/world/2026/jul/07/tuesday-briefing-first-edition-ed-miliband-next-chancellor",
-        "date": "2026-07-07 05:46:48"
-      },
-      {
-        "id": "4540",
-        "title": "Rapid endometriosis tests to be made available on NHS in England and Wales",
-        "url": "https://www.theguardian.com/society/2026/jul/07/rapid-endometriosis-tests-to-be-made-available-on-nhs-in-england-and-wales",
-        "date": "2026-07-07 04:01:28"
-      },
-      {
-        "id": "4541",
-        "title": "Student loan promotion in England and Wales amounted to mis-selling, MPs say",
-        "url": "https://www.theguardian.com/money/2026/jul/07/promotion-student-loans-england-wales-mis-selling",
-        "date": "2026-07-07 04:00:31"
-      }
-    ]
-  },
-  {
     "cluster_id": "14",
     "label": "iran, khamenei, strait",
-    "trending_score": 0.6799,
-    "count_24h": 7,
-    "count_7d": 78,
+    "trending_score": 0.6043,
+    "count_24h": 6,
+    "count_7d": 75,
     "top_articles": [
       {
         "id": "4564",
@@ -108,38 +81,38 @@
     ]
   },
   {
-    "cluster_id": "16",
-    "label": "england, wimbledon, world",
-    "trending_score": 0.6408,
-    "count_24h": 10,
-    "count_7d": 91,
+    "cluster_id": "5",
+    "label": "burnham, said, uk",
+    "trending_score": 0.5941,
+    "count_24h": 11,
+    "count_7d": 161,
     "top_articles": [
       {
-        "id": "4533",
-        "title": "Tributes flow for ‘deeply loved’ Melbourne teacher who died after a head clash during Australian football game",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/07/nathan-fitzgerald-melbourne-teacher-death-australian-football-head-clash-tributes",
-        "date": "2026-07-07 01:23:55"
+        "id": "4568",
+        "title": "Tuesday briefing: What challenges would Ed Miliband face as chancellor?",
+        "url": "https://www.theguardian.com/world/2026/jul/07/tuesday-briefing-first-edition-ed-miliband-next-chancellor",
+        "date": "2026-07-07 05:46:48"
       },
       {
-        "id": "4474",
-        "title": "Fery 'stands tall and takes advantage' to continue dream Wimbledon run",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c3wyyj54p18o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-06 22:38:13"
+        "id": "4540",
+        "title": "Rapid endometriosis tests to be made available on NHS in England and Wales",
+        "url": "https://www.theguardian.com/society/2026/jul/07/rapid-endometriosis-tests-to-be-made-available-on-nhs-in-england-and-wales",
+        "date": "2026-07-07 04:01:28"
       },
       {
-        "id": "4551",
-        "title": "'Learn how to lose' - tempers flare in Wimbledon mixed doubles",
-        "url": "https://www.bbc.co.uk/sport/tennis/videos/c4gyy151xzyo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-06 22:15:33"
+        "id": "4541",
+        "title": "Student loan promotion in England and Wales amounted to mis-selling, MPs say",
+        "url": "https://www.theguardian.com/money/2026/jul/07/promotion-student-loans-england-wales-mis-selling",
+        "date": "2026-07-07 04:00:31"
       }
     ]
   },
   {
     "cluster_id": "15",
     "label": "russia, russian, ukraine",
-    "trending_score": 0.5956,
-    "count_24h": 13,
-    "count_7d": 100,
+    "trending_score": 0.56,
+    "count_24h": 11,
+    "count_7d": 96,
     "top_articles": [
       {
         "id": "4553",
@@ -162,56 +135,29 @@
     ]
   },
   {
-    "cluster_id": "10",
-    "label": "ai, tech, new",
-    "trending_score": 0.5629,
-    "count_24h": 23,
-    "count_7d": 151,
+    "cluster_id": "16",
+    "label": "england, wimbledon, world",
+    "trending_score": 0.5201,
+    "count_24h": 5,
+    "count_7d": 88,
     "top_articles": [
       {
-        "id": "4566",
-        "title": "AI models already ‘doing things their creators never intended’, Australia’s assistant technology minister warns",
-        "url": "https://www.theguardian.com/technology/2026/jul/07/ai-models-doing-things-their-creators-never-intended",
-        "date": "2026-07-07 06:08:57"
+        "id": "4533",
+        "title": "Tributes flow for ‘deeply loved’ Melbourne teacher who died after a head clash during Australian football game",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/07/nathan-fitzgerald-melbourne-teacher-death-australian-football-head-clash-tributes",
+        "date": "2026-07-07 01:23:55"
       },
       {
-        "id": "4567",
-        "title": "WiseTech shares rise after Richard White resigns as executive chair amid police investigation",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/07/richard-white-resigns-wisetech-chair-police-investigation-ntwnfb",
-        "date": "2026-07-07 05:23:14"
+        "id": "4474",
+        "title": "Fery 'stands tall and takes advantage' to continue dream Wimbledon run",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c3wyyj54p18o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-06 22:38:13"
       },
       {
-        "id": "4543",
-        "title": "Netflix invented binge-watching. Now it may have outgrown it.",
-        "url": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
-        "date": "2026-07-07 00:47:33"
-      }
-    ]
-  },
-  {
-    "cluster_id": "1",
-    "label": "said, africa, south",
-    "trending_score": 0.5,
-    "count_24h": 11,
-    "count_7d": 78,
-    "top_articles": [
-      {
-        "id": "4544",
-        "title": "India's landmark Ram temple overhauls board after alleged theft of donations",
-        "url": "https://www.bbc.co.uk/news/articles/c872ngz405xo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 06:23:04"
-      },
-      {
-        "id": "4515",
-        "title": "Why some African nations are turning down Trump aid money",
-        "url": "https://www.bbc.co.uk/news/articles/ckg0921y8kdo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 00:49:08"
-      },
-      {
-        "id": "4529",
-        "title": "Why el-Obeid matters as Sudan’s war enters a new phase",
-        "url": "https://www.aljazeera.com/news/2026/7/7/why-el-obeid-matters-as-sudans-war-enters-a-new-phase?traffic_source=rss",
-        "date": "2026-07-07 00:34:41"
+        "id": "4551",
+        "title": "'Learn how to lose' - tempers flare in Wimbledon mixed doubles",
+        "url": "https://www.bbc.co.uk/sport/tennis/videos/c4gyy151xzyo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-06 22:15:33"
       }
     ]
   },
@@ -243,11 +189,65 @@
     ]
   },
   {
+    "cluster_id": "10",
+    "label": "ai, tech, new",
+    "trending_score": 0.4857,
+    "count_24h": 16,
+    "count_7d": 142,
+    "top_articles": [
+      {
+        "id": "4566",
+        "title": "AI models already ‘doing things their creators never intended’, Australia’s assistant technology minister warns",
+        "url": "https://www.theguardian.com/technology/2026/jul/07/ai-models-doing-things-their-creators-never-intended",
+        "date": "2026-07-07 06:08:57"
+      },
+      {
+        "id": "4567",
+        "title": "WiseTech shares rise after Richard White resigns as executive chair amid police investigation",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/07/richard-white-resigns-wisetech-chair-police-investigation-ntwnfb",
+        "date": "2026-07-07 05:23:14"
+      },
+      {
+        "id": "4543",
+        "title": "Netflix invented binge-watching. Now it may have outgrown it.",
+        "url": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
+        "date": "2026-07-07 00:47:33"
+      }
+    ]
+  },
+  {
+    "cluster_id": "1",
+    "label": "said, africa, south",
+    "trending_score": 0.4795,
+    "count_24h": 10,
+    "count_7d": 76,
+    "top_articles": [
+      {
+        "id": "4544",
+        "title": "India's landmark Ram temple overhauls board after alleged theft of donations",
+        "url": "https://www.bbc.co.uk/news/articles/c872ngz405xo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 06:23:04"
+      },
+      {
+        "id": "4515",
+        "title": "Why some African nations are turning down Trump aid money",
+        "url": "https://www.bbc.co.uk/news/articles/ckg0921y8kdo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 00:49:08"
+      },
+      {
+        "id": "4529",
+        "title": "Why el-Obeid matters as Sudan’s war enters a new phase",
+        "url": "https://www.aljazeera.com/news/2026/7/7/why-el-obeid-matters-as-sudans-war-enters-a-new-phase?traffic_source=rss",
+        "date": "2026-07-07 00:34:41"
+      }
+    ]
+  },
+  {
     "cluster_id": "8",
     "label": "said, police, court",
-    "trending_score": 0.4563,
-    "count_24h": 20,
-    "count_7d": 114,
+    "trending_score": 0.4169,
+    "count_24h": 16,
+    "count_7d": 113,
     "top_articles": [
       {
         "id": "4565",
@@ -272,8 +272,8 @@
   {
     "cluster_id": "9",
     "label": "heat, temperatures, heatwave",
-    "trending_score": 0.4257,
-    "count_24h": 2,
+    "trending_score": 0.396,
+    "count_24h": 1,
     "count_7d": 47,
     "top_articles": [
       {
@@ -299,8 +299,8 @@
   {
     "cluster_id": "13",
     "label": "china, taiwan, taipei",
-    "trending_score": 0.3341,
-    "count_24h": 9,
+    "trending_score": 0.3068,
+    "count_24h": 7,
     "count_7d": 48,
     "top_articles": [
       {
@@ -326,9 +326,9 @@
   {
     "cluster_id": "11",
     "label": "said, police, man",
-    "trending_score": 0.3158,
+    "trending_score": 0.3034,
     "count_24h": 7,
-    "count_7d": 99,
+    "count_7d": 97,
     "top_articles": [
       {
         "id": "4549",
@@ -351,38 +351,11 @@
     ]
   },
   {
-    "cluster_id": "2",
-    "label": "trump, court, latest",
-    "trending_score": 0.2732,
-    "count_24h": 9,
-    "count_7d": 125,
-    "top_articles": [
-      {
-        "id": "4536",
-        "title": "Marine Le Pen’s political future at stake with ruling on electoral ban imminent",
-        "url": "https://www.theguardian.com/world/2026/jul/07/marine-le-pen-political-future-waits-electoral-ban-upheld",
-        "date": "2026-07-07 04:00:29"
-      },
-      {
-        "id": "4542",
-        "title": "Details scarce as Mitch McConnell ‘continues recovery’ in hospital",
-        "url": "https://www.theguardian.com/us-news/2026/jul/06/mitch-mcconnell-health",
-        "date": "2026-07-07 01:09:26"
-      },
-      {
-        "id": "4505",
-        "title": "Leading US Democrats withdraw support for Platner after assault allegations",
-        "url": "https://www.aljazeera.com/news/2026/7/6/leading-us-democrats-withdraw-support-for-platner-after-assault-allegations?traffic_source=rss",
-        "date": "2026-07-06 23:10:41"
-      }
-    ]
-  },
-  {
     "cluster_id": "0",
     "label": "said, image, new",
-    "trending_score": 0.257,
+    "trending_score": 0.2488,
     "count_24h": 10,
-    "count_7d": 100,
+    "count_7d": 99,
     "top_articles": [
       {
         "id": "4518",
@@ -405,11 +378,38 @@
     ]
   },
   {
+    "cluster_id": "2",
+    "label": "trump, court, latest",
+    "trending_score": 0.2458,
+    "count_24h": 7,
+    "count_7d": 117,
+    "top_articles": [
+      {
+        "id": "4536",
+        "title": "Marine Le Pen’s political future at stake with ruling on electoral ban imminent",
+        "url": "https://www.theguardian.com/world/2026/jul/07/marine-le-pen-political-future-waits-electoral-ban-upheld",
+        "date": "2026-07-07 04:00:29"
+      },
+      {
+        "id": "4542",
+        "title": "Details scarce as Mitch McConnell ‘continues recovery’ in hospital",
+        "url": "https://www.theguardian.com/us-news/2026/jul/06/mitch-mcconnell-health",
+        "date": "2026-07-07 01:09:26"
+      },
+      {
+        "id": "4505",
+        "title": "Leading US Democrats withdraw support for Platner after assault allegations",
+        "url": "https://www.aljazeera.com/news/2026/7/6/leading-us-democrats-withdraw-support-for-platner-after-assault-allegations?traffic_source=rss",
+        "date": "2026-07-06 23:10:41"
+      }
+    ]
+  },
+  {
     "cluster_id": "6",
     "label": "new, market, said",
-    "trending_score": 0.1982,
-    "count_24h": 7,
-    "count_7d": 70,
+    "trending_score": 0.1771,
+    "count_24h": 6,
+    "count_7d": 66,
     "top_articles": [
       {
         "id": "4561",

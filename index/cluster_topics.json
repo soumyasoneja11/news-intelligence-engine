@@ -2,136 +2,37 @@
   "0": {
     "keywords": [
       "said",
-      "china",
-      "says",
-      "president",
-      "taiwan"
+      "image",
+      "new",
+      "year",
+      "says"
     ],
-    "label": "said, china, says",
-    "article_count": 478
+    "label": "said, image, new",
+    "article_count": 428
   },
   "1": {
     "keywords": [
-      "heat",
-      "heatwave",
-      "temperatures",
       "said",
-      "europe"
+      "africa",
+      "south",
+      "ebola",
+      "el"
     ],
-    "label": "heat, heatwave, temperatures",
-    "article_count": 151
+    "label": "said, africa, south",
+    "article_count": 195
   },
   "2": {
     "keywords": [
       "trump",
-      "latest",
       "court",
-      "says",
-      "said"
+      "latest",
+      "president",
+      "says"
     ],
-    "label": "trump, latest, court",
-    "article_count": 427
+    "label": "trump, court, latest",
+    "article_count": 421
   },
   "3": {
-    "keywords": [
-      "ai",
-      "new",
-      "said",
-      "tech",
-      "company"
-    ],
-    "label": "ai, new, said",
-    "article_count": 641
-  },
-  "4": {
-    "keywords": [
-      "league",
-      "win",
-      "lead",
-      "major",
-      "league linescores"
-    ],
-    "label": "league, win, lead",
-    "article_count": 216
-  },
-  "5": {
-    "keywords": [
-      "said",
-      "gaza",
-      "00",
-      "video duration",
-      "seconds play"
-    ],
-    "label": "said, gaza, 00",
-    "article_count": 313
-  },
-  "6": {
-    "keywords": [
-      "police",
-      "said",
-      "man",
-      "court",
-      "woman"
-    ],
-    "label": "police, said, man",
-    "article_count": 471
-  },
-  "7": {
-    "keywords": [
-      "england",
-      "wimbledon",
-      "stokes",
-      "world",
-      "said"
-    ],
-    "label": "england, wimbledon, stokes",
-    "article_count": 168
-  },
-  "8": {
-    "keywords": [
-      "burnham",
-      "said",
-      "uk",
-      "defence",
-      "government"
-    ],
-    "label": "burnham, said, uk",
-    "article_count": 288
-  },
-  "9": {
-    "keywords": [
-      "new",
-      "image",
-      "said",
-      "year",
-      "glance"
-    ],
-    "label": "new, image, said",
-    "article_count": 500
-  },
-  "10": {
-    "keywords": [
-      "iran",
-      "israel",
-      "strait",
-      "said",
-      "lebanon"
-    ],
-    "label": "iran, israel, strait",
-    "article_count": 173
-  },
-  "11": {
-    "keywords": [
-      "venezuela",
-      "01",
-      "00",
-      "earthquakes",
-      "video duration"
-    ],
-    "label": "venezuela, 01, 00",
-    "article_count": 123
-  },
-  "12": {
     "keywords": [
       "world",
       "cup",
@@ -140,6 +41,149 @@
       "mexico"
     ],
     "label": "world, cup, world cup",
-    "article_count": 335
+    "article_count": 400
+  },
+  "4": {
+    "keywords": [
+      "league",
+      "win",
+      "major",
+      "lead",
+      "major league"
+    ],
+    "label": "league, win, major",
+    "article_count": 226
+  },
+  "5": {
+    "keywords": [
+      "burnham",
+      "said",
+      "uk",
+      "defence",
+      "minister"
+    ],
+    "label": "burnham, said, uk",
+    "article_count": 287
+  },
+  "6": {
+    "keywords": [
+      "new",
+      "market",
+      "said",
+      "expanded conference",
+      "conference glance"
+    ],
+    "label": "new, market, said",
+    "article_count": 449
+  },
+  "7": {
+    "keywords": [
+      "israel",
+      "israeli",
+      "gaza",
+      "lebanon",
+      "00"
+    ],
+    "label": "israel, israeli, gaza",
+    "article_count": 151
+  },
+  "8": {
+    "keywords": [
+      "said",
+      "police",
+      "court",
+      "man",
+      "case"
+    ],
+    "label": "said, police, court",
+    "article_count": 355
+  },
+  "9": {
+    "keywords": [
+      "heat",
+      "temperatures",
+      "heatwave",
+      "europe",
+      "said"
+    ],
+    "label": "heat, temperatures, heatwave",
+    "article_count": 101
+  },
+  "10": {
+    "keywords": [
+      "ai",
+      "tech",
+      "new",
+      "said",
+      "techcrunch"
+    ],
+    "label": "ai, tech, new",
+    "article_count": 350
+  },
+  "11": {
+    "keywords": [
+      "said",
+      "police",
+      "man",
+      "shooting",
+      "killed"
+    ],
+    "label": "said, police, man",
+    "article_count": 323
+  },
+  "12": {
+    "keywords": [
+      "venezuela",
+      "01",
+      "00",
+      "earthquakes",
+      "seconds play"
+    ],
+    "label": "venezuela, 01, 00",
+    "article_count": 127
+  },
+  "13": {
+    "keywords": [
+      "china",
+      "taiwan",
+      "taipei",
+      "korea",
+      "said"
+    ],
+    "label": "china, taiwan, taipei",
+    "article_count": 220
+  },
+  "14": {
+    "keywords": [
+      "iran",
+      "khamenei",
+      "strait",
+      "said",
+      "tehran"
+    ],
+    "label": "iran, khamenei, strait",
+    "article_count": 139
+  },
+  "15": {
+    "keywords": [
+      "russia",
+      "russian",
+      "ukraine",
+      "said",
+      "nato"
+    ],
+    "label": "russia, russian, ukraine",
+    "article_count": 225
+  },
+  "16": {
+    "keywords": [
+      "england",
+      "wimbledon",
+      "world",
+      "stokes",
+      "tennis"
+    ],
+    "label": "england, wimbledon, world",
+    "article_count": 174
   }
 }

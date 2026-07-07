@@ -1,335 +1,449 @@
 [
   {
-    "cluster_id": "12",
+    "cluster_id": "3",
     "label": "world, cup, world cup",
-    "trending_score": 0.5478,
-    "count_24h": 4,
-    "count_7d": 217,
+    "trending_score": 1.1362,
+    "count_24h": 56,
+    "count_7d": 276,
     "top_articles": [
       {
-        "id": "4269",
-        "title": "Khamenei’s funeral procession moves through Tehran",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/khameneis-funeral-procession-moves-through-tehran?traffic_source=rss",
-        "date": "2026-07-06 07:05:35"
+        "id": "4556",
+        "title": "Sorry USA riled for World Cup thrashing by Belgium despite Balogun reprieve",
+        "url": "https://www.aljazeera.com/sports/2026/7/7/sorry-usa-riled-for-world-cup-thrashing-by-belgium-despite-balogun-reprieve?traffic_source=rss",
+        "date": "2026-07-07 05:32:55"
       },
       {
-        "id": "4267",
-        "title": "An incredible night when England heroes were made",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cjrgg07p8dlo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-06 05:51:10"
+        "id": "4548",
+        "title": "'Overturn this' - Belgium taunt US and say Trump move fired them up",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c4gyj50450go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 05:17:09"
       },
       {
-        "id": "4248",
-        "title": "Haaland inspired Norway stun Brazil in historic World Cup knockout win",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/haaland-inspired-norway-stun-brazil-in-historic-world-cup-knockout-win?traffic_source=rss",
-        "date": "2026-07-06 05:35:46"
-      }
-    ]
-  },
-  {
-    "cluster_id": "8",
-    "label": "burnham, said, uk",
-    "trending_score": 0.4896,
-    "count_24h": 3,
-    "count_7d": 171,
-    "top_articles": [
-      {
-        "id": "4280",
-        "title": "‘It’s smoke and mirrors’: hope turns to fear in Scottish village chosen for AI datacentre",
-        "url": "https://www.theguardian.com/technology/2026/jul/06/scotland-lanarkshire-village-ai-datacentre",
-        "date": "2026-07-06 07:00:06"
-      },
-      {
-        "id": "4274",
-        "title": "Anthony Albanese’s ‘shag, marry, date-gate’ underscores the double-edged sword of social media appearances",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/06/anthony-albanese-shag-marry-date-kylie-minogue-nikki-osborne-podcast-australian-prime-minister-social-media",
-        "date": "2026-07-06 06:38:27"
-      },
-      {
-        "id": "4282",
-        "title": "Half of affordable new homes in rural England could be at risk if planning rules relaxed, analysis shows",
-        "url": "https://www.theguardian.com/society/2026/jul/06/half-affordable-new-homes-rural-england-risk-planning-rules-relaxed-analysis",
-        "date": "2026-07-06 06:00:04"
-      }
-    ]
-  },
-  {
-    "cluster_id": "10",
-    "label": "iran, israel, strait",
-    "trending_score": 0.4538,
-    "count_24h": 3,
-    "count_7d": 85,
-    "top_articles": [
-      {
-        "id": "4268",
-        "title": "Funeral procession for Iran’s slain Supreme Leader Ali Khamenei under way",
-        "url": "https://www.aljazeera.com/gallery/2026/7/6/funeral-procession-for-irans-slain-supreme-leader-ali-khamenei-under-way?traffic_source=rss",
-        "date": "2026-07-06 07:11:33"
-      },
-      {
-        "id": "4277",
-        "title": "Millions join funeral procession for Iran’s supreme leader Ali Khamenei",
-        "url": "https://www.theguardian.com/world/2026/jul/06/ali-khamenei-funeral-procession-iran-supreme-leader",
-        "date": "2026-07-06 06:10:34"
-      },
-      {
-        "id": "4272",
-        "title": "Is the US really preparing to drop Israel?",
-        "url": "https://www.aljazeera.com/news/2026/7/6/is-the-us-really-preparing-to-drop-israel?traffic_source=rss",
-        "date": "2026-07-06 05:54:37"
+        "id": "4547",
+        "title": "Fans react to US loss after red card drama",
+        "url": "https://www.bbc.co.uk/news/videos/cdxd791zzd4o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 05:08:06"
       }
     ]
   },
   {
     "cluster_id": "7",
-    "label": "england, wimbledon, stokes",
-    "trending_score": 0.4345,
-    "count_24h": 1,
-    "count_7d": 92,
+    "label": "israel, israeli, gaza",
+    "trending_score": 1.0265,
+    "count_24h": 22,
+    "count_7d": 76,
     "top_articles": [
       {
-        "id": "4245",
-        "title": "London Diamond League is pricing us out, say families",
-        "url": "https://www.bbc.co.uk/news/articles/cqx1lgjgx7lo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-06 05:01:05"
+        "id": "4555",
+        "title": "Palestine weekly: One thousand days of genocide in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/7/7/palestine-weekly-one-thousand-days-of-genocide-in-gaza?traffic_source=rss",
+        "date": "2026-07-07 05:48:37"
       },
       {
-        "id": "4260",
-        "title": "Melbourne teacher receiving end-of-life care after horror head clash during suburban football game",
-        "url": "https://www.theguardian.com/sport/2026/jul/06/nathan-fitzgerald-epping-footballer-victoria-head-injury-aussie-rules-football-game",
-        "date": "2026-07-06 02:37:18"
+        "id": "4520",
+        "title": "Hamas dissolves civilian governing body in Gaza after 20 years",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/hamas-dissolves-civilian-governing-body-in-gaza-after-20-years?traffic_source=rss",
+        "date": "2026-07-07 03:25:11"
       },
       {
-        "id": "4206",
-        "title": "Australia give improved England plenty to ponder one year out from Ashes",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c5yzz0yp629o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-05 21:55:04"
+        "id": "4523",
+        "title": "Russia sends weapons to help Mali’s government hold off rebel siege",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/aje-onl-nf_russia-sends-weapons-to-mali-hold-off-rebel-siege-060726?traffic_source=rss",
+        "date": "2026-07-07 02:25:09"
+      }
+    ]
+  },
+  {
+    "cluster_id": "14",
+    "label": "iran, khamenei, strait",
+    "trending_score": 0.8309,
+    "count_24h": 12,
+    "count_7d": 81,
+    "top_articles": [
+      {
+        "id": "4564",
+        "title": "Tanker on fire in Strait of Hormuz after being hit by projectile off Oman",
+        "url": "https://www.aljazeera.com/news/2026/7/7/tanker-on-fire-off-coast-of-oman-after-being-hit-by-projectile?traffic_source=rss",
+        "date": "2026-07-07 04:06:03"
+      },
+      {
+        "id": "4514",
+        "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
+        "url": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 00:46:03"
+      },
+      {
+        "id": "4532",
+        "title": "Iran war live: Khamenei’s funeral under way in Qom; ship attacked in Hormuz",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/iran-war-live-khameneis-body-arrives-in-qom-hamas-cedes-gaza-governance?traffic_source=rss",
+        "date": "2026-07-07 00:00:00"
       }
     ]
   },
   {
     "cluster_id": "5",
-    "label": "said, gaza, 00",
-    "trending_score": 0.4026,
-    "count_24h": 4,
-    "count_7d": 156,
+    "label": "burnham, said, uk",
+    "trending_score": 0.8206,
+    "count_24h": 25,
+    "count_7d": 177,
     "top_articles": [
       {
-        "id": "4270",
-        "title": "Russian attacks on Ukraine kill 11 on eve of NATO summit, authorities say",
-        "url": "https://www.aljazeera.com/news/2026/7/6/russian-attacks-on-ukraine-kill-11-on-eve-of-nato-summit-authorities-say?traffic_source=rss",
-        "date": "2026-07-06 06:35:50"
+        "id": "4568",
+        "title": "Tuesday briefing: What challenges would Ed Miliband face as chancellor?",
+        "url": "https://www.theguardian.com/world/2026/jul/07/tuesday-briefing-first-edition-ed-miliband-next-chancellor",
+        "date": "2026-07-07 05:46:48"
       },
       {
-        "id": "4271",
-        "title": "Sudan’s maternity wards reopen, bringing hope amid post-war struggles",
-        "url": "https://www.aljazeera.com/features/2026/7/6/sudans-maternity-wards-reopen-bringing-hope-amid-post-war-struggles?traffic_source=rss",
-        "date": "2026-07-06 06:18:48"
+        "id": "4540",
+        "title": "Rapid endometriosis tests to be made available on NHS in England and Wales",
+        "url": "https://www.theguardian.com/society/2026/jul/07/rapid-endometriosis-tests-to-be-made-available-on-nhs-in-england-and-wales",
+        "date": "2026-07-07 04:01:28"
       },
       {
-        "id": "4265",
-        "title": "Why Ukrainian strikes on annexed Crimea are a blow to Putin",
-        "url": "https://www.bbc.co.uk/news/videos/c2dy21549w1o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-06 06:00:05"
+        "id": "4541",
+        "title": "Student loan promotion in England and Wales amounted to mis-selling, MPs say",
+        "url": "https://www.theguardian.com/money/2026/jul/07/promotion-student-loans-england-wales-mis-selling",
+        "date": "2026-07-07 04:00:31"
       }
     ]
   },
   {
-    "cluster_id": "11",
-    "label": "venezuela, 01, 00",
-    "trending_score": 0.3659,
-    "count_24h": 2,
-    "count_7d": 51,
+    "cluster_id": "16",
+    "label": "england, wimbledon, world",
+    "trending_score": 0.7213,
+    "count_24h": 12,
+    "count_7d": 98,
     "top_articles": [
       {
-        "id": "4264",
-        "title": "Girl trapped in Venezuela quake 'survived on ketchup and cheese'",
-        "url": "https://www.bbc.co.uk/news/videos/cjrggj051pvo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-06 07:17:57"
+        "id": "4533",
+        "title": "Tributes flow for ‘deeply loved’ Melbourne teacher who died after a head clash during Australian football game",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/07/nathan-fitzgerald-melbourne-teacher-death-australian-football-head-clash-tributes",
+        "date": "2026-07-07 01:23:55"
       },
       {
-        "id": "4236",
-        "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
-        "url": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-06 05:04:28"
+        "id": "4474",
+        "title": "Fery 'stands tall and takes advantage' to continue dream Wimbledon run",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c3wyyj54p18o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-06 22:38:13"
       },
       {
-        "id": "4253",
-        "title": "Sports stadium becomes home for victims of the Venezuela earthquakes",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/sports-stadium-becomes-home-for-victims-of-the-venezuela-earthquakes?traffic_source=rss",
-        "date": "2026-07-06 02:27:07"
+        "id": "4551",
+        "title": "'Learn how to lose' - tempers flare in Wimbledon mixed doubles",
+        "url": "https://www.bbc.co.uk/sport/tennis/videos/c4gyy151xzyo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-06 22:15:33"
       }
     ]
   },
   {
-    "cluster_id": "1",
-    "label": "heat, heatwave, temperatures",
-    "trending_score": 0.2781,
-    "count_24h": 0,
-    "count_7d": 63,
+    "cluster_id": "15",
+    "label": "russia, russian, ukraine",
+    "trending_score": 0.6844,
+    "count_24h": 19,
+    "count_7d": 101,
     "top_articles": [
       {
-        "id": "4227",
-        "title": "UK's third heatwave of the year begins - but how will it be different?",
-        "url": "https://www.bbc.co.uk/weather/articles/cj3gp536xm1o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-06 00:39:47"
+        "id": "4553",
+        "title": "NATO summit begins: Who is attending and what is at stake?",
+        "url": "https://www.aljazeera.com/news/2026/7/7/nato-summit-begins-who-is-attending-and-what-is-at-stake?traffic_source=rss",
+        "date": "2026-07-07 06:12:19"
       },
       {
-        "id": "4179",
-        "title": "At least 25 people die in US as record heatwave scorches swaths of country",
-        "url": "https://www.theguardian.com/us-news/2026/jul/05/heatwave-deaths-weather",
-        "date": "2026-07-05 18:49:28"
+        "id": "4513",
+        "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
+        "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 04:18:19"
       },
       {
-        "id": "4157",
-        "title": "Super Typhoon Bavi threatens Guam with catastrophic winds and flooding",
-        "url": "https://www.aljazeera.com/news/2026/7/5/super-typhoon-bavi-threatens-guam-with-catastrophic-winds-and-flooding?traffic_source=rss",
-        "date": "2026-07-05 16:54:26"
+        "id": "4534",
+        "title": "Nato braces for difficult summit as Trump puts pressure on spending",
+        "url": "https://www.theguardian.com/world/2026/jul/07/nato-braces-for-difficult-summit-as-trump-puts-pressure-on-spending",
+        "date": "2026-07-07 04:00:31"
       }
     ]
   },
   {
-    "cluster_id": "6",
-    "label": "police, said, man",
-    "trending_score": 0.2357,
-    "count_24h": 4,
-    "count_7d": 150,
+    "cluster_id": "10",
+    "label": "ai, tech, new",
+    "trending_score": 0.6343,
+    "count_24h": 29,
+    "count_7d": 159,
     "top_articles": [
       {
-        "id": "4258",
-        "title": "Likely origin of mysterious ‘space balls’ found on Queensland beaches revealed by Australian Space Agency",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/06/mysterious-space-balls-queensland-beaches-origin-source-australia",
-        "date": "2026-07-06 05:42:30"
+        "id": "4566",
+        "title": "AI models already ‘doing things their creators never intended’, Australia’s assistant technology minister warns",
+        "url": "https://www.theguardian.com/technology/2026/jul/07/ai-models-doing-things-their-creators-never-intended",
+        "date": "2026-07-07 06:08:57"
       },
       {
-        "id": "4246",
-        "title": "Thousands of forgotten Punjabi WW1 soldiers recognised for first time",
-        "url": "https://www.bbc.co.uk/news/articles/cgqjpqjgxzgo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-06 05:04:06"
+        "id": "4567",
+        "title": "WiseTech shares rise after Richard White resigns as executive chair amid police investigation",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/07/richard-white-resigns-wisetech-chair-police-investigation-ntwnfb",
+        "date": "2026-07-07 05:23:14"
       },
       {
-        "id": "4247",
-        "title": "Falsely convicted man who spent £500k clearing his name is rejected for compensation",
-        "url": "https://www.bbc.co.uk/news/articles/c8925nd4e59o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-06 05:02:55"
-      }
-    ]
-  },
-  {
-    "cluster_id": "3",
-    "label": "ai, new, said",
-    "trending_score": 0.2161,
-    "count_24h": 6,
-    "count_7d": 184,
-    "top_articles": [
-      {
-        "id": "4278",
-        "title": "Sky owner announces £1.6bn takeover of ITV’s broadcasting arm",
-        "url": "https://www.theguardian.com/business/2026/jul/06/sky-owner-announces-16bn-takeover-of-itvs-broadcasting-arm",
-        "date": "2026-07-06 07:03:40"
-      },
-      {
-        "id": "4266",
-        "title": "ITV sells media and entertainment arm to Sky for £1.6bn",
-        "url": "https://www.bbc.co.uk/news/articles/cx2wwgeg041o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-06 07:00:31"
-      },
-      {
-        "id": "4279",
-        "title": "Big brewers ‘misleading drinkers’ over craft beer credentials, says Camra",
-        "url": "https://www.theguardian.com/business/2026/jul/06/big-brewers-independents-craft-beer-credentials-camra",
-        "date": "2026-07-06 07:00:06"
-      }
-    ]
-  },
-  {
-    "cluster_id": "2",
-    "label": "trump, latest, court",
-    "trending_score": 0.1909,
-    "count_24h": 1,
-    "count_7d": 121,
-    "top_articles": [
-      {
-        "id": "4275",
-        "title": "Meta bosses grilled over decision to cut ‘censorship’ that has potentially unleashed more antisemitic content",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/06/meta-censorship-hate-speech-antisemitism-royal-commission-ntwnfb",
-        "date": "2026-07-06 06:12:10"
-      },
-      {
-        "id": "4214",
-        "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
-        "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-05 23:31:04"
-      },
-      {
-        "id": "4203",
-        "title": "Michigan Democrat Mallory McMorrow ends bid for US Senate",
-        "url": "https://www.theguardian.com/us-news/2026/jul/05/mallory-mcmorrow-drops-out-senate-race-michigan",
-        "date": "2026-07-05 21:34:28"
-      }
-    ]
-  },
-  {
-    "cluster_id": "0",
-    "label": "said, china, says",
-    "trending_score": 0.1632,
-    "count_24h": 1,
-    "count_7d": 111,
-    "top_articles": [
-      {
-        "id": "4273",
-        "title": "China tests long-range missile in South Pacific in move Australia condemns as ‘destabilising to region’",
-        "url": "https://www.theguardian.com/world/2026/jul/06/china-missile-test-south-pacific",
-        "date": "2026-07-06 06:44:03"
-      },
-      {
-        "id": "4255",
-        "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
-        "url": "https://www.aljazeera.com/news/2026/7/6/us-sanctions-target-rwandan-firms-linked-to-conflict-minerals-funding-m23?traffic_source=rss",
-        "date": "2026-07-06 02:10:37"
-      },
-      {
-        "id": "4238",
-        "title": "Bangladesh courts China even as ties with India improve",
-        "url": "https://www.bbc.co.uk/news/articles/cy4e1lzwgvxo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-06 00:02:29"
+        "id": "4543",
+        "title": "Netflix invented binge-watching. Now it may have outgrown it.",
+        "url": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
+        "date": "2026-07-07 00:47:33"
       }
     ]
   },
   {
     "cluster_id": "9",
-    "label": "new, image, said",
-    "trending_score": 0.116,
-    "count_24h": 1,
-    "count_7d": 89,
+    "label": "heat, temperatures, heatwave",
+    "trending_score": 0.604,
+    "count_24h": 7,
+    "count_7d": 50,
     "top_articles": [
       {
-        "id": "4276",
-        "title": "Turkey blocks cruise ship carrying 2,000 LGBTQ+ passengers and a ‘furious’ Patti LuPone, citing ‘moral values’",
-        "url": "https://www.theguardian.com/world/2026/jul/06/turkey-blocks-lgbtq-cruise-ship-citing-moral-values-ntwnfb",
-        "date": "2026-07-06 06:13:23"
+        "id": "4569",
+        "title": "June heatwave in UK led to ‘mass sleep deprivation’, poll suggests",
+        "url": "https://www.theguardian.com/environment/2026/jul/07/june-heatwave-in-uk-led-to-mass-sleep-deprivation-poll-suggests",
+        "date": "2026-07-07 05:00:30"
       },
       {
-        "id": "4219",
-        "title": "The dark side of the Brazilian butt lift boom",
-        "url": "https://www.bbc.co.uk/news/articles/c20y39wy760o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-05 23:30:51"
+        "id": "4396",
+        "title": "Extreme high temperatures double young people’s risk of mental health admissions, Australian research shows",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/07/extreme-high-temperatures-young-people-mental-health-hospital-admission",
+        "date": "2026-07-06 15:00:15"
       },
       {
-        "id": "4168",
-        "title": "Catherine shares photos reuniting with family after Three Peaks Challenge",
-        "url": "https://www.bbc.co.uk/news/articles/c8e22dnl0nko?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-05 18:25:20"
+        "id": "4319",
+        "title": "Wildfire in southern France forces evacuation of 10,000 people",
+        "url": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-06 13:08:23"
+      }
+    ]
+  },
+  {
+    "cluster_id": "1",
+    "label": "said, africa, south",
+    "trending_score": 0.5897,
+    "count_24h": 14,
+    "count_7d": 86,
+    "top_articles": [
+      {
+        "id": "4544",
+        "title": "India's landmark Ram temple overhauls board after alleged theft of donations",
+        "url": "https://www.bbc.co.uk/news/articles/c872ngz405xo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 06:23:04"
+      },
+      {
+        "id": "4515",
+        "title": "Why some African nations are turning down Trump aid money",
+        "url": "https://www.bbc.co.uk/news/articles/ckg0921y8kdo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 00:49:08"
+      },
+      {
+        "id": "4529",
+        "title": "Why el-Obeid matters as Sudan’s war enters a new phase",
+        "url": "https://www.aljazeera.com/news/2026/7/7/why-el-obeid-matters-as-sudans-war-enters-a-new-phase?traffic_source=rss",
+        "date": "2026-07-07 00:34:41"
+      }
+    ]
+  },
+  {
+    "cluster_id": "12",
+    "label": "venezuela, 01, 00",
+    "trending_score": 0.5197,
+    "count_24h": 6,
+    "count_7d": 54,
+    "top_articles": [
+      {
+        "id": "4560",
+        "title": "Cuba loses power across nation for third time this year",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/cuba-loses-power-across-nation-for-third-time-this-year?traffic_source=rss",
+        "date": "2026-07-07 04:50:50"
+      },
+      {
+        "id": "4522",
+        "title": "Cuba sees nationwide power blackout for third time in six months",
+        "url": "https://www.aljazeera.com/news/2026/7/7/cuba-sees-nationwide-power-blackout-for-third-time-in-six-months?traffic_source=rss",
+        "date": "2026-07-07 02:29:45"
+      },
+      {
+        "id": "4526",
+        "title": "Venezuela earthquakes death toll jumps to more than 3,500",
+        "url": "https://www.aljazeera.com/news/2026/7/7/venezuela-earthquakes-death-toll-jumps-to-more-than-3500?traffic_source=rss",
+        "date": "2026-07-07 01:50:44"
+      }
+    ]
+  },
+  {
+    "cluster_id": "8",
+    "label": "said, police, court",
+    "trending_score": 0.5127,
+    "count_24h": 25,
+    "count_7d": 124,
+    "top_articles": [
+      {
+        "id": "4565",
+        "title": "Five charged in Liberia after more than 200kg of cocaine seized in drug bust",
+        "url": "https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust",
+        "date": "2026-07-07 06:30:31"
+      },
+      {
+        "id": "4552",
+        "title": "France’s Court of Appeal to rule on Le Pen conviction – what it’s all about",
+        "url": "https://www.aljazeera.com/news/2026/7/7/frances-court-of-appeal-to-rule-on-le-pen-conviction-what-its-all-about?traffic_source=rss",
+        "date": "2026-07-07 06:15:40"
+      },
+      {
+        "id": "4570",
+        "title": "US airman accused of exposing himself to 16-year-old girl avoided British trial",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/07/us-airman-accused-of-exposing-himself-to-16-year-old-girl-court-martial",
+        "date": "2026-07-07 05:00:30"
+      }
+    ]
+  },
+  {
+    "cluster_id": "13",
+    "label": "china, taiwan, taipei",
+    "trending_score": 0.4091,
+    "count_24h": 12,
+    "count_7d": 51,
+    "top_articles": [
+      {
+        "id": "4554",
+        "title": "China sentences former local official to death in $324m corruption case",
+        "url": "https://www.aljazeera.com/economy/2026/7/7/china-sentences-former-local-official-to-death-in-324m-corruption-case?traffic_source=rss",
+        "date": "2026-07-07 06:01:55"
+      },
+      {
+        "id": "4559",
+        "title": "Khamenei’s coffin arrives in holy city of Qom",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/aje-onl-nf_khameneis-coffin-arrives-in-holy-city-of-qom-070726?traffic_source=rss",
+        "date": "2026-07-07 04:52:37"
+      },
+      {
+        "id": "4563",
+        "title": "At least 16 people buried following landslide in China",
+        "url": "https://www.aljazeera.com/news/2026/7/7/at-least-people-buried-following-landslide-in-china?traffic_source=rss",
+        "date": "2026-07-07 04:10:02"
+      }
+    ]
+  },
+  {
+    "cluster_id": "11",
+    "label": "said, police, man",
+    "trending_score": 0.3916,
+    "count_24h": 12,
+    "count_7d": 106,
+    "top_articles": [
+      {
+        "id": "4549",
+        "title": "E-bike injury payouts top £110m and push up insurance premiums",
+        "url": "https://www.bbc.co.uk/news/articles/c05y9pe5p1jo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 05:40:34"
+      },
+      {
+        "id": "4557",
+        "title": "‘Limited damage’: Upcoming Bollywood film angers Kashmir pellet gun victims",
+        "url": "https://www.aljazeera.com/news/2026/7/7/limited-damage-upcoming-bollywood-film-angers-kashmir-pellet-gun-victims?traffic_source=rss",
+        "date": "2026-07-07 05:11:53"
+      },
+      {
+        "id": "4538",
+        "title": "Dowry murders in India no longer spark public anger or debate, study finds",
+        "url": "https://www.theguardian.com/global-development/2026/jul/07/dowry-murders-in-india-no-longer-spark-public-anger-or-debate-study-finds",
+        "date": "2026-07-07 04:00:29"
+      }
+    ]
+  },
+  {
+    "cluster_id": "0",
+    "label": "said, image, new",
+    "trending_score": 0.3061,
+    "count_24h": 14,
+    "count_7d": 106,
+    "top_articles": [
+      {
+        "id": "4518",
+        "title": "Party Rock Anthem singer Lauren Bennett dies aged 37",
+        "url": "https://www.bbc.co.uk/news/articles/c04yywdq69vo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 00:25:37"
+      },
+      {
+        "id": "4493",
+        "title": "Women face hidden fertility ceiling despite donor eggs",
+        "url": "https://www.bbc.co.uk/news/articles/ckg018w1r02o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-06 23:33:47"
+      },
+      {
+        "id": "4519",
+        "title": "'I wear it on my middle finger': The rise of the defiant divorce ring",
+        "url": "https://www.bbc.co.uk/news/articles/c3wy56v4ge6o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-06 23:30:40"
+      }
+    ]
+  },
+  {
+    "cluster_id": "2",
+    "label": "trump, court, latest",
+    "trending_score": 0.2957,
+    "count_24h": 10,
+    "count_7d": 129,
+    "top_articles": [
+      {
+        "id": "4536",
+        "title": "Marine Le Pen’s political future at stake with ruling on electoral ban imminent",
+        "url": "https://www.theguardian.com/world/2026/jul/07/marine-le-pen-political-future-waits-electoral-ban-upheld",
+        "date": "2026-07-07 04:00:29"
+      },
+      {
+        "id": "4542",
+        "title": "Details scarce as Mitch McConnell ‘continues recovery’ in hospital",
+        "url": "https://www.theguardian.com/us-news/2026/jul/06/mitch-mcconnell-health",
+        "date": "2026-07-07 01:09:26"
+      },
+      {
+        "id": "4505",
+        "title": "Leading US Democrats withdraw support for Platner after assault allegations",
+        "url": "https://www.aljazeera.com/news/2026/7/6/leading-us-democrats-withdraw-support-for-platner-after-assault-allegations?traffic_source=rss",
+        "date": "2026-07-06 23:10:41"
+      }
+    ]
+  },
+  {
+    "cluster_id": "6",
+    "label": "new, market, said",
+    "trending_score": 0.2506,
+    "count_24h": 14,
+    "count_7d": 75,
+    "top_articles": [
+      {
+        "id": "4561",
+        "title": "US budget slashing risks losing global scientific edge to China",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/us-budget-slashing-risks-losing-global-scientific-edge-to-china?traffic_source=rss",
+        "date": "2026-07-07 04:41:31"
+      },
+      {
+        "id": "4473",
+        "title": "Canada makes largest defence procurement deal in its history, citing 'dangerous and divided world'",
+        "url": "https://www.bbc.co.uk/news/articles/cn4ddppz3jqo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-06 22:04:42"
+      },
+      {
+        "id": "4488",
+        "title": "FCC to end Biden-era rule that forces ISPs to list all their fees",
+        "url": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/",
+        "date": "2026-07-06 21:13:37"
       }
     ]
   },
   {
     "cluster_id": "4",
-    "label": "league, win, lead",
-    "trending_score": 0.0093,
-    "count_24h": 0,
-    "count_7d": 4,
+    "label": "league, win, major",
+    "trending_score": 0.031,
+    "count_24h": 1,
+    "count_7d": 5,
     "top_articles": [
+      {
+        "id": "4500",
+        "title": "Miami Heat sign Antetokounmpo from Milwaukee Bucks",
+        "url": "https://www.bbc.co.uk/sport/basketball/articles/c872y8g3qpeo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-06 22:46:02"
+      },
       {
         "id": "3439",
         "title": "Jaylen Brown traded to Philadelphia 76ers from Boston Celtics",
@@ -341,12 +455,6 @@
         "title": "Hull sell two players hours before deadline to avoid points deduction",
         "url": "https://www.bbc.co.uk/sport/football/articles/c5yz5dprjq0o?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-01 11:40:25"
-      },
-      {
-        "id": "3107",
-        "title": "LeBron James thanks LA Lakers ahead of free agency exit for 24th season",
-        "url": "https://www.aljazeera.com/sports/2026/7/1/lebron-james-thanks-la-lakers-ahead-of-free-agency-exit-for-24th-season?traffic_source=rss",
-        "date": "2026-07-01 01:45:15"
       }
     ]
   }

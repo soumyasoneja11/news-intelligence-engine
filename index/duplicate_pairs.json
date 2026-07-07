@@ -105,58 +105,6 @@
   },
   {
     "article_a": {
-      "id": "1158",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444863"
-    },
-    "article_b": {
-      "id": "1824",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3474429"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
-      "id": "1158",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444863"
-    },
-    "article_b": {
-      "id": "1808",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444691"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
-      "id": "1158",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444863"
-    },
-    "article_b": {
-      "id": "1550",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444786"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
-      "id": "1158",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444863"
-    },
-    "article_b": {
-      "id": "1442",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444596"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
       "id": "1344",
       "title": "Indulge in Exclusive Summer Experiences with Trump Hotels",
       "url": "https://www.taiwannews.com.tw/en/news/3444446"
@@ -170,45 +118,6 @@
   },
   {
     "article_a": {
-      "id": "1442",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444596"
-    },
-    "article_b": {
-      "id": "1824",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3474429"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
-      "id": "1442",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444596"
-    },
-    "article_b": {
-      "id": "1808",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444691"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
-      "id": "1442",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444596"
-    },
-    "article_b": {
-      "id": "1550",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444786"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
       "id": "1541",
       "title": "BC-TEN--French Open Results",
       "url": "https://www.taiwannews.com.tw/en/news/3444476"
@@ -217,45 +126,6 @@
       "id": "1594",
       "title": "BC-TEN--French Open Results",
       "url": "https://www.taiwannews.com.tw/en/news/3444499"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
-      "id": "1550",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444786"
-    },
-    "article_b": {
-      "id": "1824",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3474429"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
-      "id": "1550",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444786"
-    },
-    "article_b": {
-      "id": "1808",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444691"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
-      "id": "1808",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444691"
-    },
-    "article_b": {
-      "id": "1824",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3474429"
     },
     "similarity": 1.0000001192092896
   },
@@ -1631,6 +1501,32 @@
       "url": "https://www.taiwannews.com.tw/en/news/3444863"
     },
     "article_b": {
+      "id": "1824",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3474429"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
+      "id": "1158",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444863"
+    },
+    "article_b": {
+      "id": "1808",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444691"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
+      "id": "1158",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444863"
+    },
+    "article_b": {
       "id": "1743",
       "title": "Wednesday's Major League Linescores",
       "url": "https://www.taiwannews.com.tw/en/news/3444878"
@@ -1644,9 +1540,35 @@
       "url": "https://www.taiwannews.com.tw/en/news/3444863"
     },
     "article_b": {
+      "id": "1550",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444786"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
+      "id": "1158",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444863"
+    },
+    "article_b": {
       "id": "1535",
       "title": "Wednesday's Major League Linescores",
       "url": "https://www.taiwannews.com.tw/en/news/3444833"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
+      "id": "1158",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444863"
+    },
+    "article_b": {
+      "id": "1442",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444596"
     },
     "similarity": 1.0
   },
@@ -2359,9 +2281,48 @@
       "url": "https://www.taiwannews.com.tw/en/news/3444596"
     },
     "article_b": {
+      "id": "1824",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3474429"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
+      "id": "1442",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444596"
+    },
+    "article_b": {
+      "id": "1808",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444691"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
+      "id": "1442",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444596"
+    },
+    "article_b": {
       "id": "1743",
       "title": "Wednesday's Major League Linescores",
       "url": "https://www.taiwannews.com.tw/en/news/3444878"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
+      "id": "1442",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444596"
+    },
+    "article_b": {
+      "id": "1550",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444786"
     },
     "similarity": 1.0
   },
@@ -2583,6 +2544,32 @@
       "id": "1550",
       "title": "Wednesday's Major League Linescores",
       "url": "https://www.taiwannews.com.tw/en/news/3444786"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
+      "id": "1550",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444786"
+    },
+    "article_b": {
+      "id": "1824",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3474429"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
+      "id": "1550",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444786"
+    },
+    "article_b": {
+      "id": "1808",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444691"
     },
     "similarity": 1.0
   },
@@ -3069,6 +3056,19 @@
   },
   {
     "article_a": {
+      "id": "1808",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444691"
+    },
+    "article_b": {
+      "id": "1824",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3474429"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
       "id": "1987",
       "title": "Tech Now",
       "url": "https://www.bbc.co.uk/iplayer/episode/m002x058?at_medium=RSS&at_campaign=rss"
@@ -3299,7 +3299,7 @@
       "title": "Influencers say they’re ‘honoured’ to attend Khamenei funeral",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/influencers-say-theyre-honoured-to-attend-khamenei-funeral?traffic_source=rss"
     },
-    "similarity": 0.971667468547821
+    "similarity": 0.9716673493385315
   },
   {
     "article_a": {
@@ -3364,7 +3364,7 @@
       "title": "How New York’s ‘Little Egypt’ celebrates the World Cup",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/how-new-yorks-little-egypt-celebrates-the-world-cup?traffic_source=rss"
     },
-    "similarity": 0.9622188210487366
+    "similarity": 0.962218701839447
   },
   {
     "article_a": {
@@ -3559,7 +3559,20 @@
       "title": "Fourteen killed in Saudi Arabia helicopter crash",
       "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss"
     },
-    "similarity": 0.9479902386665344
+    "similarity": 0.9479901194572449
+  },
+  {
+    "article_a": {
+      "id": "4520",
+      "title": "Hamas dissolves civilian governing body in Gaza after 20 years",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/hamas-dissolves-civilian-governing-body-in-gaza-after-20-years?traffic_source=rss"
+    },
+    "article_b": {
+      "id": "4523",
+      "title": "Russia sends weapons to help Mali’s government hold off rebel siege",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/aje-onl-nf_russia-sends-weapons-to-mali-hold-off-rebel-siege-060726?traffic_source=rss"
+    },
+    "similarity": 0.9451521635055542
   },
   {
     "article_a": {
@@ -3754,7 +3767,7 @@
       "title": "Feminism; the Merriam-Webster Word of the Year for 2017",
       "url": "https://www.taiwannews.com.tw/en/news/3318568"
     },
-    "similarity": 0.9335390329360962
+    "similarity": 0.9335389733314514
   },
   {
     "article_a": {
@@ -3806,7 +3819,7 @@
       "title": "Khamenei’s coffin readied as Iran prepares for seven-day funeral",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/khameneis-coffin-readied-as-iran-prepares-for-seven-day-funeral?traffic_source=rss"
     },
-    "similarity": 0.9310815334320068
+    "similarity": 0.9310814142227173
   },
   {
     "article_a": {

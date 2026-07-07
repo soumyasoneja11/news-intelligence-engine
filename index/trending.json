@@ -2,9 +2,9 @@
   {
     "cluster_id": "3",
     "label": "world, cup, world cup",
-    "trending_score": 0.7788,
-    "count_24h": 22,
-    "count_7d": 257,
+    "trending_score": 0.7275,
+    "count_24h": 17,
+    "count_7d": 252,
     "top_articles": [
       {
         "id": "4556",
@@ -29,7 +29,7 @@
   {
     "cluster_id": "7",
     "label": "israel, israeli, gaza",
-    "trending_score": 0.5695,
+    "trending_score": 0.5596,
     "count_24h": 5,
     "count_7d": 70,
     "top_articles": [
@@ -56,9 +56,9 @@
   {
     "cluster_id": "5",
     "label": "burnham, said, uk",
-    "trending_score": 0.547,
-    "count_24h": 9,
-    "count_7d": 149,
+    "trending_score": 0.493,
+    "count_24h": 7,
+    "count_7d": 145,
     "top_articles": [
       {
         "id": "4568",
@@ -110,8 +110,8 @@
   {
     "cluster_id": "15",
     "label": "russia, russian, ukraine",
-    "trending_score": 0.4333,
-    "count_24h": 5,
+    "trending_score": 0.42,
+    "count_24h": 4,
     "count_7d": 93,
     "top_articles": [
       {
@@ -131,33 +131,6 @@
         "title": "Nato braces for difficult summit as Trump puts pressure on spending",
         "url": "https://www.theguardian.com/world/2026/jul/07/nato-braces-for-difficult-summit-as-trump-puts-pressure-on-spending",
         "date": "2026-07-07 04:00:31"
-      }
-    ]
-  },
-  {
-    "cluster_id": "16",
-    "label": "england, wimbledon, world",
-    "trending_score": 0.3994,
-    "count_24h": 3,
-    "count_7d": 79,
-    "top_articles": [
-      {
-        "id": "4533",
-        "title": "Tributes flow for ‘deeply loved’ Melbourne teacher who died after a head clash during Australian football game",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/07/nathan-fitzgerald-melbourne-teacher-death-australian-football-head-clash-tributes",
-        "date": "2026-07-07 01:23:55"
-      },
-      {
-        "id": "4474",
-        "title": "Fery 'stands tall and takes advantage' to continue dream Wimbledon run",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c3wyyj54p18o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-06 22:38:13"
-      },
-      {
-        "id": "4551",
-        "title": "'Learn how to lose' - tempers flare in Wimbledon mixed doubles",
-        "url": "https://www.bbc.co.uk/sport/tennis/videos/c4gyy151xzyo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-06 22:15:33"
       }
     ]
   },
@@ -189,60 +162,6 @@
     ]
   },
   {
-    "cluster_id": "10",
-    "label": "ai, tech, new",
-    "trending_score": 0.3757,
-    "count_24h": 8,
-    "count_7d": 122,
-    "top_articles": [
-      {
-        "id": "4566",
-        "title": "AI models already ‘doing things their creators never intended’, Australia’s assistant technology minister warns",
-        "url": "https://www.theguardian.com/technology/2026/jul/07/ai-models-doing-things-their-creators-never-intended",
-        "date": "2026-07-07 06:08:57"
-      },
-      {
-        "id": "4567",
-        "title": "WiseTech shares rise after Richard White resigns as executive chair amid police investigation",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/07/richard-white-resigns-wisetech-chair-police-investigation-ntwnfb",
-        "date": "2026-07-07 05:23:14"
-      },
-      {
-        "id": "4543",
-        "title": "Netflix invented binge-watching. Now it may have outgrown it.",
-        "url": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
-        "date": "2026-07-07 00:47:33"
-      }
-    ]
-  },
-  {
-    "cluster_id": "12",
-    "label": "venezuela, 01, 00",
-    "trending_score": 0.374,
-    "count_24h": 3,
-    "count_7d": 47,
-    "top_articles": [
-      {
-        "id": "4560",
-        "title": "Cuba loses power across nation for third time this year",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/cuba-loses-power-across-nation-for-third-time-this-year?traffic_source=rss",
-        "date": "2026-07-07 04:50:50"
-      },
-      {
-        "id": "4522",
-        "title": "Cuba sees nationwide power blackout for third time in six months",
-        "url": "https://www.aljazeera.com/news/2026/7/7/cuba-sees-nationwide-power-blackout-for-third-time-in-six-months?traffic_source=rss",
-        "date": "2026-07-07 02:29:45"
-      },
-      {
-        "id": "4526",
-        "title": "Venezuela earthquakes death toll jumps to more than 3,500",
-        "url": "https://www.aljazeera.com/news/2026/7/7/venezuela-earthquakes-death-toll-jumps-to-more-than-3500?traffic_source=rss",
-        "date": "2026-07-07 01:50:44"
-      }
-    ]
-  },
-  {
     "cluster_id": "9",
     "label": "heat, temperatures, heatwave",
     "trending_score": 0.3713,
@@ -270,10 +189,91 @@
     ]
   },
   {
+    "cluster_id": "10",
+    "label": "ai, tech, new",
+    "trending_score": 0.3629,
+    "count_24h": 7,
+    "count_7d": 122,
+    "top_articles": [
+      {
+        "id": "4566",
+        "title": "AI models already ‘doing things their creators never intended’, Australia’s assistant technology minister warns",
+        "url": "https://www.theguardian.com/technology/2026/jul/07/ai-models-doing-things-their-creators-never-intended",
+        "date": "2026-07-07 06:08:57"
+      },
+      {
+        "id": "4567",
+        "title": "WiseTech shares rise after Richard White resigns as executive chair amid police investigation",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/07/richard-white-resigns-wisetech-chair-police-investigation-ntwnfb",
+        "date": "2026-07-07 05:23:14"
+      },
+      {
+        "id": "4543",
+        "title": "Netflix invented binge-watching. Now it may have outgrown it.",
+        "url": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
+        "date": "2026-07-07 00:47:33"
+      }
+    ]
+  },
+  {
+    "cluster_id": "16",
+    "label": "england, wimbledon, world",
+    "trending_score": 0.3621,
+    "count_24h": 1,
+    "count_7d": 78,
+    "top_articles": [
+      {
+        "id": "4533",
+        "title": "Tributes flow for ‘deeply loved’ Melbourne teacher who died after a head clash during Australian football game",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/07/nathan-fitzgerald-melbourne-teacher-death-australian-football-head-clash-tributes",
+        "date": "2026-07-07 01:23:55"
+      },
+      {
+        "id": "4474",
+        "title": "Fery 'stands tall and takes advantage' to continue dream Wimbledon run",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c3wyyj54p18o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-06 22:38:13"
+      },
+      {
+        "id": "4551",
+        "title": "'Learn how to lose' - tempers flare in Wimbledon mixed doubles",
+        "url": "https://www.bbc.co.uk/sport/tennis/videos/c4gyy151xzyo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-06 22:15:33"
+      }
+    ]
+  },
+  {
+    "cluster_id": "12",
+    "label": "venezuela, 01, 00",
+    "trending_score": 0.3425,
+    "count_24h": 3,
+    "count_7d": 45,
+    "top_articles": [
+      {
+        "id": "4560",
+        "title": "Cuba loses power across nation for third time this year",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/cuba-loses-power-across-nation-for-third-time-this-year?traffic_source=rss",
+        "date": "2026-07-07 04:50:50"
+      },
+      {
+        "id": "4522",
+        "title": "Cuba sees nationwide power blackout for third time in six months",
+        "url": "https://www.aljazeera.com/news/2026/7/7/cuba-sees-nationwide-power-blackout-for-third-time-in-six-months?traffic_source=rss",
+        "date": "2026-07-07 02:29:45"
+      },
+      {
+        "id": "4526",
+        "title": "Venezuela earthquakes death toll jumps to more than 3,500",
+        "url": "https://www.aljazeera.com/news/2026/7/7/venezuela-earthquakes-death-toll-jumps-to-more-than-3500?traffic_source=rss",
+        "date": "2026-07-07 01:50:44"
+      }
+    ]
+  },
+  {
     "cluster_id": "8",
     "label": "said, police, court",
-    "trending_score": 0.3507,
-    "count_24h": 9,
+    "trending_score": 0.3254,
+    "count_24h": 6,
     "count_7d": 111,
     "top_articles": [
       {
@@ -326,7 +326,7 @@
   {
     "cluster_id": "11",
     "label": "said, police, man",
-    "trending_score": 0.2492,
+    "trending_score": 0.2446,
     "count_24h": 4,
     "count_7d": 92,
     "top_articles": [
@@ -353,9 +353,9 @@
   {
     "cluster_id": "0",
     "label": "said, image, new",
-    "trending_score": 0.2009,
-    "count_24h": 4,
-    "count_7d": 97,
+    "trending_score": 0.1928,
+    "count_24h": 3,
+    "count_7d": 96,
     "top_articles": [
       {
         "id": "4518",
@@ -380,9 +380,9 @@
   {
     "cluster_id": "2",
     "label": "trump, court, latest",
-    "trending_score": 0.1865,
+    "trending_score": 0.1853,
     "count_24h": 3,
-    "count_7d": 103,
+    "count_7d": 102,
     "top_articles": [
       {
         "id": "4536",
@@ -407,9 +407,9 @@
   {
     "cluster_id": "6",
     "label": "new, market, said",
-    "trending_score": 0.1403,
-    "count_24h": 2,
-    "count_7d": 63,
+    "trending_score": 0.1292,
+    "count_24h": 1,
+    "count_7d": 62,
     "top_articles": [
       {
         "id": "4561",
@@ -434,8 +434,8 @@
   {
     "cluster_id": "4",
     "label": "league, win, major",
-    "trending_score": 0.0288,
-    "count_24h": 1,
+    "trending_score": 0.0155,
+    "count_24h": 0,
     "count_7d": 4,
     "top_articles": [
       {

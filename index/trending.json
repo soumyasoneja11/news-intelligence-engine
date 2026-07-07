@@ -2,9 +2,9 @@
   {
     "cluster_id": "3",
     "label": "world, cup, world cup",
-    "trending_score": 1.1362,
-    "count_24h": 56,
-    "count_7d": 276,
+    "trending_score": 1.1087,
+    "count_24h": 54,
+    "count_7d": 275,
     "top_articles": [
       {
         "id": "4556",
@@ -29,8 +29,8 @@
   {
     "cluster_id": "7",
     "label": "israel, israeli, gaza",
-    "trending_score": 1.0265,
-    "count_24h": 22,
+    "trending_score": 0.9768,
+    "count_24h": 20,
     "count_7d": 76,
     "top_articles": [
       {
@@ -56,9 +56,9 @@
   {
     "cluster_id": "14",
     "label": "iran, khamenei, strait",
-    "trending_score": 0.8309,
-    "count_24h": 12,
-    "count_7d": 81,
+    "trending_score": 0.795,
+    "count_24h": 11,
+    "count_7d": 80,
     "top_articles": [
       {
         "id": "4564",
@@ -83,9 +83,9 @@
   {
     "cluster_id": "5",
     "label": "burnham, said, uk",
-    "trending_score": 0.8206,
-    "count_24h": 25,
-    "count_7d": 177,
+    "trending_score": 0.7944,
+    "count_24h": 23,
+    "count_7d": 174,
     "top_articles": [
       {
         "id": "4568",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "16",
     "label": "england, wimbledon, world",
-    "trending_score": 0.7213,
+    "trending_score": 0.7098,
     "count_24h": 12,
-    "count_7d": 98,
+    "count_7d": 97,
     "top_articles": [
       {
         "id": "4533",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "15",
     "label": "russia, russian, ukraine",
-    "trending_score": 0.6844,
+    "trending_score": 0.6756,
     "count_24h": 19,
-    "count_7d": 101,
+    "count_7d": 100,
     "top_articles": [
       {
         "id": "4553",
@@ -164,9 +164,9 @@
   {
     "cluster_id": "10",
     "label": "ai, tech, new",
-    "trending_score": 0.6343,
-    "count_24h": 29,
-    "count_7d": 159,
+    "trending_score": 0.6071,
+    "count_24h": 26,
+    "count_7d": 158,
     "top_articles": [
       {
         "id": "4566",
@@ -191,9 +191,9 @@
   {
     "cluster_id": "9",
     "label": "heat, temperatures, heatwave",
-    "trending_score": 0.604,
+    "trending_score": 0.5941,
     "count_24h": 7,
-    "count_7d": 50,
+    "count_7d": 48,
     "top_articles": [
       {
         "id": "4569",
@@ -218,9 +218,9 @@
   {
     "cluster_id": "1",
     "label": "said, africa, south",
-    "trending_score": 0.5897,
+    "trending_score": 0.5872,
     "count_24h": 14,
-    "count_7d": 86,
+    "count_7d": 85,
     "top_articles": [
       {
         "id": "4544",
@@ -243,10 +243,37 @@
     ]
   },
   {
+    "cluster_id": "8",
+    "label": "said, police, court",
+    "trending_score": 0.5014,
+    "count_24h": 24,
+    "count_7d": 122,
+    "top_articles": [
+      {
+        "id": "4565",
+        "title": "Five charged in Liberia after more than 200kg of cocaine seized in drug bust",
+        "url": "https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust",
+        "date": "2026-07-07 06:30:31"
+      },
+      {
+        "id": "4552",
+        "title": "France’s Court of Appeal to rule on Le Pen conviction – what it’s all about",
+        "url": "https://www.aljazeera.com/news/2026/7/7/frances-court-of-appeal-to-rule-on-le-pen-conviction-what-its-all-about?traffic_source=rss",
+        "date": "2026-07-07 06:15:40"
+      },
+      {
+        "id": "4570",
+        "title": "US airman accused of exposing himself to 16-year-old girl avoided British trial",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/07/us-airman-accused-of-exposing-himself-to-16-year-old-girl-court-martial",
+        "date": "2026-07-07 05:00:30"
+      }
+    ]
+  },
+  {
     "cluster_id": "12",
     "label": "venezuela, 01, 00",
-    "trending_score": 0.5197,
-    "count_24h": 6,
+    "trending_score": 0.4961,
+    "count_24h": 5,
     "count_7d": 54,
     "top_articles": [
       {
@@ -270,37 +297,37 @@
     ]
   },
   {
-    "cluster_id": "8",
-    "label": "said, police, court",
-    "trending_score": 0.5127,
-    "count_24h": 25,
-    "count_7d": 124,
+    "cluster_id": "11",
+    "label": "said, police, man",
+    "trending_score": 0.3885,
+    "count_24h": 12,
+    "count_7d": 104,
     "top_articles": [
       {
-        "id": "4565",
-        "title": "Five charged in Liberia after more than 200kg of cocaine seized in drug bust",
-        "url": "https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust",
-        "date": "2026-07-07 06:30:31"
+        "id": "4549",
+        "title": "E-bike injury payouts top £110m and push up insurance premiums",
+        "url": "https://www.bbc.co.uk/news/articles/c05y9pe5p1jo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 05:40:34"
       },
       {
-        "id": "4552",
-        "title": "France’s Court of Appeal to rule on Le Pen conviction – what it’s all about",
-        "url": "https://www.aljazeera.com/news/2026/7/7/frances-court-of-appeal-to-rule-on-le-pen-conviction-what-its-all-about?traffic_source=rss",
-        "date": "2026-07-07 06:15:40"
+        "id": "4557",
+        "title": "‘Limited damage’: Upcoming Bollywood film angers Kashmir pellet gun victims",
+        "url": "https://www.aljazeera.com/news/2026/7/7/limited-damage-upcoming-bollywood-film-angers-kashmir-pellet-gun-victims?traffic_source=rss",
+        "date": "2026-07-07 05:11:53"
       },
       {
-        "id": "4570",
-        "title": "US airman accused of exposing himself to 16-year-old girl avoided British trial",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/07/us-airman-accused-of-exposing-himself-to-16-year-old-girl-court-martial",
-        "date": "2026-07-07 05:00:30"
+        "id": "4538",
+        "title": "Dowry murders in India no longer spark public anger or debate, study finds",
+        "url": "https://www.theguardian.com/global-development/2026/jul/07/dowry-murders-in-india-no-longer-spark-public-anger-or-debate-study-finds",
+        "date": "2026-07-07 04:00:29"
       }
     ]
   },
   {
     "cluster_id": "13",
     "label": "china, taiwan, taipei",
-    "trending_score": 0.4091,
-    "count_24h": 12,
+    "trending_score": 0.3818,
+    "count_24h": 10,
     "count_7d": 51,
     "top_articles": [
       {
@@ -324,38 +351,11 @@
     ]
   },
   {
-    "cluster_id": "11",
-    "label": "said, police, man",
-    "trending_score": 0.3916,
-    "count_24h": 12,
-    "count_7d": 106,
-    "top_articles": [
-      {
-        "id": "4549",
-        "title": "E-bike injury payouts top £110m and push up insurance premiums",
-        "url": "https://www.bbc.co.uk/news/articles/c05y9pe5p1jo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 05:40:34"
-      },
-      {
-        "id": "4557",
-        "title": "‘Limited damage’: Upcoming Bollywood film angers Kashmir pellet gun victims",
-        "url": "https://www.aljazeera.com/news/2026/7/7/limited-damage-upcoming-bollywood-film-angers-kashmir-pellet-gun-victims?traffic_source=rss",
-        "date": "2026-07-07 05:11:53"
-      },
-      {
-        "id": "4538",
-        "title": "Dowry murders in India no longer spark public anger or debate, study finds",
-        "url": "https://www.theguardian.com/global-development/2026/jul/07/dowry-murders-in-india-no-longer-spark-public-anger-or-debate-study-finds",
-        "date": "2026-07-07 04:00:29"
-      }
-    ]
-  },
-  {
     "cluster_id": "0",
     "label": "said, image, new",
-    "trending_score": 0.3061,
+    "trending_score": 0.3002,
     "count_24h": 14,
-    "count_7d": 106,
+    "count_7d": 104,
     "top_articles": [
       {
         "id": "4518",
@@ -380,7 +380,7 @@
   {
     "cluster_id": "2",
     "label": "trump, court, latest",
-    "trending_score": 0.2957,
+    "trending_score": 0.2922,
     "count_24h": 10,
     "count_7d": 129,
     "top_articles": [
@@ -407,9 +407,9 @@
   {
     "cluster_id": "6",
     "label": "new, market, said",
-    "trending_score": 0.2506,
-    "count_24h": 14,
-    "count_7d": 75,
+    "trending_score": 0.2428,
+    "count_24h": 13,
+    "count_7d": 74,
     "top_articles": [
       {
         "id": "4561",

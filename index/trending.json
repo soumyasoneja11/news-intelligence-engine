@@ -2,9 +2,9 @@
   {
     "cluster_id": "3",
     "label": "world, cup, world cup",
-    "trending_score": 0.9225,
-    "count_24h": 36,
-    "count_7d": 264,
+    "trending_score": 0.8462,
+    "count_24h": 28,
+    "count_7d": 263,
     "top_articles": [
       {
         "id": "4556",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "7",
     "label": "israel, israeli, gaza",
-    "trending_score": 0.6689,
-    "count_24h": 8,
-    "count_7d": 73,
+    "trending_score": 0.6325,
+    "count_24h": 7,
+    "count_7d": 71,
     "top_articles": [
       {
         "id": "4555",
@@ -54,38 +54,11 @@
     ]
   },
   {
-    "cluster_id": "14",
-    "label": "iran, khamenei, strait",
-    "trending_score": 0.6043,
-    "count_24h": 6,
-    "count_7d": 75,
-    "top_articles": [
-      {
-        "id": "4564",
-        "title": "Tanker on fire in Strait of Hormuz after being hit by projectile off Oman",
-        "url": "https://www.aljazeera.com/news/2026/7/7/tanker-on-fire-off-coast-of-oman-after-being-hit-by-projectile?traffic_source=rss",
-        "date": "2026-07-07 04:06:03"
-      },
-      {
-        "id": "4514",
-        "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
-        "url": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 00:46:03"
-      },
-      {
-        "id": "4532",
-        "title": "Iran war live: Khamenei’s funeral under way in Qom; ship attacked in Hormuz",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/iran-war-live-khameneis-body-arrives-in-qom-hamas-cedes-gaza-governance?traffic_source=rss",
-        "date": "2026-07-07 00:00:00"
-      }
-    ]
-  },
-  {
     "cluster_id": "5",
     "label": "burnham, said, uk",
-    "trending_score": 0.5941,
-    "count_24h": 11,
-    "count_7d": 161,
+    "trending_score": 0.5662,
+    "count_24h": 9,
+    "count_7d": 157,
     "top_articles": [
       {
         "id": "4568",
@@ -110,8 +83,8 @@
   {
     "cluster_id": "15",
     "label": "russia, russian, ukraine",
-    "trending_score": 0.56,
-    "count_24h": 11,
+    "trending_score": 0.54,
+    "count_24h": 10,
     "count_7d": 96,
     "top_articles": [
       {
@@ -135,11 +108,38 @@
     ]
   },
   {
+    "cluster_id": "14",
+    "label": "iran, khamenei, strait",
+    "trending_score": 0.5288,
+    "count_24h": 4,
+    "count_7d": 75,
+    "top_articles": [
+      {
+        "id": "4564",
+        "title": "Tanker on fire in Strait of Hormuz after being hit by projectile off Oman",
+        "url": "https://www.aljazeera.com/news/2026/7/7/tanker-on-fire-off-coast-of-oman-after-being-hit-by-projectile?traffic_source=rss",
+        "date": "2026-07-07 04:06:03"
+      },
+      {
+        "id": "4514",
+        "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
+        "url": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 00:46:03"
+      },
+      {
+        "id": "4532",
+        "title": "Iran war live: Khamenei’s funeral under way in Qom; ship attacked in Hormuz",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/iran-war-live-khameneis-body-arrives-in-qom-hamas-cedes-gaza-governance?traffic_source=rss",
+        "date": "2026-07-07 00:00:00"
+      }
+    ]
+  },
+  {
     "cluster_id": "16",
     "label": "england, wimbledon, world",
-    "trending_score": 0.5201,
-    "count_24h": 5,
-    "count_7d": 88,
+    "trending_score": 0.477,
+    "count_24h": 4,
+    "count_7d": 85,
     "top_articles": [
       {
         "id": "4533",
@@ -164,9 +164,9 @@
   {
     "cluster_id": "12",
     "label": "venezuela, 01, 00",
-    "trending_score": 0.4921,
-    "count_24h": 5,
-    "count_7d": 53,
+    "trending_score": 0.4606,
+    "count_24h": 4,
+    "count_7d": 51,
     "top_articles": [
       {
         "id": "4560",
@@ -189,38 +189,11 @@
     ]
   },
   {
-    "cluster_id": "10",
-    "label": "ai, tech, new",
-    "trending_score": 0.4857,
-    "count_24h": 16,
-    "count_7d": 142,
-    "top_articles": [
-      {
-        "id": "4566",
-        "title": "AI models already ‘doing things their creators never intended’, Australia’s assistant technology minister warns",
-        "url": "https://www.theguardian.com/technology/2026/jul/07/ai-models-doing-things-their-creators-never-intended",
-        "date": "2026-07-07 06:08:57"
-      },
-      {
-        "id": "4567",
-        "title": "WiseTech shares rise after Richard White resigns as executive chair amid police investigation",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/07/richard-white-resigns-wisetech-chair-police-investigation-ntwnfb",
-        "date": "2026-07-07 05:23:14"
-      },
-      {
-        "id": "4543",
-        "title": "Netflix invented binge-watching. Now it may have outgrown it.",
-        "url": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
-        "date": "2026-07-07 00:47:33"
-      }
-    ]
-  },
-  {
     "cluster_id": "1",
     "label": "said, africa, south",
-    "trending_score": 0.4795,
-    "count_24h": 10,
-    "count_7d": 76,
+    "trending_score": 0.459,
+    "count_24h": 9,
+    "count_7d": 74,
     "top_articles": [
       {
         "id": "4544",
@@ -243,11 +216,38 @@
     ]
   },
   {
+    "cluster_id": "10",
+    "label": "ai, tech, new",
+    "trending_score": 0.4286,
+    "count_24h": 11,
+    "count_7d": 135,
+    "top_articles": [
+      {
+        "id": "4566",
+        "title": "AI models already ‘doing things their creators never intended’, Australia’s assistant technology minister warns",
+        "url": "https://www.theguardian.com/technology/2026/jul/07/ai-models-doing-things-their-creators-never-intended",
+        "date": "2026-07-07 06:08:57"
+      },
+      {
+        "id": "4567",
+        "title": "WiseTech shares rise after Richard White resigns as executive chair amid police investigation",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/07/richard-white-resigns-wisetech-chair-police-investigation-ntwnfb",
+        "date": "2026-07-07 05:23:14"
+      },
+      {
+        "id": "4543",
+        "title": "Netflix invented binge-watching. Now it may have outgrown it.",
+        "url": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
+        "date": "2026-07-07 00:47:33"
+      }
+    ]
+  },
+  {
     "cluster_id": "8",
     "label": "said, police, court",
-    "trending_score": 0.4169,
-    "count_24h": 16,
-    "count_7d": 113,
+    "trending_score": 0.3986,
+    "count_24h": 14,
+    "count_7d": 112,
     "top_articles": [
       {
         "id": "4565",
@@ -272,9 +272,9 @@
   {
     "cluster_id": "9",
     "label": "heat, temperatures, heatwave",
-    "trending_score": 0.396,
+    "trending_score": 0.3911,
     "count_24h": 1,
-    "count_7d": 47,
+    "count_7d": 46,
     "top_articles": [
       {
         "id": "4569",
@@ -297,10 +297,37 @@
     ]
   },
   {
+    "cluster_id": "11",
+    "label": "said, police, man",
+    "trending_score": 0.2864,
+    "count_24h": 6,
+    "count_7d": 95,
+    "top_articles": [
+      {
+        "id": "4549",
+        "title": "E-bike injury payouts top £110m and push up insurance premiums",
+        "url": "https://www.bbc.co.uk/news/articles/c05y9pe5p1jo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 05:40:34"
+      },
+      {
+        "id": "4557",
+        "title": "‘Limited damage’: Upcoming Bollywood film angers Kashmir pellet gun victims",
+        "url": "https://www.aljazeera.com/news/2026/7/7/limited-damage-upcoming-bollywood-film-angers-kashmir-pellet-gun-victims?traffic_source=rss",
+        "date": "2026-07-07 05:11:53"
+      },
+      {
+        "id": "4538",
+        "title": "Dowry murders in India no longer spark public anger or debate, study finds",
+        "url": "https://www.theguardian.com/global-development/2026/jul/07/dowry-murders-in-india-no-longer-spark-public-anger-or-debate-study-finds",
+        "date": "2026-07-07 04:00:29"
+      }
+    ]
+  },
+  {
     "cluster_id": "13",
     "label": "china, taiwan, taipei",
-    "trending_score": 0.3068,
-    "count_24h": 7,
+    "trending_score": 0.2864,
+    "count_24h": 6,
     "count_7d": 48,
     "top_articles": [
       {
@@ -324,38 +351,11 @@
     ]
   },
   {
-    "cluster_id": "11",
-    "label": "said, police, man",
-    "trending_score": 0.3034,
-    "count_24h": 7,
-    "count_7d": 97,
-    "top_articles": [
-      {
-        "id": "4549",
-        "title": "E-bike injury payouts top £110m and push up insurance premiums",
-        "url": "https://www.bbc.co.uk/news/articles/c05y9pe5p1jo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 05:40:34"
-      },
-      {
-        "id": "4557",
-        "title": "‘Limited damage’: Upcoming Bollywood film angers Kashmir pellet gun victims",
-        "url": "https://www.aljazeera.com/news/2026/7/7/limited-damage-upcoming-bollywood-film-angers-kashmir-pellet-gun-victims?traffic_source=rss",
-        "date": "2026-07-07 05:11:53"
-      },
-      {
-        "id": "4538",
-        "title": "Dowry murders in India no longer spark public anger or debate, study finds",
-        "url": "https://www.theguardian.com/global-development/2026/jul/07/dowry-murders-in-india-no-longer-spark-public-anger-or-debate-study-finds",
-        "date": "2026-07-07 04:00:29"
-      }
-    ]
-  },
-  {
     "cluster_id": "0",
     "label": "said, image, new",
-    "trending_score": 0.2488,
-    "count_24h": 10,
-    "count_7d": 99,
+    "trending_score": 0.2301,
+    "count_24h": 8,
+    "count_7d": 98,
     "top_articles": [
       {
         "id": "4518",
@@ -380,9 +380,9 @@
   {
     "cluster_id": "2",
     "label": "trump, court, latest",
-    "trending_score": 0.2458,
-    "count_24h": 7,
-    "count_7d": 117,
+    "trending_score": 0.2257,
+    "count_24h": 6,
+    "count_7d": 109,
     "top_articles": [
       {
         "id": "4536",
@@ -407,9 +407,9 @@
   {
     "cluster_id": "6",
     "label": "new, market, said",
-    "trending_score": 0.1771,
-    "count_24h": 6,
-    "count_7d": 66,
+    "trending_score": 0.1492,
+    "count_24h": 3,
+    "count_7d": 65,
     "top_articles": [
       {
         "id": "4561",
@@ -434,9 +434,9 @@
   {
     "cluster_id": "4",
     "label": "league, win, major",
-    "trending_score": 0.031,
+    "trending_score": 0.0288,
     "count_24h": 1,
-    "count_7d": 5,
+    "count_7d": 4,
     "top_articles": [
       {
         "id": "4500",

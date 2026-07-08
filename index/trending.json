@@ -2,9 +2,9 @@
   {
     "cluster_id": "3",
     "label": "world, cup, world cup",
-    "trending_score": 0.6863,
-    "count_24h": 12,
-    "count_7d": 252,
+    "trending_score": 0.6,
+    "count_24h": 6,
+    "count_7d": 246,
     "top_articles": [
       {
         "id": "4556",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "7",
     "label": "israel, israeli, gaza",
-    "trending_score": 0.5397,
-    "count_24h": 4,
-    "count_7d": 70,
+    "trending_score": 0.4768,
+    "count_24h": 1,
+    "count_7d": 69,
     "top_articles": [
       {
         "id": "4555",
@@ -54,36 +54,9 @@
     ]
   },
   {
-    "cluster_id": "14",
-    "label": "iran, khamenei, strait",
-    "trending_score": 0.4532,
-    "count_24h": 2,
-    "count_7d": 72,
-    "top_articles": [
-      {
-        "id": "4564",
-        "title": "Tanker on fire in Strait of Hormuz after being hit by projectile off Oman",
-        "url": "https://www.aljazeera.com/news/2026/7/7/tanker-on-fire-off-coast-of-oman-after-being-hit-by-projectile?traffic_source=rss",
-        "date": "2026-07-07 04:06:03"
-      },
-      {
-        "id": "4514",
-        "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
-        "url": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 00:46:03"
-      },
-      {
-        "id": "4532",
-        "title": "Iran war live: Khamenei’s funeral under way in Qom; ship attacked in Hormuz",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/iran-war-live-khameneis-body-arrives-in-qom-hamas-cedes-gaza-governance?traffic_source=rss",
-        "date": "2026-07-07 00:00:00"
-      }
-    ]
-  },
-  {
     "cluster_id": "5",
     "label": "burnham, said, uk",
-    "trending_score": 0.4338,
+    "trending_score": 0.4181,
     "count_24h": 3,
     "count_7d": 141,
     "top_articles": [
@@ -108,9 +81,36 @@
     ]
   },
   {
+    "cluster_id": "14",
+    "label": "iran, khamenei, strait",
+    "trending_score": 0.4173,
+    "count_24h": 1,
+    "count_7d": 71,
+    "top_articles": [
+      {
+        "id": "4564",
+        "title": "Tanker on fire in Strait of Hormuz after being hit by projectile off Oman",
+        "url": "https://www.aljazeera.com/news/2026/7/7/tanker-on-fire-off-coast-of-oman-after-being-hit-by-projectile?traffic_source=rss",
+        "date": "2026-07-07 04:06:03"
+      },
+      {
+        "id": "4514",
+        "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
+        "url": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 00:46:03"
+      },
+      {
+        "id": "4532",
+        "title": "Iran war live: Khamenei’s funeral under way in Qom; ship attacked in Hormuz",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/iran-war-live-khameneis-body-arrives-in-qom-hamas-cedes-gaza-governance?traffic_source=rss",
+        "date": "2026-07-07 00:00:00"
+      }
+    ]
+  },
+  {
     "cluster_id": "15",
     "label": "russia, russian, ukraine",
-    "trending_score": 0.42,
+    "trending_score": 0.4133,
     "count_24h": 4,
     "count_7d": 93,
     "top_articles": [
@@ -137,7 +137,7 @@
   {
     "cluster_id": "9",
     "label": "heat, temperatures, heatwave",
-    "trending_score": 0.3713,
+    "trending_score": 0.3564,
     "count_24h": 1,
     "count_7d": 45,
     "top_articles": [
@@ -164,9 +164,9 @@
   {
     "cluster_id": "16",
     "label": "england, wimbledon, world",
-    "trending_score": 0.3592,
-    "count_24h": 1,
-    "count_7d": 77,
+    "trending_score": 0.3305,
+    "count_24h": 0,
+    "count_7d": 76,
     "top_articles": [
       {
         "id": "4533",
@@ -189,65 +189,11 @@
     ]
   },
   {
-    "cluster_id": "1",
-    "label": "said, africa, south",
-    "trending_score": 0.3538,
-    "count_24h": 4,
-    "count_7d": 66,
-    "top_articles": [
-      {
-        "id": "4544",
-        "title": "India's landmark Ram temple overhauls board after alleged theft of donations",
-        "url": "https://www.bbc.co.uk/news/articles/c872ngz405xo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 06:23:04"
-      },
-      {
-        "id": "4515",
-        "title": "Why some African nations are turning down Trump aid money",
-        "url": "https://www.bbc.co.uk/news/articles/ckg0921y8kdo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 00:49:08"
-      },
-      {
-        "id": "4529",
-        "title": "Why el-Obeid matters as Sudan’s war enters a new phase",
-        "url": "https://www.aljazeera.com/news/2026/7/7/why-el-obeid-matters-as-sudans-war-enters-a-new-phase?traffic_source=rss",
-        "date": "2026-07-07 00:34:41"
-      }
-    ]
-  },
-  {
-    "cluster_id": "12",
-    "label": "venezuela, 01, 00",
-    "trending_score": 0.3346,
-    "count_24h": 3,
-    "count_7d": 43,
-    "top_articles": [
-      {
-        "id": "4560",
-        "title": "Cuba loses power across nation for third time this year",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/cuba-loses-power-across-nation-for-third-time-this-year?traffic_source=rss",
-        "date": "2026-07-07 04:50:50"
-      },
-      {
-        "id": "4522",
-        "title": "Cuba sees nationwide power blackout for third time in six months",
-        "url": "https://www.aljazeera.com/news/2026/7/7/cuba-sees-nationwide-power-blackout-for-third-time-in-six-months?traffic_source=rss",
-        "date": "2026-07-07 02:29:45"
-      },
-      {
-        "id": "4526",
-        "title": "Venezuela earthquakes death toll jumps to more than 3,500",
-        "url": "https://www.aljazeera.com/news/2026/7/7/venezuela-earthquakes-death-toll-jumps-to-more-than-3500?traffic_source=rss",
-        "date": "2026-07-07 01:50:44"
-      }
-    ]
-  },
-  {
     "cluster_id": "10",
     "label": "ai, tech, new",
-    "trending_score": 0.3286,
-    "count_24h": 3,
-    "count_7d": 122,
+    "trending_score": 0.3143,
+    "count_24h": 2,
+    "count_7d": 118,
     "top_articles": [
       {
         "id": "4566",
@@ -272,9 +218,9 @@
   {
     "cluster_id": "8",
     "label": "said, police, court",
-    "trending_score": 0.3169,
-    "count_24h": 5,
-    "count_7d": 111,
+    "trending_score": 0.3028,
+    "count_24h": 4,
+    "count_7d": 110,
     "top_articles": [
       {
         "id": "4565",
@@ -297,37 +243,64 @@
     ]
   },
   {
-    "cluster_id": "13",
-    "label": "china, taiwan, taipei",
-    "trending_score": 0.2477,
-    "count_24h": 4,
-    "count_7d": 46,
+    "cluster_id": "1",
+    "label": "said, africa, south",
+    "trending_score": 0.2974,
+    "count_24h": 1,
+    "count_7d": 65,
     "top_articles": [
       {
-        "id": "4554",
-        "title": "China sentences former local official to death in $324m corruption case",
-        "url": "https://www.aljazeera.com/economy/2026/7/7/china-sentences-former-local-official-to-death-in-324m-corruption-case?traffic_source=rss",
-        "date": "2026-07-07 06:01:55"
+        "id": "4544",
+        "title": "India's landmark Ram temple overhauls board after alleged theft of donations",
+        "url": "https://www.bbc.co.uk/news/articles/c872ngz405xo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 06:23:04"
       },
       {
-        "id": "4559",
-        "title": "Khamenei’s coffin arrives in holy city of Qom",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/aje-onl-nf_khameneis-coffin-arrives-in-holy-city-of-qom-070726?traffic_source=rss",
-        "date": "2026-07-07 04:52:37"
+        "id": "4515",
+        "title": "Why some African nations are turning down Trump aid money",
+        "url": "https://www.bbc.co.uk/news/articles/ckg0921y8kdo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 00:49:08"
       },
       {
-        "id": "4563",
-        "title": "At least 16 people buried following landslide in China",
-        "url": "https://www.aljazeera.com/news/2026/7/7/at-least-people-buried-following-landslide-in-china?traffic_source=rss",
-        "date": "2026-07-07 04:10:02"
+        "id": "4529",
+        "title": "Why el-Obeid matters as Sudan’s war enters a new phase",
+        "url": "https://www.aljazeera.com/news/2026/7/7/why-el-obeid-matters-as-sudans-war-enters-a-new-phase?traffic_source=rss",
+        "date": "2026-07-07 00:34:41"
+      }
+    ]
+  },
+  {
+    "cluster_id": "12",
+    "label": "venezuela, 01, 00",
+    "trending_score": 0.2717,
+    "count_24h": 1,
+    "count_7d": 42,
+    "top_articles": [
+      {
+        "id": "4560",
+        "title": "Cuba loses power across nation for third time this year",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/cuba-loses-power-across-nation-for-third-time-this-year?traffic_source=rss",
+        "date": "2026-07-07 04:50:50"
+      },
+      {
+        "id": "4522",
+        "title": "Cuba sees nationwide power blackout for third time in six months",
+        "url": "https://www.aljazeera.com/news/2026/7/7/cuba-sees-nationwide-power-blackout-for-third-time-in-six-months?traffic_source=rss",
+        "date": "2026-07-07 02:29:45"
+      },
+      {
+        "id": "4526",
+        "title": "Venezuela earthquakes death toll jumps to more than 3,500",
+        "url": "https://www.aljazeera.com/news/2026/7/7/venezuela-earthquakes-death-toll-jumps-to-more-than-3500?traffic_source=rss",
+        "date": "2026-07-07 01:50:44"
       }
     ]
   },
   {
     "cluster_id": "11",
     "label": "said, police, man",
-    "trending_score": 0.2415,
-    "count_24h": 4,
+    "trending_score": 0.2322,
+    "count_24h": 3,
     "count_7d": 90,
     "top_articles": [
       {
@@ -351,10 +324,37 @@
     ]
   },
   {
+    "cluster_id": "13",
+    "label": "china, taiwan, taipei",
+    "trending_score": 0.2273,
+    "count_24h": 3,
+    "count_7d": 43,
+    "top_articles": [
+      {
+        "id": "4554",
+        "title": "China sentences former local official to death in $324m corruption case",
+        "url": "https://www.aljazeera.com/economy/2026/7/7/china-sentences-former-local-official-to-death-in-324m-corruption-case?traffic_source=rss",
+        "date": "2026-07-07 06:01:55"
+      },
+      {
+        "id": "4559",
+        "title": "Khamenei’s coffin arrives in holy city of Qom",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/aje-onl-nf_khameneis-coffin-arrives-in-holy-city-of-qom-070726?traffic_source=rss",
+        "date": "2026-07-07 04:52:37"
+      },
+      {
+        "id": "4563",
+        "title": "At least 16 people buried following landslide in China",
+        "url": "https://www.aljazeera.com/news/2026/7/7/at-least-people-buried-following-landslide-in-china?traffic_source=rss",
+        "date": "2026-07-07 04:10:02"
+      }
+    ]
+  },
+  {
     "cluster_id": "0",
     "label": "said, image, new",
-    "trending_score": 0.1752,
-    "count_24h": 1,
+    "trending_score": 0.1682,
+    "count_24h": 0,
     "count_7d": 96,
     "top_articles": [
       {
@@ -380,9 +380,9 @@
   {
     "cluster_id": "2",
     "label": "trump, court, latest",
-    "trending_score": 0.1722,
-    "count_24h": 2,
-    "count_7d": 100,
+    "trending_score": 0.1603,
+    "count_24h": 1,
+    "count_7d": 96,
     "top_articles": [
       {
         "id": "4536",
@@ -407,9 +407,9 @@
   {
     "cluster_id": "6",
     "label": "new, market, said",
-    "trending_score": 0.1247,
+    "trending_score": 0.1236,
     "count_24h": 1,
-    "count_7d": 61,
+    "count_7d": 60,
     "top_articles": [
       {
         "id": "4561",
@@ -434,9 +434,9 @@
   {
     "cluster_id": "4",
     "label": "league, win, major",
-    "trending_score": 0.0155,
+    "trending_score": 0.0133,
     "count_24h": 0,
-    "count_7d": 4,
+    "count_7d": 3,
     "top_articles": [
       {
         "id": "4500",

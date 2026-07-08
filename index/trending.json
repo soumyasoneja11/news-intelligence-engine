@@ -2,8 +2,8 @@
   {
     "cluster_id": "9",
     "label": "said, farage, uk",
-    "trending_score": 0.6927,
-    "count_24h": 14,
+    "trending_score": 0.6584,
+    "count_24h": 11,
     "count_7d": 147,
     "top_articles": [
       {
@@ -29,8 +29,8 @@
   {
     "cluster_id": "12",
     "label": "world, cup, world cup",
-    "trending_score": 0.6598,
-    "count_24h": 14,
+    "trending_score": 0.635,
+    "count_24h": 12,
     "count_7d": 224,
     "top_articles": [
       {
@@ -56,7 +56,7 @@
   {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.5796,
+    "trending_score": 0.5701,
     "count_24h": 9,
     "count_7d": 80,
     "top_articles": [
@@ -110,9 +110,9 @@
   {
     "cluster_id": "15",
     "label": "israel, gaza, israeli",
-    "trending_score": 0.4696,
+    "trending_score": 0.4519,
     "count_24h": 5,
-    "count_7d": 134,
+    "count_7d": 132,
     "top_articles": [
       {
         "id": "4818",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "18",
     "label": "heat, heatwave, temperatures",
-    "trending_score": 0.4533,
+    "trending_score": 0.4486,
     "count_24h": 5,
-    "count_7d": 43,
+    "count_7d": 42,
     "top_articles": [
       {
         "id": "4812",
@@ -164,8 +164,8 @@
   {
     "cluster_id": "14",
     "label": "russia, trump, nato",
-    "trending_score": 0.3992,
-    "count_24h": 6,
+    "trending_score": 0.3508,
+    "count_24h": 3,
     "count_7d": 78,
     "top_articles": [
       {
@@ -189,92 +189,11 @@
     ]
   },
   {
-    "cluster_id": "8",
-    "label": "said, court, police",
-    "trending_score": 0.3514,
-    "count_24h": 10,
-    "count_7d": 100,
-    "top_articles": [
-      {
-        "id": "4806",
-        "title": "US charges Indian criminal gang leader with organising murder of Canadian Sikh activist",
-        "url": "https://www.theguardian.com/world/2026/jul/08/murder-canada-sikh-activist-hardeep-singh-nijjar-indian-criminal-gang-leader-charged",
-        "date": "2026-07-08 03:13:11"
-      },
-      {
-        "id": "4807",
-        "title": "Karmelo Anthony seeks new trial after 35-year sentence in killing of Austin Metcalf",
-        "url": "https://www.theguardian.com/us-news/2026/jul/07/karmelo-anthony-new-trial-austin-metcalf",
-        "date": "2026-07-08 01:58:15"
-      },
-      {
-        "id": "4790",
-        "title": "Utah boarding school where Paris Hilton alleged abuse as a teen loses its licence",
-        "url": "https://www.bbc.co.uk/news/articles/cjdg4r3k3emo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 01:51:09"
-      }
-    ]
-  },
-  {
-    "cluster_id": "5",
-    "label": "england, world, cup",
-    "trending_score": 0.3483,
-    "count_24h": 3,
-    "count_7d": 67,
-    "top_articles": [
-      {
-        "id": "4775",
-        "title": "Fulham appoint Arbeloa as Silva's successor",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvgjnlj0d1go?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 23:04:42"
-      },
-      {
-        "id": "4722",
-        "title": "Superb England inflict record T20 defeat on India",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cn59nkwp275o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 19:45:38"
-      },
-      {
-        "id": "4723",
-        "title": "Shades of Keane and Gerrard in Bellingham display - Rooney",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c70ygx549d0o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 19:23:35"
-      }
-    ]
-  },
-  {
-    "cluster_id": "6",
-    "label": "ai, new, tech",
-    "trending_score": 0.3359,
-    "count_24h": 9,
-    "count_7d": 111,
-    "top_articles": [
-      {
-        "id": "4791",
-        "title": "Australia dock workers call for 28-hour week in AI talks",
-        "url": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 01:48:47"
-      },
-      {
-        "id": "4766",
-        "title": "Final extension: Startup Battlefield Australia applications now close July 20",
-        "url": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
-        "date": "2026-07-07 22:30:00"
-      },
-      {
-        "id": "4767",
-        "title": "Meta rolls out Muse, a new AI image generator",
-        "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-        "date": "2026-07-07 22:18:10"
-      }
-    ]
-  },
-  {
     "cluster_id": "11",
     "label": "trump, court, president",
-    "trending_score": 0.3333,
+    "trending_score": 0.3222,
     "count_24h": 4,
-    "count_7d": 90,
+    "count_7d": 87,
     "top_articles": [
       {
         "id": "4808",
@@ -293,6 +212,33 @@
         "title": "Prolonged hospitalisation of US Republican Mitch McConnell raises questions",
         "url": "https://www.aljazeera.com/news/2026/7/7/prolonged-hospitalisation-of-us-republican-mitch-mcconnell-raises-questions?traffic_source=rss",
         "date": "2026-07-07 20:26:16"
+      }
+    ]
+  },
+  {
+    "cluster_id": "5",
+    "label": "england, world, cup",
+    "trending_score": 0.309,
+    "count_24h": 1,
+    "count_7d": 65,
+    "top_articles": [
+      {
+        "id": "4775",
+        "title": "Fulham appoint Arbeloa as Silva's successor",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvgjnlj0d1go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 23:04:42"
+      },
+      {
+        "id": "4722",
+        "title": "Superb England inflict record T20 defeat on India",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cn59nkwp275o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 19:45:38"
+      },
+      {
+        "id": "4723",
+        "title": "Shades of Keane and Gerrard in Bellingham display - Rooney",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c70ygx549d0o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 19:23:35"
       }
     ]
   },
@@ -324,11 +270,38 @@
     ]
   },
   {
+    "cluster_id": "8",
+    "label": "said, court, police",
+    "trending_score": 0.2917,
+    "count_24h": 5,
+    "count_7d": 99,
+    "top_articles": [
+      {
+        "id": "4806",
+        "title": "US charges Indian criminal gang leader with organising murder of Canadian Sikh activist",
+        "url": "https://www.theguardian.com/world/2026/jul/08/murder-canada-sikh-activist-hardeep-singh-nijjar-indian-criminal-gang-leader-charged",
+        "date": "2026-07-08 03:13:11"
+      },
+      {
+        "id": "4807",
+        "title": "Karmelo Anthony seeks new trial after 35-year sentence in killing of Austin Metcalf",
+        "url": "https://www.theguardian.com/us-news/2026/jul/07/karmelo-anthony-new-trial-austin-metcalf",
+        "date": "2026-07-08 01:58:15"
+      },
+      {
+        "id": "4790",
+        "title": "Utah boarding school where Paris Hilton alleged abuse as a teen loses its licence",
+        "url": "https://www.bbc.co.uk/news/articles/cjdg4r3k3emo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 01:51:09"
+      }
+    ]
+  },
+  {
     "cluster_id": "10",
     "label": "said, market, new",
-    "trending_score": 0.2903,
+    "trending_score": 0.2872,
     "count_24h": 8,
-    "count_7d": 71,
+    "count_7d": 69,
     "top_articles": [
       {
         "id": "4784",
@@ -347,6 +320,33 @@
         "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
         "url": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-07 23:11:48"
+      }
+    ]
+  },
+  {
+    "cluster_id": "6",
+    "label": "ai, new, tech",
+    "trending_score": 0.2786,
+    "count_24h": 3,
+    "count_7d": 109,
+    "top_articles": [
+      {
+        "id": "4791",
+        "title": "Australia dock workers call for 28-hour week in AI talks",
+        "url": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 01:48:47"
+      },
+      {
+        "id": "4766",
+        "title": "Final extension: Startup Battlefield Australia applications now close July 20",
+        "url": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
+        "date": "2026-07-07 22:30:00"
+      },
+      {
+        "id": "4767",
+        "title": "Meta rolls out Muse, a new AI image generator",
+        "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+        "date": "2026-07-07 22:18:10"
       }
     ]
   },
@@ -434,9 +434,9 @@
   {
     "cluster_id": "13",
     "label": "said, image, new",
-    "trending_score": 0.1765,
+    "trending_score": 0.1631,
     "count_24h": 1,
-    "count_7d": 83,
+    "count_7d": 82,
     "top_articles": [
       {
         "id": "4815",
@@ -461,8 +461,8 @@
   {
     "cluster_id": "16",
     "label": "latest, says, state",
-    "trending_score": 0.0896,
-    "count_24h": 4,
+    "trending_score": 0.0784,
+    "count_24h": 3,
     "count_7d": 24,
     "top_articles": [
       {

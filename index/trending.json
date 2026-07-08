@@ -2,7 +2,7 @@
   {
     "cluster_id": "9",
     "label": "said, farage, uk",
-    "trending_score": 1.0229,
+    "trending_score": 1.0172,
     "count_24h": 34,
     "count_7d": 155,
     "top_articles": [
@@ -56,9 +56,9 @@
   {
     "cluster_id": "15",
     "label": "israel, gaza, israeli",
-    "trending_score": 0.851,
+    "trending_score": 0.8446,
     "count_24h": 30,
-    "count_7d": 150,
+    "count_7d": 149,
     "top_articles": [
       {
         "id": "4818",
@@ -83,7 +83,7 @@
   {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.7389,
+    "trending_score": 0.7293,
     "count_24h": 12,
     "count_7d": 85,
     "top_articles": [
@@ -104,33 +104,6 @@
         "title": "Iran accuses US of violating peace agreement after strikes target sites around strait of Hormuz",
         "url": "https://www.theguardian.com/world/2026/jul/08/iran-us-war-ceasefire-peace-agreement-strikes-strait-of-hormuz",
         "date": "2026-07-08 01:15:41"
-      }
-    ]
-  },
-  {
-    "cluster_id": "14",
-    "label": "russia, trump, nato",
-    "trending_score": 0.629,
-    "count_24h": 20,
-    "count_7d": 87,
-    "top_articles": [
-      {
-        "id": "4817",
-        "title": "At UN, Cuba rallies support against ‘ruthless’ US blockade",
-        "url": "https://www.aljazeera.com/news/2026/7/8/at-un-cuba-rallies-support-against-ruthless-us-blockade?traffic_source=rss",
-        "date": "2026-07-08 05:18:52"
-      },
-      {
-        "id": "4809",
-        "title": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
-        "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 05:05:31"
-      },
-      {
-        "id": "4782",
-        "title": "Nato allies announce £37bn for new missile project",
-        "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 03:12:00"
       }
     ]
   },
@@ -158,6 +131,33 @@
         "title": "99% of people on Earth will get sunlight at the same time this Wednesday",
         "url": "https://www.aljazeera.com/news/2026/7/8/99-of-people-on-earth-will-get-sunlight-at-the-same-time-this-wednesday?traffic_source=rss",
         "date": "2026-07-08 04:23:58"
+      }
+    ]
+  },
+  {
+    "cluster_id": "14",
+    "label": "russia, trump, nato",
+    "trending_score": 0.6169,
+    "count_24h": 19,
+    "count_7d": 87,
+    "top_articles": [
+      {
+        "id": "4817",
+        "title": "At UN, Cuba rallies support against ‘ruthless’ US blockade",
+        "url": "https://www.aljazeera.com/news/2026/7/8/at-un-cuba-rallies-support-against-ruthless-us-blockade?traffic_source=rss",
+        "date": "2026-07-08 05:18:52"
+      },
+      {
+        "id": "4809",
+        "title": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
+        "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 05:05:31"
+      },
+      {
+        "id": "4782",
+        "title": "Nato allies announce £37bn for new missile project",
+        "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 03:12:00"
       }
     ]
   },
@@ -218,9 +218,9 @@
   {
     "cluster_id": "6",
     "label": "ai, new, tech",
-    "trending_score": 0.5299,
+    "trending_score": 0.5286,
     "count_24h": 22,
-    "count_7d": 128,
+    "count_7d": 127,
     "top_articles": [
       {
         "id": "4791",
@@ -245,8 +245,8 @@
   {
     "cluster_id": "11",
     "label": "trump, court, president",
-    "trending_score": 0.5222,
-    "count_24h": 16,
+    "trending_score": 0.5111,
+    "count_24h": 15,
     "count_7d": 105,
     "top_articles": [
       {
@@ -380,8 +380,8 @@
   {
     "cluster_id": "4",
     "label": "china, taiwan, taipei",
-    "trending_score": 0.304,
-    "count_24h": 5,
+    "trending_score": 0.2907,
+    "count_24h": 4,
     "count_7d": 51,
     "top_articles": [
       {
@@ -407,9 +407,9 @@
   {
     "cluster_id": "17",
     "label": "venezuela, 01, 00",
-    "trending_score": 0.2674,
+    "trending_score": 0.2636,
     "count_24h": 1,
-    "count_7d": 42,
+    "count_7d": 41,
     "top_articles": [
       {
         "id": "4752",
@@ -434,9 +434,9 @@
   {
     "cluster_id": "13",
     "label": "said, image, new",
-    "trending_score": 0.2642,
+    "trending_score": 0.2588,
     "count_24h": 6,
-    "count_7d": 94,
+    "count_7d": 93,
     "top_articles": [
       {
         "id": "4815",

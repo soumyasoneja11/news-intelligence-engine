@@ -2,8 +2,8 @@
   {
     "cluster_id": "9",
     "label": "said, farage, uk",
-    "trending_score": 0.9809,
-    "count_24h": 32,
+    "trending_score": 0.8721,
+    "count_24h": 25,
     "count_7d": 154,
     "top_articles": [
       {
@@ -29,9 +29,9 @@
   {
     "cluster_id": "12",
     "label": "world, cup, world cup",
-    "trending_score": 0.8815,
-    "count_24h": 27,
-    "count_7d": 241,
+    "trending_score": 0.8485,
+    "count_24h": 26,
+    "count_7d": 235,
     "top_articles": [
       {
         "id": "4820",
@@ -56,8 +56,8 @@
   {
     "cluster_id": "15",
     "label": "israel, gaza, israeli",
-    "trending_score": 0.8141,
-    "count_24h": 28,
+    "trending_score": 0.7131,
+    "count_24h": 18,
     "count_7d": 148,
     "top_articles": [
       {
@@ -83,7 +83,7 @@
   {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.6975,
+    "trending_score": 0.6783,
     "count_24h": 11,
     "count_7d": 84,
     "top_articles": [
@@ -110,7 +110,7 @@
   {
     "cluster_id": "18",
     "label": "heat, heatwave, temperatures",
-    "trending_score": 0.6168,
+    "trending_score": 0.5888,
     "count_24h": 7,
     "count_7d": 48,
     "top_articles": [
@@ -131,33 +131,6 @@
         "title": "99% of people on Earth will get sunlight at the same time this Wednesday",
         "url": "https://www.aljazeera.com/news/2026/7/8/99-of-people-on-earth-will-get-sunlight-at-the-same-time-this-wednesday?traffic_source=rss",
         "date": "2026-07-08 04:23:58"
-      }
-    ]
-  },
-  {
-    "cluster_id": "14",
-    "label": "russia, trump, nato",
-    "trending_score": 0.5786,
-    "count_24h": 16,
-    "count_7d": 86,
-    "top_articles": [
-      {
-        "id": "4817",
-        "title": "At UN, Cuba rallies support against ‘ruthless’ US blockade",
-        "url": "https://www.aljazeera.com/news/2026/7/8/at-un-cuba-rallies-support-against-ruthless-us-blockade?traffic_source=rss",
-        "date": "2026-07-08 05:18:52"
-      },
-      {
-        "id": "4809",
-        "title": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
-        "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 05:05:31"
-      },
-      {
-        "id": "4782",
-        "title": "Nato allies announce £37bn for new missile project",
-        "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 03:12:00"
       }
     ]
   },
@@ -189,65 +162,38 @@
     ]
   },
   {
-    "cluster_id": "5",
-    "label": "england, world, cup",
-    "trending_score": 0.559,
-    "count_24h": 12,
-    "count_7d": 73,
-    "top_articles": [
-      {
-        "id": "4775",
-        "title": "Fulham appoint Arbeloa as Silva's successor",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvgjnlj0d1go?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 23:04:42"
-      },
-      {
-        "id": "4722",
-        "title": "Superb England inflict record T20 defeat on India",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cn59nkwp275o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 19:45:38"
-      },
-      {
-        "id": "4723",
-        "title": "Shades of Keane and Gerrard in Bellingham display - Rooney",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c70ygx549d0o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 19:23:35"
-      }
-    ]
-  },
-  {
-    "cluster_id": "11",
-    "label": "trump, court, president",
-    "trending_score": 0.5093,
+    "cluster_id": "14",
+    "label": "russia, trump, nato",
+    "trending_score": 0.5524,
     "count_24h": 15,
-    "count_7d": 104,
+    "count_7d": 85,
     "top_articles": [
       {
-        "id": "4808",
-        "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
-        "url": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 03:22:46"
+        "id": "4817",
+        "title": "At UN, Cuba rallies support against ‘ruthless’ US blockade",
+        "url": "https://www.aljazeera.com/news/2026/7/8/at-un-cuba-rallies-support-against-ruthless-us-blockade?traffic_source=rss",
+        "date": "2026-07-08 05:18:52"
       },
       {
-        "id": "4798",
-        "title": "Unstable Manhattan skyscraper triggers collapse fears",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/unstable-manhattan-skyscraper-triggers-collapse-fears?traffic_source=rss",
-        "date": "2026-07-08 01:09:49"
+        "id": "4809",
+        "title": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
+        "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 05:05:31"
       },
       {
-        "id": "4754",
-        "title": "Prolonged hospitalisation of US Republican Mitch McConnell raises questions",
-        "url": "https://www.aljazeera.com/news/2026/7/7/prolonged-hospitalisation-of-us-republican-mitch-mcconnell-raises-questions?traffic_source=rss",
-        "date": "2026-07-07 20:26:16"
+        "id": "4782",
+        "title": "Nato allies announce £37bn for new missile project",
+        "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 03:12:00"
       }
     ]
   },
   {
     "cluster_id": "6",
     "label": "ai, new, tech",
-    "trending_score": 0.5091,
-    "count_24h": 21,
-    "count_7d": 127,
+    "trending_score": 0.4844,
+    "count_24h": 19,
+    "count_7d": 126,
     "top_articles": [
       {
         "id": "4791",
@@ -270,11 +216,65 @@
     ]
   },
   {
+    "cluster_id": "11",
+    "label": "trump, court, president",
+    "trending_score": 0.4759,
+    "count_24h": 13,
+    "count_7d": 101,
+    "top_articles": [
+      {
+        "id": "4808",
+        "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
+        "url": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 03:22:46"
+      },
+      {
+        "id": "4798",
+        "title": "Unstable Manhattan skyscraper triggers collapse fears",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/unstable-manhattan-skyscraper-triggers-collapse-fears?traffic_source=rss",
+        "date": "2026-07-08 01:09:49"
+      },
+      {
+        "id": "4754",
+        "title": "Prolonged hospitalisation of US Republican Mitch McConnell raises questions",
+        "url": "https://www.aljazeera.com/news/2026/7/7/prolonged-hospitalisation-of-us-republican-mitch-mcconnell-raises-questions?traffic_source=rss",
+        "date": "2026-07-07 20:26:16"
+      }
+    ]
+  },
+  {
+    "cluster_id": "5",
+    "label": "england, world, cup",
+    "trending_score": 0.4719,
+    "count_24h": 8,
+    "count_7d": 72,
+    "top_articles": [
+      {
+        "id": "4775",
+        "title": "Fulham appoint Arbeloa as Silva's successor",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvgjnlj0d1go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 23:04:42"
+      },
+      {
+        "id": "4722",
+        "title": "Superb England inflict record T20 defeat on India",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cn59nkwp275o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 19:45:38"
+      },
+      {
+        "id": "4723",
+        "title": "Shades of Keane and Gerrard in Bellingham display - Rooney",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c70ygx549d0o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 19:23:35"
+      }
+    ]
+  },
+  {
     "cluster_id": "8",
     "label": "said, court, police",
-    "trending_score": 0.4639,
-    "count_24h": 16,
-    "count_7d": 112,
+    "trending_score": 0.4306,
+    "count_24h": 15,
+    "count_7d": 109,
     "top_articles": [
       {
         "id": "4806",
@@ -299,9 +299,9 @@
   {
     "cluster_id": "10",
     "label": "said, market, new",
-    "trending_score": 0.4438,
-    "count_24h": 18,
-    "count_7d": 88,
+    "trending_score": 0.424,
+    "count_24h": 16,
+    "count_7d": 87,
     "top_articles": [
       {
         "id": "4784",
@@ -326,9 +326,9 @@
   {
     "cluster_id": "1",
     "label": "said, police, killed",
-    "trending_score": 0.3929,
-    "count_24h": 14,
-    "count_7d": 109,
+    "trending_score": 0.3509,
+    "count_24h": 10,
+    "count_7d": 106,
     "top_articles": [
       {
         "id": "4827",
@@ -353,9 +353,9 @@
   {
     "cluster_id": "7",
     "label": "burnham, defence, said",
-    "trending_score": 0.3454,
-    "count_24h": 2,
-    "count_7d": 40,
+    "trending_score": 0.3041,
+    "count_24h": 1,
+    "count_7d": 38,
     "top_articles": [
       {
         "id": "4830",
@@ -374,33 +374,6 @@
         "title": "Tuesday briefing: What challenges would Ed Miliband face as chancellor?",
         "url": "https://www.theguardian.com/world/2026/jul/07/tuesday-briefing-first-edition-ed-miliband-next-chancellor",
         "date": "2026-07-07 05:46:48"
-      }
-    ]
-  },
-  {
-    "cluster_id": "13",
-    "label": "said, image, new",
-    "trending_score": 0.2453,
-    "count_24h": 5,
-    "count_7d": 92,
-    "top_articles": [
-      {
-        "id": "4815",
-        "title": "Tom Holland on his 'last chance to play a boy' in The Odyssey",
-        "url": "https://www.bbc.co.uk/news/articles/c0ky1gxgxjro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 05:00:38"
-      },
-      {
-        "id": "4674",
-        "title": "‘Like a miracle’: hidden gold saves Lancashire church from closure",
-        "url": "https://www.theguardian.com/world/2026/jul/07/hidden-gold-coins-saves-lancashire-church-closure-britannia",
-        "date": "2026-07-07 15:17:51"
-      },
-      {
-        "id": "4676",
-        "title": "Dolly Parton musical set for Broadway this winter: ‘a dream come true’",
-        "url": "https://www.theguardian.com/music/2026/jul/07/dolly-parton-broadway-musical",
-        "date": "2026-07-07 15:07:25"
       }
     ]
   },
@@ -459,9 +432,36 @@
     ]
   },
   {
+    "cluster_id": "13",
+    "label": "said, image, new",
+    "trending_score": 0.2156,
+    "count_24h": 3,
+    "count_7d": 91,
+    "top_articles": [
+      {
+        "id": "4815",
+        "title": "Tom Holland on his 'last chance to play a boy' in The Odyssey",
+        "url": "https://www.bbc.co.uk/news/articles/c0ky1gxgxjro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 05:00:38"
+      },
+      {
+        "id": "4674",
+        "title": "‘Like a miracle’: hidden gold saves Lancashire church from closure",
+        "url": "https://www.theguardian.com/world/2026/jul/07/hidden-gold-coins-saves-lancashire-church-closure-britannia",
+        "date": "2026-07-07 15:17:51"
+      },
+      {
+        "id": "4676",
+        "title": "Dolly Parton musical set for Broadway this winter: ‘a dream come true’",
+        "url": "https://www.theguardian.com/music/2026/jul/07/dolly-parton-broadway-musical",
+        "date": "2026-07-07 15:07:25"
+      }
+    ]
+  },
+  {
     "cluster_id": "16",
     "label": "latest, says, state",
-    "trending_score": 0.1231,
+    "trending_score": 0.1194,
     "count_24h": 7,
     "count_7d": 27,
     "top_articles": [

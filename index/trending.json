@@ -2,9 +2,9 @@
   {
     "cluster_id": "9",
     "label": "said, farage, uk",
-    "trending_score": 0.834,
-    "count_24h": 22,
-    "count_7d": 152,
+    "trending_score": 0.7729,
+    "count_24h": 18,
+    "count_7d": 150,
     "top_articles": [
       {
         "id": "4810",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "12",
     "label": "world, cup, world cup",
-    "trending_score": 0.7782,
-    "count_24h": 20,
-    "count_7d": 232,
+    "trending_score": 0.7355,
+    "count_24h": 17,
+    "count_7d": 231,
     "top_articles": [
       {
         "id": "4820",
@@ -54,38 +54,11 @@
     ]
   },
   {
-    "cluster_id": "15",
-    "label": "israel, gaza, israeli",
-    "trending_score": 0.6859,
-    "count_24h": 17,
-    "count_7d": 146,
-    "top_articles": [
-      {
-        "id": "4818",
-        "title": "Childhood on hold: How Gaza’s children spend a summer without play",
-        "url": "https://www.aljazeera.com/features/2026/7/8/childhood-on-hold-how-gazas-children-spend-a-summer-without-play?traffic_source=rss",
-        "date": "2026-07-08 05:13:20"
-      },
-      {
-        "id": "4819",
-        "title": "Syria grapples with unrest as government faces old and new threats",
-        "url": "https://www.aljazeera.com/news/2026/7/8/syria-grapples-with-unrest-as-government-faces-old-and-new-threats?traffic_source=rss",
-        "date": "2026-07-08 05:10:23"
-      },
-      {
-        "id": "4800",
-        "title": "Marine Le Pen to run for French Presidency despite criminal conviction",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/marine-le-pen-to-run-for-french-presidency-despite-criminal-conviction?traffic_source=rss",
-        "date": "2026-07-08 00:23:53"
-      }
-    ]
-  },
-  {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.6401,
+    "trending_score": 0.6338,
     "count_24h": 10,
-    "count_7d": 84,
+    "count_7d": 82,
     "top_articles": [
       {
         "id": "4821",
@@ -108,11 +81,38 @@
     ]
   },
   {
+    "cluster_id": "15",
+    "label": "israel, gaza, israeli",
+    "trending_score": 0.5881,
+    "count_24h": 13,
+    "count_7d": 142,
+    "top_articles": [
+      {
+        "id": "4818",
+        "title": "Childhood on hold: How Gaza’s children spend a summer without play",
+        "url": "https://www.aljazeera.com/features/2026/7/8/childhood-on-hold-how-gazas-children-spend-a-summer-without-play?traffic_source=rss",
+        "date": "2026-07-08 05:13:20"
+      },
+      {
+        "id": "4819",
+        "title": "Syria grapples with unrest as government faces old and new threats",
+        "url": "https://www.aljazeera.com/news/2026/7/8/syria-grapples-with-unrest-as-government-faces-old-and-new-threats?traffic_source=rss",
+        "date": "2026-07-08 05:10:23"
+      },
+      {
+        "id": "4800",
+        "title": "Marine Le Pen to run for French Presidency despite criminal conviction",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/marine-le-pen-to-run-for-french-presidency-despite-criminal-conviction?traffic_source=rss",
+        "date": "2026-07-08 00:23:53"
+      }
+    ]
+  },
+  {
     "cluster_id": "2",
     "label": "wimbledon, tennis, williams",
-    "trending_score": 0.5677,
-    "count_24h": 5,
-    "count_7d": 46,
+    "trending_score": 0.5312,
+    "count_24h": 4,
+    "count_7d": 45,
     "top_articles": [
       {
         "id": "4816",
@@ -135,38 +135,11 @@
     ]
   },
   {
-    "cluster_id": "18",
-    "label": "heat, heatwave, temperatures",
-    "trending_score": 0.5607,
-    "count_24h": 7,
-    "count_7d": 48,
-    "top_articles": [
-      {
-        "id": "4812",
-        "title": "Your tips from the last heatwave on how to cope in extreme temperatures",
-        "url": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 05:35:17"
-      },
-      {
-        "id": "4811",
-        "title": "More or less protein? The foods to get you through a heatwave",
-        "url": "https://www.bbc.co.uk/news/articles/clyw89g3443o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 05:29:23"
-      },
-      {
-        "id": "4822",
-        "title": "99% of people on Earth will get sunlight at the same time this Wednesday",
-        "url": "https://www.aljazeera.com/news/2026/7/8/99-of-people-on-earth-will-get-sunlight-at-the-same-time-this-wednesday?traffic_source=rss",
-        "date": "2026-07-08 04:23:58"
-      }
-    ]
-  },
-  {
     "cluster_id": "14",
     "label": "russia, trump, nato",
-    "trending_score": 0.5383,
-    "count_24h": 15,
-    "count_7d": 84,
+    "trending_score": 0.5081,
+    "count_24h": 14,
+    "count_7d": 81,
     "top_articles": [
       {
         "id": "4817",
@@ -189,11 +162,38 @@
     ]
   },
   {
+    "cluster_id": "18",
+    "label": "heat, heatwave, temperatures",
+    "trending_score": 0.472,
+    "count_24h": 5,
+    "count_7d": 47,
+    "top_articles": [
+      {
+        "id": "4812",
+        "title": "Your tips from the last heatwave on how to cope in extreme temperatures",
+        "url": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 05:35:17"
+      },
+      {
+        "id": "4811",
+        "title": "More or less protein? The foods to get you through a heatwave",
+        "url": "https://www.bbc.co.uk/news/articles/clyw89g3443o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 05:29:23"
+      },
+      {
+        "id": "4822",
+        "title": "99% of people on Earth will get sunlight at the same time this Wednesday",
+        "url": "https://www.aljazeera.com/news/2026/7/8/99-of-people-on-earth-will-get-sunlight-at-the-same-time-this-wednesday?traffic_source=rss",
+        "date": "2026-07-08 04:23:58"
+      }
+    ]
+  },
+  {
     "cluster_id": "6",
     "label": "ai, new, tech",
-    "trending_score": 0.4727,
-    "count_24h": 18,
-    "count_7d": 126,
+    "trending_score": 0.4154,
+    "count_24h": 15,
+    "count_7d": 118,
     "top_articles": [
       {
         "id": "4791",
@@ -218,8 +218,8 @@
   {
     "cluster_id": "5",
     "label": "england, world, cup",
-    "trending_score": 0.4522,
-    "count_24h": 7,
+    "trending_score": 0.4101,
+    "count_24h": 5,
     "count_7d": 71,
     "top_articles": [
       {
@@ -245,9 +245,9 @@
   {
     "cluster_id": "11",
     "label": "trump, court, president",
-    "trending_score": 0.4389,
-    "count_24h": 10,
-    "count_7d": 99,
+    "trending_score": 0.3944,
+    "count_24h": 8,
+    "count_7d": 93,
     "top_articles": [
       {
         "id": "4808",
@@ -272,9 +272,9 @@
   {
     "cluster_id": "8",
     "label": "said, court, police",
-    "trending_score": 0.4153,
-    "count_24h": 14,
-    "count_7d": 107,
+    "trending_score": 0.3764,
+    "count_24h": 12,
+    "count_7d": 103,
     "top_articles": [
       {
         "id": "4806",
@@ -299,9 +299,9 @@
   {
     "cluster_id": "10",
     "label": "said, market, new",
-    "trending_score": 0.4088,
-    "count_24h": 16,
-    "count_7d": 83,
+    "trending_score": 0.3647,
+    "count_24h": 13,
+    "count_7d": 78,
     "top_articles": [
       {
         "id": "4784",
@@ -326,9 +326,9 @@
   {
     "cluster_id": "1",
     "label": "said, police, killed",
-    "trending_score": 0.3354,
-    "count_24h": 10,
-    "count_7d": 102,
+    "trending_score": 0.3028,
+    "count_24h": 7,
+    "count_7d": 99,
     "top_articles": [
       {
         "id": "4827",
@@ -353,9 +353,9 @@
   {
     "cluster_id": "7",
     "label": "burnham, defence, said",
-    "trending_score": 0.299,
+    "trending_score": 0.2629,
     "count_24h": 1,
-    "count_7d": 37,
+    "count_7d": 36,
     "top_articles": [
       {
         "id": "4830",
@@ -380,9 +380,9 @@
   {
     "cluster_id": "17",
     "label": "venezuela, 01, 00",
-    "trending_score": 0.2442,
+    "trending_score": 0.2403,
     "count_24h": 1,
-    "count_7d": 39,
+    "count_7d": 38,
     "top_articles": [
       {
         "id": "4752",
@@ -407,9 +407,9 @@
   {
     "cluster_id": "4",
     "label": "china, taiwan, taipei",
-    "trending_score": 0.2357,
+    "trending_score": 0.2269,
     "count_24h": 2,
-    "count_7d": 50,
+    "count_7d": 49,
     "top_articles": [
       {
         "id": "4786",
@@ -434,9 +434,9 @@
   {
     "cluster_id": "13",
     "label": "said, image, new",
-    "trending_score": 0.2129,
-    "count_24h": 3,
-    "count_7d": 89,
+    "trending_score": 0.1941,
+    "count_24h": 1,
+    "count_7d": 87,
     "top_articles": [
       {
         "id": "4815",
@@ -461,9 +461,9 @@
   {
     "cluster_id": "16",
     "label": "latest, says, state",
-    "trending_score": 0.1095,
-    "count_24h": 6,
-    "count_7d": 25,
+    "trending_score": 0.0933,
+    "count_24h": 4,
+    "count_7d": 24,
     "top_articles": [
       {
         "id": "4783",

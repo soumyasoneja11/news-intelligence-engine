@@ -2,9 +2,9 @@
   {
     "cluster_id": "9",
     "label": "said, farage, uk",
-    "trending_score": 0.8721,
-    "count_24h": 25,
-    "count_7d": 154,
+    "trending_score": 0.834,
+    "count_24h": 22,
+    "count_7d": 152,
     "top_articles": [
       {
         "id": "4810",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "12",
     "label": "world, cup, world cup",
-    "trending_score": 0.8485,
-    "count_24h": 26,
-    "count_7d": 235,
+    "trending_score": 0.7782,
+    "count_24h": 20,
+    "count_7d": 232,
     "top_articles": [
       {
         "id": "4820",
@@ -56,9 +56,9 @@
   {
     "cluster_id": "15",
     "label": "israel, gaza, israeli",
-    "trending_score": 0.7131,
-    "count_24h": 18,
-    "count_7d": 148,
+    "trending_score": 0.6859,
+    "count_24h": 17,
+    "count_7d": 146,
     "top_articles": [
       {
         "id": "4818",
@@ -83,8 +83,8 @@
   {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.6783,
-    "count_24h": 11,
+    "trending_score": 0.6401,
+    "count_24h": 10,
     "count_7d": 84,
     "top_articles": [
       {
@@ -108,9 +108,36 @@
     ]
   },
   {
+    "cluster_id": "2",
+    "label": "wimbledon, tennis, williams",
+    "trending_score": 0.5677,
+    "count_24h": 5,
+    "count_7d": 46,
+    "top_articles": [
+      {
+        "id": "4816",
+        "title": "What must Fery do to become Wimbledon semi-finalist?",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 05:41:31"
+      },
+      {
+        "id": "4801",
+        "title": "Djokovic wins five-hour epic to earn Sinner showdown at Wimbledon",
+        "url": "https://www.aljazeera.com/sports/2026/7/8/djokovic-wins-five-hour-epic-to-earn-sinner-showdown-at-wimbledon?traffic_source=rss",
+        "date": "2026-07-08 00:15:21"
+      },
+      {
+        "id": "4774",
+        "title": "'It is not normal' - but extraordinary Djokovic defies odds once again",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cy8wev0p0wno?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 23:46:39"
+      }
+    ]
+  },
+  {
     "cluster_id": "18",
     "label": "heat, heatwave, temperatures",
-    "trending_score": 0.5888,
+    "trending_score": 0.5607,
     "count_24h": 7,
     "count_7d": 48,
     "top_articles": [
@@ -135,38 +162,11 @@
     ]
   },
   {
-    "cluster_id": "2",
-    "label": "wimbledon, tennis, williams",
-    "trending_score": 0.5781,
-    "count_24h": 5,
-    "count_7d": 48,
-    "top_articles": [
-      {
-        "id": "4816",
-        "title": "What must Fery do to become Wimbledon semi-finalist?",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 05:41:31"
-      },
-      {
-        "id": "4801",
-        "title": "Djokovic wins five-hour epic to earn Sinner showdown at Wimbledon",
-        "url": "https://www.aljazeera.com/sports/2026/7/8/djokovic-wins-five-hour-epic-to-earn-sinner-showdown-at-wimbledon?traffic_source=rss",
-        "date": "2026-07-08 00:15:21"
-      },
-      {
-        "id": "4774",
-        "title": "'It is not normal' - but extraordinary Djokovic defies odds once again",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cy8wev0p0wno?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 23:46:39"
-      }
-    ]
-  },
-  {
     "cluster_id": "14",
     "label": "russia, trump, nato",
-    "trending_score": 0.5524,
+    "trending_score": 0.5383,
     "count_24h": 15,
-    "count_7d": 85,
+    "count_7d": 84,
     "top_articles": [
       {
         "id": "4817",
@@ -191,8 +191,8 @@
   {
     "cluster_id": "6",
     "label": "ai, new, tech",
-    "trending_score": 0.4844,
-    "count_24h": 19,
+    "trending_score": 0.4727,
+    "count_24h": 18,
     "count_7d": 126,
     "top_articles": [
       {
@@ -216,38 +216,11 @@
     ]
   },
   {
-    "cluster_id": "11",
-    "label": "trump, court, president",
-    "trending_score": 0.4759,
-    "count_24h": 13,
-    "count_7d": 101,
-    "top_articles": [
-      {
-        "id": "4808",
-        "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
-        "url": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 03:22:46"
-      },
-      {
-        "id": "4798",
-        "title": "Unstable Manhattan skyscraper triggers collapse fears",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/unstable-manhattan-skyscraper-triggers-collapse-fears?traffic_source=rss",
-        "date": "2026-07-08 01:09:49"
-      },
-      {
-        "id": "4754",
-        "title": "Prolonged hospitalisation of US Republican Mitch McConnell raises questions",
-        "url": "https://www.aljazeera.com/news/2026/7/7/prolonged-hospitalisation-of-us-republican-mitch-mcconnell-raises-questions?traffic_source=rss",
-        "date": "2026-07-07 20:26:16"
-      }
-    ]
-  },
-  {
     "cluster_id": "5",
     "label": "england, world, cup",
-    "trending_score": 0.4719,
-    "count_24h": 8,
-    "count_7d": 72,
+    "trending_score": 0.4522,
+    "count_24h": 7,
+    "count_7d": 71,
     "top_articles": [
       {
         "id": "4775",
@@ -270,11 +243,38 @@
     ]
   },
   {
+    "cluster_id": "11",
+    "label": "trump, court, president",
+    "trending_score": 0.4389,
+    "count_24h": 10,
+    "count_7d": 99,
+    "top_articles": [
+      {
+        "id": "4808",
+        "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
+        "url": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 03:22:46"
+      },
+      {
+        "id": "4798",
+        "title": "Unstable Manhattan skyscraper triggers collapse fears",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/unstable-manhattan-skyscraper-triggers-collapse-fears?traffic_source=rss",
+        "date": "2026-07-08 01:09:49"
+      },
+      {
+        "id": "4754",
+        "title": "Prolonged hospitalisation of US Republican Mitch McConnell raises questions",
+        "url": "https://www.aljazeera.com/news/2026/7/7/prolonged-hospitalisation-of-us-republican-mitch-mcconnell-raises-questions?traffic_source=rss",
+        "date": "2026-07-07 20:26:16"
+      }
+    ]
+  },
+  {
     "cluster_id": "8",
     "label": "said, court, police",
-    "trending_score": 0.4306,
-    "count_24h": 15,
-    "count_7d": 109,
+    "trending_score": 0.4153,
+    "count_24h": 14,
+    "count_7d": 107,
     "top_articles": [
       {
         "id": "4806",
@@ -299,9 +299,9 @@
   {
     "cluster_id": "10",
     "label": "said, market, new",
-    "trending_score": 0.424,
+    "trending_score": 0.4088,
     "count_24h": 16,
-    "count_7d": 87,
+    "count_7d": 83,
     "top_articles": [
       {
         "id": "4784",
@@ -326,9 +326,9 @@
   {
     "cluster_id": "1",
     "label": "said, police, killed",
-    "trending_score": 0.3509,
+    "trending_score": 0.3354,
     "count_24h": 10,
-    "count_7d": 106,
+    "count_7d": 102,
     "top_articles": [
       {
         "id": "4827",
@@ -353,9 +353,9 @@
   {
     "cluster_id": "7",
     "label": "burnham, defence, said",
-    "trending_score": 0.3041,
+    "trending_score": 0.299,
     "count_24h": 1,
-    "count_7d": 38,
+    "count_7d": 37,
     "top_articles": [
       {
         "id": "4830",
@@ -434,9 +434,9 @@
   {
     "cluster_id": "13",
     "label": "said, image, new",
-    "trending_score": 0.2156,
+    "trending_score": 0.2129,
     "count_24h": 3,
-    "count_7d": 91,
+    "count_7d": 89,
     "top_articles": [
       {
         "id": "4815",
@@ -461,9 +461,9 @@
   {
     "cluster_id": "16",
     "label": "latest, says, state",
-    "trending_score": 0.1194,
-    "count_24h": 7,
-    "count_7d": 27,
+    "trending_score": 0.1095,
+    "count_24h": 6,
+    "count_7d": 25,
     "top_articles": [
       {
         "id": "4783",

@@ -66,6 +66,19 @@
   },
   {
     "article_a": {
+      "id": "646",
+      "title": "AP source: Ex-FBI No. 2 official wrote memo on Comey firing",
+      "url": "https://www.taiwannews.com.tw/en/news/3444830"
+    },
+    "article_b": {
+      "id": "950",
+      "title": "AP source: Ex-FBI No. 2 official wrote memo on Comey firing",
+      "url": "https://www.taiwannews.com.tw/en/news/3444689"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
       "id": "782",
       "title": "The top iPhone and iPad apps on App Store",
       "url": "https://www.taiwannews.com.tw/en/news/3354448"
@@ -105,45 +118,6 @@
   },
   {
     "article_a": {
-      "id": "1158",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444863"
-    },
-    "article_b": {
-      "id": "1824",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3474429"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
-      "id": "1158",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444863"
-    },
-    "article_b": {
-      "id": "1808",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444691"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
-      "id": "1158",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444863"
-    },
-    "article_b": {
-      "id": "1442",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444596"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
       "id": "1344",
       "title": "Indulge in Exclusive Summer Experiences with Trump Hotels",
       "url": "https://www.taiwannews.com.tw/en/news/3444446"
@@ -157,32 +131,6 @@
   },
   {
     "article_a": {
-      "id": "1442",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444596"
-    },
-    "article_b": {
-      "id": "1824",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3474429"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
-      "id": "1442",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444596"
-    },
-    "article_b": {
-      "id": "1808",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444691"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
       "id": "1541",
       "title": "BC-TEN--French Open Results",
       "url": "https://www.taiwannews.com.tw/en/news/3444476"
@@ -191,19 +139,6 @@
       "id": "1594",
       "title": "BC-TEN--French Open Results",
       "url": "https://www.taiwannews.com.tw/en/news/3444499"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
-      "id": "1808",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3444691"
-    },
-    "article_b": {
-      "id": "1824",
-      "title": "Wednesday's Major League Linescores",
-      "url": "https://www.taiwannews.com.tw/en/news/3474429"
     },
     "similarity": 1.0000001192092896
   },
@@ -763,19 +698,6 @@
       "id": "667",
       "title": "Expanded Conference Glance",
       "url": "https://www.taiwannews.com.tw/en/news/3354593"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "646",
-      "title": "AP source: Ex-FBI No. 2 official wrote memo on Comey firing",
-      "url": "https://www.taiwannews.com.tw/en/news/3444830"
-    },
-    "article_b": {
-      "id": "950",
-      "title": "AP source: Ex-FBI No. 2 official wrote memo on Comey firing",
-      "url": "https://www.taiwannews.com.tw/en/news/3444689"
     },
     "similarity": 1.0
   },
@@ -1579,6 +1501,32 @@
       "url": "https://www.taiwannews.com.tw/en/news/3444863"
     },
     "article_b": {
+      "id": "1824",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3474429"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
+      "id": "1158",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444863"
+    },
+    "article_b": {
+      "id": "1808",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444691"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
+      "id": "1158",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444863"
+    },
+    "article_b": {
       "id": "1743",
       "title": "Wednesday's Major League Linescores",
       "url": "https://www.taiwannews.com.tw/en/news/3444878"
@@ -1608,6 +1556,19 @@
       "id": "1535",
       "title": "Wednesday's Major League Linescores",
       "url": "https://www.taiwannews.com.tw/en/news/3444833"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
+      "id": "1158",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444863"
+    },
+    "article_b": {
+      "id": "1442",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444596"
     },
     "similarity": 1.0
   },
@@ -2310,6 +2271,32 @@
       "id": "1422",
       "title": "Expanded Conference Glance",
       "url": "https://www.taiwannews.com.tw/en/news/3354637"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
+      "id": "1442",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444596"
+    },
+    "article_b": {
+      "id": "1824",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3474429"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
+      "id": "1442",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444596"
+    },
+    "article_b": {
+      "id": "1808",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444691"
     },
     "similarity": 1.0
   },
@@ -3069,6 +3056,19 @@
   },
   {
     "article_a": {
+      "id": "1808",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3444691"
+    },
+    "article_b": {
+      "id": "1824",
+      "title": "Wednesday's Major League Linescores",
+      "url": "https://www.taiwannews.com.tw/en/news/3474429"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
       "id": "1987",
       "title": "Tech Now",
       "url": "https://www.bbc.co.uk/iplayer/episode/m002x058?at_medium=RSS&at_campaign=rss"
@@ -3299,7 +3299,7 @@
       "title": "Influencers say they’re ‘honoured’ to attend Khamenei funeral",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/influencers-say-theyre-honoured-to-attend-khamenei-funeral?traffic_source=rss"
     },
-    "similarity": 0.9716673493385315
+    "similarity": 0.971667468547821
   },
   {
     "article_a": {
@@ -3364,7 +3364,7 @@
       "title": "How New York’s ‘Little Egypt’ celebrates the World Cup",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/how-new-yorks-little-egypt-celebrates-the-world-cup?traffic_source=rss"
     },
-    "similarity": 0.962218701839447
+    "similarity": 0.9622188210487366
   },
   {
     "article_a": {
@@ -3585,7 +3585,7 @@
       "title": "Fourteen killed in Saudi Arabia helicopter crash",
       "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss"
     },
-    "similarity": 0.9479902386665344
+    "similarity": 0.9479901194572449
   },
   {
     "article_a": {
@@ -3897,7 +3897,7 @@
       "title": "Khamenei’s coffin readied as Iran prepares for seven-day funeral",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/khameneis-coffin-readied-as-iran-prepares-for-seven-day-funeral?traffic_source=rss"
     },
-    "similarity": 0.9310814142227173
+    "similarity": 0.9310815334320068
   },
   {
     "article_a": {

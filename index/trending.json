@@ -2,8 +2,8 @@
   {
     "cluster_id": "9",
     "label": "said, farage, uk",
-    "trending_score": 0.7214,
-    "count_24h": 16,
+    "trending_score": 0.6927,
+    "count_24h": 14,
     "count_7d": 147,
     "top_articles": [
       {
@@ -29,9 +29,9 @@
   {
     "cluster_id": "12",
     "label": "world, cup, world cup",
-    "trending_score": 0.6915,
-    "count_24h": 15,
-    "count_7d": 229,
+    "trending_score": 0.6598,
+    "count_24h": 14,
+    "count_7d": 224,
     "top_articles": [
       {
         "id": "4820",
@@ -56,7 +56,7 @@
   {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.5892,
+    "trending_score": 0.5796,
     "count_24h": 9,
     "count_7d": 80,
     "top_articles": [
@@ -81,38 +81,11 @@
     ]
   },
   {
-    "cluster_id": "15",
-    "label": "israel, gaza, israeli",
-    "trending_score": 0.5096,
-    "count_24h": 8,
-    "count_7d": 138,
-    "top_articles": [
-      {
-        "id": "4818",
-        "title": "Childhood on hold: How Gaza’s children spend a summer without play",
-        "url": "https://www.aljazeera.com/features/2026/7/8/childhood-on-hold-how-gazas-children-spend-a-summer-without-play?traffic_source=rss",
-        "date": "2026-07-08 05:13:20"
-      },
-      {
-        "id": "4819",
-        "title": "Syria grapples with unrest as government faces old and new threats",
-        "url": "https://www.aljazeera.com/news/2026/7/8/syria-grapples-with-unrest-as-government-faces-old-and-new-threats?traffic_source=rss",
-        "date": "2026-07-08 05:10:23"
-      },
-      {
-        "id": "4800",
-        "title": "Marine Le Pen to run for French Presidency despite criminal conviction",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/marine-le-pen-to-run-for-french-presidency-despite-criminal-conviction?traffic_source=rss",
-        "date": "2026-07-08 00:23:53"
-      }
-    ]
-  },
-  {
     "cluster_id": "2",
     "label": "wimbledon, tennis, williams",
-    "trending_score": 0.4948,
+    "trending_score": 0.4896,
     "count_24h": 4,
-    "count_7d": 44,
+    "count_7d": 43,
     "top_articles": [
       {
         "id": "4816",
@@ -131,6 +104,33 @@
         "title": "'It is not normal' - but extraordinary Djokovic defies odds once again",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/cy8wev0p0wno?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-07 23:46:39"
+      }
+    ]
+  },
+  {
+    "cluster_id": "15",
+    "label": "israel, gaza, israeli",
+    "trending_score": 0.4696,
+    "count_24h": 5,
+    "count_7d": 134,
+    "top_articles": [
+      {
+        "id": "4818",
+        "title": "Childhood on hold: How Gaza’s children spend a summer without play",
+        "url": "https://www.aljazeera.com/features/2026/7/8/childhood-on-hold-how-gazas-children-spend-a-summer-without-play?traffic_source=rss",
+        "date": "2026-07-08 05:13:20"
+      },
+      {
+        "id": "4819",
+        "title": "Syria grapples with unrest as government faces old and new threats",
+        "url": "https://www.aljazeera.com/news/2026/7/8/syria-grapples-with-unrest-as-government-faces-old-and-new-threats?traffic_source=rss",
+        "date": "2026-07-08 05:10:23"
+      },
+      {
+        "id": "4800",
+        "title": "Marine Le Pen to run for French Presidency despite criminal conviction",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/marine-le-pen-to-run-for-french-presidency-despite-criminal-conviction?traffic_source=rss",
+        "date": "2026-07-08 00:23:53"
       }
     ]
   },
@@ -164,9 +164,9 @@
   {
     "cluster_id": "14",
     "label": "russia, trump, nato",
-    "trending_score": 0.4456,
-    "count_24h": 9,
-    "count_7d": 80,
+    "trending_score": 0.3992,
+    "count_24h": 6,
+    "count_7d": 78,
     "top_articles": [
       {
         "id": "4817",
@@ -189,91 +189,10 @@
     ]
   },
   {
-    "cluster_id": "5",
-    "label": "england, world, cup",
-    "trending_score": 0.382,
-    "count_24h": 4,
-    "count_7d": 70,
-    "top_articles": [
-      {
-        "id": "4775",
-        "title": "Fulham appoint Arbeloa as Silva's successor",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvgjnlj0d1go?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 23:04:42"
-      },
-      {
-        "id": "4722",
-        "title": "Superb England inflict record T20 defeat on India",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cn59nkwp275o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 19:45:38"
-      },
-      {
-        "id": "4723",
-        "title": "Shades of Keane and Gerrard in Bellingham display - Rooney",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c70ygx549d0o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 19:23:35"
-      }
-    ]
-  },
-  {
-    "cluster_id": "11",
-    "label": "trump, court, president",
-    "trending_score": 0.3685,
-    "count_24h": 6,
-    "count_7d": 91,
-    "top_articles": [
-      {
-        "id": "4808",
-        "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
-        "url": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 03:22:46"
-      },
-      {
-        "id": "4798",
-        "title": "Unstable Manhattan skyscraper triggers collapse fears",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/unstable-manhattan-skyscraper-triggers-collapse-fears?traffic_source=rss",
-        "date": "2026-07-08 01:09:49"
-      },
-      {
-        "id": "4754",
-        "title": "Prolonged hospitalisation of US Republican Mitch McConnell raises questions",
-        "url": "https://www.aljazeera.com/news/2026/7/7/prolonged-hospitalisation-of-us-republican-mitch-mcconnell-raises-questions?traffic_source=rss",
-        "date": "2026-07-07 20:26:16"
-      }
-    ]
-  },
-  {
-    "cluster_id": "6",
-    "label": "ai, new, tech",
-    "trending_score": 0.3646,
-    "count_24h": 11,
-    "count_7d": 115,
-    "top_articles": [
-      {
-        "id": "4791",
-        "title": "Australia dock workers call for 28-hour week in AI talks",
-        "url": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 01:48:47"
-      },
-      {
-        "id": "4766",
-        "title": "Final extension: Startup Battlefield Australia applications now close July 20",
-        "url": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
-        "date": "2026-07-07 22:30:00"
-      },
-      {
-        "id": "4767",
-        "title": "Meta rolls out Muse, a new AI image generator",
-        "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-        "date": "2026-07-07 22:18:10"
-      }
-    ]
-  },
-  {
     "cluster_id": "8",
     "label": "said, court, police",
-    "trending_score": 0.3597,
-    "count_24h": 11,
+    "trending_score": 0.3514,
+    "count_24h": 10,
     "count_7d": 100,
     "top_articles": [
       {
@@ -297,38 +216,92 @@
     ]
   },
   {
-    "cluster_id": "10",
-    "label": "said, market, new",
-    "trending_score": 0.3252,
-    "count_24h": 11,
-    "count_7d": 76,
+    "cluster_id": "5",
+    "label": "england, world, cup",
+    "trending_score": 0.3483,
+    "count_24h": 3,
+    "count_7d": 67,
     "top_articles": [
       {
-        "id": "4784",
-        "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
-        "url": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 01:04:44"
+        "id": "4775",
+        "title": "Fulham appoint Arbeloa as Silva's successor",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvgjnlj0d1go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 23:04:42"
       },
       {
-        "id": "4804",
-        "title": "Australian house prices are falling but are still almost double what they were a decade ago",
-        "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/08/australia-house-prices-falling-still-doubled-over-decade-one-big-chart",
-        "date": "2026-07-08 00:00:14"
+        "id": "4722",
+        "title": "Superb England inflict record T20 defeat on India",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cn59nkwp275o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 19:45:38"
       },
       {
-        "id": "4785",
-        "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
-        "url": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 23:11:48"
+        "id": "4723",
+        "title": "Shades of Keane and Gerrard in Bellingham display - Rooney",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c70ygx549d0o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 19:23:35"
+      }
+    ]
+  },
+  {
+    "cluster_id": "6",
+    "label": "ai, new, tech",
+    "trending_score": 0.3359,
+    "count_24h": 9,
+    "count_7d": 111,
+    "top_articles": [
+      {
+        "id": "4791",
+        "title": "Australia dock workers call for 28-hour week in AI talks",
+        "url": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 01:48:47"
+      },
+      {
+        "id": "4766",
+        "title": "Final extension: Startup Battlefield Australia applications now close July 20",
+        "url": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
+        "date": "2026-07-07 22:30:00"
+      },
+      {
+        "id": "4767",
+        "title": "Meta rolls out Muse, a new AI image generator",
+        "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+        "date": "2026-07-07 22:18:10"
+      }
+    ]
+  },
+  {
+    "cluster_id": "11",
+    "label": "trump, court, president",
+    "trending_score": 0.3333,
+    "count_24h": 4,
+    "count_7d": 90,
+    "top_articles": [
+      {
+        "id": "4808",
+        "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
+        "url": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 03:22:46"
+      },
+      {
+        "id": "4798",
+        "title": "Unstable Manhattan skyscraper triggers collapse fears",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/unstable-manhattan-skyscraper-triggers-collapse-fears?traffic_source=rss",
+        "date": "2026-07-08 01:09:49"
+      },
+      {
+        "id": "4754",
+        "title": "Prolonged hospitalisation of US Republican Mitch McConnell raises questions",
+        "url": "https://www.aljazeera.com/news/2026/7/7/prolonged-hospitalisation-of-us-republican-mitch-mcconnell-raises-questions?traffic_source=rss",
+        "date": "2026-07-07 20:26:16"
       }
     ]
   },
   {
     "cluster_id": "1",
     "label": "said, police, killed",
-    "trending_score": 0.3012,
+    "trending_score": 0.2935,
     "count_24h": 7,
-    "count_7d": 98,
+    "count_7d": 96,
     "top_articles": [
       {
         "id": "4827",
@@ -347,6 +320,33 @@
         "title": "Search under way for cargo plane that vanished off Pakistan coast",
         "url": "https://www.bbc.co.uk/news/articles/cn4dn1d55njo?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-08 01:11:50"
+      }
+    ]
+  },
+  {
+    "cluster_id": "10",
+    "label": "said, market, new",
+    "trending_score": 0.2903,
+    "count_24h": 8,
+    "count_7d": 71,
+    "top_articles": [
+      {
+        "id": "4784",
+        "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
+        "url": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 01:04:44"
+      },
+      {
+        "id": "4804",
+        "title": "Australian house prices are falling but are still almost double what they were a decade ago",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/08/australia-house-prices-falling-still-doubled-over-decade-one-big-chart",
+        "date": "2026-07-08 00:00:14"
+      },
+      {
+        "id": "4785",
+        "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
+        "url": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 23:11:48"
       }
     ]
   },
@@ -380,9 +380,9 @@
   {
     "cluster_id": "17",
     "label": "venezuela, 01, 00",
-    "trending_score": 0.2403,
+    "trending_score": 0.2209,
     "count_24h": 1,
-    "count_7d": 38,
+    "count_7d": 36,
     "top_articles": [
       {
         "id": "4752",
@@ -407,8 +407,8 @@
   {
     "cluster_id": "4",
     "label": "china, taiwan, taipei",
-    "trending_score": 0.2203,
-    "count_24h": 2,
+    "trending_score": 0.2004,
+    "count_24h": 1,
     "count_7d": 49,
     "top_articles": [
       {
@@ -434,9 +434,9 @@
   {
     "cluster_id": "13",
     "label": "said, image, new",
-    "trending_score": 0.1819,
+    "trending_score": 0.1765,
     "count_24h": 1,
-    "count_7d": 84,
+    "count_7d": 83,
     "top_articles": [
       {
         "id": "4815",
@@ -461,7 +461,7 @@
   {
     "cluster_id": "16",
     "label": "latest, says, state",
-    "trending_score": 0.0933,
+    "trending_score": 0.0896,
     "count_24h": 4,
     "count_7d": 24,
     "top_articles": [

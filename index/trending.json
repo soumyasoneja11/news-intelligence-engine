@@ -2,9 +2,9 @@
   {
     "cluster_id": "9",
     "label": "said, farage, uk",
-    "trending_score": 0.6565,
-    "count_24h": 11,
-    "count_7d": 146,
+    "trending_score": 0.6088,
+    "count_24h": 9,
+    "count_7d": 142,
     "top_articles": [
       {
         "id": "4810",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "12",
     "label": "world, cup, world cup",
-    "trending_score": 0.6047,
-    "count_24h": 10,
-    "count_7d": 223,
+    "trending_score": 0.562,
+    "count_24h": 8,
+    "count_7d": 222,
     "top_articles": [
       {
         "id": "4820",
@@ -56,9 +56,9 @@
   {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.5478,
-    "count_24h": 8,
-    "count_7d": 79,
+    "trending_score": 0.5255,
+    "count_24h": 7,
+    "count_7d": 78,
     "top_articles": [
       {
         "id": "4821",
@@ -81,38 +81,11 @@
     ]
   },
   {
-    "cluster_id": "2",
-    "label": "wimbledon, tennis, williams",
-    "trending_score": 0.474,
-    "count_24h": 4,
-    "count_7d": 43,
-    "top_articles": [
-      {
-        "id": "4816",
-        "title": "What must Fery do to become Wimbledon semi-finalist?",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 05:41:31"
-      },
-      {
-        "id": "4801",
-        "title": "Djokovic wins five-hour epic to earn Sinner showdown at Wimbledon",
-        "url": "https://www.aljazeera.com/sports/2026/7/8/djokovic-wins-five-hour-epic-to-earn-sinner-showdown-at-wimbledon?traffic_source=rss",
-        "date": "2026-07-08 00:15:21"
-      },
-      {
-        "id": "4774",
-        "title": "'It is not normal' - but extraordinary Djokovic defies odds once again",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cy8wev0p0wno?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 23:46:39"
-      }
-    ]
-  },
-  {
     "cluster_id": "18",
     "label": "heat, heatwave, temperatures",
-    "trending_score": 0.4486,
+    "trending_score": 0.4439,
     "count_24h": 5,
-    "count_7d": 42,
+    "count_7d": 41,
     "top_articles": [
       {
         "id": "4812",
@@ -137,7 +110,7 @@
   {
     "cluster_id": "15",
     "label": "israel, gaza, israeli",
-    "trending_score": 0.4311,
+    "trending_score": 0.4263,
     "count_24h": 4,
     "count_7d": 131,
     "top_articles": [
@@ -162,9 +135,36 @@
     ]
   },
   {
+    "cluster_id": "2",
+    "label": "wimbledon, tennis, williams",
+    "trending_score": 0.4115,
+    "count_24h": 3,
+    "count_7d": 43,
+    "top_articles": [
+      {
+        "id": "4816",
+        "title": "What must Fery do to become Wimbledon semi-finalist?",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 05:41:31"
+      },
+      {
+        "id": "4801",
+        "title": "Djokovic wins five-hour epic to earn Sinner showdown at Wimbledon",
+        "url": "https://www.aljazeera.com/sports/2026/7/8/djokovic-wins-five-hour-epic-to-earn-sinner-showdown-at-wimbledon?traffic_source=rss",
+        "date": "2026-07-08 00:15:21"
+      },
+      {
+        "id": "4774",
+        "title": "'It is not normal' - but extraordinary Djokovic defies odds once again",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cy8wev0p0wno?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 23:46:39"
+      }
+    ]
+  },
+  {
     "cluster_id": "14",
     "label": "russia, trump, nato",
-    "trending_score": 0.3367,
+    "trending_score": 0.3306,
     "count_24h": 3,
     "count_7d": 77,
     "top_articles": [
@@ -189,10 +189,37 @@
     ]
   },
   {
+    "cluster_id": "11",
+    "label": "trump, court, president",
+    "trending_score": 0.2889,
+    "count_24h": 2,
+    "count_7d": 81,
+    "top_articles": [
+      {
+        "id": "4808",
+        "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
+        "url": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 03:22:46"
+      },
+      {
+        "id": "4798",
+        "title": "Unstable Manhattan skyscraper triggers collapse fears",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/unstable-manhattan-skyscraper-triggers-collapse-fears?traffic_source=rss",
+        "date": "2026-07-08 01:09:49"
+      },
+      {
+        "id": "4754",
+        "title": "Prolonged hospitalisation of US Republican Mitch McConnell raises questions",
+        "url": "https://www.aljazeera.com/news/2026/7/7/prolonged-hospitalisation-of-us-republican-mitch-mcconnell-raises-questions?traffic_source=rss",
+        "date": "2026-07-07 20:26:16"
+      }
+    ]
+  },
+  {
     "cluster_id": "5",
     "label": "england, world, cup",
-    "trending_score": 0.3034,
-    "count_24h": 1,
+    "trending_score": 0.2865,
+    "count_24h": 0,
     "count_7d": 63,
     "top_articles": [
       {
@@ -216,38 +243,11 @@
     ]
   },
   {
-    "cluster_id": "11",
-    "label": "trump, court, president",
-    "trending_score": 0.2963,
-    "count_24h": 2,
-    "count_7d": 85,
-    "top_articles": [
-      {
-        "id": "4808",
-        "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
-        "url": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 03:22:46"
-      },
-      {
-        "id": "4798",
-        "title": "Unstable Manhattan skyscraper triggers collapse fears",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/unstable-manhattan-skyscraper-triggers-collapse-fears?traffic_source=rss",
-        "date": "2026-07-08 01:09:49"
-      },
-      {
-        "id": "4754",
-        "title": "Prolonged hospitalisation of US Republican Mitch McConnell raises questions",
-        "url": "https://www.aljazeera.com/news/2026/7/7/prolonged-hospitalisation-of-us-republican-mitch-mcconnell-raises-questions?traffic_source=rss",
-        "date": "2026-07-07 20:26:16"
-      }
-    ]
-  },
-  {
     "cluster_id": "1",
     "label": "said, police, killed",
-    "trending_score": 0.2935,
-    "count_24h": 7,
-    "count_7d": 96,
+    "trending_score": 0.2593,
+    "count_24h": 4,
+    "count_7d": 92,
     "top_articles": [
       {
         "id": "4827",
@@ -266,87 +266,6 @@
         "title": "Search under way for cargo plane that vanished off Pakistan coast",
         "url": "https://www.bbc.co.uk/news/articles/cn4dn1d55njo?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-08 01:11:50"
-      }
-    ]
-  },
-  {
-    "cluster_id": "6",
-    "label": "ai, new, tech",
-    "trending_score": 0.2773,
-    "count_24h": 3,
-    "count_7d": 108,
-    "top_articles": [
-      {
-        "id": "4791",
-        "title": "Australia dock workers call for 28-hour week in AI talks",
-        "url": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 01:48:47"
-      },
-      {
-        "id": "4766",
-        "title": "Final extension: Startup Battlefield Australia applications now close July 20",
-        "url": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
-        "date": "2026-07-07 22:30:00"
-      },
-      {
-        "id": "4767",
-        "title": "Meta rolls out Muse, a new AI image generator",
-        "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-        "date": "2026-07-07 22:18:10"
-      }
-    ]
-  },
-  {
-    "cluster_id": "10",
-    "label": "said, market, new",
-    "trending_score": 0.2644,
-    "count_24h": 6,
-    "count_7d": 69,
-    "top_articles": [
-      {
-        "id": "4784",
-        "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
-        "url": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 01:04:44"
-      },
-      {
-        "id": "4804",
-        "title": "Australian house prices are falling but are still almost double what they were a decade ago",
-        "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/08/australia-house-prices-falling-still-doubled-over-decade-one-big-chart",
-        "date": "2026-07-08 00:00:14"
-      },
-      {
-        "id": "4785",
-        "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
-        "url": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 23:11:48"
-      }
-    ]
-  },
-  {
-    "cluster_id": "8",
-    "label": "said, court, police",
-    "trending_score": 0.2611,
-    "count_24h": 3,
-    "count_7d": 98,
-    "top_articles": [
-      {
-        "id": "4806",
-        "title": "US charges Indian criminal gang leader with organising murder of Canadian Sikh activist",
-        "url": "https://www.theguardian.com/world/2026/jul/08/murder-canada-sikh-activist-hardeep-singh-nijjar-indian-criminal-gang-leader-charged",
-        "date": "2026-07-08 03:13:11"
-      },
-      {
-        "id": "4807",
-        "title": "Karmelo Anthony seeks new trial after 35-year sentence in killing of Austin Metcalf",
-        "url": "https://www.theguardian.com/us-news/2026/jul/07/karmelo-anthony-new-trial-austin-metcalf",
-        "date": "2026-07-08 01:58:15"
-      },
-      {
-        "id": "4790",
-        "title": "Utah boarding school where Paris Hilton alleged abuse as a teen loses its licence",
-        "url": "https://www.bbc.co.uk/news/articles/cjdg4r3k3emo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 01:51:09"
       }
     ]
   },
@@ -378,11 +297,92 @@
     ]
   },
   {
+    "cluster_id": "6",
+    "label": "ai, new, tech",
+    "trending_score": 0.2539,
+    "count_24h": 1,
+    "count_7d": 105,
+    "top_articles": [
+      {
+        "id": "4791",
+        "title": "Australia dock workers call for 28-hour week in AI talks",
+        "url": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 01:48:47"
+      },
+      {
+        "id": "4766",
+        "title": "Final extension: Startup Battlefield Australia applications now close July 20",
+        "url": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
+        "date": "2026-07-07 22:30:00"
+      },
+      {
+        "id": "4767",
+        "title": "Meta rolls out Muse, a new AI image generator",
+        "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+        "date": "2026-07-07 22:18:10"
+      }
+    ]
+  },
+  {
+    "cluster_id": "8",
+    "label": "said, court, police",
+    "trending_score": 0.25,
+    "count_24h": 3,
+    "count_7d": 96,
+    "top_articles": [
+      {
+        "id": "4806",
+        "title": "US charges Indian criminal gang leader with organising murder of Canadian Sikh activist",
+        "url": "https://www.theguardian.com/world/2026/jul/08/murder-canada-sikh-activist-hardeep-singh-nijjar-indian-criminal-gang-leader-charged",
+        "date": "2026-07-08 03:13:11"
+      },
+      {
+        "id": "4807",
+        "title": "Karmelo Anthony seeks new trial after 35-year sentence in killing of Austin Metcalf",
+        "url": "https://www.theguardian.com/us-news/2026/jul/07/karmelo-anthony-new-trial-austin-metcalf",
+        "date": "2026-07-08 01:58:15"
+      },
+      {
+        "id": "4790",
+        "title": "Utah boarding school where Paris Hilton alleged abuse as a teen loses its licence",
+        "url": "https://www.bbc.co.uk/news/articles/cjdg4r3k3emo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 01:51:09"
+      }
+    ]
+  },
+  {
+    "cluster_id": "10",
+    "label": "said, market, new",
+    "trending_score": 0.2325,
+    "count_24h": 3,
+    "count_7d": 69,
+    "top_articles": [
+      {
+        "id": "4784",
+        "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
+        "url": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 01:04:44"
+      },
+      {
+        "id": "4804",
+        "title": "Australian house prices are falling but are still almost double what they were a decade ago",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/08/australia-house-prices-falling-still-doubled-over-decade-one-big-chart",
+        "date": "2026-07-08 00:00:14"
+      },
+      {
+        "id": "4785",
+        "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
+        "url": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 23:11:48"
+      }
+    ]
+  },
+  {
     "cluster_id": "4",
     "label": "china, taiwan, taipei",
-    "trending_score": 0.1938,
+    "trending_score": 0.1916,
     "count_24h": 1,
-    "count_7d": 49,
+    "count_7d": 48,
     "top_articles": [
       {
         "id": "4786",
@@ -434,9 +434,9 @@
   {
     "cluster_id": "13",
     "label": "said, image, new",
-    "trending_score": 0.159,
+    "trending_score": 0.1523,
     "count_24h": 1,
-    "count_7d": 82,
+    "count_7d": 80,
     "top_articles": [
       {
         "id": "4815",
@@ -461,8 +461,8 @@
   {
     "cluster_id": "16",
     "label": "latest, says, state",
-    "trending_score": 0.0709,
-    "count_24h": 2,
+    "trending_score": 0.0634,
+    "count_24h": 1,
     "count_7d": 24,
     "top_articles": [
       {
@@ -488,7 +488,7 @@
   {
     "cluster_id": "0",
     "label": "win, league, major",
-    "trending_score": 0.0206,
+    "trending_score": 0.0138,
     "count_24h": 0,
     "count_7d": 3,
     "top_articles": [

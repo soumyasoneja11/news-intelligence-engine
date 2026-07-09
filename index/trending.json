@@ -2,7 +2,7 @@
   {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.5179,
+    "trending_score": 0.5089,
     "count_24h": 0,
     "count_7d": 87,
     "top_articles": [
@@ -27,9 +27,36 @@
     ]
   },
   {
+    "cluster_id": "9",
+    "label": "world, cup, world cup",
+    "trending_score": 0.4076,
+    "count_24h": 0,
+    "count_7d": 185,
+    "top_articles": [
+      {
+        "id": "4986",
+        "title": "Man Utd agree deal for Chelsea's Santos",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr7xkgd8vdko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:09:53"
+      },
+      {
+        "id": "4991",
+        "title": "Egypt criticises ‘influential refereeing’ in Argentina World Cup match",
+        "url": "https://www.aljazeera.com/sports/2026/7/8/egypt-criticises-influential-refereeing-in-argentina-world-cup-match?traffic_source=rss",
+        "date": "2026-07-08 16:41:58"
+      },
+      {
+        "id": "4982",
+        "title": "Are Argentina being treated favourably at World Cup?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 15:37:07"
+      }
+    ]
+  },
+  {
     "cluster_id": "11",
     "label": "russia, ukraine, russian",
-    "trending_score": 0.4199,
+    "trending_score": 0.4033,
     "count_24h": 0,
     "count_7d": 92,
     "top_articles": [
@@ -54,38 +81,11 @@
     ]
   },
   {
-    "cluster_id": "9",
-    "label": "world, cup, world cup",
-    "trending_score": 0.4194,
-    "count_24h": 0,
-    "count_7d": 187,
-    "top_articles": [
-      {
-        "id": "4986",
-        "title": "Man Utd agree deal for Chelsea's Santos",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr7xkgd8vdko?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 17:09:53"
-      },
-      {
-        "id": "4991",
-        "title": "Egypt criticises ‘influential refereeing’ in Argentina World Cup match",
-        "url": "https://www.aljazeera.com/sports/2026/7/8/egypt-criticises-influential-refereeing-in-argentina-world-cup-match?traffic_source=rss",
-        "date": "2026-07-08 16:41:58"
-      },
-      {
-        "id": "4982",
-        "title": "Are Argentina being treated favourably at World Cup?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 15:37:07"
-      }
-    ]
-  },
-  {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.3365,
+    "trending_score": 0.3308,
     "count_24h": 0,
-    "count_7d": 109,
+    "count_7d": 106,
     "top_articles": [
       {
         "id": "4976",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "12",
     "label": "israel, gaza, israeli",
-    "trending_score": 0.32,
+    "trending_score": 0.3111,
     "count_24h": 0,
-    "count_7d": 99,
+    "count_7d": 98,
     "top_articles": [
       {
         "id": "4955",
@@ -191,7 +191,7 @@
   {
     "cluster_id": "5",
     "label": "england, world, cup",
-    "trending_score": 0.2709,
+    "trending_score": 0.2635,
     "count_24h": 0,
     "count_7d": 86,
     "top_articles": [
@@ -218,9 +218,9 @@
   {
     "cluster_id": "14",
     "label": "said, court, police",
-    "trending_score": 0.2589,
+    "trending_score": 0.24,
     "count_24h": 0,
-    "count_7d": 123,
+    "count_7d": 122,
     "top_articles": [
       {
         "id": "4975",
@@ -245,9 +245,9 @@
   {
     "cluster_id": "1",
     "label": "said, health, care",
-    "trending_score": 0.2407,
+    "trending_score": 0.229,
     "count_24h": 0,
-    "count_7d": 67,
+    "count_7d": 65,
     "top_articles": [
       {
         "id": "4924",
@@ -272,9 +272,9 @@
   {
     "cluster_id": "6",
     "label": "ai, new, tech",
-    "trending_score": 0.2051,
+    "trending_score": 0.1881,
     "count_24h": 0,
-    "count_7d": 103,
+    "count_7d": 101,
     "top_articles": [
       {
         "id": "4964",
@@ -293,33 +293,6 @@
         "title": "Apple to produce Made in America wireless chips with Broadcom",
         "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
         "date": "2026-07-08 14:43:00"
-      }
-    ]
-  },
-  {
-    "cluster_id": "10",
-    "label": "trump, court, president",
-    "trending_score": 0.1582,
-    "count_24h": 0,
-    "count_7d": 83,
-    "top_articles": [
-      {
-        "id": "4998",
-        "title": "Marine Le Pen will run for election in 2027. Will she have to wear an electronic tag?",
-        "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-election-2027",
-        "date": "2026-07-08 17:22:01"
-      },
-      {
-        "id": "4992",
-        "title": "Far-right leader Le Pen starts campaign, faces mixed reactions in France",
-        "url": "https://www.aljazeera.com/news/2026/7/8/far-right-leader-le-pen-starts-campaign-faces-mixed-reactions-in-france?traffic_source=rss",
-        "date": "2026-07-08 16:17:12"
-      },
-      {
-        "id": "4961",
-        "title": "US judge throws out Trump’s $3.8bn defamation lawsuit against Washington Post",
-        "url": "https://www.theguardian.com/media/2026/jul/08/trump-washington-post-defamation-lawsuit",
-        "date": "2026-07-08 15:18:24"
       }
     ]
   },
@@ -351,9 +324,36 @@
     ]
   },
   {
+    "cluster_id": "10",
+    "label": "trump, court, president",
+    "trending_score": 0.1436,
+    "count_24h": 0,
+    "count_7d": 81,
+    "top_articles": [
+      {
+        "id": "4998",
+        "title": "Marine Le Pen will run for election in 2027. Will she have to wear an electronic tag?",
+        "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-election-2027",
+        "date": "2026-07-08 17:22:01"
+      },
+      {
+        "id": "4992",
+        "title": "Far-right leader Le Pen starts campaign, faces mixed reactions in France",
+        "url": "https://www.aljazeera.com/news/2026/7/8/far-right-leader-le-pen-starts-campaign-faces-mixed-reactions-in-france?traffic_source=rss",
+        "date": "2026-07-08 16:17:12"
+      },
+      {
+        "id": "4961",
+        "title": "US judge throws out Trump’s $3.8bn defamation lawsuit against Washington Post",
+        "url": "https://www.theguardian.com/media/2026/jul/08/trump-washington-post-defamation-lawsuit",
+        "date": "2026-07-08 15:18:24"
+      }
+    ]
+  },
+  {
     "cluster_id": "16",
     "label": "venezuela, 01, earthquakes",
-    "trending_score": 0.1364,
+    "trending_score": 0.125,
     "count_24h": 0,
     "count_7d": 27,
     "top_articles": [
@@ -380,7 +380,7 @@
   {
     "cluster_id": "7",
     "label": "said, new, market",
-    "trending_score": 0.1297,
+    "trending_score": 0.1222,
     "count_24h": 0,
     "count_7d": 53,
     "top_articles": [
@@ -434,9 +434,9 @@
   {
     "cluster_id": "15",
     "label": "china, says, conference glance",
-    "trending_score": 0.0558,
+    "trending_score": 0.0546,
     "count_24h": 0,
-    "count_7d": 47,
+    "count_7d": 46,
     "top_articles": [
       {
         "id": "4730",

@@ -2,8 +2,8 @@
   {
     "cluster_id": "9",
     "label": "said, farage, uk",
-    "trending_score": 0.5515,
-    "count_24h": 6,
+    "trending_score": 0.4828,
+    "count_24h": 1,
     "count_7d": 142,
     "top_articles": [
       {
@@ -29,9 +29,9 @@
   {
     "cluster_id": "12",
     "label": "world, cup, world cup",
-    "trending_score": 0.5317,
-    "count_24h": 7,
-    "count_7d": 221,
+    "trending_score": 0.4187,
+    "count_24h": 0,
+    "count_7d": 217,
     "top_articles": [
       {
         "id": "4820",
@@ -56,9 +56,9 @@
   {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.4459,
-    "count_24h": 4,
-    "count_7d": 77,
+    "trending_score": 0.3567,
+    "count_24h": 0,
+    "count_7d": 76,
     "top_articles": [
       {
         "id": "4821",
@@ -83,9 +83,9 @@
   {
     "cluster_id": "15",
     "label": "israel, gaza, israeli",
-    "trending_score": 0.3926,
-    "count_24h": 2,
-    "count_7d": 131,
+    "trending_score": 0.3558,
+    "count_24h": 0,
+    "count_7d": 129,
     "top_articles": [
       {
         "id": "4818",
@@ -104,33 +104,6 @@
         "title": "Marine Le Pen to run for French Presidency despite criminal conviction",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/marine-le-pen-to-run-for-french-presidency-despite-criminal-conviction?traffic_source=rss",
         "date": "2026-07-08 00:23:53"
-      }
-    ]
-  },
-  {
-    "cluster_id": "18",
-    "label": "heat, heatwave, temperatures",
-    "trending_score": 0.3879,
-    "count_24h": 3,
-    "count_7d": 41,
-    "top_articles": [
-      {
-        "id": "4812",
-        "title": "Your tips from the last heatwave on how to cope in extreme temperatures",
-        "url": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 05:35:17"
-      },
-      {
-        "id": "4811",
-        "title": "More or less protein? The foods to get you through a heatwave",
-        "url": "https://www.bbc.co.uk/news/articles/clyw89g3443o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 05:29:23"
-      },
-      {
-        "id": "4822",
-        "title": "99% of people on Earth will get sunlight at the same time this Wednesday",
-        "url": "https://www.aljazeera.com/news/2026/7/8/99-of-people-on-earth-will-get-sunlight-at-the-same-time-this-wednesday?traffic_source=rss",
-        "date": "2026-07-08 04:23:58"
       }
     ]
   },
@@ -162,36 +135,36 @@
     ]
   },
   {
-    "cluster_id": "14",
-    "label": "russia, trump, nato",
-    "trending_score": 0.3306,
-    "count_24h": 3,
-    "count_7d": 77,
+    "cluster_id": "18",
+    "label": "heat, heatwave, temperatures",
+    "trending_score": 0.285,
+    "count_24h": 0,
+    "count_7d": 40,
     "top_articles": [
       {
-        "id": "4817",
-        "title": "At UN, Cuba rallies support against ‘ruthless’ US blockade",
-        "url": "https://www.aljazeera.com/news/2026/7/8/at-un-cuba-rallies-support-against-ruthless-us-blockade?traffic_source=rss",
-        "date": "2026-07-08 05:18:52"
+        "id": "4812",
+        "title": "Your tips from the last heatwave on how to cope in extreme temperatures",
+        "url": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 05:35:17"
       },
       {
-        "id": "4809",
-        "title": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
-        "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 05:05:31"
+        "id": "4811",
+        "title": "More or less protein? The foods to get you through a heatwave",
+        "url": "https://www.bbc.co.uk/news/articles/clyw89g3443o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 05:29:23"
       },
       {
-        "id": "4782",
-        "title": "Nato allies announce £37bn for new missile project",
-        "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 03:12:00"
+        "id": "4822",
+        "title": "99% of people on Earth will get sunlight at the same time this Wednesday",
+        "url": "https://www.aljazeera.com/news/2026/7/8/99-of-people-on-earth-will-get-sunlight-at-the-same-time-this-wednesday?traffic_source=rss",
+        "date": "2026-07-08 04:23:58"
       }
     ]
   },
   {
     "cluster_id": "5",
     "label": "england, world, cup",
-    "trending_score": 0.2809,
+    "trending_score": 0.2725,
     "count_24h": 0,
     "count_7d": 61,
     "top_articles": [
@@ -216,11 +189,38 @@
     ]
   },
   {
+    "cluster_id": "14",
+    "label": "russia, trump, nato",
+    "trending_score": 0.2722,
+    "count_24h": 0,
+    "count_7d": 75,
+    "top_articles": [
+      {
+        "id": "4817",
+        "title": "At UN, Cuba rallies support against ‘ruthless’ US blockade",
+        "url": "https://www.aljazeera.com/news/2026/7/8/at-un-cuba-rallies-support-against-ruthless-us-blockade?traffic_source=rss",
+        "date": "2026-07-08 05:18:52"
+      },
+      {
+        "id": "4809",
+        "title": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
+        "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 05:05:31"
+      },
+      {
+        "id": "4782",
+        "title": "Nato allies announce £37bn for new missile project",
+        "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 03:12:00"
+      }
+    ]
+  },
+  {
     "cluster_id": "11",
     "label": "trump, court, president",
-    "trending_score": 0.2593,
-    "count_24h": 1,
-    "count_7d": 80,
+    "trending_score": 0.2352,
+    "count_24h": 0,
+    "count_7d": 79,
     "top_articles": [
       {
         "id": "4808",
@@ -243,92 +243,11 @@
     ]
   },
   {
-    "cluster_id": "7",
-    "label": "burnham, defence, said",
-    "trending_score": 0.2577,
-    "count_24h": 1,
-    "count_7d": 35,
-    "top_articles": [
-      {
-        "id": "4830",
-        "title": "Almost no progress made on UK regional household income divide in 30 years, report finds",
-        "url": "https://www.theguardian.com/business/2026/jul/08/almost-no-progress-made-on-uk-regional-household-income-divide-in-30-years-report-finds",
-        "date": "2026-07-08 05:00:21"
-      },
-      {
-        "id": "4613",
-        "title": "Thames Water creditors ‘will bid for company even if it is nationalised’",
-        "url": "https://www.theguardian.com/business/2026/jul/07/thames-water-creditors-bid-nationalised-rescue-ofwat",
-        "date": "2026-07-07 10:06:42"
-      },
-      {
-        "id": "4568",
-        "title": "Tuesday briefing: What challenges would Ed Miliband face as chancellor?",
-        "url": "https://www.theguardian.com/world/2026/jul/07/tuesday-briefing-first-edition-ed-miliband-next-chancellor",
-        "date": "2026-07-07 05:46:48"
-      }
-    ]
-  },
-  {
-    "cluster_id": "1",
-    "label": "said, police, killed",
-    "trending_score": 0.2422,
-    "count_24h": 3,
-    "count_7d": 90,
-    "top_articles": [
-      {
-        "id": "4827",
-        "title": "Search under way after Boeing 737 cargo plane goes missing off Pakistan coast",
-        "url": "https://www.theguardian.com/world/2026/jul/08/boeing-737-cargo-plane-missing-near-karachi",
-        "date": "2026-07-08 05:37:43"
-      },
-      {
-        "id": "4795",
-        "title": "US immigration officer shoots and kills man in Texas",
-        "url": "https://www.aljazeera.com/news/2026/7/8/us-immigration-officer-shoots-and-kills-man-in-texas?traffic_source=rss",
-        "date": "2026-07-08 01:26:01"
-      },
-      {
-        "id": "4789",
-        "title": "Search under way for cargo plane that vanished off Pakistan coast",
-        "url": "https://www.bbc.co.uk/news/articles/cn4dn1d55njo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 01:11:50"
-      }
-    ]
-  },
-  {
-    "cluster_id": "8",
-    "label": "said, court, police",
-    "trending_score": 0.2403,
-    "count_24h": 3,
-    "count_7d": 95,
-    "top_articles": [
-      {
-        "id": "4806",
-        "title": "US charges Indian criminal gang leader with organising murder of Canadian Sikh activist",
-        "url": "https://www.theguardian.com/world/2026/jul/08/murder-canada-sikh-activist-hardeep-singh-nijjar-indian-criminal-gang-leader-charged",
-        "date": "2026-07-08 03:13:11"
-      },
-      {
-        "id": "4807",
-        "title": "Karmelo Anthony seeks new trial after 35-year sentence in killing of Austin Metcalf",
-        "url": "https://www.theguardian.com/us-news/2026/jul/07/karmelo-anthony-new-trial-austin-metcalf",
-        "date": "2026-07-08 01:58:15"
-      },
-      {
-        "id": "4790",
-        "title": "Utah boarding school where Paris Hilton alleged abuse as a teen loses its licence",
-        "url": "https://www.bbc.co.uk/news/articles/cjdg4r3k3emo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 01:51:09"
-      }
-    ]
-  },
-  {
     "cluster_id": "6",
     "label": "ai, new, tech",
-    "trending_score": 0.2357,
-    "count_24h": 1,
-    "count_7d": 103,
+    "trending_score": 0.2227,
+    "count_24h": 0,
+    "count_7d": 102,
     "top_articles": [
       {
         "id": "4791",
@@ -351,9 +270,90 @@
     ]
   },
   {
+    "cluster_id": "7",
+    "label": "burnham, defence, said",
+    "trending_score": 0.2165,
+    "count_24h": 0,
+    "count_7d": 33,
+    "top_articles": [
+      {
+        "id": "4830",
+        "title": "Almost no progress made on UK regional household income divide in 30 years, report finds",
+        "url": "https://www.theguardian.com/business/2026/jul/08/almost-no-progress-made-on-uk-regional-household-income-divide-in-30-years-report-finds",
+        "date": "2026-07-08 05:00:21"
+      },
+      {
+        "id": "4613",
+        "title": "Thames Water creditors ‘will bid for company even if it is nationalised’",
+        "url": "https://www.theguardian.com/business/2026/jul/07/thames-water-creditors-bid-nationalised-rescue-ofwat",
+        "date": "2026-07-07 10:06:42"
+      },
+      {
+        "id": "4568",
+        "title": "Tuesday briefing: What challenges would Ed Miliband face as chancellor?",
+        "url": "https://www.theguardian.com/world/2026/jul/07/tuesday-briefing-first-edition-ed-miliband-next-chancellor",
+        "date": "2026-07-07 05:46:48"
+      }
+    ]
+  },
+  {
+    "cluster_id": "8",
+    "label": "said, court, police",
+    "trending_score": 0.2014,
+    "count_24h": 0,
+    "count_7d": 91,
+    "top_articles": [
+      {
+        "id": "4806",
+        "title": "US charges Indian criminal gang leader with organising murder of Canadian Sikh activist",
+        "url": "https://www.theguardian.com/world/2026/jul/08/murder-canada-sikh-activist-hardeep-singh-nijjar-indian-criminal-gang-leader-charged",
+        "date": "2026-07-08 03:13:11"
+      },
+      {
+        "id": "4807",
+        "title": "Karmelo Anthony seeks new trial after 35-year sentence in killing of Austin Metcalf",
+        "url": "https://www.theguardian.com/us-news/2026/jul/07/karmelo-anthony-new-trial-austin-metcalf",
+        "date": "2026-07-08 01:58:15"
+      },
+      {
+        "id": "4790",
+        "title": "Utah boarding school where Paris Hilton alleged abuse as a teen loses its licence",
+        "url": "https://www.bbc.co.uk/news/articles/cjdg4r3k3emo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 01:51:09"
+      }
+    ]
+  },
+  {
+    "cluster_id": "1",
+    "label": "said, police, killed",
+    "trending_score": 0.1972,
+    "count_24h": 0,
+    "count_7d": 85,
+    "top_articles": [
+      {
+        "id": "4827",
+        "title": "Search under way after Boeing 737 cargo plane goes missing off Pakistan coast",
+        "url": "https://www.theguardian.com/world/2026/jul/08/boeing-737-cargo-plane-missing-near-karachi",
+        "date": "2026-07-08 05:37:43"
+      },
+      {
+        "id": "4795",
+        "title": "US immigration officer shoots and kills man in Texas",
+        "url": "https://www.aljazeera.com/news/2026/7/8/us-immigration-officer-shoots-and-kills-man-in-texas?traffic_source=rss",
+        "date": "2026-07-08 01:26:01"
+      },
+      {
+        "id": "4789",
+        "title": "Search under way for cargo plane that vanished off Pakistan coast",
+        "url": "https://www.bbc.co.uk/news/articles/cn4dn1d55njo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 01:11:50"
+      }
+    ]
+  },
+  {
     "cluster_id": "10",
     "label": "said, market, new",
-    "trending_score": 0.196,
+    "trending_score": 0.1915,
     "count_24h": 0,
     "count_7d": 69,
     "top_articles": [
@@ -378,38 +378,11 @@
     ]
   },
   {
-    "cluster_id": "17",
-    "label": "venezuela, 01, 00",
-    "trending_score": 0.1783,
-    "count_24h": 0,
-    "count_7d": 34,
-    "top_articles": [
-      {
-        "id": "4752",
-        "title": "Venezuela buries earthquake victims as death toll reaches 3,535",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/venezuela-buries-earthquake-victims-as-death-toll-reaches-3535?traffic_source=rss",
-        "date": "2026-07-07 20:30:06"
-      },
-      {
-        "id": "4560",
-        "title": "Cuba loses power across nation for third time this year",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/cuba-loses-power-across-nation-for-third-time-this-year?traffic_source=rss",
-        "date": "2026-07-07 04:50:50"
-      },
-      {
-        "id": "4522",
-        "title": "Cuba sees nationwide power blackout for third time in six months",
-        "url": "https://www.aljazeera.com/news/2026/7/7/cuba-sees-nationwide-power-blackout-for-third-time-in-six-months?traffic_source=rss",
-        "date": "2026-07-07 02:29:45"
-      }
-    ]
-  },
-  {
     "cluster_id": "4",
     "label": "china, taiwan, taipei",
-    "trending_score": 0.1652,
+    "trending_score": 0.1388,
     "count_24h": 0,
-    "count_7d": 48,
+    "count_7d": 45,
     "top_articles": [
       {
         "id": "4786",
@@ -432,11 +405,38 @@
     ]
   },
   {
+    "cluster_id": "17",
+    "label": "venezuela, 01, 00",
+    "trending_score": 0.1279,
+    "count_24h": 0,
+    "count_7d": 30,
+    "top_articles": [
+      {
+        "id": "4752",
+        "title": "Venezuela buries earthquake victims as death toll reaches 3,535",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/venezuela-buries-earthquake-victims-as-death-toll-reaches-3535?traffic_source=rss",
+        "date": "2026-07-07 20:30:06"
+      },
+      {
+        "id": "4560",
+        "title": "Cuba loses power across nation for third time this year",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/cuba-loses-power-across-nation-for-third-time-this-year?traffic_source=rss",
+        "date": "2026-07-07 04:50:50"
+      },
+      {
+        "id": "4522",
+        "title": "Cuba sees nationwide power blackout for third time in six months",
+        "url": "https://www.aljazeera.com/news/2026/7/7/cuba-sees-nationwide-power-blackout-for-third-time-in-six-months?traffic_source=rss",
+        "date": "2026-07-07 02:29:45"
+      }
+    ]
+  },
+  {
     "cluster_id": "13",
     "label": "said, image, new",
-    "trending_score": 0.1429,
-    "count_24h": 1,
-    "count_7d": 79,
+    "trending_score": 0.1253,
+    "count_24h": 0,
+    "count_7d": 75,
     "top_articles": [
       {
         "id": "4815",
@@ -461,9 +461,9 @@
   {
     "cluster_id": "16",
     "label": "latest, says, state",
-    "trending_score": 0.056,
+    "trending_score": 0.0547,
     "count_24h": 0,
-    "count_7d": 24,
+    "count_7d": 23,
     "top_articles": [
       {
         "id": "4783",

@@ -2,9 +2,9 @@
   {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.5863,
-    "count_24h": 3,
-    "count_7d": 89,
+    "trending_score": 0.5208,
+    "count_24h": 0,
+    "count_7d": 88,
     "top_articles": [
       {
         "id": "4989",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "11",
     "label": "russia, ukraine, russian",
-    "trending_score": 0.5718,
-    "count_24h": 5,
-    "count_7d": 93,
+    "trending_score": 0.4448,
+    "count_24h": 0,
+    "count_7d": 92,
     "top_articles": [
       {
         "id": "4988",
@@ -56,9 +56,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.4575,
-    "count_24h": 2,
-    "count_7d": 189,
+    "trending_score": 0.4282,
+    "count_24h": 0,
+    "count_7d": 187,
     "top_articles": [
       {
         "id": "4986",
@@ -83,9 +83,9 @@
   {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.4,
-    "count_24h": 2,
-    "count_7d": 115,
+    "trending_score": 0.3615,
+    "count_24h": 0,
+    "count_7d": 113,
     "top_articles": [
       {
         "id": "4976",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "12",
     "label": "israel, gaza, israeli",
-    "trending_score": 0.3778,
+    "trending_score": 0.3378,
     "count_24h": 0,
-    "count_7d": 107,
+    "count_7d": 101,
     "top_articles": [
       {
         "id": "4955",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "4",
     "label": "wimbledon, tennis, williams",
-    "trending_score": 0.345,
-    "count_24h": 1,
-    "count_7d": 42,
+    "trending_score": 0.305,
+    "count_24h": 0,
+    "count_7d": 40,
     "top_articles": [
       {
         "id": "4985",
@@ -162,63 +162,9 @@
     ]
   },
   {
-    "cluster_id": "17",
-    "label": "heat, heatwave, temperatures",
-    "trending_score": 0.3099,
-    "count_24h": 1,
-    "count_7d": 42,
-    "top_articles": [
-      {
-        "id": "4977",
-        "title": "No air con? Here's how to get the most out of your electric fan",
-        "url": "https://www.bbc.co.uk/news/articles/cly76jlxljlo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 17:07:05"
-      },
-      {
-        "id": "4884",
-        "title": "Unions in Europe press for new worker protections to counter heat stress",
-        "url": "https://www.theguardian.com/environment/2026/jul/08/unions-europe-worker-protections-heat-stress-climate-crisis",
-        "date": "2026-07-08 11:00:52"
-      },
-      {
-        "id": "4888",
-        "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
-        "url": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
-        "date": "2026-07-08 10:30:07"
-      }
-    ]
-  },
-  {
-    "cluster_id": "14",
-    "label": "said, court, police",
-    "trending_score": 0.3061,
-    "count_24h": 3,
-    "count_7d": 130,
-    "top_articles": [
-      {
-        "id": "4975",
-        "title": "UK to change law so ringleader of Rochdale grooming gang can be deported",
-        "url": "https://www.bbc.co.uk/news/articles/cly0ly30384o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 17:26:45"
-      },
-      {
-        "id": "4990",
-        "title": "US charges Indian crime leader in Sikh activist’s assassination",
-        "url": "https://www.aljazeera.com/news/2026/7/8/us-charges-indian-crime-leader-in-sikh-activists-assassination?traffic_source=rss",
-        "date": "2026-07-08 16:44:39"
-      },
-      {
-        "id": "4984",
-        "title": "Government offers to meet woman abused by neo-Nazi MI5 agent",
-        "url": "https://www.bbc.co.uk/news/articles/c9v24wpynv1o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:23:19"
-      }
-    ]
-  },
-  {
     "cluster_id": "5",
     "label": "england, world, cup",
-    "trending_score": 0.298,
+    "trending_score": 0.2833,
     "count_24h": 0,
     "count_7d": 88,
     "top_articles": [
@@ -243,38 +189,65 @@
     ]
   },
   {
-    "cluster_id": "6",
-    "label": "ai, new, tech",
-    "trending_score": 0.2585,
+    "cluster_id": "17",
+    "label": "heat, heatwave, temperatures",
+    "trending_score": 0.281,
     "count_24h": 0,
-    "count_7d": 114,
+    "count_7d": 41,
     "top_articles": [
       {
-        "id": "4964",
-        "title": "These AI startups are growing revenue at faster and faster rates",
-        "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-        "date": "2026-07-08 15:41:06"
+        "id": "4977",
+        "title": "No air con? Here's how to get the most out of your electric fan",
+        "url": "https://www.bbc.co.uk/news/articles/cly76jlxljlo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:07:05"
       },
       {
-        "id": "4965",
-        "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
-        "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
-        "date": "2026-07-08 15:00:00"
+        "id": "4884",
+        "title": "Unions in Europe press for new worker protections to counter heat stress",
+        "url": "https://www.theguardian.com/environment/2026/jul/08/unions-europe-worker-protections-heat-stress-climate-crisis",
+        "date": "2026-07-08 11:00:52"
       },
       {
-        "id": "4966",
-        "title": "Apple to produce Made in America wireless chips with Broadcom",
-        "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
-        "date": "2026-07-08 14:43:00"
+        "id": "4888",
+        "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
+        "url": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
+        "date": "2026-07-08 10:30:07"
+      }
+    ]
+  },
+  {
+    "cluster_id": "14",
+    "label": "said, court, police",
+    "trending_score": 0.2766,
+    "count_24h": 0,
+    "count_7d": 126,
+    "top_articles": [
+      {
+        "id": "4975",
+        "title": "UK to change law so ringleader of Rochdale grooming gang can be deported",
+        "url": "https://www.bbc.co.uk/news/articles/cly0ly30384o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:26:45"
+      },
+      {
+        "id": "4990",
+        "title": "US charges Indian crime leader in Sikh activist’s assassination",
+        "url": "https://www.aljazeera.com/news/2026/7/8/us-charges-indian-crime-leader-in-sikh-activists-assassination?traffic_source=rss",
+        "date": "2026-07-08 16:44:39"
+      },
+      {
+        "id": "4984",
+        "title": "Government offers to meet woman abused by neo-Nazi MI5 agent",
+        "url": "https://www.bbc.co.uk/news/articles/c9v24wpynv1o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:23:19"
       }
     ]
   },
   {
     "cluster_id": "1",
     "label": "said, health, care",
-    "trending_score": 0.2547,
+    "trending_score": 0.243,
     "count_24h": 0,
-    "count_7d": 73,
+    "count_7d": 68,
     "top_articles": [
       {
         "id": "4924",
@@ -297,11 +270,38 @@
     ]
   },
   {
+    "cluster_id": "6",
+    "label": "ai, new, tech",
+    "trending_score": 0.233,
+    "count_24h": 0,
+    "count_7d": 108,
+    "top_articles": [
+      {
+        "id": "4964",
+        "title": "These AI startups are growing revenue at faster and faster rates",
+        "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+        "date": "2026-07-08 15:41:06"
+      },
+      {
+        "id": "4965",
+        "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
+        "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
+        "date": "2026-07-08 15:00:00"
+      },
+      {
+        "id": "4966",
+        "title": "Apple to produce Made in America wireless chips with Broadcom",
+        "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
+        "date": "2026-07-08 14:43:00"
+      }
+    ]
+  },
+  {
     "cluster_id": "10",
     "label": "trump, court, president",
-    "trending_score": 0.1941,
-    "count_24h": 2,
-    "count_7d": 86,
+    "trending_score": 0.1715,
+    "count_24h": 0,
+    "count_7d": 84,
     "top_articles": [
       {
         "id": "4998",
@@ -326,9 +326,9 @@
   {
     "cluster_id": "2",
     "label": "police, said, shooting",
-    "trending_score": 0.179,
-    "count_24h": 3,
-    "count_7d": 63,
+    "trending_score": 0.152,
+    "count_24h": 0,
+    "count_7d": 62,
     "top_articles": [
       {
         "id": "4983",
@@ -353,9 +353,9 @@
   {
     "cluster_id": "16",
     "label": "venezuela, 01, earthquakes",
-    "trending_score": 0.1439,
+    "trending_score": 0.1402,
     "count_24h": 0,
-    "count_7d": 29,
+    "count_7d": 28,
     "top_articles": [
       {
         "id": "4866",
@@ -380,7 +380,7 @@
   {
     "cluster_id": "7",
     "label": "said, new, market",
-    "trending_score": 0.1384,
+    "trending_score": 0.1347,
     "count_24h": 0,
     "count_7d": 54,
     "top_articles": [
@@ -407,9 +407,9 @@
   {
     "cluster_id": "8",
     "label": "image, said, new",
-    "trending_score": 0.105,
+    "trending_score": 0.0948,
     "count_24h": 0,
-    "count_7d": 75,
+    "count_7d": 72,
     "top_articles": [
       {
         "id": "4929",
@@ -434,9 +434,9 @@
   {
     "cluster_id": "15",
     "label": "china, says, conference glance",
-    "trending_score": 0.0641,
+    "trending_score": 0.0594,
     "count_24h": 0,
-    "count_7d": 48,
+    "count_7d": 47,
     "top_articles": [
       {
         "id": "4730",

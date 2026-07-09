@@ -1,200 +1,395 @@
 [
   {
-    "cluster_id": "9",
-    "label": "said, farage, uk",
-    "trending_score": 0.4828,
-    "count_24h": 1,
-    "count_7d": 142,
+    "cluster_id": "3",
+    "label": "iran, strait, khamenei",
+    "trending_score": 0.881,
+    "count_24h": 18,
+    "count_7d": 92,
     "top_articles": [
       {
-        "id": "4810",
-        "title": "Virgin Media fined £28m for preventing customers from cancelling contracts",
-        "url": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 06:05:31"
+        "id": "4989",
+        "title": "The Strait of Hormuz is now at the centre of Iranian and US calculus",
+        "url": "https://www.aljazeera.com/opinions/2026/7/8/the-strait-of-hormuz-is-now-at-the-centre-of-iranian-and-us-calculus?traffic_source=rss",
+        "date": "2026-07-08 16:48:31"
       },
       {
-        "id": "4828",
-        "title": "Farage is likely to win in Clacton but can his credibility survive? | Peter Walker",
-        "url": "https://www.theguardian.com/politics/2026/jul/08/nigel-farage-win-clacton-credibility-survive-reform",
-        "date": "2026-07-08 05:00:22"
+        "id": "4995",
+        "title": "Germany urges US-Iran negotiations, offers to minesweep Hormuz",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/germany-urges-us-iran-negotiations-offers-to-minesweep-hormuz?traffic_source=rss",
+        "date": "2026-07-08 15:57:41"
       },
       {
-        "id": "4829",
-        "title": "Disability benefits in England and Wales not fit for purpose, Timms review to find",
-        "url": "https://www.theguardian.com/society/2026/jul/08/disability-benefits-not-fit-for-purpose-timms-review",
-        "date": "2026-07-08 05:00:21"
+        "id": "4996",
+        "title": "Trump’s Iran strike comments shake markets, Brent crude hits two-week high",
+        "url": "https://www.aljazeera.com/economy/2026/7/8/trumps-iran-strike-comments-shake-markets-brent-crude-hits-two-week-high?traffic_source=rss",
+        "date": "2026-07-08 15:53:23"
+      }
+    ]
+  },
+  {
+    "cluster_id": "11",
+    "label": "russia, ukraine, russian",
+    "trending_score": 0.8204,
+    "count_24h": 15,
+    "count_7d": 99,
+    "top_articles": [
+      {
+        "id": "4988",
+        "title": "NATO pledges 70 billion euros for Ukraine as Trump praises peace ‘progress’",
+        "url": "https://www.aljazeera.com/news/2026/7/8/nato-pledges-70-billion-euros-for-ukraine-as-trump-praises-peace-progress?traffic_source=rss",
+        "date": "2026-07-08 17:24:45"
+      },
+      {
+        "id": "4973",
+        "title": "Trump says Ukraine will get licence to produce Patriot missiles",
+        "url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:18:14"
+      },
+      {
+        "id": "4999",
+        "title": "Trump on rampage at Nato summit: what does it mean for Ukraine? – The Latest",
+        "url": "https://www.theguardian.com/news/audio/2026/jul/08/trump-on-rampage-at-nato-summit-what-does-it-mean-for-ukraine-the-latest",
+        "date": "2026-07-08 17:05:46"
+      }
+    ]
+  },
+  {
+    "cluster_id": "9",
+    "label": "world, cup, world cup",
+    "trending_score": 0.6408,
+    "count_24h": 16,
+    "count_7d": 200,
+    "top_articles": [
+      {
+        "id": "4986",
+        "title": "Man Utd agree deal for Chelsea's Santos",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr7xkgd8vdko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:09:53"
+      },
+      {
+        "id": "4991",
+        "title": "Egypt criticises ‘influential refereeing’ in Argentina World Cup match",
+        "url": "https://www.aljazeera.com/sports/2026/7/8/egypt-criticises-influential-refereeing-in-argentina-world-cup-match?traffic_source=rss",
+        "date": "2026-07-08 16:41:58"
+      },
+      {
+        "id": "4982",
+        "title": "Are Argentina being treated favourably at World Cup?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 15:37:07"
       }
     ]
   },
   {
     "cluster_id": "12",
-    "label": "world, cup, world cup",
-    "trending_score": 0.4187,
-    "count_24h": 0,
-    "count_7d": 217,
-    "top_articles": [
-      {
-        "id": "4820",
-        "title": "Argentina fan waves Israeli flag at World Cup match with Egypt",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/argentina-fan-waves-israeli-flag-at-world-cup-match-with-egypt?traffic_source=rss",
-        "date": "2026-07-08 05:01:08"
-      },
-      {
-        "id": "4823",
-        "title": "Triumph to disaster: Egypt’s pride remains as they bow out of World Cup",
-        "url": "https://www.aljazeera.com/sports/2026/7/8/triumph-to-disaster-egypts-pride-remains-as-they-bow-out-of-world-cup?traffic_source=rss",
-        "date": "2026-07-08 04:03:54"
-      },
-      {
-        "id": "4825",
-        "title": "IOC eases restrictions on Russian athletes ahead of 2028 games",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/ioc-eases-restrictions-on-russian-athletes-ahead-of-2028-games?traffic_source=rss",
-        "date": "2026-07-08 03:58:51"
-      }
-    ]
-  },
-  {
-    "cluster_id": "3",
-    "label": "iran, strait, khamenei",
-    "trending_score": 0.3567,
-    "count_24h": 0,
-    "count_7d": 76,
-    "top_articles": [
-      {
-        "id": "4821",
-        "title": "Khamenei’s coffin arrives in Iraq as US strikes hit Iran",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/khameneis-coffin-arrives-in-iraq-as-us-strikes-hit-iran?traffic_source=rss",
-        "date": "2026-07-08 04:53:50"
-      },
-      {
-        "id": "4824",
-        "title": "Oil prices surge as US strikes Iran, reversing slide to pre-war levels",
-        "url": "https://www.aljazeera.com/news/2026/7/8/oil-prices-surge-as-us-strikes-iran-reversing-fall-to-pre-war-levels?traffic_source=rss",
-        "date": "2026-07-08 04:02:32"
-      },
-      {
-        "id": "4805",
-        "title": "Iran accuses US of violating peace agreement after strikes target sites around strait of Hormuz",
-        "url": "https://www.theguardian.com/world/2026/jul/08/iran-us-war-ceasefire-peace-agreement-strikes-strait-of-hormuz",
-        "date": "2026-07-08 01:15:41"
-      }
-    ]
-  },
-  {
-    "cluster_id": "15",
     "label": "israel, gaza, israeli",
-    "trending_score": 0.3558,
-    "count_24h": 0,
-    "count_7d": 129,
+    "trending_score": 0.6333,
+    "count_24h": 11,
+    "count_7d": 114,
     "top_articles": [
       {
-        "id": "4818",
-        "title": "Childhood on hold: How Gaza’s children spend a summer without play",
-        "url": "https://www.aljazeera.com/features/2026/7/8/childhood-on-hold-how-gazas-children-spend-a-summer-without-play?traffic_source=rss",
-        "date": "2026-07-08 05:13:20"
+        "id": "4955",
+        "title": "Photo of bound Palestinian detainee corroborates Israeli torture reports, say rights groups",
+        "url": "https://www.theguardian.com/world/2026/jul/08/photo-palestinian-prisoner-corroborates-israeli-torture-claims",
+        "date": "2026-07-08 14:23:51"
       },
       {
-        "id": "4819",
-        "title": "Syria grapples with unrest as government faces old and new threats",
-        "url": "https://www.aljazeera.com/news/2026/7/8/syria-grapples-with-unrest-as-government-faces-old-and-new-threats?traffic_source=rss",
-        "date": "2026-07-08 05:10:23"
+        "id": "4938",
+        "title": "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
+        "url": "https://www.aljazeera.com/news/2026/7/8/timeline-20-years-of-hamas-rule-in-gaza-from-election-to-political-exit?traffic_source=rss",
+        "date": "2026-07-08 13:29:22"
       },
       {
-        "id": "4800",
-        "title": "Marine Le Pen to run for French Presidency despite criminal conviction",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/marine-le-pen-to-run-for-french-presidency-despite-criminal-conviction?traffic_source=rss",
-        "date": "2026-07-08 00:23:53"
+        "id": "4939",
+        "title": "Why can’t we count our dead?",
+        "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/8/why-cant-we-count-our-dead?traffic_source=rss",
+        "date": "2026-07-08 13:28:54"
       }
     ]
   },
   {
-    "cluster_id": "2",
-    "label": "wimbledon, tennis, williams",
-    "trending_score": 0.349,
-    "count_24h": 1,
-    "count_7d": 43,
+    "cluster_id": "13",
+    "label": "burnham, said, farage",
+    "trending_score": 0.6115,
+    "count_24h": 15,
+    "count_7d": 126,
     "top_articles": [
       {
-        "id": "4816",
-        "title": "What must Fery do to become Wimbledon semi-finalist?",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 05:41:31"
+        "id": "4976",
+        "title": "Farage denies stunt as Reform proposes August by-election date",
+        "url": "https://www.bbc.co.uk/news/articles/cdxd779gkv9o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:24:05"
       },
       {
-        "id": "4801",
-        "title": "Djokovic wins five-hour epic to earn Sinner showdown at Wimbledon",
-        "url": "https://www.aljazeera.com/sports/2026/7/8/djokovic-wins-five-hour-epic-to-earn-sinner-showdown-at-wimbledon?traffic_source=rss",
-        "date": "2026-07-08 00:15:21"
+        "id": "4981",
+        "title": "Who is Count Binface, aiming to face Farage in by-election?",
+        "url": "https://www.bbc.co.uk/news/videos/cp8r70vpj97o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:16:30"
       },
       {
-        "id": "4774",
-        "title": "'It is not normal' - but extraordinary Djokovic defies odds once again",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cy8wev0p0wno?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 23:46:39"
+        "id": "4957",
+        "title": "Treasury yet to do due diligence on finding extra money for UK’s Nato spend",
+        "url": "https://www.theguardian.com/business/2026/jul/08/treasury-due-diligence-money-uk-nato-spend",
+        "date": "2026-07-08 15:30:17"
       }
     ]
   },
   {
-    "cluster_id": "18",
-    "label": "heat, heatwave, temperatures",
-    "trending_score": 0.285,
-    "count_24h": 0,
-    "count_7d": 40,
+    "cluster_id": "14",
+    "label": "said, court, police",
+    "trending_score": 0.4811,
+    "count_24h": 21,
+    "count_7d": 146,
     "top_articles": [
       {
-        "id": "4812",
-        "title": "Your tips from the last heatwave on how to cope in extreme temperatures",
-        "url": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 05:35:17"
+        "id": "4975",
+        "title": "UK to change law so ringleader of Rochdale grooming gang can be deported",
+        "url": "https://www.bbc.co.uk/news/articles/cly0ly30384o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:26:45"
       },
       {
-        "id": "4811",
-        "title": "More or less protein? The foods to get you through a heatwave",
-        "url": "https://www.bbc.co.uk/news/articles/clyw89g3443o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 05:29:23"
+        "id": "4990",
+        "title": "US charges Indian crime leader in Sikh activist’s assassination",
+        "url": "https://www.aljazeera.com/news/2026/7/8/us-charges-indian-crime-leader-in-sikh-activists-assassination?traffic_source=rss",
+        "date": "2026-07-08 16:44:39"
       },
       {
-        "id": "4822",
-        "title": "99% of people on Earth will get sunlight at the same time this Wednesday",
-        "url": "https://www.aljazeera.com/news/2026/7/8/99-of-people-on-earth-will-get-sunlight-at-the-same-time-this-wednesday?traffic_source=rss",
-        "date": "2026-07-08 04:23:58"
+        "id": "4984",
+        "title": "Government offers to meet woman abused by neo-Nazi MI5 agent",
+        "url": "https://www.bbc.co.uk/news/articles/c9v24wpynv1o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:23:19"
       }
     ]
   },
   {
     "cluster_id": "5",
     "label": "england, world, cup",
-    "trending_score": 0.2725,
-    "count_24h": 0,
-    "count_7d": 61,
+    "trending_score": 0.4704,
+    "count_24h": 6,
+    "count_7d": 98,
     "top_articles": [
       {
-        "id": "4775",
-        "title": "Fulham appoint Arbeloa as Silva's successor",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvgjnlj0d1go?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 23:04:42"
+        "id": "4931",
+        "title": "Henderson has surgery in USA after breaking arm",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c70ygpg95vlo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 15:28:28"
       },
       {
-        "id": "4722",
-        "title": "Superb England inflict record T20 defeat on India",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cn59nkwp275o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 19:45:38"
+        "id": "4930",
+        "title": "ICC contacts ECB over Stokes retirement video",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdg4me54rro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 14:10:56"
       },
       {
-        "id": "4723",
-        "title": "Shades of Keane and Gerrard in Bellingham display - Rooney",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c70ygx549d0o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 19:23:35"
+        "id": "4904",
+        "title": "Beaumont to retire from international cricket",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cy047zqw8j5o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 12:58:56"
       }
     ]
   },
   {
-    "cluster_id": "14",
-    "label": "russia, trump, nato",
-    "trending_score": 0.2722,
-    "count_24h": 0,
-    "count_7d": 75,
+    "cluster_id": "1",
+    "label": "said, health, care",
+    "trending_score": 0.4533,
+    "count_24h": 7,
+    "count_7d": 83,
     "top_articles": [
+      {
+        "id": "4924",
+        "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
+        "url": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 15:05:31"
+      },
+      {
+        "id": "4949",
+        "title": "Contaminated children’s play sand sold in Australia can release toxic airborne asbestos, research finds",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/09/contaminated-childrens-play-sand-sold-in-australia-can-release-toxic-airborne-asbestos-research-finds",
+        "date": "2026-07-08 15:00:35"
+      },
+      {
+        "id": "4950",
+        "title": "Australians with cancer are living longer but diagnosis rates on the rise for younger people, report reveals",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/09/australians-with-cancer-are-living-longer-but-diagnosis-rates-on-the-rise-for-younger-people-report-reveals",
+        "date": "2026-07-08 15:00:35"
+      }
+    ]
+  },
+  {
+    "cluster_id": "17",
+    "label": "heat, heatwave, temperatures",
+    "trending_score": 0.4298,
+    "count_24h": 4,
+    "count_7d": 47,
+    "top_articles": [
+      {
+        "id": "4977",
+        "title": "No air con? Here's how to get the most out of your electric fan",
+        "url": "https://www.bbc.co.uk/news/articles/cly76jlxljlo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:07:05"
+      },
+      {
+        "id": "4884",
+        "title": "Unions in Europe press for new worker protections to counter heat stress",
+        "url": "https://www.theguardian.com/environment/2026/jul/08/unions-europe-worker-protections-heat-stress-climate-crisis",
+        "date": "2026-07-08 11:00:52"
+      },
+      {
+        "id": "4888",
+        "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
+        "url": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
+        "date": "2026-07-08 10:30:07"
+      }
+    ]
+  },
+  {
+    "cluster_id": "6",
+    "label": "ai, new, tech",
+    "trending_score": 0.4066,
+    "count_24h": 14,
+    "count_7d": 128,
+    "top_articles": [
+      {
+        "id": "4964",
+        "title": "These AI startups are growing revenue at faster and faster rates",
+        "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+        "date": "2026-07-08 15:41:06"
+      },
+      {
+        "id": "4965",
+        "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
+        "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
+        "date": "2026-07-08 15:00:00"
+      },
+      {
+        "id": "4966",
+        "title": "Apple to produce Made in America wireless chips with Broadcom",
+        "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
+        "date": "2026-07-08 14:43:00"
+      }
+    ]
+  },
+  {
+    "cluster_id": "4",
+    "label": "wimbledon, tennis, williams",
+    "trending_score": 0.405,
+    "count_24h": 2,
+    "count_7d": 45,
+    "top_articles": [
+      {
+        "id": "4985",
+        "title": "British wildcard Fery stuns Cobolli to reach semi-finals",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c5yzvnxg6ygo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:44:01"
+      },
+      {
+        "id": "4860",
+        "title": "Arthur Fery: the Wimbledon wildcard carrying Britain’s hopes",
+        "url": "https://www.theguardian.com/sport/2026/jul/08/arthur-fery-wimbledon-wildcard-carrying-britain-hopes",
+        "date": "2026-07-08 08:00:24"
+      },
+      {
+        "id": "4816",
+        "title": "What must Fery do to become Wimbledon semi-finalist?",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 05:41:31"
+      }
+    ]
+  },
+  {
+    "cluster_id": "10",
+    "label": "trump, court, president",
+    "trending_score": 0.2739,
+    "count_24h": 7,
+    "count_7d": 92,
+    "top_articles": [
+      {
+        "id": "4998",
+        "title": "Marine Le Pen will run for election in 2027. Will she have to wear an electronic tag?",
+        "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-election-2027",
+        "date": "2026-07-08 17:22:01"
+      },
+      {
+        "id": "4992",
+        "title": "Far-right leader Le Pen starts campaign, faces mixed reactions in France",
+        "url": "https://www.aljazeera.com/news/2026/7/8/far-right-leader-le-pen-starts-campaign-faces-mixed-reactions-in-france?traffic_source=rss",
+        "date": "2026-07-08 16:17:12"
+      },
+      {
+        "id": "4961",
+        "title": "US judge throws out Trump’s $3.8bn defamation lawsuit against Washington Post",
+        "url": "https://www.theguardian.com/media/2026/jul/08/trump-washington-post-defamation-lawsuit",
+        "date": "2026-07-08 15:18:24"
+      }
+    ]
+  },
+  {
+    "cluster_id": "2",
+    "label": "police, said, shooting",
+    "trending_score": 0.2415,
+    "count_24h": 6,
+    "count_7d": 74,
+    "top_articles": [
+      {
+        "id": "4983",
+        "title": "Five crew remain missing after plane wreckage found in Pakistan",
+        "url": "https://www.bbc.co.uk/news/articles/c5yze1vvlzgo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:39:15"
+      },
+      {
+        "id": "4974",
+        "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
+        "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:12:50"
+      },
+      {
+        "id": "4993",
+        "title": "Pakistan military says 42 killed in fighter attacks in Balochistan",
+        "url": "https://www.aljazeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss",
+        "date": "2026-07-08 16:07:45"
+      }
+    ]
+  },
+  {
+    "cluster_id": "7",
+    "label": "said, new, market",
+    "trending_score": 0.2195,
+    "count_24h": 6,
+    "count_7d": 62,
+    "top_articles": [
+      {
+        "id": "4962",
+        "title": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water",
+        "url": "https://www.theguardian.com/us-news/2026/jul/08/meta-datacenter-ai-wyoming-water",
+        "date": "2026-07-08 14:08:00"
+      },
+      {
+        "id": "4969",
+        "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
+        "url": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
+        "date": "2026-07-08 13:26:10"
+      },
+      {
+        "id": "4956",
+        "title": "IMF upgrades UK growth forecast as fears over impact of Iran war diminish",
+        "url": "https://www.theguardian.com/business/2026/jul/08/imf-upgrades-uk-growth-forecast-as-fears-over-impact-of-iran-war-diminish",
+        "date": "2026-07-08 13:00:32"
+      }
+    ]
+  },
+  {
+    "cluster_id": "16",
+    "label": "venezuela, 01, earthquakes",
+    "trending_score": 0.178,
+    "count_24h": 1,
+    "count_7d": 32,
+    "top_articles": [
+      {
+        "id": "4866",
+        "title": "Cubans protest after third nationwide power cut this year",
+        "url": "https://www.bbc.co.uk/news/articles/cm20g0d3ry4o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 10:56:55"
+      },
       {
         "id": "4817",
         "title": "At UN, Cuba rallies support against ‘ruthless’ US blockade",
@@ -202,301 +397,79 @@
         "date": "2026-07-08 05:18:52"
       },
       {
-        "id": "4809",
-        "title": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
-        "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 05:05:31"
-      },
-      {
-        "id": "4782",
-        "title": "Nato allies announce £37bn for new missile project",
-        "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 03:12:00"
-      }
-    ]
-  },
-  {
-    "cluster_id": "11",
-    "label": "trump, court, president",
-    "trending_score": 0.2352,
-    "count_24h": 0,
-    "count_7d": 79,
-    "top_articles": [
-      {
-        "id": "4808",
-        "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
-        "url": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 03:22:46"
-      },
-      {
-        "id": "4798",
-        "title": "Unstable Manhattan skyscraper triggers collapse fears",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/unstable-manhattan-skyscraper-triggers-collapse-fears?traffic_source=rss",
-        "date": "2026-07-08 01:09:49"
-      },
-      {
-        "id": "4754",
-        "title": "Prolonged hospitalisation of US Republican Mitch McConnell raises questions",
-        "url": "https://www.aljazeera.com/news/2026/7/7/prolonged-hospitalisation-of-us-republican-mitch-mcconnell-raises-questions?traffic_source=rss",
-        "date": "2026-07-07 20:26:16"
-      }
-    ]
-  },
-  {
-    "cluster_id": "6",
-    "label": "ai, new, tech",
-    "trending_score": 0.2227,
-    "count_24h": 0,
-    "count_7d": 102,
-    "top_articles": [
-      {
-        "id": "4791",
-        "title": "Australia dock workers call for 28-hour week in AI talks",
-        "url": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 01:48:47"
-      },
-      {
-        "id": "4766",
-        "title": "Final extension: Startup Battlefield Australia applications now close July 20",
-        "url": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
-        "date": "2026-07-07 22:30:00"
-      },
-      {
-        "id": "4767",
-        "title": "Meta rolls out Muse, a new AI image generator",
-        "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-        "date": "2026-07-07 22:18:10"
-      }
-    ]
-  },
-  {
-    "cluster_id": "7",
-    "label": "burnham, defence, said",
-    "trending_score": 0.2165,
-    "count_24h": 0,
-    "count_7d": 33,
-    "top_articles": [
-      {
-        "id": "4830",
-        "title": "Almost no progress made on UK regional household income divide in 30 years, report finds",
-        "url": "https://www.theguardian.com/business/2026/jul/08/almost-no-progress-made-on-uk-regional-household-income-divide-in-30-years-report-finds",
-        "date": "2026-07-08 05:00:21"
-      },
-      {
-        "id": "4613",
-        "title": "Thames Water creditors ‘will bid for company even if it is nationalised’",
-        "url": "https://www.theguardian.com/business/2026/jul/07/thames-water-creditors-bid-nationalised-rescue-ofwat",
-        "date": "2026-07-07 10:06:42"
-      },
-      {
-        "id": "4568",
-        "title": "Tuesday briefing: What challenges would Ed Miliband face as chancellor?",
-        "url": "https://www.theguardian.com/world/2026/jul/07/tuesday-briefing-first-edition-ed-miliband-next-chancellor",
-        "date": "2026-07-07 05:46:48"
+        "id": "4752",
+        "title": "Venezuela buries earthquake victims as death toll reaches 3,535",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/venezuela-buries-earthquake-victims-as-death-toll-reaches-3535?traffic_source=rss",
+        "date": "2026-07-07 20:30:06"
       }
     ]
   },
   {
     "cluster_id": "8",
-    "label": "said, court, police",
-    "trending_score": 0.2014,
-    "count_24h": 0,
-    "count_7d": 91,
+    "label": "image, said, new",
+    "trending_score": 0.1467,
+    "count_24h": 3,
+    "count_7d": 79,
     "top_articles": [
       {
-        "id": "4806",
-        "title": "US charges Indian criminal gang leader with organising murder of Canadian Sikh activist",
-        "url": "https://www.theguardian.com/world/2026/jul/08/murder-canada-sikh-activist-hardeep-singh-nijjar-indian-criminal-gang-leader-charged",
-        "date": "2026-07-08 03:13:11"
+        "id": "4929",
+        "title": "London City sign Ballon d'Or winner Putellas",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvg7wenkklyo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 14:40:50"
       },
       {
-        "id": "4807",
-        "title": "Karmelo Anthony seeks new trial after 35-year sentence in killing of Austin Metcalf",
-        "url": "https://www.theguardian.com/us-news/2026/jul/07/karmelo-anthony-new-trial-austin-metcalf",
-        "date": "2026-07-08 01:58:15"
+        "id": "4867",
+        "title": "Multiple cakes and stolen keepsakes: Greg James spills the tea on Taylor Swift's wedding",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kd1de8l5o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 09:48:06"
       },
       {
-        "id": "4790",
-        "title": "Utah boarding school where Paris Hilton alleged abuse as a teen loses its licence",
-        "url": "https://www.bbc.co.uk/news/articles/cjdg4r3k3emo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 01:51:09"
+        "id": "4890",
+        "title": "Booyakasha! Sacha Baron Cohen has completed a new Ali G movie",
+        "url": "https://www.theguardian.com/film/2026/jul/08/booyakasha-sacha-baron-cohen-has-completed-a-new-ali-g-movie",
+        "date": "2026-07-08 09:35:45"
       }
     ]
   },
   {
-    "cluster_id": "1",
-    "label": "said, police, killed",
-    "trending_score": 0.1972,
+    "cluster_id": "15",
+    "label": "china, says, conference glance",
+    "trending_score": 0.0772,
     "count_24h": 0,
-    "count_7d": 85,
+    "count_7d": 53,
     "top_articles": [
       {
-        "id": "4827",
-        "title": "Search under way after Boeing 737 cargo plane goes missing off Pakistan coast",
-        "url": "https://www.theguardian.com/world/2026/jul/08/boeing-737-cargo-plane-missing-near-karachi",
-        "date": "2026-07-08 05:37:43"
+        "id": "4730",
+        "title": "France’s Marine Le Pen must wear ankle tag after appeal ruling",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/frances-marine-le-pen-must-wear-ankle-tag-after-appeal-ruling?traffic_source=rss",
+        "date": "2026-07-07 18:38:55"
       },
       {
-        "id": "4795",
-        "title": "US immigration officer shoots and kills man in Texas",
-        "url": "https://www.aljazeera.com/news/2026/7/8/us-immigration-officer-shoots-and-kills-man-in-texas?traffic_source=rss",
-        "date": "2026-07-08 01:26:01"
+        "id": "4685",
+        "title": "Ghana halts visit by South African president amid row over anti-migrant protests",
+        "url": "https://www.bbc.co.uk/news/articles/cy8dmelnjk7o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-07 16:25:59"
       },
       {
-        "id": "4789",
-        "title": "Search under way for cargo plane that vanished off Pakistan coast",
-        "url": "https://www.bbc.co.uk/news/articles/cn4dn1d55njo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 01:11:50"
-      }
-    ]
-  },
-  {
-    "cluster_id": "10",
-    "label": "said, market, new",
-    "trending_score": 0.1915,
-    "count_24h": 0,
-    "count_7d": 69,
-    "top_articles": [
-      {
-        "id": "4784",
-        "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
-        "url": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 01:04:44"
-      },
-      {
-        "id": "4804",
-        "title": "Australian house prices are falling but are still almost double what they were a decade ago",
-        "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/08/australia-house-prices-falling-still-doubled-over-decade-one-big-chart",
-        "date": "2026-07-08 00:00:14"
-      },
-      {
-        "id": "4785",
-        "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
-        "url": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 23:11:48"
-      }
-    ]
-  },
-  {
-    "cluster_id": "4",
-    "label": "china, taiwan, taipei",
-    "trending_score": 0.1388,
-    "count_24h": 0,
-    "count_7d": 45,
-    "top_articles": [
-      {
-        "id": "4786",
-        "title": "'The water just came so fast': Typhoon triggers floods and rare tornadoes in China",
-        "url": "https://www.bbc.co.uk/news/articles/c79ygnv9e93o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 00:49:07"
-      },
-      {
-        "id": "4694",
-        "title": "Tornadoes kill 17 in central China as Typhoon Bavi looms offshore",
-        "url": "https://www.aljazeera.com/news/2026/7/7/tornadoes-kill-17-in-central-china-as-typhoon-bavi-looms-offshore?traffic_source=rss",
-        "date": "2026-07-07 17:56:09"
-      },
-      {
-        "id": "4571",
-        "title": "Watch: Moment rare tornado lashes central Chinese cities",
-        "url": "https://www.bbc.co.uk/news/videos/cq61d22ved2o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-07 07:27:05"
-      }
-    ]
-  },
-  {
-    "cluster_id": "17",
-    "label": "venezuela, 01, 00",
-    "trending_score": 0.1279,
-    "count_24h": 0,
-    "count_7d": 30,
-    "top_articles": [
-      {
-        "id": "4752",
-        "title": "Venezuela buries earthquake victims as death toll reaches 3,535",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/venezuela-buries-earthquake-victims-as-death-toll-reaches-3535?traffic_source=rss",
-        "date": "2026-07-07 20:30:06"
-      },
-      {
-        "id": "4560",
-        "title": "Cuba loses power across nation for third time this year",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/cuba-loses-power-across-nation-for-third-time-this-year?traffic_source=rss",
-        "date": "2026-07-07 04:50:50"
-      },
-      {
-        "id": "4522",
-        "title": "Cuba sees nationwide power blackout for third time in six months",
-        "url": "https://www.aljazeera.com/news/2026/7/7/cuba-sees-nationwide-power-blackout-for-third-time-in-six-months?traffic_source=rss",
-        "date": "2026-07-07 02:29:45"
-      }
-    ]
-  },
-  {
-    "cluster_id": "13",
-    "label": "said, image, new",
-    "trending_score": 0.1253,
-    "count_24h": 0,
-    "count_7d": 75,
-    "top_articles": [
-      {
-        "id": "4815",
-        "title": "Tom Holland on his 'last chance to play a boy' in The Odyssey",
-        "url": "https://www.bbc.co.uk/news/articles/c0ky1gxgxjro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 05:00:38"
-      },
-      {
-        "id": "4674",
-        "title": "‘Like a miracle’: hidden gold saves Lancashire church from closure",
-        "url": "https://www.theguardian.com/world/2026/jul/07/hidden-gold-coins-saves-lancashire-church-closure-britannia",
-        "date": "2026-07-07 15:17:51"
-      },
-      {
-        "id": "4676",
-        "title": "Dolly Parton musical set for Broadway this winter: ‘a dream come true’",
-        "url": "https://www.theguardian.com/music/2026/jul/07/dolly-parton-broadway-musical",
-        "date": "2026-07-07 15:07:25"
-      }
-    ]
-  },
-  {
-    "cluster_id": "16",
-    "label": "latest, says, state",
-    "trending_score": 0.0547,
-    "count_24h": 0,
-    "count_7d": 23,
-    "top_articles": [
-      {
-        "id": "4783",
-        "title": "Watch: Buckling support beams seen inside New York high-rise",
-        "url": "https://www.bbc.co.uk/news/videos/c7vygmmdyr8o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 00:11:48"
-      },
-      {
-        "id": "4781",
-        "title": "Michigan sees explosive outbreak of diarrheal parasite with over 700 cases",
-        "url": "https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/",
-        "date": "2026-07-07 22:29:00"
-      },
-      {
-        "id": "4758",
-        "title": "Surprisingly large number of people may have marker for tick-linked meat allergy",
-        "url": "https://arstechnica.com/health/2026/07/surprisingly-large-number-of-people-may-have-marker-for-tick-linked-meat-allergy/",
-        "date": "2026-07-07 20:32:39"
+        "id": "4670",
+        "title": "A rock star welcome and human rights protests to greet India’s prime minister Narendra Modi in Australia",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/07/india-prime-minister-modi-australia-melbourne-visit-reaction-indian-diaspora-ntwnfb",
+        "date": "2026-07-07 15:00:04"
       }
     ]
   },
   {
     "cluster_id": "0",
-    "label": "win, league, major",
-    "trending_score": 0.0138,
-    "count_24h": 0,
-    "count_7d": 3,
+    "label": "league, win, lead",
+    "trending_score": 0.0308,
+    "count_24h": 1,
+    "count_7d": 5,
     "top_articles": [
       {
-        "id": "4712",
-        "title": "Dragonflies maneuver like fighter pilots",
-        "url": "https://arstechnica.com/science/2026/07/dragonflies-maneuver-like-fighter-pilots/",
-        "date": "2026-07-07 15:54:18"
+        "id": "4841",
+        "title": "Dallas Cowboys player who died by suicide diagnosed with brain disease",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz6kllg1jo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 06:59:03"
       },
       {
         "id": "4500",
@@ -505,10 +478,10 @@
         "date": "2026-07-06 22:46:02"
       },
       {
-        "id": "3439",
-        "title": "Jaylen Brown traded to Philadelphia 76ers from Boston Celtics",
-        "url": "https://www.aljazeera.com/sports/2026/7/2/jaylen-brown-traded-to-philadelphia-76ers-from-boston-celtics?traffic_source=rss",
-        "date": "2026-07-02 11:29:36"
+        "id": "3821",
+        "title": "Ex-Spurs boss Postecoglou takes over at Ronaldo's Al-Nassr",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr47p07wk67o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-03 17:37:28"
       }
     ]
   }

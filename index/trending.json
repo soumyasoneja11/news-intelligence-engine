@@ -2,7 +2,7 @@
   {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.5089,
+    "trending_score": 0.5,
     "count_24h": 0,
     "count_7d": 87,
     "top_articles": [
@@ -23,33 +23,6 @@
         "title": "Trump’s Iran strike comments shake markets, Brent crude hits two-week high",
         "url": "https://www.aljazeera.com/economy/2026/7/8/trumps-iran-strike-comments-shake-markets-brent-crude-hits-two-week-high?traffic_source=rss",
         "date": "2026-07-08 15:53:23"
-      }
-    ]
-  },
-  {
-    "cluster_id": "9",
-    "label": "world, cup, world cup",
-    "trending_score": 0.4076,
-    "count_24h": 0,
-    "count_7d": 185,
-    "top_articles": [
-      {
-        "id": "4986",
-        "title": "Man Utd agree deal for Chelsea's Santos",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr7xkgd8vdko?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 17:09:53"
-      },
-      {
-        "id": "4991",
-        "title": "Egypt criticises ‘influential refereeing’ in Argentina World Cup match",
-        "url": "https://www.aljazeera.com/sports/2026/7/8/egypt-criticises-influential-refereeing-in-argentina-world-cup-match?traffic_source=rss",
-        "date": "2026-07-08 16:41:58"
-      },
-      {
-        "id": "4982",
-        "title": "Are Argentina being treated favourably at World Cup?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 15:37:07"
       }
     ]
   },
@@ -77,6 +50,33 @@
         "title": "Trump on rampage at Nato summit: what does it mean for Ukraine? – The Latest",
         "url": "https://www.theguardian.com/news/audio/2026/jul/08/trump-on-rampage-at-nato-summit-what-does-it-mean-for-ukraine-the-latest",
         "date": "2026-07-08 17:05:46"
+      }
+    ]
+  },
+  {
+    "cluster_id": "9",
+    "label": "world, cup, world cup",
+    "trending_score": 0.3871,
+    "count_24h": 0,
+    "count_7d": 180,
+    "top_articles": [
+      {
+        "id": "4986",
+        "title": "Man Utd agree deal for Chelsea's Santos",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr7xkgd8vdko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:09:53"
+      },
+      {
+        "id": "4991",
+        "title": "Egypt criticises ‘influential refereeing’ in Argentina World Cup match",
+        "url": "https://www.aljazeera.com/sports/2026/7/8/egypt-criticises-influential-refereeing-in-argentina-world-cup-match?traffic_source=rss",
+        "date": "2026-07-08 16:41:58"
+      },
+      {
+        "id": "4982",
+        "title": "Are Argentina being treated favourably at World Cup?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 15:37:07"
       }
     ]
   },
@@ -137,9 +137,9 @@
   {
     "cluster_id": "4",
     "label": "wimbledon, tennis, williams",
-    "trending_score": 0.305,
+    "trending_score": 0.3,
     "count_24h": 0,
-    "count_7d": 40,
+    "count_7d": 39,
     "top_articles": [
       {
         "id": "4985",
@@ -191,9 +191,9 @@
   {
     "cluster_id": "5",
     "label": "england, world, cup",
-    "trending_score": 0.2635,
+    "trending_score": 0.2611,
     "count_24h": 0,
-    "count_7d": 86,
+    "count_7d": 85,
     "top_articles": [
       {
         "id": "4931",
@@ -218,9 +218,9 @@
   {
     "cluster_id": "14",
     "label": "said, court, police",
-    "trending_score": 0.24,
+    "trending_score": 0.2364,
     "count_24h": 0,
-    "count_7d": 122,
+    "count_7d": 119,
     "top_articles": [
       {
         "id": "4975",
@@ -245,9 +245,9 @@
   {
     "cluster_id": "1",
     "label": "said, health, care",
-    "trending_score": 0.229,
+    "trending_score": 0.2196,
     "count_24h": 0,
-    "count_7d": 65,
+    "count_7d": 64,
     "top_articles": [
       {
         "id": "4924",
@@ -272,9 +272,9 @@
   {
     "cluster_id": "6",
     "label": "ai, new, tech",
-    "trending_score": 0.1881,
+    "trending_score": 0.1796,
     "count_24h": 0,
-    "count_7d": 101,
+    "count_7d": 100,
     "top_articles": [
       {
         "id": "4964",
@@ -297,9 +297,36 @@
     ]
   },
   {
+    "cluster_id": "10",
+    "label": "trump, court, president",
+    "trending_score": 0.1423,
+    "count_24h": 0,
+    "count_7d": 80,
+    "top_articles": [
+      {
+        "id": "4998",
+        "title": "Marine Le Pen will run for election in 2027. Will she have to wear an electronic tag?",
+        "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-election-2027",
+        "date": "2026-07-08 17:22:01"
+      },
+      {
+        "id": "4992",
+        "title": "Far-right leader Le Pen starts campaign, faces mixed reactions in France",
+        "url": "https://www.aljazeera.com/news/2026/7/8/far-right-leader-le-pen-starts-campaign-faces-mixed-reactions-in-france?traffic_source=rss",
+        "date": "2026-07-08 16:17:12"
+      },
+      {
+        "id": "4961",
+        "title": "US judge throws out Trump’s $3.8bn defamation lawsuit against Washington Post",
+        "url": "https://www.theguardian.com/media/2026/jul/08/trump-washington-post-defamation-lawsuit",
+        "date": "2026-07-08 15:18:24"
+      }
+    ]
+  },
+  {
     "cluster_id": "2",
     "label": "police, said, shooting",
-    "trending_score": 0.1463,
+    "trending_score": 0.142,
     "count_24h": 0,
     "count_7d": 61,
     "top_articles": [
@@ -324,38 +351,11 @@
     ]
   },
   {
-    "cluster_id": "10",
-    "label": "trump, court, president",
-    "trending_score": 0.1436,
-    "count_24h": 0,
-    "count_7d": 81,
-    "top_articles": [
-      {
-        "id": "4998",
-        "title": "Marine Le Pen will run for election in 2027. Will she have to wear an electronic tag?",
-        "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-election-2027",
-        "date": "2026-07-08 17:22:01"
-      },
-      {
-        "id": "4992",
-        "title": "Far-right leader Le Pen starts campaign, faces mixed reactions in France",
-        "url": "https://www.aljazeera.com/news/2026/7/8/far-right-leader-le-pen-starts-campaign-faces-mixed-reactions-in-france?traffic_source=rss",
-        "date": "2026-07-08 16:17:12"
-      },
-      {
-        "id": "4961",
-        "title": "US judge throws out Trump’s $3.8bn defamation lawsuit against Washington Post",
-        "url": "https://www.theguardian.com/media/2026/jul/08/trump-washington-post-defamation-lawsuit",
-        "date": "2026-07-08 15:18:24"
-      }
-    ]
-  },
-  {
     "cluster_id": "16",
     "label": "venezuela, 01, earthquakes",
-    "trending_score": 0.125,
+    "trending_score": 0.1212,
     "count_24h": 0,
-    "count_7d": 27,
+    "count_7d": 26,
     "top_articles": [
       {
         "id": "4866",
@@ -380,7 +380,7 @@
   {
     "cluster_id": "7",
     "label": "said, new, market",
-    "trending_score": 0.1222,
+    "trending_score": 0.111,
     "count_24h": 0,
     "count_7d": 53,
     "top_articles": [
@@ -407,9 +407,9 @@
   {
     "cluster_id": "8",
     "label": "image, said, new",
-    "trending_score": 0.0948,
+    "trending_score": 0.0937,
     "count_24h": 0,
-    "count_7d": 72,
+    "count_7d": 71,
     "top_articles": [
       {
         "id": "4929",
@@ -434,9 +434,9 @@
   {
     "cluster_id": "15",
     "label": "china, says, conference glance",
-    "trending_score": 0.0546,
+    "trending_score": 0.0534,
     "count_24h": 0,
-    "count_7d": 46,
+    "count_7d": 45,
     "top_articles": [
       {
         "id": "4730",

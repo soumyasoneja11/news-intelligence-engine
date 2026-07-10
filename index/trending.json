@@ -2,9 +2,9 @@
   {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.3929,
+    "trending_score": 0.3244,
     "count_24h": 0,
-    "count_7d": 78,
+    "count_7d": 76,
     "top_articles": [
       {
         "id": "4989",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "11",
     "label": "russia, ukraine, russian",
-    "trending_score": 0.3591,
+    "trending_score": 0.3122,
     "count_24h": 0,
-    "count_7d": 88,
+    "count_7d": 83,
     "top_articles": [
       {
         "id": "4988",
@@ -56,9 +56,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.3211,
+    "trending_score": 0.2727,
     "count_24h": 0,
-    "count_7d": 171,
+    "count_7d": 165,
     "top_articles": [
       {
         "id": "4986",
@@ -83,9 +83,9 @@
   {
     "cluster_id": "12",
     "label": "israel, gaza, israeli",
-    "trending_score": 0.2756,
+    "trending_score": 0.26,
     "count_24h": 0,
-    "count_7d": 97,
+    "count_7d": 96,
     "top_articles": [
       {
         "id": "4955",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.2712,
+    "trending_score": 0.2519,
     "count_24h": 0,
-    "count_7d": 102,
+    "count_7d": 101,
     "top_articles": [
       {
         "id": "4976",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "5",
     "label": "england, world, cup",
-    "trending_score": 0.2438,
+    "trending_score": 0.2143,
     "count_24h": 0,
-    "count_7d": 81,
+    "count_7d": 78,
     "top_articles": [
       {
         "id": "4931",
@@ -189,36 +189,9 @@
     ]
   },
   {
-    "cluster_id": "17",
-    "label": "heat, heatwave, temperatures",
-    "trending_score": 0.2025,
-    "count_24h": 0,
-    "count_7d": 37,
-    "top_articles": [
-      {
-        "id": "4977",
-        "title": "No air con? Here's how to get the most out of your electric fan",
-        "url": "https://www.bbc.co.uk/news/articles/cly76jlxljlo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 17:07:05"
-      },
-      {
-        "id": "4884",
-        "title": "Unions in Europe press for new worker protections to counter heat stress",
-        "url": "https://www.theguardian.com/environment/2026/jul/08/unions-europe-worker-protections-heat-stress-climate-crisis",
-        "date": "2026-07-08 11:00:52"
-      },
-      {
-        "id": "4888",
-        "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
-        "url": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
-        "date": "2026-07-08 10:30:07"
-      }
-    ]
-  },
-  {
     "cluster_id": "14",
     "label": "said, court, police",
-    "trending_score": 0.1915,
+    "trending_score": 0.1879,
     "count_24h": 0,
     "count_7d": 111,
     "top_articles": [
@@ -245,9 +218,9 @@
   {
     "cluster_id": "1",
     "label": "said, health, care",
-    "trending_score": 0.1752,
+    "trending_score": 0.1636,
     "count_24h": 0,
-    "count_7d": 60,
+    "count_7d": 58,
     "top_articles": [
       {
         "id": "4924",
@@ -270,11 +243,38 @@
     ]
   },
   {
-    "cluster_id": "6",
-    "label": "ai, new, tech",
+    "cluster_id": "17",
+    "label": "heat, heatwave, temperatures",
     "trending_score": 0.1529,
     "count_24h": 0,
-    "count_7d": 96,
+    "count_7d": 34,
+    "top_articles": [
+      {
+        "id": "4977",
+        "title": "No air con? Here's how to get the most out of your electric fan",
+        "url": "https://www.bbc.co.uk/news/articles/cly76jlxljlo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:07:05"
+      },
+      {
+        "id": "4884",
+        "title": "Unions in Europe press for new worker protections to counter heat stress",
+        "url": "https://www.theguardian.com/environment/2026/jul/08/unions-europe-worker-protections-heat-stress-climate-crisis",
+        "date": "2026-07-08 11:00:52"
+      },
+      {
+        "id": "4888",
+        "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
+        "url": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
+        "date": "2026-07-08 10:30:07"
+      }
+    ]
+  },
+  {
+    "cluster_id": "6",
+    "label": "ai, new, tech",
+    "trending_score": 0.1468,
+    "count_24h": 0,
+    "count_7d": 94,
     "top_articles": [
       {
         "id": "4964",
@@ -299,9 +299,9 @@
   {
     "cluster_id": "10",
     "label": "trump, court, president",
-    "trending_score": 0.125,
+    "trending_score": 0.1144,
     "count_24h": 0,
-    "count_7d": 73,
+    "count_7d": 71,
     "top_articles": [
       {
         "id": "4998",
@@ -326,9 +326,9 @@
   {
     "cluster_id": "2",
     "label": "police, said, shooting",
-    "trending_score": 0.1065,
+    "trending_score": 0.1009,
     "count_24h": 0,
-    "count_7d": 57,
+    "count_7d": 56,
     "top_articles": [
       {
         "id": "4983",
@@ -353,9 +353,9 @@
   {
     "cluster_id": "16",
     "label": "venezuela, 01, earthquakes",
-    "trending_score": 0.1061,
+    "trending_score": 0.0909,
     "count_24h": 0,
-    "count_7d": 25,
+    "count_7d": 24,
     "top_articles": [
       {
         "id": "4866",
@@ -380,7 +380,7 @@
   {
     "cluster_id": "7",
     "label": "said, new, market",
-    "trending_score": 0.0848,
+    "trending_score": 0.081,
     "count_24h": 0,
     "count_7d": 50,
     "top_articles": [
@@ -407,9 +407,9 @@
   {
     "cluster_id": "8",
     "label": "image, said, new",
-    "trending_score": 0.0824,
+    "trending_score": 0.0688,
     "count_24h": 0,
-    "count_7d": 64,
+    "count_7d": 58,
     "top_articles": [
       {
         "id": "4929",

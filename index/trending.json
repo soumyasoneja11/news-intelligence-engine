@@ -2,9 +2,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.2317,
+    "trending_score": 0.2273,
     "count_24h": 0,
-    "count_7d": 158,
+    "count_7d": 155,
     "top_articles": [
       {
         "id": "4986",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.1808,
+    "trending_score": 0.1788,
     "count_24h": 0,
-    "count_7d": 94,
+    "count_7d": 93,
     "top_articles": [
       {
         "id": "4976",
@@ -191,9 +191,9 @@
   {
     "cluster_id": "17",
     "label": "heat, heatwave, temperatures",
-    "trending_score": 0.124,
+    "trending_score": 0.1198,
     "count_24h": 0,
-    "count_7d": 30,
+    "count_7d": 29,
     "top_articles": [
       {
         "id": "4977",
@@ -218,9 +218,9 @@
   {
     "cluster_id": "1",
     "label": "said, health, care",
-    "trending_score": 0.1238,
+    "trending_score": 0.1192,
     "count_24h": 0,
-    "count_7d": 53,
+    "count_7d": 51,
     "top_articles": [
       {
         "id": "4924",
@@ -272,9 +272,9 @@
   {
     "cluster_id": "6",
     "label": "ai, new, tech",
-    "trending_score": 0.1068,
+    "trending_score": 0.1044,
     "count_24h": 0,
-    "count_7d": 88,
+    "count_7d": 86,
     "top_articles": [
       {
         "id": "4964",
@@ -293,33 +293,6 @@
         "title": "Apple to produce Made in America wireless chips with Broadcom",
         "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
         "date": "2026-07-08 14:43:00"
-      }
-    ]
-  },
-  {
-    "cluster_id": "16",
-    "label": "venezuela, 01, earthquakes",
-    "trending_score": 0.0909,
-    "count_24h": 0,
-    "count_7d": 24,
-    "top_articles": [
-      {
-        "id": "4866",
-        "title": "Cubans protest after third nationwide power cut this year",
-        "url": "https://www.bbc.co.uk/news/articles/cm20g0d3ry4o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 10:56:55"
-      },
-      {
-        "id": "4817",
-        "title": "At UN, Cuba rallies support against ‘ruthless’ US blockade",
-        "url": "https://www.aljazeera.com/news/2026/7/8/at-un-cuba-rallies-support-against-ruthless-us-blockade?traffic_source=rss",
-        "date": "2026-07-08 05:18:52"
-      },
-      {
-        "id": "4752",
-        "title": "Venezuela buries earthquake victims as death toll reaches 3,535",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/venezuela-buries-earthquake-victims-as-death-toll-reaches-3535?traffic_source=rss",
-        "date": "2026-07-07 20:30:06"
       }
     ]
   },
@@ -351,11 +324,38 @@
     ]
   },
   {
+    "cluster_id": "16",
+    "label": "venezuela, 01, earthquakes",
+    "trending_score": 0.0758,
+    "count_24h": 0,
+    "count_7d": 20,
+    "top_articles": [
+      {
+        "id": "4866",
+        "title": "Cubans protest after third nationwide power cut this year",
+        "url": "https://www.bbc.co.uk/news/articles/cm20g0d3ry4o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 10:56:55"
+      },
+      {
+        "id": "4817",
+        "title": "At UN, Cuba rallies support against ‘ruthless’ US blockade",
+        "url": "https://www.aljazeera.com/news/2026/7/8/at-un-cuba-rallies-support-against-ruthless-us-blockade?traffic_source=rss",
+        "date": "2026-07-08 05:18:52"
+      },
+      {
+        "id": "4752",
+        "title": "Venezuela buries earthquake victims as death toll reaches 3,535",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/venezuela-buries-earthquake-victims-as-death-toll-reaches-3535?traffic_source=rss",
+        "date": "2026-07-07 20:30:06"
+      }
+    ]
+  },
+  {
     "cluster_id": "2",
     "label": "police, said, shooting",
-    "trending_score": 0.0739,
+    "trending_score": 0.0724,
     "count_24h": 0,
-    "count_7d": 52,
+    "count_7d": 51,
     "top_articles": [
       {
         "id": "4983",

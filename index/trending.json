@@ -2,9 +2,9 @@
   {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.3958,
+    "trending_score": 0.3929,
     "count_24h": 0,
-    "count_7d": 79,
+    "count_7d": 78,
     "top_articles": [
       {
         "id": "4989",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "11",
     "label": "russia, ukraine, russian",
-    "trending_score": 0.3702,
+    "trending_score": 0.3591,
     "count_24h": 0,
-    "count_7d": 89,
+    "count_7d": 88,
     "top_articles": [
       {
         "id": "4988",
@@ -56,9 +56,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.327,
+    "trending_score": 0.3211,
     "count_24h": 0,
-    "count_7d": 175,
+    "count_7d": 171,
     "top_articles": [
       {
         "id": "4986",
@@ -83,9 +83,9 @@
   {
     "cluster_id": "12",
     "label": "israel, gaza, israeli",
-    "trending_score": 0.2911,
+    "trending_score": 0.2756,
     "count_24h": 0,
-    "count_7d": 98,
+    "count_7d": 97,
     "top_articles": [
       {
         "id": "4955",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.2846,
+    "trending_score": 0.2712,
     "count_24h": 0,
-    "count_7d": 103,
+    "count_7d": 102,
     "top_articles": [
       {
         "id": "4976",
@@ -164,9 +164,9 @@
   {
     "cluster_id": "4",
     "label": "wimbledon, tennis, williams",
-    "trending_score": 0.225,
+    "trending_score": 0.205,
     "count_24h": 0,
-    "count_7d": 39,
+    "count_7d": 38,
     "top_articles": [
       {
         "id": "4985",
@@ -191,9 +191,9 @@
   {
     "cluster_id": "17",
     "label": "heat, heatwave, temperatures",
-    "trending_score": 0.2066,
+    "trending_score": 0.2025,
     "count_24h": 0,
-    "count_7d": 38,
+    "count_7d": 37,
     "top_articles": [
       {
         "id": "4977",
@@ -218,7 +218,7 @@
   {
     "cluster_id": "14",
     "label": "said, court, police",
-    "trending_score": 0.2057,
+    "trending_score": 0.1915,
     "count_24h": 0,
     "count_7d": 111,
     "top_articles": [
@@ -245,7 +245,7 @@
   {
     "cluster_id": "1",
     "label": "said, health, care",
-    "trending_score": 0.1893,
+    "trending_score": 0.1752,
     "count_24h": 0,
     "count_7d": 60,
     "top_articles": [
@@ -272,7 +272,7 @@
   {
     "cluster_id": "6",
     "label": "ai, new, tech",
-    "trending_score": 0.1675,
+    "trending_score": 0.1529,
     "count_24h": 0,
     "count_7d": 96,
     "top_articles": [
@@ -326,9 +326,9 @@
   {
     "cluster_id": "2",
     "label": "police, said, shooting",
-    "trending_score": 0.1094,
+    "trending_score": 0.1065,
     "count_24h": 0,
-    "count_7d": 59,
+    "count_7d": 57,
     "top_articles": [
       {
         "id": "4983",
@@ -461,7 +461,7 @@
   {
     "cluster_id": "0",
     "label": "league, win, lead",
-    "trending_score": 0.0132,
+    "trending_score": 0.0066,
     "count_24h": 0,
     "count_7d": 3,
     "top_articles": [

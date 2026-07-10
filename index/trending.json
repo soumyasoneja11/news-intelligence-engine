@@ -2,9 +2,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.2273,
+    "trending_score": 0.2258,
     "count_24h": 0,
-    "count_7d": 155,
+    "count_7d": 154,
     "top_articles": [
       {
         "id": "4986",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.1788,
+    "trending_score": 0.1769,
     "count_24h": 0,
-    "count_7d": 93,
+    "count_7d": 92,
     "top_articles": [
       {
         "id": "4976",
@@ -353,9 +353,9 @@
   {
     "cluster_id": "2",
     "label": "police, said, shooting",
-    "trending_score": 0.0724,
+    "trending_score": 0.071,
     "count_24h": 0,
-    "count_7d": 51,
+    "count_7d": 50,
     "top_articles": [
       {
         "id": "4983",
@@ -380,9 +380,9 @@
   {
     "cluster_id": "8",
     "label": "image, said, new",
-    "trending_score": 0.0609,
+    "trending_score": 0.0587,
     "count_24h": 0,
-    "count_7d": 54,
+    "count_7d": 52,
     "top_articles": [
       {
         "id": "4929",

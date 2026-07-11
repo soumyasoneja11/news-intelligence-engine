@@ -2,9 +2,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.195,
+    "trending_score": 0.1921,
     "count_24h": 0,
-    "count_7d": 133,
+    "count_7d": 131,
     "top_articles": [
       {
         "id": "4986",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.1538,
+    "trending_score": 0.1519,
     "count_24h": 0,
-    "count_7d": 80,
+    "count_7d": 79,
     "top_articles": [
       {
         "id": "4976",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "5",
     "label": "england, world, cup",
-    "trending_score": 0.1281,
+    "trending_score": 0.1232,
     "count_24h": 0,
-    "count_7d": 52,
+    "count_7d": 50,
     "top_articles": [
       {
         "id": "4931",
@@ -245,9 +245,9 @@
   {
     "cluster_id": "6",
     "label": "ai, new, tech",
-    "trending_score": 0.0971,
+    "trending_score": 0.0959,
     "count_24h": 0,
-    "count_7d": 80,
+    "count_7d": 79,
     "top_articles": [
       {
         "id": "4964",
@@ -299,9 +299,9 @@
   {
     "cluster_id": "10",
     "label": "trump, court, president",
-    "trending_score": 0.0705,
+    "trending_score": 0.0691,
     "count_24h": 0,
-    "count_7d": 53,
+    "count_7d": 52,
     "top_articles": [
       {
         "id": "4998",
@@ -407,9 +407,9 @@
   {
     "cluster_id": "8",
     "label": "image, said, new",
-    "trending_score": 0.0384,
+    "trending_score": 0.0372,
     "count_24h": 0,
-    "count_7d": 34,
+    "count_7d": 33,
     "top_articles": [
       {
         "id": "4929",

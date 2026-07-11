@@ -2,9 +2,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.1965,
+    "trending_score": 0.195,
     "count_24h": 0,
-    "count_7d": 134,
+    "count_7d": 133,
     "top_articles": [
       {
         "id": "4986",
@@ -23,33 +23,6 @@
         "title": "Are Argentina being treated favourably at World Cup?",
         "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-08 15:37:07"
-      }
-    ]
-  },
-  {
-    "cluster_id": "3",
-    "label": "iran, strait, khamenei",
-    "trending_score": 0.1815,
-    "count_24h": 0,
-    "count_7d": 61,
-    "top_articles": [
-      {
-        "id": "4989",
-        "title": "The Strait of Hormuz is now at the centre of Iranian and US calculus",
-        "url": "https://www.aljazeera.com/opinions/2026/7/8/the-strait-of-hormuz-is-now-at-the-centre-of-iranian-and-us-calculus?traffic_source=rss",
-        "date": "2026-07-08 16:48:31"
-      },
-      {
-        "id": "4995",
-        "title": "Germany urges US-Iran negotiations, offers to minesweep Hormuz",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/germany-urges-us-iran-negotiations-offers-to-minesweep-hormuz?traffic_source=rss",
-        "date": "2026-07-08 15:57:41"
-      },
-      {
-        "id": "4996",
-        "title": "Trump’s Iran strike comments shake markets, Brent crude hits two-week high",
-        "url": "https://www.aljazeera.com/economy/2026/7/8/trumps-iran-strike-comments-shake-markets-brent-crude-hits-two-week-high?traffic_source=rss",
-        "date": "2026-07-08 15:53:23"
       }
     ]
   },
@@ -108,6 +81,33 @@
     ]
   },
   {
+    "cluster_id": "3",
+    "label": "iran, strait, khamenei",
+    "trending_score": 0.1756,
+    "count_24h": 0,
+    "count_7d": 59,
+    "top_articles": [
+      {
+        "id": "4989",
+        "title": "The Strait of Hormuz is now at the centre of Iranian and US calculus",
+        "url": "https://www.aljazeera.com/opinions/2026/7/8/the-strait-of-hormuz-is-now-at-the-centre-of-iranian-and-us-calculus?traffic_source=rss",
+        "date": "2026-07-08 16:48:31"
+      },
+      {
+        "id": "4995",
+        "title": "Germany urges US-Iran negotiations, offers to minesweep Hormuz",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/germany-urges-us-iran-negotiations-offers-to-minesweep-hormuz?traffic_source=rss",
+        "date": "2026-07-08 15:57:41"
+      },
+      {
+        "id": "4996",
+        "title": "Trump’s Iran strike comments shake markets, Brent crude hits two-week high",
+        "url": "https://www.aljazeera.com/economy/2026/7/8/trumps-iran-strike-comments-shake-markets-brent-crude-hits-two-week-high?traffic_source=rss",
+        "date": "2026-07-08 15:53:23"
+      }
+    ]
+  },
+  {
     "cluster_id": "13",
     "label": "burnham, said, farage",
     "trending_score": 0.1538,
@@ -137,9 +137,9 @@
   {
     "cluster_id": "5",
     "label": "england, world, cup",
-    "trending_score": 0.1305,
+    "trending_score": 0.1281,
     "count_24h": 0,
-    "count_7d": 53,
+    "count_7d": 52,
     "top_articles": [
       {
         "id": "4931",
@@ -164,9 +164,9 @@
   {
     "cluster_id": "4",
     "label": "wimbledon, tennis, williams",
-    "trending_score": 0.12,
+    "trending_score": 0.115,
     "count_24h": 0,
-    "count_7d": 24,
+    "count_7d": 23,
     "top_articles": [
       {
         "id": "4985",
@@ -185,33 +185,6 @@
         "title": "What must Fery do to become Wimbledon semi-finalist?",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-08 05:41:31"
-      }
-    ]
-  },
-  {
-    "cluster_id": "1",
-    "label": "said, health, care",
-    "trending_score": 0.1028,
-    "count_24h": 0,
-    "count_7d": 44,
-    "top_articles": [
-      {
-        "id": "4924",
-        "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
-        "url": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 15:05:31"
-      },
-      {
-        "id": "4949",
-        "title": "Contaminated children’s play sand sold in Australia can release toxic airborne asbestos, research finds",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/09/contaminated-childrens-play-sand-sold-in-australia-can-release-toxic-airborne-asbestos-research-finds",
-        "date": "2026-07-08 15:00:35"
-      },
-      {
-        "id": "4950",
-        "title": "Australians with cancer are living longer but diagnosis rates on the rise for younger people, report reveals",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/09/australians-with-cancer-are-living-longer-but-diagnosis-rates-on-the-rise-for-younger-people-report-reveals",
-        "date": "2026-07-08 15:00:35"
       }
     ]
   },
@@ -239,6 +212,33 @@
         "title": "Government offers to meet woman abused by neo-Nazi MI5 agent",
         "url": "https://www.bbc.co.uk/news/articles/c9v24wpynv1o?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-08 16:23:19"
+      }
+    ]
+  },
+  {
+    "cluster_id": "1",
+    "label": "said, health, care",
+    "trending_score": 0.1005,
+    "count_24h": 0,
+    "count_7d": 43,
+    "top_articles": [
+      {
+        "id": "4924",
+        "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
+        "url": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 15:05:31"
+      },
+      {
+        "id": "4949",
+        "title": "Contaminated children’s play sand sold in Australia can release toxic airborne asbestos, research finds",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/09/contaminated-childrens-play-sand-sold-in-australia-can-release-toxic-airborne-asbestos-research-finds",
+        "date": "2026-07-08 15:00:35"
+      },
+      {
+        "id": "4950",
+        "title": "Australians with cancer are living longer but diagnosis rates on the rise for younger people, report reveals",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/09/australians-with-cancer-are-living-longer-but-diagnosis-rates-on-the-rise-for-younger-people-report-reveals",
+        "date": "2026-07-08 15:00:35"
       }
     ]
   },

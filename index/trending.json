@@ -2,9 +2,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.2111,
+    "trending_score": 0.2067,
     "count_24h": 0,
-    "count_7d": 144,
+    "count_7d": 141,
     "top_articles": [
       {
         "id": "4986",
@@ -27,38 +27,11 @@
     ]
   },
   {
-    "cluster_id": "3",
-    "label": "iran, strait, khamenei",
-    "trending_score": 0.2083,
-    "count_24h": 0,
-    "count_7d": 70,
-    "top_articles": [
-      {
-        "id": "4989",
-        "title": "The Strait of Hormuz is now at the centre of Iranian and US calculus",
-        "url": "https://www.aljazeera.com/opinions/2026/7/8/the-strait-of-hormuz-is-now-at-the-centre-of-iranian-and-us-calculus?traffic_source=rss",
-        "date": "2026-07-08 16:48:31"
-      },
-      {
-        "id": "4995",
-        "title": "Germany urges US-Iran negotiations, offers to minesweep Hormuz",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/germany-urges-us-iran-negotiations-offers-to-minesweep-hormuz?traffic_source=rss",
-        "date": "2026-07-08 15:57:41"
-      },
-      {
-        "id": "4996",
-        "title": "Trump’s Iran strike comments shake markets, Brent crude hits two-week high",
-        "url": "https://www.aljazeera.com/economy/2026/7/8/trumps-iran-strike-comments-shake-markets-brent-crude-hits-two-week-high?traffic_source=rss",
-        "date": "2026-07-08 15:53:23"
-      }
-    ]
-  },
-  {
     "cluster_id": "11",
     "label": "russia, ukraine, russian",
-    "trending_score": 0.2072,
+    "trending_score": 0.2017,
     "count_24h": 0,
-    "count_7d": 75,
+    "count_7d": 73,
     "top_articles": [
       {
         "id": "4988",
@@ -81,11 +54,38 @@
     ]
   },
   {
+    "cluster_id": "3",
+    "label": "iran, strait, khamenei",
+    "trending_score": 0.1994,
+    "count_24h": 0,
+    "count_7d": 67,
+    "top_articles": [
+      {
+        "id": "4989",
+        "title": "The Strait of Hormuz is now at the centre of Iranian and US calculus",
+        "url": "https://www.aljazeera.com/opinions/2026/7/8/the-strait-of-hormuz-is-now-at-the-centre-of-iranian-and-us-calculus?traffic_source=rss",
+        "date": "2026-07-08 16:48:31"
+      },
+      {
+        "id": "4995",
+        "title": "Germany urges US-Iran negotiations, offers to minesweep Hormuz",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/germany-urges-us-iran-negotiations-offers-to-minesweep-hormuz?traffic_source=rss",
+        "date": "2026-07-08 15:57:41"
+      },
+      {
+        "id": "4996",
+        "title": "Trump’s Iran strike comments shake markets, Brent crude hits two-week high",
+        "url": "https://www.aljazeera.com/economy/2026/7/8/trumps-iran-strike-comments-shake-markets-brent-crude-hits-two-week-high?traffic_source=rss",
+        "date": "2026-07-08 15:53:23"
+      }
+    ]
+  },
+  {
     "cluster_id": "12",
     "label": "israel, gaza, israeli",
-    "trending_score": 0.1956,
+    "trending_score": 0.1933,
     "count_24h": 0,
-    "count_7d": 88,
+    "count_7d": 87,
     "top_articles": [
       {
         "id": "4955",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.1673,
+    "trending_score": 0.1615,
     "count_24h": 0,
-    "count_7d": 87,
+    "count_7d": 84,
     "top_articles": [
       {
         "id": "4976",
@@ -131,33 +131,6 @@
         "title": "Treasury yet to do due diligence on finding extra money for UK’s Nato spend",
         "url": "https://www.theguardian.com/business/2026/jul/08/treasury-due-diligence-money-uk-nato-spend",
         "date": "2026-07-08 15:30:17"
-      }
-    ]
-  },
-  {
-    "cluster_id": "5",
-    "label": "england, world, cup",
-    "trending_score": 0.1576,
-    "count_24h": 0,
-    "count_7d": 64,
-    "top_articles": [
-      {
-        "id": "4931",
-        "title": "Henderson has surgery in USA after breaking arm",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c70ygpg95vlo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 15:28:28"
-      },
-      {
-        "id": "4930",
-        "title": "ICC contacts ECB over Stokes retirement video",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdg4me54rro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 14:10:56"
-      },
-      {
-        "id": "4904",
-        "title": "Beaumont to retire from international cricket",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cy047zqw8j5o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 12:58:56"
       }
     ]
   },
@@ -189,11 +162,38 @@
     ]
   },
   {
+    "cluster_id": "5",
+    "label": "england, world, cup",
+    "trending_score": 0.1527,
+    "count_24h": 0,
+    "count_7d": 62,
+    "top_articles": [
+      {
+        "id": "4931",
+        "title": "Henderson has surgery in USA after breaking arm",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c70ygpg95vlo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 15:28:28"
+      },
+      {
+        "id": "4930",
+        "title": "ICC contacts ECB over Stokes retirement video",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdg4me54rro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 14:10:56"
+      },
+      {
+        "id": "4904",
+        "title": "Beaumont to retire from international cricket",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cy047zqw8j5o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 12:58:56"
+      }
+    ]
+  },
+  {
     "cluster_id": "1",
     "label": "said, health, care",
-    "trending_score": 0.1168,
+    "trending_score": 0.1145,
     "count_24h": 0,
-    "count_7d": 50,
+    "count_7d": 49,
     "top_articles": [
       {
         "id": "4924",
@@ -299,9 +299,9 @@
   {
     "cluster_id": "10",
     "label": "trump, court, president",
-    "trending_score": 0.0785,
+    "trending_score": 0.0771,
     "count_24h": 0,
-    "count_7d": 59,
+    "count_7d": 58,
     "top_articles": [
       {
         "id": "4998",
@@ -407,9 +407,9 @@
   {
     "cluster_id": "8",
     "label": "image, said, new",
-    "trending_score": 0.0485,
+    "trending_score": 0.0474,
     "count_24h": 0,
-    "count_7d": 43,
+    "count_7d": 42,
     "top_articles": [
       {
         "id": "4929",

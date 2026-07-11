@@ -2,9 +2,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.1979,
+    "trending_score": 0.1965,
     "count_24h": 0,
-    "count_7d": 135,
+    "count_7d": 134,
     "top_articles": [
       {
         "id": "4986",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.1875,
+    "trending_score": 0.1845,
     "count_24h": 0,
-    "count_7d": 63,
+    "count_7d": 62,
     "top_articles": [
       {
         "id": "4989",
@@ -54,38 +54,11 @@
     ]
   },
   {
-    "cluster_id": "11",
-    "label": "russia, ukraine, russian",
-    "trending_score": 0.1851,
-    "count_24h": 0,
-    "count_7d": 67,
-    "top_articles": [
-      {
-        "id": "4988",
-        "title": "NATO pledges 70 billion euros for Ukraine as Trump praises peace ‘progress’",
-        "url": "https://www.aljazeera.com/news/2026/7/8/nato-pledges-70-billion-euros-for-ukraine-as-trump-praises-peace-progress?traffic_source=rss",
-        "date": "2026-07-08 17:24:45"
-      },
-      {
-        "id": "4973",
-        "title": "Trump says Ukraine will get licence to produce Patriot missiles",
-        "url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 17:18:14"
-      },
-      {
-        "id": "4999",
-        "title": "Trump on rampage at Nato summit: what does it mean for Ukraine? – The Latest",
-        "url": "https://www.theguardian.com/news/audio/2026/jul/08/trump-on-rampage-at-nato-summit-what-does-it-mean-for-ukraine-the-latest",
-        "date": "2026-07-08 17:05:46"
-      }
-    ]
-  },
-  {
     "cluster_id": "12",
     "label": "israel, gaza, israeli",
-    "trending_score": 0.1844,
+    "trending_score": 0.18,
     "count_24h": 0,
-    "count_7d": 83,
+    "count_7d": 81,
     "top_articles": [
       {
         "id": "4955",
@@ -108,11 +81,38 @@
     ]
   },
   {
+    "cluster_id": "11",
+    "label": "russia, ukraine, russian",
+    "trending_score": 0.1796,
+    "count_24h": 0,
+    "count_7d": 65,
+    "top_articles": [
+      {
+        "id": "4988",
+        "title": "NATO pledges 70 billion euros for Ukraine as Trump praises peace ‘progress’",
+        "url": "https://www.aljazeera.com/news/2026/7/8/nato-pledges-70-billion-euros-for-ukraine-as-trump-praises-peace-progress?traffic_source=rss",
+        "date": "2026-07-08 17:24:45"
+      },
+      {
+        "id": "4973",
+        "title": "Trump says Ukraine will get licence to produce Patriot missiles",
+        "url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:18:14"
+      },
+      {
+        "id": "4999",
+        "title": "Trump on rampage at Nato summit: what does it mean for Ukraine? – The Latest",
+        "url": "https://www.theguardian.com/news/audio/2026/jul/08/trump-on-rampage-at-nato-summit-what-does-it-mean-for-ukraine-the-latest",
+        "date": "2026-07-08 17:05:46"
+      }
+    ]
+  },
+  {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.1558,
+    "trending_score": 0.1538,
     "count_24h": 0,
-    "count_7d": 81,
+    "count_7d": 80,
     "top_articles": [
       {
         "id": "4976",
@@ -131,33 +131,6 @@
         "title": "Treasury yet to do due diligence on finding extra money for UK’s Nato spend",
         "url": "https://www.theguardian.com/business/2026/jul/08/treasury-due-diligence-money-uk-nato-spend",
         "date": "2026-07-08 15:30:17"
-      }
-    ]
-  },
-  {
-    "cluster_id": "4",
-    "label": "wimbledon, tennis, williams",
-    "trending_score": 0.135,
-    "count_24h": 0,
-    "count_7d": 27,
-    "top_articles": [
-      {
-        "id": "4985",
-        "title": "British wildcard Fery stuns Cobolli to reach semi-finals",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c5yzvnxg6ygo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:44:01"
-      },
-      {
-        "id": "4860",
-        "title": "Arthur Fery: the Wimbledon wildcard carrying Britain’s hopes",
-        "url": "https://www.theguardian.com/sport/2026/jul/08/arthur-fery-wimbledon-wildcard-carrying-britain-hopes",
-        "date": "2026-07-08 08:00:24"
-      },
-      {
-        "id": "4816",
-        "title": "What must Fery do to become Wimbledon semi-finalist?",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 05:41:31"
       }
     ]
   },
@@ -189,11 +162,38 @@
     ]
   },
   {
+    "cluster_id": "4",
+    "label": "wimbledon, tennis, williams",
+    "trending_score": 0.125,
+    "count_24h": 0,
+    "count_7d": 25,
+    "top_articles": [
+      {
+        "id": "4985",
+        "title": "British wildcard Fery stuns Cobolli to reach semi-finals",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c5yzvnxg6ygo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:44:01"
+      },
+      {
+        "id": "4860",
+        "title": "Arthur Fery: the Wimbledon wildcard carrying Britain’s hopes",
+        "url": "https://www.theguardian.com/sport/2026/jul/08/arthur-fery-wimbledon-wildcard-carrying-britain-hopes",
+        "date": "2026-07-08 08:00:24"
+      },
+      {
+        "id": "4816",
+        "title": "What must Fery do to become Wimbledon semi-finalist?",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 05:41:31"
+      }
+    ]
+  },
+  {
     "cluster_id": "1",
     "label": "said, health, care",
-    "trending_score": 0.1075,
+    "trending_score": 0.1028,
     "count_24h": 0,
-    "count_7d": 46,
+    "count_7d": 44,
     "top_articles": [
       {
         "id": "4924",
@@ -299,9 +299,9 @@
   {
     "cluster_id": "10",
     "label": "trump, court, president",
-    "trending_score": 0.0731,
+    "trending_score": 0.0705,
     "count_24h": 0,
-    "count_7d": 55,
+    "count_7d": 53,
     "top_articles": [
       {
         "id": "4998",
@@ -326,9 +326,9 @@
   {
     "cluster_id": "2",
     "label": "police, said, shooting",
-    "trending_score": 0.0682,
+    "trending_score": 0.0668,
     "count_24h": 0,
-    "count_7d": 48,
+    "count_7d": 47,
     "top_articles": [
       {
         "id": "4983",

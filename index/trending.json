@@ -2,9 +2,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.2023,
+    "trending_score": 0.2009,
     "count_24h": 0,
-    "count_7d": 138,
+    "count_7d": 137,
     "top_articles": [
       {
         "id": "4986",
@@ -56,9 +56,9 @@
   {
     "cluster_id": "11",
     "label": "russia, ukraine, russian",
-    "trending_score": 0.1961,
+    "trending_score": 0.1934,
     "count_24h": 0,
-    "count_7d": 71,
+    "count_7d": 70,
     "top_articles": [
       {
         "id": "4988",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.1615,
+    "trending_score": 0.1577,
     "count_24h": 0,
-    "count_7d": 84,
+    "count_7d": 82,
     "top_articles": [
       {
         "id": "4976",
@@ -191,9 +191,9 @@
   {
     "cluster_id": "1",
     "label": "said, health, care",
-    "trending_score": 0.1098,
+    "trending_score": 0.1075,
     "count_24h": 0,
-    "count_7d": 47,
+    "count_7d": 46,
     "top_articles": [
       {
         "id": "4924",
@@ -212,33 +212,6 @@
         "title": "Australians with cancer are living longer but diagnosis rates on the rise for younger people, report reveals",
         "url": "https://www.theguardian.com/australia-news/2026/jul/09/australians-with-cancer-are-living-longer-but-diagnosis-rates-on-the-rise-for-younger-people-report-reveals",
         "date": "2026-07-08 15:00:35"
-      }
-    ]
-  },
-  {
-    "cluster_id": "17",
-    "label": "heat, heatwave, temperatures",
-    "trending_score": 0.1033,
-    "count_24h": 0,
-    "count_7d": 25,
-    "top_articles": [
-      {
-        "id": "4977",
-        "title": "No air con? Here's how to get the most out of your electric fan",
-        "url": "https://www.bbc.co.uk/news/articles/cly76jlxljlo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 17:07:05"
-      },
-      {
-        "id": "4884",
-        "title": "Unions in Europe press for new worker protections to counter heat stress",
-        "url": "https://www.theguardian.com/environment/2026/jul/08/unions-europe-worker-protections-heat-stress-climate-crisis",
-        "date": "2026-07-08 11:00:52"
-      },
-      {
-        "id": "4888",
-        "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
-        "url": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
-        "date": "2026-07-08 10:30:07"
       }
     ]
   },
@@ -297,11 +270,38 @@
     ]
   },
   {
+    "cluster_id": "17",
+    "label": "heat, heatwave, temperatures",
+    "trending_score": 0.0992,
+    "count_24h": 0,
+    "count_7d": 24,
+    "top_articles": [
+      {
+        "id": "4977",
+        "title": "No air con? Here's how to get the most out of your electric fan",
+        "url": "https://www.bbc.co.uk/news/articles/cly76jlxljlo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:07:05"
+      },
+      {
+        "id": "4884",
+        "title": "Unions in Europe press for new worker protections to counter heat stress",
+        "url": "https://www.theguardian.com/environment/2026/jul/08/unions-europe-worker-protections-heat-stress-climate-crisis",
+        "date": "2026-07-08 11:00:52"
+      },
+      {
+        "id": "4888",
+        "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
+        "url": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
+        "date": "2026-07-08 10:30:07"
+      }
+    ]
+  },
+  {
     "cluster_id": "10",
     "label": "trump, court, president",
-    "trending_score": 0.0758,
+    "trending_score": 0.0745,
     "count_24h": 0,
-    "count_7d": 57,
+    "count_7d": 56,
     "top_articles": [
       {
         "id": "4998",
@@ -407,9 +407,9 @@
   {
     "cluster_id": "8",
     "label": "image, said, new",
-    "trending_score": 0.044,
+    "trending_score": 0.0418,
     "count_24h": 0,
-    "count_7d": 39,
+    "count_7d": 37,
     "top_articles": [
       {
         "id": "4929",

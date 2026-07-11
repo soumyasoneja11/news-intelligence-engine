@@ -2,9 +2,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.2229,
+    "trending_score": 0.217,
     "count_24h": 0,
-    "count_7d": 152,
+    "count_7d": 148,
     "top_articles": [
       {
         "id": "4986",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "5",
     "label": "england, world, cup",
-    "trending_score": 0.17,
+    "trending_score": 0.165,
     "count_24h": 0,
-    "count_7d": 69,
+    "count_7d": 67,
     "top_articles": [
       {
         "id": "4931",
@@ -245,9 +245,9 @@
   {
     "cluster_id": "14",
     "label": "said, court, police",
-    "trending_score": 0.1099,
+    "trending_score": 0.1076,
     "count_24h": 0,
-    "count_7d": 93,
+    "count_7d": 91,
     "top_articles": [
       {
         "id": "4975",
@@ -324,33 +324,6 @@
     ]
   },
   {
-    "cluster_id": "16",
-    "label": "venezuela, 01, earthquakes",
-    "trending_score": 0.072,
-    "count_24h": 0,
-    "count_7d": 19,
-    "top_articles": [
-      {
-        "id": "4866",
-        "title": "Cubans protest after third nationwide power cut this year",
-        "url": "https://www.bbc.co.uk/news/articles/cm20g0d3ry4o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 10:56:55"
-      },
-      {
-        "id": "4817",
-        "title": "At UN, Cuba rallies support against ‘ruthless’ US blockade",
-        "url": "https://www.aljazeera.com/news/2026/7/8/at-un-cuba-rallies-support-against-ruthless-us-blockade?traffic_source=rss",
-        "date": "2026-07-08 05:18:52"
-      },
-      {
-        "id": "4752",
-        "title": "Venezuela buries earthquake victims as death toll reaches 3,535",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/venezuela-buries-earthquake-victims-as-death-toll-reaches-3535?traffic_source=rss",
-        "date": "2026-07-07 20:30:06"
-      }
-    ]
-  },
-  {
     "cluster_id": "2",
     "label": "police, said, shooting",
     "trending_score": 0.071,
@@ -378,29 +351,29 @@
     ]
   },
   {
-    "cluster_id": "8",
-    "label": "image, said, new",
-    "trending_score": 0.0576,
+    "cluster_id": "16",
+    "label": "venezuela, 01, earthquakes",
+    "trending_score": 0.0644,
     "count_24h": 0,
-    "count_7d": 51,
+    "count_7d": 17,
     "top_articles": [
       {
-        "id": "4929",
-        "title": "London City sign Ballon d'Or winner Putellas",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvg7wenkklyo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 14:40:50"
+        "id": "4866",
+        "title": "Cubans protest after third nationwide power cut this year",
+        "url": "https://www.bbc.co.uk/news/articles/cm20g0d3ry4o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 10:56:55"
       },
       {
-        "id": "4867",
-        "title": "Multiple cakes and stolen keepsakes: Greg James spills the tea on Taylor Swift's wedding",
-        "url": "https://www.bbc.co.uk/news/articles/cx2kd1de8l5o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 09:48:06"
+        "id": "4817",
+        "title": "At UN, Cuba rallies support against ‘ruthless’ US blockade",
+        "url": "https://www.aljazeera.com/news/2026/7/8/at-un-cuba-rallies-support-against-ruthless-us-blockade?traffic_source=rss",
+        "date": "2026-07-08 05:18:52"
       },
       {
-        "id": "4890",
-        "title": "Booyakasha! Sacha Baron Cohen has completed a new Ali G movie",
-        "url": "https://www.theguardian.com/film/2026/jul/08/booyakasha-sacha-baron-cohen-has-completed-a-new-ali-g-movie",
-        "date": "2026-07-08 09:35:45"
+        "id": "4752",
+        "title": "Venezuela buries earthquake victims as death toll reaches 3,535",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/venezuela-buries-earthquake-victims-as-death-toll-reaches-3535?traffic_source=rss",
+        "date": "2026-07-07 20:30:06"
       }
     ]
   },
@@ -432,11 +405,38 @@
     ]
   },
   {
+    "cluster_id": "8",
+    "label": "image, said, new",
+    "trending_score": 0.0519,
+    "count_24h": 0,
+    "count_7d": 46,
+    "top_articles": [
+      {
+        "id": "4929",
+        "title": "London City sign Ballon d'Or winner Putellas",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvg7wenkklyo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 14:40:50"
+      },
+      {
+        "id": "4867",
+        "title": "Multiple cakes and stolen keepsakes: Greg James spills the tea on Taylor Swift's wedding",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kd1de8l5o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 09:48:06"
+      },
+      {
+        "id": "4890",
+        "title": "Booyakasha! Sacha Baron Cohen has completed a new Ali G movie",
+        "url": "https://www.theguardian.com/film/2026/jul/08/booyakasha-sacha-baron-cohen-has-completed-a-new-ali-g-movie",
+        "date": "2026-07-08 09:35:45"
+      }
+    ]
+  },
+  {
     "cluster_id": "15",
     "label": "china, says, conference glance",
-    "trending_score": 0.0404,
+    "trending_score": 0.0392,
     "count_24h": 0,
-    "count_7d": 34,
+    "count_7d": 33,
     "top_articles": [
       {
         "id": "4730",

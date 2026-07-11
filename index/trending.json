@@ -2,9 +2,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.2141,
+    "trending_score": 0.2126,
     "count_24h": 0,
-    "count_7d": 146,
+    "count_7d": 145,
     "top_articles": [
       {
         "id": "4986",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.1712,
+    "trending_score": 0.1673,
     "count_24h": 0,
-    "count_7d": 89,
+    "count_7d": 87,
     "top_articles": [
       {
         "id": "4976",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "5",
     "label": "england, world, cup",
-    "trending_score": 0.165,
+    "trending_score": 0.1626,
     "count_24h": 0,
-    "count_7d": 67,
+    "count_7d": 66,
     "top_articles": [
       {
         "id": "4931",

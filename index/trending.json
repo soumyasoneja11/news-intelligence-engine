@@ -110,9 +110,9 @@
   {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.1577,
+    "trending_score": 0.1558,
     "count_24h": 0,
-    "count_7d": 82,
+    "count_7d": 81,
     "top_articles": [
       {
         "id": "4976",
@@ -131,33 +131,6 @@
         "title": "Treasury yet to do due diligence on finding extra money for UK’s Nato spend",
         "url": "https://www.theguardian.com/business/2026/jul/08/treasury-due-diligence-money-uk-nato-spend",
         "date": "2026-07-08 15:30:17"
-      }
-    ]
-  },
-  {
-    "cluster_id": "4",
-    "label": "wimbledon, tennis, williams",
-    "trending_score": 0.15,
-    "count_24h": 0,
-    "count_7d": 30,
-    "top_articles": [
-      {
-        "id": "4985",
-        "title": "British wildcard Fery stuns Cobolli to reach semi-finals",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c5yzvnxg6ygo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:44:01"
-      },
-      {
-        "id": "4860",
-        "title": "Arthur Fery: the Wimbledon wildcard carrying Britain’s hopes",
-        "url": "https://www.theguardian.com/sport/2026/jul/08/arthur-fery-wimbledon-wildcard-carrying-britain-hopes",
-        "date": "2026-07-08 08:00:24"
-      },
-      {
-        "id": "4816",
-        "title": "What must Fery do to become Wimbledon semi-finalist?",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 05:41:31"
       }
     ]
   },
@@ -185,6 +158,33 @@
         "title": "Beaumont to retire from international cricket",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/cy047zqw8j5o?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-08 12:58:56"
+      }
+    ]
+  },
+  {
+    "cluster_id": "4",
+    "label": "wimbledon, tennis, williams",
+    "trending_score": 0.145,
+    "count_24h": 0,
+    "count_7d": 29,
+    "top_articles": [
+      {
+        "id": "4985",
+        "title": "British wildcard Fery stuns Cobolli to reach semi-finals",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c5yzvnxg6ygo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:44:01"
+      },
+      {
+        "id": "4860",
+        "title": "Arthur Fery: the Wimbledon wildcard carrying Britain’s hopes",
+        "url": "https://www.theguardian.com/sport/2026/jul/08/arthur-fery-wimbledon-wildcard-carrying-britain-hopes",
+        "date": "2026-07-08 08:00:24"
+      },
+      {
+        "id": "4816",
+        "title": "What must Fery do to become Wimbledon semi-finalist?",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 05:41:31"
       }
     ]
   },
@@ -272,9 +272,9 @@
   {
     "cluster_id": "17",
     "label": "heat, heatwave, temperatures",
-    "trending_score": 0.0992,
+    "trending_score": 0.095,
     "count_24h": 0,
-    "count_7d": 24,
+    "count_7d": 23,
     "top_articles": [
       {
         "id": "4977",

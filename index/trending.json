@@ -110,9 +110,9 @@
   {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.125,
+    "trending_score": 0.1173,
     "count_24h": 0,
-    "count_7d": 65,
+    "count_7d": 61,
     "top_articles": [
       {
         "id": "4976",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "14",
     "label": "said, court, police",
-    "trending_score": 0.0946,
+    "trending_score": 0.0934,
     "count_24h": 0,
-    "count_7d": 80,
+    "count_7d": 79,
     "top_articles": [
       {
         "id": "4975",
@@ -218,9 +218,9 @@
   {
     "cluster_id": "1",
     "label": "said, health, care",
-    "trending_score": 0.0841,
+    "trending_score": 0.0818,
     "count_24h": 0,
-    "count_7d": 36,
+    "count_7d": 35,
     "top_articles": [
       {
         "id": "4924",
@@ -326,9 +326,9 @@
   {
     "cluster_id": "10",
     "label": "trump, court, president",
-    "trending_score": 0.0505,
+    "trending_score": 0.0492,
     "count_24h": 0,
-    "count_7d": 38,
+    "count_7d": 37,
     "top_articles": [
       {
         "id": "4998",
@@ -353,9 +353,9 @@
   {
     "cluster_id": "7",
     "label": "said, new, market",
-    "trending_score": 0.0499,
+    "trending_score": 0.0474,
     "count_24h": 0,
-    "count_7d": 40,
+    "count_7d": 38,
     "top_articles": [
       {
         "id": "4962",
@@ -380,9 +380,9 @@
   {
     "cluster_id": "16",
     "label": "venezuela, 01, earthquakes",
-    "trending_score": 0.0455,
+    "trending_score": 0.0417,
     "count_24h": 0,
-    "count_7d": 12,
+    "count_7d": 11,
     "top_articles": [
       {
         "id": "4866",
@@ -434,9 +434,9 @@
   {
     "cluster_id": "15",
     "label": "china, says, conference glance",
-    "trending_score": 0.0226,
+    "trending_score": 0.0214,
     "count_24h": 0,
-    "count_7d": 19,
+    "count_7d": 18,
     "top_articles": [
       {
         "id": "4730",

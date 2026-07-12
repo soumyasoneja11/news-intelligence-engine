@@ -2,9 +2,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.1789,
+    "trending_score": 0.1774,
     "count_24h": 0,
-    "count_7d": 122,
+    "count_7d": 121,
     "top_articles": [
       {
         "id": "4986",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.1423,
+    "trending_score": 0.1385,
     "count_24h": 0,
-    "count_7d": 74,
+    "count_7d": 72,
     "top_articles": [
       {
         "id": "4976",
@@ -297,33 +297,6 @@
     ]
   },
   {
-    "cluster_id": "2",
-    "label": "police, said, shooting",
-    "trending_score": 0.0653,
-    "count_24h": 0,
-    "count_7d": 46,
-    "top_articles": [
-      {
-        "id": "4983",
-        "title": "Five crew remain missing after plane wreckage found in Pakistan",
-        "url": "https://www.bbc.co.uk/news/articles/c5yze1vvlzgo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:39:15"
-      },
-      {
-        "id": "4974",
-        "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
-        "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:12:50"
-      },
-      {
-        "id": "4993",
-        "title": "Pakistan military says 42 killed in fighter attacks in Balochistan",
-        "url": "https://www.aljazeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss",
-        "date": "2026-07-08 16:07:45"
-      }
-    ]
-  },
-  {
     "cluster_id": "16",
     "label": "venezuela, 01, earthquakes",
     "trending_score": 0.0644,
@@ -347,6 +320,33 @@
         "title": "Venezuela buries earthquake victims as death toll reaches 3,535",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/venezuela-buries-earthquake-victims-as-death-toll-reaches-3535?traffic_source=rss",
         "date": "2026-07-07 20:30:06"
+      }
+    ]
+  },
+  {
+    "cluster_id": "2",
+    "label": "police, said, shooting",
+    "trending_score": 0.0611,
+    "count_24h": 0,
+    "count_7d": 43,
+    "top_articles": [
+      {
+        "id": "4983",
+        "title": "Five crew remain missing after plane wreckage found in Pakistan",
+        "url": "https://www.bbc.co.uk/news/articles/c5yze1vvlzgo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:39:15"
+      },
+      {
+        "id": "4974",
+        "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
+        "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:12:50"
+      },
+      {
+        "id": "4993",
+        "title": "Pakistan military says 42 killed in fighter attacks in Balochistan",
+        "url": "https://www.aljazeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss",
+        "date": "2026-07-08 16:07:45"
       }
     ]
   },
@@ -434,9 +434,9 @@
   {
     "cluster_id": "15",
     "label": "china, says, conference glance",
-    "trending_score": 0.0273,
+    "trending_score": 0.0261,
     "count_24h": 0,
-    "count_7d": 23,
+    "count_7d": 22,
     "top_articles": [
       {
         "id": "4730",

@@ -2,9 +2,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.1862,
+    "trending_score": 0.1789,
     "count_24h": 0,
-    "count_7d": 127,
+    "count_7d": 122,
     "top_articles": [
       {
         "id": "4986",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "11",
     "label": "russia, ukraine, russian",
-    "trending_score": 0.1796,
+    "trending_score": 0.1768,
     "count_24h": 0,
-    "count_7d": 65,
+    "count_7d": 64,
     "top_articles": [
       {
         "id": "4988",
@@ -56,9 +56,9 @@
   {
     "cluster_id": "12",
     "label": "israel, gaza, israeli",
-    "trending_score": 0.1778,
+    "trending_score": 0.1756,
     "count_24h": 0,
-    "count_7d": 80,
+    "count_7d": 79,
     "top_articles": [
       {
         "id": "4955",
@@ -83,9 +83,9 @@
   {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.1696,
+    "trending_score": 0.1637,
     "count_24h": 0,
-    "count_7d": 57,
+    "count_7d": 55,
     "top_articles": [
       {
         "id": "4989",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "5",
     "label": "england, world, cup",
-    "trending_score": 0.1182,
+    "trending_score": 0.1133,
     "count_24h": 0,
-    "count_7d": 48,
+    "count_7d": 46,
     "top_articles": [
       {
         "id": "4931",
@@ -164,9 +164,9 @@
   {
     "cluster_id": "4",
     "label": "wimbledon, tennis, williams",
-    "trending_score": 0.105,
+    "trending_score": 0.1,
     "count_24h": 0,
-    "count_7d": 21,
+    "count_7d": 20,
     "top_articles": [
       {
         "id": "4985",
@@ -185,33 +185,6 @@
         "title": "What must Fery do to become Wimbledon semi-finalist?",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-08 05:41:31"
-      }
-    ]
-  },
-  {
-    "cluster_id": "14",
-    "label": "said, court, police",
-    "trending_score": 0.0993,
-    "count_24h": 0,
-    "count_7d": 84,
-    "top_articles": [
-      {
-        "id": "4975",
-        "title": "UK to change law so ringleader of Rochdale grooming gang can be deported",
-        "url": "https://www.bbc.co.uk/news/articles/cly0ly30384o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 17:26:45"
-      },
-      {
-        "id": "4990",
-        "title": "US charges Indian crime leader in Sikh activist’s assassination",
-        "url": "https://www.aljazeera.com/news/2026/7/8/us-charges-indian-crime-leader-in-sikh-activists-assassination?traffic_source=rss",
-        "date": "2026-07-08 16:44:39"
-      },
-      {
-        "id": "4984",
-        "title": "Government offers to meet woman abused by neo-Nazi MI5 agent",
-        "url": "https://www.bbc.co.uk/news/articles/c9v24wpynv1o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:23:19"
       }
     ]
   },
@@ -239,6 +212,33 @@
         "title": "Australians with cancer are living longer but diagnosis rates on the rise for younger people, report reveals",
         "url": "https://www.theguardian.com/australia-news/2026/jul/09/australians-with-cancer-are-living-longer-but-diagnosis-rates-on-the-rise-for-younger-people-report-reveals",
         "date": "2026-07-08 15:00:35"
+      }
+    ]
+  },
+  {
+    "cluster_id": "14",
+    "label": "said, court, police",
+    "trending_score": 0.0981,
+    "count_24h": 0,
+    "count_7d": 83,
+    "top_articles": [
+      {
+        "id": "4975",
+        "title": "UK to change law so ringleader of Rochdale grooming gang can be deported",
+        "url": "https://www.bbc.co.uk/news/articles/cly0ly30384o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:26:45"
+      },
+      {
+        "id": "4990",
+        "title": "US charges Indian crime leader in Sikh activist’s assassination",
+        "url": "https://www.aljazeera.com/news/2026/7/8/us-charges-indian-crime-leader-in-sikh-activists-assassination?traffic_source=rss",
+        "date": "2026-07-08 16:44:39"
+      },
+      {
+        "id": "4984",
+        "title": "Government offers to meet woman abused by neo-Nazi MI5 agent",
+        "url": "https://www.bbc.co.uk/news/articles/c9v24wpynv1o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:23:19"
       }
     ]
   },
@@ -272,9 +272,9 @@
   {
     "cluster_id": "17",
     "label": "heat, heatwave, temperatures",
-    "trending_score": 0.095,
+    "trending_score": 0.0909,
     "count_24h": 0,
-    "count_7d": 23,
+    "count_7d": 22,
     "top_articles": [
       {
         "id": "4977",
@@ -407,9 +407,9 @@
   {
     "cluster_id": "8",
     "label": "image, said, new",
-    "trending_score": 0.0361,
+    "trending_score": 0.035,
     "count_24h": 0,
-    "count_7d": 32,
+    "count_7d": 31,
     "top_articles": [
       {
         "id": "4929",

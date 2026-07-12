@@ -1,32 +1,5 @@
 [
   {
-    "cluster_id": "9",
-    "label": "world, cup, world cup",
-    "trending_score": 0.1657,
-    "count_24h": 0,
-    "count_7d": 113,
-    "top_articles": [
-      {
-        "id": "4986",
-        "title": "Man Utd agree deal for Chelsea's Santos",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr7xkgd8vdko?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 17:09:53"
-      },
-      {
-        "id": "4991",
-        "title": "Egypt criticises ‘influential refereeing’ in Argentina World Cup match",
-        "url": "https://www.aljazeera.com/sports/2026/7/8/egypt-criticises-influential-refereeing-in-argentina-world-cup-match?traffic_source=rss",
-        "date": "2026-07-08 16:41:58"
-      },
-      {
-        "id": "4982",
-        "title": "Are Argentina being treated favourably at World Cup?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 15:37:07"
-      }
-    ]
-  },
-  {
     "cluster_id": "11",
     "label": "russia, ukraine, russian",
     "trending_score": 0.163,
@@ -54,11 +27,38 @@
     ]
   },
   {
+    "cluster_id": "9",
+    "label": "world, cup, world cup",
+    "trending_score": 0.1628,
+    "count_24h": 0,
+    "count_7d": 111,
+    "top_articles": [
+      {
+        "id": "4986",
+        "title": "Man Utd agree deal for Chelsea's Santos",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr7xkgd8vdko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:09:53"
+      },
+      {
+        "id": "4991",
+        "title": "Egypt criticises ‘influential refereeing’ in Argentina World Cup match",
+        "url": "https://www.aljazeera.com/sports/2026/7/8/egypt-criticises-influential-refereeing-in-argentina-world-cup-match?traffic_source=rss",
+        "date": "2026-07-08 16:41:58"
+      },
+      {
+        "id": "4982",
+        "title": "Are Argentina being treated favourably at World Cup?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 15:37:07"
+      }
+    ]
+  },
+  {
     "cluster_id": "12",
     "label": "israel, gaza, israeli",
-    "trending_score": 0.1533,
+    "trending_score": 0.1511,
     "count_24h": 0,
-    "count_7d": 69,
+    "count_7d": 68,
     "top_articles": [
       {
         "id": "4955",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.1269,
+    "trending_score": 0.125,
     "count_24h": 0,
-    "count_7d": 66,
+    "count_7d": 65,
     "top_articles": [
       {
         "id": "4976",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "14",
     "label": "said, court, police",
-    "trending_score": 0.0957,
+    "trending_score": 0.0946,
     "count_24h": 0,
-    "count_7d": 81,
+    "count_7d": 80,
     "top_articles": [
       {
         "id": "4975",
@@ -164,9 +164,9 @@
   {
     "cluster_id": "5",
     "label": "england, world, cup",
-    "trending_score": 0.0936,
+    "trending_score": 0.0887,
     "count_24h": 0,
-    "count_7d": 38,
+    "count_7d": 36,
     "top_articles": [
       {
         "id": "4931",
@@ -297,33 +297,6 @@
     ]
   },
   {
-    "cluster_id": "16",
-    "label": "venezuela, 01, earthquakes",
-    "trending_score": 0.053,
-    "count_24h": 0,
-    "count_7d": 14,
-    "top_articles": [
-      {
-        "id": "4866",
-        "title": "Cubans protest after third nationwide power cut this year",
-        "url": "https://www.bbc.co.uk/news/articles/cm20g0d3ry4o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 10:56:55"
-      },
-      {
-        "id": "4817",
-        "title": "At UN, Cuba rallies support against ‘ruthless’ US blockade",
-        "url": "https://www.aljazeera.com/news/2026/7/8/at-un-cuba-rallies-support-against-ruthless-us-blockade?traffic_source=rss",
-        "date": "2026-07-08 05:18:52"
-      },
-      {
-        "id": "4752",
-        "title": "Venezuela buries earthquake victims as death toll reaches 3,535",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/venezuela-buries-earthquake-victims-as-death-toll-reaches-3535?traffic_source=rss",
-        "date": "2026-07-07 20:30:06"
-      }
-    ]
-  },
-  {
     "cluster_id": "2",
     "label": "police, said, shooting",
     "trending_score": 0.0511,
@@ -351,33 +324,6 @@
     ]
   },
   {
-    "cluster_id": "7",
-    "label": "said, new, market",
-    "trending_score": 0.0511,
-    "count_24h": 0,
-    "count_7d": 41,
-    "top_articles": [
-      {
-        "id": "4962",
-        "title": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water",
-        "url": "https://www.theguardian.com/us-news/2026/jul/08/meta-datacenter-ai-wyoming-water",
-        "date": "2026-07-08 14:08:00"
-      },
-      {
-        "id": "4969",
-        "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
-        "url": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
-        "date": "2026-07-08 13:26:10"
-      },
-      {
-        "id": "4956",
-        "title": "IMF upgrades UK growth forecast as fears over impact of Iran war diminish",
-        "url": "https://www.theguardian.com/business/2026/jul/08/imf-upgrades-uk-growth-forecast-as-fears-over-impact-of-iran-war-diminish",
-        "date": "2026-07-08 13:00:32"
-      }
-    ]
-  },
-  {
     "cluster_id": "10",
     "label": "trump, court, president",
     "trending_score": 0.0505,
@@ -401,6 +347,60 @@
         "title": "US judge throws out Trump’s $3.8bn defamation lawsuit against Washington Post",
         "url": "https://www.theguardian.com/media/2026/jul/08/trump-washington-post-defamation-lawsuit",
         "date": "2026-07-08 15:18:24"
+      }
+    ]
+  },
+  {
+    "cluster_id": "7",
+    "label": "said, new, market",
+    "trending_score": 0.0499,
+    "count_24h": 0,
+    "count_7d": 40,
+    "top_articles": [
+      {
+        "id": "4962",
+        "title": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water",
+        "url": "https://www.theguardian.com/us-news/2026/jul/08/meta-datacenter-ai-wyoming-water",
+        "date": "2026-07-08 14:08:00"
+      },
+      {
+        "id": "4969",
+        "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
+        "url": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
+        "date": "2026-07-08 13:26:10"
+      },
+      {
+        "id": "4956",
+        "title": "IMF upgrades UK growth forecast as fears over impact of Iran war diminish",
+        "url": "https://www.theguardian.com/business/2026/jul/08/imf-upgrades-uk-growth-forecast-as-fears-over-impact-of-iran-war-diminish",
+        "date": "2026-07-08 13:00:32"
+      }
+    ]
+  },
+  {
+    "cluster_id": "16",
+    "label": "venezuela, 01, earthquakes",
+    "trending_score": 0.0455,
+    "count_24h": 0,
+    "count_7d": 12,
+    "top_articles": [
+      {
+        "id": "4866",
+        "title": "Cubans protest after third nationwide power cut this year",
+        "url": "https://www.bbc.co.uk/news/articles/cm20g0d3ry4o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 10:56:55"
+      },
+      {
+        "id": "4817",
+        "title": "At UN, Cuba rallies support against ‘ruthless’ US blockade",
+        "url": "https://www.aljazeera.com/news/2026/7/8/at-un-cuba-rallies-support-against-ruthless-us-blockade?traffic_source=rss",
+        "date": "2026-07-08 05:18:52"
+      },
+      {
+        "id": "4752",
+        "title": "Venezuela buries earthquake victims as death toll reaches 3,535",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/venezuela-buries-earthquake-victims-as-death-toll-reaches-3535?traffic_source=rss",
+        "date": "2026-07-07 20:30:06"
       }
     ]
   },

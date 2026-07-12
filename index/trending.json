@@ -2,9 +2,9 @@
   {
     "cluster_id": "11",
     "label": "russia, ukraine, russian",
-    "trending_score": 0.174,
+    "trending_score": 0.1713,
     "count_24h": 0,
-    "count_7d": 63,
+    "count_7d": 62,
     "top_articles": [
       {
         "id": "4988",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.1701,
+    "trending_score": 0.1686,
     "count_24h": 0,
-    "count_7d": 116,
+    "count_7d": 115,
     "top_articles": [
       {
         "id": "4986",
@@ -56,9 +56,9 @@
   {
     "cluster_id": "12",
     "label": "israel, gaza, israeli",
-    "trending_score": 0.1578,
+    "trending_score": 0.1533,
     "count_24h": 0,
-    "count_7d": 71,
+    "count_7d": 69,
     "top_articles": [
       {
         "id": "4955",
@@ -83,9 +83,9 @@
   {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.1429,
+    "trending_score": 0.1369,
     "count_24h": 0,
-    "count_7d": 48,
+    "count_7d": 46,
     "top_articles": [
       {
         "id": "4989",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "5",
     "label": "england, world, cup",
-    "trending_score": 0.101,
+    "trending_score": 0.0985,
     "count_24h": 0,
-    "count_7d": 41,
+    "count_7d": 40,
     "top_articles": [
       {
         "id": "4931",
@@ -243,38 +243,11 @@
     ]
   },
   {
-    "cluster_id": "4",
-    "label": "wimbledon, tennis, williams",
-    "trending_score": 0.085,
-    "count_24h": 0,
-    "count_7d": 17,
-    "top_articles": [
-      {
-        "id": "4985",
-        "title": "British wildcard Fery stuns Cobolli to reach semi-finals",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c5yzvnxg6ygo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:44:01"
-      },
-      {
-        "id": "4860",
-        "title": "Arthur Fery: the Wimbledon wildcard carrying Britain’s hopes",
-        "url": "https://www.theguardian.com/sport/2026/jul/08/arthur-fery-wimbledon-wildcard-carrying-britain-hopes",
-        "date": "2026-07-08 08:00:24"
-      },
-      {
-        "id": "4816",
-        "title": "What must Fery do to become Wimbledon semi-finalist?",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 05:41:31"
-      }
-    ]
-  },
-  {
     "cluster_id": "17",
     "label": "heat, heatwave, temperatures",
-    "trending_score": 0.0826,
+    "trending_score": 0.0785,
     "count_24h": 0,
-    "count_7d": 20,
+    "count_7d": 19,
     "top_articles": [
       {
         "id": "4977",
@@ -297,11 +270,38 @@
     ]
   },
   {
+    "cluster_id": "4",
+    "label": "wimbledon, tennis, williams",
+    "trending_score": 0.075,
+    "count_24h": 0,
+    "count_7d": 15,
+    "top_articles": [
+      {
+        "id": "4985",
+        "title": "British wildcard Fery stuns Cobolli to reach semi-finals",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c5yzvnxg6ygo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:44:01"
+      },
+      {
+        "id": "4860",
+        "title": "Arthur Fery: the Wimbledon wildcard carrying Britain’s hopes",
+        "url": "https://www.theguardian.com/sport/2026/jul/08/arthur-fery-wimbledon-wildcard-carrying-britain-hopes",
+        "date": "2026-07-08 08:00:24"
+      },
+      {
+        "id": "4816",
+        "title": "What must Fery do to become Wimbledon semi-finalist?",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 05:41:31"
+      }
+    ]
+  },
+  {
     "cluster_id": "16",
     "label": "venezuela, 01, earthquakes",
-    "trending_score": 0.0644,
+    "trending_score": 0.0606,
     "count_24h": 0,
-    "count_7d": 17,
+    "count_7d": 16,
     "top_articles": [
       {
         "id": "4866",
@@ -320,33 +320,6 @@
         "title": "Venezuela buries earthquake victims as death toll reaches 3,535",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/venezuela-buries-earthquake-victims-as-death-toll-reaches-3535?traffic_source=rss",
         "date": "2026-07-07 20:30:06"
-      }
-    ]
-  },
-  {
-    "cluster_id": "2",
-    "label": "police, said, shooting",
-    "trending_score": 0.0568,
-    "count_24h": 0,
-    "count_7d": 40,
-    "top_articles": [
-      {
-        "id": "4983",
-        "title": "Five crew remain missing after plane wreckage found in Pakistan",
-        "url": "https://www.bbc.co.uk/news/articles/c5yze1vvlzgo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:39:15"
-      },
-      {
-        "id": "4974",
-        "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
-        "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:12:50"
-      },
-      {
-        "id": "4993",
-        "title": "Pakistan military says 42 killed in fighter attacks in Balochistan",
-        "url": "https://www.aljazeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss",
-        "date": "2026-07-08 16:07:45"
       }
     ]
   },
@@ -374,6 +347,33 @@
         "title": "US judge throws out Trump’s $3.8bn defamation lawsuit against Washington Post",
         "url": "https://www.theguardian.com/media/2026/jul/08/trump-washington-post-defamation-lawsuit",
         "date": "2026-07-08 15:18:24"
+      }
+    ]
+  },
+  {
+    "cluster_id": "2",
+    "label": "police, said, shooting",
+    "trending_score": 0.0526,
+    "count_24h": 0,
+    "count_7d": 37,
+    "top_articles": [
+      {
+        "id": "4983",
+        "title": "Five crew remain missing after plane wreckage found in Pakistan",
+        "url": "https://www.bbc.co.uk/news/articles/c5yze1vvlzgo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:39:15"
+      },
+      {
+        "id": "4974",
+        "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
+        "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:12:50"
+      },
+      {
+        "id": "4993",
+        "title": "Pakistan military says 42 killed in fighter attacks in Balochistan",
+        "url": "https://www.aljazeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss",
+        "date": "2026-07-08 16:07:45"
       }
     ]
   },
@@ -407,9 +407,9 @@
   {
     "cluster_id": "8",
     "label": "image, said, new",
-    "trending_score": 0.0305,
+    "trending_score": 0.0293,
     "count_24h": 0,
-    "count_7d": 27,
+    "count_7d": 26,
     "top_articles": [
       {
         "id": "4929",
@@ -434,9 +434,9 @@
   {
     "cluster_id": "15",
     "label": "china, says, conference glance",
-    "trending_score": 0.0238,
+    "trending_score": 0.0226,
     "count_24h": 0,
-    "count_7d": 20,
+    "count_7d": 19,
     "top_articles": [
       {
         "id": "4730",

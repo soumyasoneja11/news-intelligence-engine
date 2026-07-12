@@ -2,9 +2,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.1891,
+    "trending_score": 0.1877,
     "count_24h": 0,
-    "count_7d": 129,
+    "count_7d": 128,
     "top_articles": [
       {
         "id": "4986",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.1519,
+    "trending_score": 0.15,
     "count_24h": 0,
-    "count_7d": 79,
+    "count_7d": 78,
     "top_articles": [
       {
         "id": "4976",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "5",
     "label": "england, world, cup",
-    "trending_score": 0.1232,
+    "trending_score": 0.1207,
     "count_24h": 0,
-    "count_7d": 50,
+    "count_7d": 49,
     "top_articles": [
       {
         "id": "4931",
@@ -164,9 +164,9 @@
   {
     "cluster_id": "4",
     "label": "wimbledon, tennis, williams",
-    "trending_score": 0.115,
+    "trending_score": 0.11,
     "count_24h": 0,
-    "count_7d": 23,
+    "count_7d": 22,
     "top_articles": [
       {
         "id": "4985",
@@ -324,33 +324,6 @@
     ]
   },
   {
-    "cluster_id": "10",
-    "label": "trump, court, president",
-    "trending_score": 0.0652,
-    "count_24h": 0,
-    "count_7d": 49,
-    "top_articles": [
-      {
-        "id": "4998",
-        "title": "Marine Le Pen will run for election in 2027. Will she have to wear an electronic tag?",
-        "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-election-2027",
-        "date": "2026-07-08 17:22:01"
-      },
-      {
-        "id": "4992",
-        "title": "Far-right leader Le Pen starts campaign, faces mixed reactions in France",
-        "url": "https://www.aljazeera.com/news/2026/7/8/far-right-leader-le-pen-starts-campaign-faces-mixed-reactions-in-france?traffic_source=rss",
-        "date": "2026-07-08 16:17:12"
-      },
-      {
-        "id": "4961",
-        "title": "US judge throws out Trump’s $3.8bn defamation lawsuit against Washington Post",
-        "url": "https://www.theguardian.com/media/2026/jul/08/trump-washington-post-defamation-lawsuit",
-        "date": "2026-07-08 15:18:24"
-      }
-    ]
-  },
-  {
     "cluster_id": "16",
     "label": "venezuela, 01, earthquakes",
     "trending_score": 0.0644,
@@ -374,6 +347,33 @@
         "title": "Venezuela buries earthquake victims as death toll reaches 3,535",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/venezuela-buries-earthquake-victims-as-death-toll-reaches-3535?traffic_source=rss",
         "date": "2026-07-07 20:30:06"
+      }
+    ]
+  },
+  {
+    "cluster_id": "10",
+    "label": "trump, court, president",
+    "trending_score": 0.0612,
+    "count_24h": 0,
+    "count_7d": 46,
+    "top_articles": [
+      {
+        "id": "4998",
+        "title": "Marine Le Pen will run for election in 2027. Will she have to wear an electronic tag?",
+        "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-election-2027",
+        "date": "2026-07-08 17:22:01"
+      },
+      {
+        "id": "4992",
+        "title": "Far-right leader Le Pen starts campaign, faces mixed reactions in France",
+        "url": "https://www.aljazeera.com/news/2026/7/8/far-right-leader-le-pen-starts-campaign-faces-mixed-reactions-in-france?traffic_source=rss",
+        "date": "2026-07-08 16:17:12"
+      },
+      {
+        "id": "4961",
+        "title": "US judge throws out Trump’s $3.8bn defamation lawsuit against Washington Post",
+        "url": "https://www.theguardian.com/media/2026/jul/08/trump-washington-post-defamation-lawsuit",
+        "date": "2026-07-08 15:18:24"
       }
     ]
   },
@@ -407,9 +407,9 @@
   {
     "cluster_id": "8",
     "label": "image, said, new",
-    "trending_score": 0.0372,
+    "trending_score": 0.0361,
     "count_24h": 0,
-    "count_7d": 33,
+    "count_7d": 32,
     "top_articles": [
       {
         "id": "4929",
@@ -434,9 +434,9 @@
   {
     "cluster_id": "15",
     "label": "china, says, conference glance",
-    "trending_score": 0.0321,
+    "trending_score": 0.0297,
     "count_24h": 0,
-    "count_7d": 27,
+    "count_7d": 25,
     "top_articles": [
       {
         "id": "4730",

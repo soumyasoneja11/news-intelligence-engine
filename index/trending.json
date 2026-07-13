@@ -2,9 +2,9 @@
   {
     "cluster_id": "11",
     "label": "russia, ukraine, russian",
-    "trending_score": 0.1464,
+    "trending_score": 0.1381,
     "count_24h": 0,
-    "count_7d": 53,
+    "count_7d": 50,
     "top_articles": [
       {
         "id": "4988",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "12",
     "label": "israel, gaza, israeli",
-    "trending_score": 0.1444,
+    "trending_score": 0.1378,
     "count_24h": 0,
-    "count_7d": 65,
+    "count_7d": 62,
     "top_articles": [
       {
         "id": "4955",
@@ -56,9 +56,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.1364,
+    "trending_score": 0.1261,
     "count_24h": 0,
-    "count_7d": 93,
+    "count_7d": 86,
     "top_articles": [
       {
         "id": "4986",
@@ -83,9 +83,9 @@
   {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.128,
+    "trending_score": 0.119,
     "count_24h": 0,
-    "count_7d": 43,
+    "count_7d": 40,
     "top_articles": [
       {
         "id": "4989",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.1019,
+    "trending_score": 0.0942,
     "count_24h": 0,
-    "count_7d": 53,
+    "count_7d": 49,
     "top_articles": [
       {
         "id": "4976",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "14",
     "label": "said, court, police",
-    "trending_score": 0.0898,
+    "trending_score": 0.0839,
     "count_24h": 0,
-    "count_7d": 76,
+    "count_7d": 71,
     "top_articles": [
       {
         "id": "4975",
@@ -164,9 +164,9 @@
   {
     "cluster_id": "6",
     "label": "ai, new, tech",
-    "trending_score": 0.0813,
+    "trending_score": 0.0801,
     "count_24h": 0,
-    "count_7d": 67,
+    "count_7d": 66,
     "top_articles": [
       {
         "id": "4964",
@@ -191,9 +191,9 @@
   {
     "cluster_id": "1",
     "label": "said, health, care",
-    "trending_score": 0.0748,
+    "trending_score": 0.0701,
     "count_24h": 0,
-    "count_7d": 32,
+    "count_7d": 30,
     "top_articles": [
       {
         "id": "4924",
@@ -212,33 +212,6 @@
         "title": "Australians with cancer are living longer but diagnosis rates on the rise for younger people, report reveals",
         "url": "https://www.theguardian.com/australia-news/2026/jul/09/australians-with-cancer-are-living-longer-but-diagnosis-rates-on-the-rise-for-younger-people-report-reveals",
         "date": "2026-07-08 15:00:35"
-      }
-    ]
-  },
-  {
-    "cluster_id": "17",
-    "label": "heat, heatwave, temperatures",
-    "trending_score": 0.0744,
-    "count_24h": 0,
-    "count_7d": 18,
-    "top_articles": [
-      {
-        "id": "4977",
-        "title": "No air con? Here's how to get the most out of your electric fan",
-        "url": "https://www.bbc.co.uk/news/articles/cly76jlxljlo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 17:07:05"
-      },
-      {
-        "id": "4884",
-        "title": "Unions in Europe press for new worker protections to counter heat stress",
-        "url": "https://www.theguardian.com/environment/2026/jul/08/unions-europe-worker-protections-heat-stress-climate-crisis",
-        "date": "2026-07-08 11:00:52"
-      },
-      {
-        "id": "4888",
-        "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
-        "url": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
-        "date": "2026-07-08 10:30:07"
       }
     ]
   },
@@ -270,11 +243,38 @@
     ]
   },
   {
+    "cluster_id": "17",
+    "label": "heat, heatwave, temperatures",
+    "trending_score": 0.062,
+    "count_24h": 0,
+    "count_7d": 15,
+    "top_articles": [
+      {
+        "id": "4977",
+        "title": "No air con? Here's how to get the most out of your electric fan",
+        "url": "https://www.bbc.co.uk/news/articles/cly76jlxljlo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:07:05"
+      },
+      {
+        "id": "4884",
+        "title": "Unions in Europe press for new worker protections to counter heat stress",
+        "url": "https://www.theguardian.com/environment/2026/jul/08/unions-europe-worker-protections-heat-stress-climate-crisis",
+        "date": "2026-07-08 11:00:52"
+      },
+      {
+        "id": "4888",
+        "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
+        "url": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
+        "date": "2026-07-08 10:30:07"
+      }
+    ]
+  },
+  {
     "cluster_id": "5",
     "label": "england, world, cup",
-    "trending_score": 0.0665,
+    "trending_score": 0.0616,
     "count_24h": 0,
-    "count_7d": 27,
+    "count_7d": 25,
     "top_articles": [
       {
         "id": "4931",
@@ -299,9 +299,9 @@
   {
     "cluster_id": "10",
     "label": "trump, court, president",
-    "trending_score": 0.0479,
+    "trending_score": 0.0465,
     "count_24h": 0,
-    "count_7d": 36,
+    "count_7d": 35,
     "top_articles": [
       {
         "id": "4998",
@@ -353,9 +353,9 @@
   {
     "cluster_id": "7",
     "label": "said, new, market",
-    "trending_score": 0.0436,
+    "trending_score": 0.0411,
     "count_24h": 0,
-    "count_7d": 35,
+    "count_7d": 33,
     "top_articles": [
       {
         "id": "4962",
@@ -407,9 +407,9 @@
   {
     "cluster_id": "8",
     "label": "image, said, new",
-    "trending_score": 0.0271,
+    "trending_score": 0.0226,
     "count_24h": 0,
-    "count_7d": 24,
+    "count_7d": 20,
     "top_articles": [
       {
         "id": "4929",
@@ -434,9 +434,9 @@
   {
     "cluster_id": "15",
     "label": "china, says, conference glance",
-    "trending_score": 0.0143,
+    "trending_score": 0.0131,
     "count_24h": 0,
-    "count_7d": 12,
+    "count_7d": 11,
     "top_articles": [
       {
         "id": "4730",

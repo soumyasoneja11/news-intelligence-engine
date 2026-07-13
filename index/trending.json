@@ -54,38 +54,11 @@
     ]
   },
   {
-    "cluster_id": "9",
-    "label": "world, cup, world cup",
-    "trending_score": 0.0953,
-    "count_24h": 0,
-    "count_7d": 65,
-    "top_articles": [
-      {
-        "id": "4986",
-        "title": "Man Utd agree deal for Chelsea's Santos",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr7xkgd8vdko?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 17:09:53"
-      },
-      {
-        "id": "4991",
-        "title": "Egypt criticises ‘influential refereeing’ in Argentina World Cup match",
-        "url": "https://www.aljazeera.com/sports/2026/7/8/egypt-criticises-influential-refereeing-in-argentina-world-cup-match?traffic_source=rss",
-        "date": "2026-07-08 16:41:58"
-      },
-      {
-        "id": "4982",
-        "title": "Are Argentina being treated favourably at World Cup?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 15:37:07"
-      }
-    ]
-  },
-  {
     "cluster_id": "12",
     "label": "israel, gaza, israeli",
-    "trending_score": 0.0933,
+    "trending_score": 0.0911,
     "count_24h": 0,
-    "count_7d": 42,
+    "count_7d": 41,
     "top_articles": [
       {
         "id": "4955",
@@ -108,11 +81,38 @@
     ]
   },
   {
+    "cluster_id": "9",
+    "label": "world, cup, world cup",
+    "trending_score": 0.0909,
+    "count_24h": 0,
+    "count_7d": 62,
+    "top_articles": [
+      {
+        "id": "4986",
+        "title": "Man Utd agree deal for Chelsea's Santos",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr7xkgd8vdko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:09:53"
+      },
+      {
+        "id": "4991",
+        "title": "Egypt criticises ‘influential refereeing’ in Argentina World Cup match",
+        "url": "https://www.aljazeera.com/sports/2026/7/8/egypt-criticises-influential-refereeing-in-argentina-world-cup-match?traffic_source=rss",
+        "date": "2026-07-08 16:41:58"
+      },
+      {
+        "id": "4982",
+        "title": "Are Argentina being treated favourably at World Cup?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 15:37:07"
+      }
+    ]
+  },
+  {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.075,
+    "trending_score": 0.0692,
     "count_24h": 0,
-    "count_7d": 39,
+    "count_7d": 36,
     "top_articles": [
       {
         "id": "4976",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "1",
     "label": "said, health, care",
-    "trending_score": 0.0654,
+    "trending_score": 0.0631,
     "count_24h": 0,
-    "count_7d": 28,
+    "count_7d": 27,
     "top_articles": [
       {
         "id": "4924",
@@ -164,9 +164,9 @@
   {
     "cluster_id": "14",
     "label": "said, court, police",
-    "trending_score": 0.0638,
+    "trending_score": 0.0626,
     "count_24h": 0,
-    "count_7d": 54,
+    "count_7d": 53,
     "top_articles": [
       {
         "id": "4975",
@@ -191,9 +191,9 @@
   {
     "cluster_id": "6",
     "label": "ai, new, tech",
-    "trending_score": 0.0583,
+    "trending_score": 0.057,
     "count_24h": 0,
-    "count_7d": 48,
+    "count_7d": 47,
     "top_articles": [
       {
         "id": "4964",
@@ -212,33 +212,6 @@
         "title": "Apple to produce Made in America wireless chips with Broadcom",
         "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
         "date": "2026-07-08 14:43:00"
-      }
-    ]
-  },
-  {
-    "cluster_id": "4",
-    "label": "wimbledon, tennis, williams",
-    "trending_score": 0.05,
-    "count_24h": 0,
-    "count_7d": 10,
-    "top_articles": [
-      {
-        "id": "4985",
-        "title": "British wildcard Fery stuns Cobolli to reach semi-finals",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c5yzvnxg6ygo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:44:01"
-      },
-      {
-        "id": "4860",
-        "title": "Arthur Fery: the Wimbledon wildcard carrying Britain’s hopes",
-        "url": "https://www.theguardian.com/sport/2026/jul/08/arthur-fery-wimbledon-wildcard-carrying-britain-hopes",
-        "date": "2026-07-08 08:00:24"
-      },
-      {
-        "id": "4816",
-        "title": "What must Fery do to become Wimbledon semi-finalist?",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 05:41:31"
       }
     ]
   },
@@ -297,11 +270,38 @@
     ]
   },
   {
+    "cluster_id": "4",
+    "label": "wimbledon, tennis, williams",
+    "trending_score": 0.045,
+    "count_24h": 0,
+    "count_7d": 9,
+    "top_articles": [
+      {
+        "id": "4985",
+        "title": "British wildcard Fery stuns Cobolli to reach semi-finals",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c5yzvnxg6ygo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:44:01"
+      },
+      {
+        "id": "4860",
+        "title": "Arthur Fery: the Wimbledon wildcard carrying Britain’s hopes",
+        "url": "https://www.theguardian.com/sport/2026/jul/08/arthur-fery-wimbledon-wildcard-carrying-britain-hopes",
+        "date": "2026-07-08 08:00:24"
+      },
+      {
+        "id": "4816",
+        "title": "What must Fery do to become Wimbledon semi-finalist?",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 05:41:31"
+      }
+    ]
+  },
+  {
     "cluster_id": "10",
     "label": "trump, court, president",
-    "trending_score": 0.0399,
+    "trending_score": 0.0386,
     "count_24h": 0,
-    "count_7d": 30,
+    "count_7d": 29,
     "top_articles": [
       {
         "id": "4998",
@@ -461,9 +461,9 @@
   {
     "cluster_id": "0",
     "label": "league, win, lead",
-    "trending_score": 0.0044,
+    "trending_score": 0.0022,
     "count_24h": 0,
-    "count_7d": 2,
+    "count_7d": 1,
     "top_articles": [
       {
         "id": "4841",

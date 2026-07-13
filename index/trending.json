@@ -29,9 +29,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.1628,
+    "trending_score": 0.1525,
     "count_24h": 0,
-    "count_7d": 111,
+    "count_7d": 104,
     "top_articles": [
       {
         "id": "4986",
@@ -83,9 +83,9 @@
   {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.1369,
+    "trending_score": 0.1339,
     "count_24h": 0,
-    "count_7d": 46,
+    "count_7d": 45,
     "top_articles": [
       {
         "id": "4989",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.1173,
+    "trending_score": 0.1096,
     "count_24h": 0,
-    "count_7d": 61,
+    "count_7d": 57,
     "top_articles": [
       {
         "id": "4976",
@@ -218,9 +218,9 @@
   {
     "cluster_id": "1",
     "label": "said, health, care",
-    "trending_score": 0.0818,
+    "trending_score": 0.0794,
     "count_24h": 0,
-    "count_7d": 35,
+    "count_7d": 34,
     "top_articles": [
       {
         "id": "4924",
@@ -245,9 +245,9 @@
   {
     "cluster_id": "17",
     "label": "heat, heatwave, temperatures",
-    "trending_score": 0.0785,
+    "trending_score": 0.0744,
     "count_24h": 0,
-    "count_7d": 19,
+    "count_7d": 18,
     "top_articles": [
       {
         "id": "4977",
@@ -380,9 +380,9 @@
   {
     "cluster_id": "16",
     "label": "venezuela, 01, earthquakes",
-    "trending_score": 0.0417,
+    "trending_score": 0.0379,
     "count_24h": 0,
-    "count_7d": 11,
+    "count_7d": 10,
     "top_articles": [
       {
         "id": "4866",
@@ -434,9 +434,9 @@
   {
     "cluster_id": "15",
     "label": "china, says, conference glance",
-    "trending_score": 0.0214,
+    "trending_score": 0.019,
     "count_24h": 0,
-    "count_7d": 18,
+    "count_7d": 16,
     "top_articles": [
       {
         "id": "4730",

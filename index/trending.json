@@ -2,9 +2,9 @@
   {
     "cluster_id": "11",
     "label": "russia, ukraine, russian",
-    "trending_score": 0.163,
+    "trending_score": 0.1547,
     "count_24h": 0,
-    "count_7d": 59,
+    "count_7d": 56,
     "top_articles": [
       {
         "id": "4988",
@@ -27,38 +27,11 @@
     ]
   },
   {
-    "cluster_id": "9",
-    "label": "world, cup, world cup",
-    "trending_score": 0.1525,
-    "count_24h": 0,
-    "count_7d": 104,
-    "top_articles": [
-      {
-        "id": "4986",
-        "title": "Man Utd agree deal for Chelsea's Santos",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr7xkgd8vdko?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 17:09:53"
-      },
-      {
-        "id": "4991",
-        "title": "Egypt criticises ‘influential refereeing’ in Argentina World Cup match",
-        "url": "https://www.aljazeera.com/sports/2026/7/8/egypt-criticises-influential-refereeing-in-argentina-world-cup-match?traffic_source=rss",
-        "date": "2026-07-08 16:41:58"
-      },
-      {
-        "id": "4982",
-        "title": "Are Argentina being treated favourably at World Cup?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 15:37:07"
-      }
-    ]
-  },
-  {
     "cluster_id": "12",
     "label": "israel, gaza, israeli",
-    "trending_score": 0.1511,
+    "trending_score": 0.1489,
     "count_24h": 0,
-    "count_7d": 68,
+    "count_7d": 67,
     "top_articles": [
       {
         "id": "4955",
@@ -77,6 +50,33 @@
         "title": "Why can’t we count our dead?",
         "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/8/why-cant-we-count-our-dead?traffic_source=rss",
         "date": "2026-07-08 13:28:54"
+      }
+    ]
+  },
+  {
+    "cluster_id": "9",
+    "label": "world, cup, world cup",
+    "trending_score": 0.1437,
+    "count_24h": 0,
+    "count_7d": 98,
+    "top_articles": [
+      {
+        "id": "4986",
+        "title": "Man Utd agree deal for Chelsea's Santos",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr7xkgd8vdko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:09:53"
+      },
+      {
+        "id": "4991",
+        "title": "Egypt criticises ‘influential refereeing’ in Argentina World Cup match",
+        "url": "https://www.aljazeera.com/sports/2026/7/8/egypt-criticises-influential-refereeing-in-argentina-world-cup-match?traffic_source=rss",
+        "date": "2026-07-08 16:41:58"
+      },
+      {
+        "id": "4982",
+        "title": "Are Argentina being treated favourably at World Cup?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 15:37:07"
       }
     ]
   },
@@ -110,9 +110,9 @@
   {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.1096,
+    "trending_score": 0.1077,
     "count_24h": 0,
-    "count_7d": 57,
+    "count_7d": 56,
     "top_articles": [
       {
         "id": "4976",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "14",
     "label": "said, court, police",
-    "trending_score": 0.0934,
+    "trending_score": 0.0898,
     "count_24h": 0,
-    "count_7d": 79,
+    "count_7d": 76,
     "top_articles": [
       {
         "id": "4975",
@@ -158,33 +158,6 @@
         "title": "Government offers to meet woman abused by neo-Nazi MI5 agent",
         "url": "https://www.bbc.co.uk/news/articles/c9v24wpynv1o?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-08 16:23:19"
-      }
-    ]
-  },
-  {
-    "cluster_id": "5",
-    "label": "england, world, cup",
-    "trending_score": 0.0887,
-    "count_24h": 0,
-    "count_7d": 36,
-    "top_articles": [
-      {
-        "id": "4931",
-        "title": "Henderson has surgery in USA after breaking arm",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c70ygpg95vlo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 15:28:28"
-      },
-      {
-        "id": "4930",
-        "title": "ICC contacts ECB over Stokes retirement video",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdg4me54rro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 14:10:56"
-      },
-      {
-        "id": "4904",
-        "title": "Beaumont to retire from international cricket",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cy047zqw8j5o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 12:58:56"
       }
     ]
   },
@@ -218,9 +191,9 @@
   {
     "cluster_id": "1",
     "label": "said, health, care",
-    "trending_score": 0.0794,
+    "trending_score": 0.0771,
     "count_24h": 0,
-    "count_7d": 34,
+    "count_7d": 33,
     "top_articles": [
       {
         "id": "4924",
@@ -297,29 +270,29 @@
     ]
   },
   {
-    "cluster_id": "2",
-    "label": "police, said, shooting",
-    "trending_score": 0.0511,
+    "cluster_id": "5",
+    "label": "england, world, cup",
+    "trending_score": 0.069,
     "count_24h": 0,
-    "count_7d": 36,
+    "count_7d": 28,
     "top_articles": [
       {
-        "id": "4983",
-        "title": "Five crew remain missing after plane wreckage found in Pakistan",
-        "url": "https://www.bbc.co.uk/news/articles/c5yze1vvlzgo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:39:15"
+        "id": "4931",
+        "title": "Henderson has surgery in USA after breaking arm",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c70ygpg95vlo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 15:28:28"
       },
       {
-        "id": "4974",
-        "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
-        "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:12:50"
+        "id": "4930",
+        "title": "ICC contacts ECB over Stokes retirement video",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdg4me54rro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 14:10:56"
       },
       {
-        "id": "4993",
-        "title": "Pakistan military says 42 killed in fighter attacks in Balochistan",
-        "url": "https://www.aljazeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss",
-        "date": "2026-07-08 16:07:45"
+        "id": "4904",
+        "title": "Beaumont to retire from international cricket",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cy047zqw8j5o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 12:58:56"
       }
     ]
   },
@@ -351,11 +324,38 @@
     ]
   },
   {
+    "cluster_id": "2",
+    "label": "police, said, shooting",
+    "trending_score": 0.0469,
+    "count_24h": 0,
+    "count_7d": 33,
+    "top_articles": [
+      {
+        "id": "4983",
+        "title": "Five crew remain missing after plane wreckage found in Pakistan",
+        "url": "https://www.bbc.co.uk/news/articles/c5yze1vvlzgo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:39:15"
+      },
+      {
+        "id": "4974",
+        "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
+        "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:12:50"
+      },
+      {
+        "id": "4993",
+        "title": "Pakistan military says 42 killed in fighter attacks in Balochistan",
+        "url": "https://www.aljazeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss",
+        "date": "2026-07-08 16:07:45"
+      }
+    ]
+  },
+  {
     "cluster_id": "7",
     "label": "said, new, market",
-    "trending_score": 0.0474,
+    "trending_score": 0.0461,
     "count_24h": 0,
-    "count_7d": 38,
+    "count_7d": 37,
     "top_articles": [
       {
         "id": "4962",
@@ -380,9 +380,9 @@
   {
     "cluster_id": "16",
     "label": "venezuela, 01, earthquakes",
-    "trending_score": 0.0379,
+    "trending_score": 0.0341,
     "count_24h": 0,
-    "count_7d": 10,
+    "count_7d": 9,
     "top_articles": [
       {
         "id": "4866",

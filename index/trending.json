@@ -29,9 +29,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.1217,
+    "trending_score": 0.1158,
     "count_24h": 0,
-    "count_7d": 83,
+    "count_7d": 79,
     "top_articles": [
       {
         "id": "4986",
@@ -54,38 +54,11 @@
     ]
   },
   {
-    "cluster_id": "12",
-    "label": "israel, gaza, israeli",
-    "trending_score": 0.1178,
-    "count_24h": 0,
-    "count_7d": 53,
-    "top_articles": [
-      {
-        "id": "4955",
-        "title": "Photo of bound Palestinian detainee corroborates Israeli torture reports, say rights groups",
-        "url": "https://www.theguardian.com/world/2026/jul/08/photo-palestinian-prisoner-corroborates-israeli-torture-claims",
-        "date": "2026-07-08 14:23:51"
-      },
-      {
-        "id": "4938",
-        "title": "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
-        "url": "https://www.aljazeera.com/news/2026/7/8/timeline-20-years-of-hamas-rule-in-gaza-from-election-to-political-exit?traffic_source=rss",
-        "date": "2026-07-08 13:29:22"
-      },
-      {
-        "id": "4939",
-        "title": "Why can’t we count our dead?",
-        "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/8/why-cant-we-count-our-dead?traffic_source=rss",
-        "date": "2026-07-08 13:28:54"
-      }
-    ]
-  },
-  {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.1161,
+    "trending_score": 0.1101,
     "count_24h": 0,
-    "count_7d": 39,
+    "count_7d": 37,
     "top_articles": [
       {
         "id": "4989",
@@ -108,11 +81,38 @@
     ]
   },
   {
+    "cluster_id": "12",
+    "label": "israel, gaza, israeli",
+    "trending_score": 0.1044,
+    "count_24h": 0,
+    "count_7d": 47,
+    "top_articles": [
+      {
+        "id": "4955",
+        "title": "Photo of bound Palestinian detainee corroborates Israeli torture reports, say rights groups",
+        "url": "https://www.theguardian.com/world/2026/jul/08/photo-palestinian-prisoner-corroborates-israeli-torture-claims",
+        "date": "2026-07-08 14:23:51"
+      },
+      {
+        "id": "4938",
+        "title": "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
+        "url": "https://www.aljazeera.com/news/2026/7/8/timeline-20-years-of-hamas-rule-in-gaza-from-election-to-political-exit?traffic_source=rss",
+        "date": "2026-07-08 13:29:22"
+      },
+      {
+        "id": "4939",
+        "title": "Why can’t we count our dead?",
+        "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/8/why-cant-we-count-our-dead?traffic_source=rss",
+        "date": "2026-07-08 13:28:54"
+      }
+    ]
+  },
+  {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.0846,
+    "trending_score": 0.0769,
     "count_24h": 0,
-    "count_7d": 44,
+    "count_7d": 40,
     "top_articles": [
       {
         "id": "4976",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "14",
     "label": "said, court, police",
-    "trending_score": 0.0804,
+    "trending_score": 0.0745,
     "count_24h": 0,
-    "count_7d": 68,
+    "count_7d": 63,
     "top_articles": [
       {
         "id": "4975",
@@ -162,38 +162,11 @@
     ]
   },
   {
-    "cluster_id": "6",
-    "label": "ai, new, tech",
-    "trending_score": 0.0728,
-    "count_24h": 0,
-    "count_7d": 60,
-    "top_articles": [
-      {
-        "id": "4964",
-        "title": "These AI startups are growing revenue at faster and faster rates",
-        "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-        "date": "2026-07-08 15:41:06"
-      },
-      {
-        "id": "4965",
-        "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
-        "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
-        "date": "2026-07-08 15:00:00"
-      },
-      {
-        "id": "4966",
-        "title": "Apple to produce Made in America wireless chips with Broadcom",
-        "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
-        "date": "2026-07-08 14:43:00"
-      }
-    ]
-  },
-  {
     "cluster_id": "1",
     "label": "said, health, care",
-    "trending_score": 0.0701,
+    "trending_score": 0.0678,
     "count_24h": 0,
-    "count_7d": 30,
+    "count_7d": 29,
     "top_articles": [
       {
         "id": "4924",
@@ -216,11 +189,38 @@
     ]
   },
   {
+    "cluster_id": "6",
+    "label": "ai, new, tech",
+    "trending_score": 0.0643,
+    "count_24h": 0,
+    "count_7d": 53,
+    "top_articles": [
+      {
+        "id": "4964",
+        "title": "These AI startups are growing revenue at faster and faster rates",
+        "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+        "date": "2026-07-08 15:41:06"
+      },
+      {
+        "id": "4965",
+        "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
+        "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
+        "date": "2026-07-08 15:00:00"
+      },
+      {
+        "id": "4966",
+        "title": "Apple to produce Made in America wireless chips with Broadcom",
+        "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
+        "date": "2026-07-08 14:43:00"
+      }
+    ]
+  },
+  {
     "cluster_id": "4",
     "label": "wimbledon, tennis, williams",
-    "trending_score": 0.07,
+    "trending_score": 0.06,
     "count_24h": 0,
-    "count_7d": 14,
+    "count_7d": 12,
     "top_articles": [
       {
         "id": "4985",
@@ -239,33 +239,6 @@
         "title": "What must Fery do to become Wimbledon semi-finalist?",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-08 05:41:31"
-      }
-    ]
-  },
-  {
-    "cluster_id": "5",
-    "label": "england, world, cup",
-    "trending_score": 0.0567,
-    "count_24h": 0,
-    "count_7d": 23,
-    "top_articles": [
-      {
-        "id": "4931",
-        "title": "Henderson has surgery in USA after breaking arm",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c70ygpg95vlo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 15:28:28"
-      },
-      {
-        "id": "4930",
-        "title": "ICC contacts ECB over Stokes retirement video",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdg4me54rro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 14:10:56"
-      },
-      {
-        "id": "4904",
-        "title": "Beaumont to retire from international cricket",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cy047zqw8j5o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 12:58:56"
       }
     ]
   },
@@ -293,6 +266,33 @@
         "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
         "url": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
         "date": "2026-07-08 10:30:07"
+      }
+    ]
+  },
+  {
+    "cluster_id": "5",
+    "label": "england, world, cup",
+    "trending_score": 0.0493,
+    "count_24h": 0,
+    "count_7d": 20,
+    "top_articles": [
+      {
+        "id": "4931",
+        "title": "Henderson has surgery in USA after breaking arm",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c70ygpg95vlo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 15:28:28"
+      },
+      {
+        "id": "4930",
+        "title": "ICC contacts ECB over Stokes retirement video",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdg4me54rro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 14:10:56"
+      },
+      {
+        "id": "4904",
+        "title": "Beaumont to retire from international cricket",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cy047zqw8j5o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 12:58:56"
       }
     ]
   },
@@ -353,9 +353,9 @@
   {
     "cluster_id": "7",
     "label": "said, new, market",
-    "trending_score": 0.0399,
+    "trending_score": 0.0374,
     "count_24h": 0,
-    "count_7d": 32,
+    "count_7d": 30,
     "top_articles": [
       {
         "id": "4962",
@@ -434,9 +434,9 @@
   {
     "cluster_id": "15",
     "label": "china, says, conference glance",
-    "trending_score": 0.0131,
+    "trending_score": 0.0119,
     "count_24h": 0,
-    "count_7d": 11,
+    "count_7d": 10,
     "top_articles": [
       {
         "id": "4730",

@@ -2,9 +2,9 @@
   {
     "cluster_id": "11",
     "label": "russia, ukraine, russian",
-    "trending_score": 0.1271,
+    "trending_score": 0.1243,
     "count_24h": 0,
-    "count_7d": 46,
+    "count_7d": 45,
     "top_articles": [
       {
         "id": "4988",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.1158,
+    "trending_score": 0.1085,
     "count_24h": 0,
-    "count_7d": 79,
+    "count_7d": 74,
     "top_articles": [
       {
         "id": "4986",
@@ -56,9 +56,9 @@
   {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.1101,
+    "trending_score": 0.1071,
     "count_24h": 0,
-    "count_7d": 37,
+    "count_7d": 36,
     "top_articles": [
       {
         "id": "4989",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.0769,
+    "trending_score": 0.075,
     "count_24h": 0,
-    "count_7d": 40,
+    "count_7d": 39,
     "top_articles": [
       {
         "id": "4976",
@@ -164,9 +164,9 @@
   {
     "cluster_id": "1",
     "label": "said, health, care",
-    "trending_score": 0.0678,
+    "trending_score": 0.0654,
     "count_24h": 0,
-    "count_7d": 29,
+    "count_7d": 28,
     "top_articles": [
       {
         "id": "4924",
@@ -191,9 +191,9 @@
   {
     "cluster_id": "6",
     "label": "ai, new, tech",
-    "trending_score": 0.0643,
+    "trending_score": 0.0619,
     "count_24h": 0,
-    "count_7d": 53,
+    "count_7d": 51,
     "top_articles": [
       {
         "id": "4964",
@@ -272,9 +272,9 @@
   {
     "cluster_id": "5",
     "label": "england, world, cup",
-    "trending_score": 0.0493,
+    "trending_score": 0.0468,
     "count_24h": 0,
-    "count_7d": 20,
+    "count_7d": 19,
     "top_articles": [
       {
         "id": "4931",
@@ -299,9 +299,9 @@
   {
     "cluster_id": "10",
     "label": "trump, court, president",
-    "trending_score": 0.0439,
+    "trending_score": 0.0412,
     "count_24h": 0,
-    "count_7d": 33,
+    "count_7d": 31,
     "top_articles": [
       {
         "id": "4998",
@@ -326,9 +326,9 @@
   {
     "cluster_id": "2",
     "label": "police, said, shooting",
-    "trending_score": 0.0412,
+    "trending_score": 0.0384,
     "count_24h": 0,
-    "count_7d": 29,
+    "count_7d": 27,
     "top_articles": [
       {
         "id": "4983",
@@ -353,9 +353,9 @@
   {
     "cluster_id": "7",
     "label": "said, new, market",
-    "trending_score": 0.0374,
+    "trending_score": 0.0362,
     "count_24h": 0,
-    "count_7d": 30,
+    "count_7d": 29,
     "top_articles": [
       {
         "id": "4962",
@@ -380,9 +380,9 @@
   {
     "cluster_id": "16",
     "label": "venezuela, 01, earthquakes",
-    "trending_score": 0.0303,
+    "trending_score": 0.0265,
     "count_24h": 0,
-    "count_7d": 8,
+    "count_7d": 7,
     "top_articles": [
       {
         "id": "4866",
@@ -407,9 +407,9 @@
   {
     "cluster_id": "8",
     "label": "image, said, new",
-    "trending_score": 0.0226,
+    "trending_score": 0.0203,
     "count_24h": 0,
-    "count_7d": 20,
+    "count_7d": 18,
     "top_articles": [
       {
         "id": "4929",
@@ -434,9 +434,9 @@
   {
     "cluster_id": "15",
     "label": "china, says, conference glance",
-    "trending_score": 0.0119,
+    "trending_score": 0.0107,
     "count_24h": 0,
-    "count_7d": 10,
+    "count_7d": 9,
     "top_articles": [
       {
         "id": "4730",

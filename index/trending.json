@@ -2,9 +2,9 @@
   {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.0923,
+    "trending_score": 0.0893,
     "count_24h": 0,
-    "count_7d": 31,
+    "count_7d": 30,
     "top_articles": [
       {
         "id": "4989",
@@ -54,33 +54,6 @@
     ]
   },
   {
-    "cluster_id": "9",
-    "label": "world, cup, world cup",
-    "trending_score": 0.063,
-    "count_24h": 0,
-    "count_7d": 43,
-    "top_articles": [
-      {
-        "id": "4986",
-        "title": "Man Utd agree deal for Chelsea's Santos",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr7xkgd8vdko?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 17:09:53"
-      },
-      {
-        "id": "4991",
-        "title": "Egypt criticises ‘influential refereeing’ in Argentina World Cup match",
-        "url": "https://www.aljazeera.com/sports/2026/7/8/egypt-criticises-influential-refereeing-in-argentina-world-cup-match?traffic_source=rss",
-        "date": "2026-07-08 16:41:58"
-      },
-      {
-        "id": "4982",
-        "title": "Are Argentina being treated favourably at World Cup?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 15:37:07"
-      }
-    ]
-  },
-  {
     "cluster_id": "13",
     "label": "burnham, said, farage",
     "trending_score": 0.0577,
@@ -108,11 +81,38 @@
     ]
   },
   {
+    "cluster_id": "9",
+    "label": "world, cup, world cup",
+    "trending_score": 0.0557,
+    "count_24h": 0,
+    "count_7d": 38,
+    "top_articles": [
+      {
+        "id": "4986",
+        "title": "Man Utd agree deal for Chelsea's Santos",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr7xkgd8vdko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:09:53"
+      },
+      {
+        "id": "4991",
+        "title": "Egypt criticises ‘influential refereeing’ in Argentina World Cup match",
+        "url": "https://www.aljazeera.com/sports/2026/7/8/egypt-criticises-influential-refereeing-in-argentina-world-cup-match?traffic_source=rss",
+        "date": "2026-07-08 16:41:58"
+      },
+      {
+        "id": "4982",
+        "title": "Are Argentina being treated favourably at World Cup?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 15:37:07"
+      }
+    ]
+  },
+  {
     "cluster_id": "12",
     "label": "israel, gaza, israeli",
-    "trending_score": 0.0556,
+    "trending_score": 0.0489,
     "count_24h": 0,
-    "count_7d": 25,
+    "count_7d": 22,
     "top_articles": [
       {
         "id": "4955",
@@ -131,33 +131,6 @@
         "title": "Why can’t we count our dead?",
         "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/8/why-cant-we-count-our-dead?traffic_source=rss",
         "date": "2026-07-08 13:28:54"
-      }
-    ]
-  },
-  {
-    "cluster_id": "14",
-    "label": "said, court, police",
-    "trending_score": 0.0485,
-    "count_24h": 0,
-    "count_7d": 41,
-    "top_articles": [
-      {
-        "id": "4975",
-        "title": "UK to change law so ringleader of Rochdale grooming gang can be deported",
-        "url": "https://www.bbc.co.uk/news/articles/cly0ly30384o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 17:26:45"
-      },
-      {
-        "id": "4990",
-        "title": "US charges Indian crime leader in Sikh activist’s assassination",
-        "url": "https://www.aljazeera.com/news/2026/7/8/us-charges-indian-crime-leader-in-sikh-activists-assassination?traffic_source=rss",
-        "date": "2026-07-08 16:44:39"
-      },
-      {
-        "id": "4984",
-        "title": "Government offers to meet woman abused by neo-Nazi MI5 agent",
-        "url": "https://www.bbc.co.uk/news/articles/c9v24wpynv1o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:23:19"
       }
     ]
   },
@@ -189,11 +162,38 @@
     ]
   },
   {
-    "cluster_id": "6",
-    "label": "ai, new, tech",
+    "cluster_id": "14",
+    "label": "said, court, police",
     "trending_score": 0.0449,
     "count_24h": 0,
-    "count_7d": 37,
+    "count_7d": 38,
+    "top_articles": [
+      {
+        "id": "4975",
+        "title": "UK to change law so ringleader of Rochdale grooming gang can be deported",
+        "url": "https://www.bbc.co.uk/news/articles/cly0ly30384o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:26:45"
+      },
+      {
+        "id": "4990",
+        "title": "US charges Indian crime leader in Sikh activist’s assassination",
+        "url": "https://www.aljazeera.com/news/2026/7/8/us-charges-indian-crime-leader-in-sikh-activists-assassination?traffic_source=rss",
+        "date": "2026-07-08 16:44:39"
+      },
+      {
+        "id": "4984",
+        "title": "Government offers to meet woman abused by neo-Nazi MI5 agent",
+        "url": "https://www.bbc.co.uk/news/articles/c9v24wpynv1o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:23:19"
+      }
+    ]
+  },
+  {
+    "cluster_id": "6",
+    "label": "ai, new, tech",
+    "trending_score": 0.0437,
+    "count_24h": 0,
+    "count_7d": 36,
     "top_articles": [
       {
         "id": "4964",
@@ -245,9 +245,9 @@
   {
     "cluster_id": "1",
     "label": "said, health, care",
-    "trending_score": 0.0374,
+    "trending_score": 0.0304,
     "count_24h": 0,
-    "count_7d": 16,
+    "count_7d": 13,
     "top_articles": [
       {
         "id": "4924",
@@ -272,9 +272,9 @@
   {
     "cluster_id": "5",
     "label": "england, world, cup",
-    "trending_score": 0.0345,
+    "trending_score": 0.0296,
     "count_24h": 0,
-    "count_7d": 14,
+    "count_7d": 12,
     "top_articles": [
       {
         "id": "4931",
@@ -297,38 +297,11 @@
     ]
   },
   {
-    "cluster_id": "10",
-    "label": "trump, court, president",
-    "trending_score": 0.0293,
-    "count_24h": 0,
-    "count_7d": 22,
-    "top_articles": [
-      {
-        "id": "4998",
-        "title": "Marine Le Pen will run for election in 2027. Will she have to wear an electronic tag?",
-        "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-election-2027",
-        "date": "2026-07-08 17:22:01"
-      },
-      {
-        "id": "4992",
-        "title": "Far-right leader Le Pen starts campaign, faces mixed reactions in France",
-        "url": "https://www.aljazeera.com/news/2026/7/8/far-right-leader-le-pen-starts-campaign-faces-mixed-reactions-in-france?traffic_source=rss",
-        "date": "2026-07-08 16:17:12"
-      },
-      {
-        "id": "4961",
-        "title": "US judge throws out Trump’s $3.8bn defamation lawsuit against Washington Post",
-        "url": "https://www.theguardian.com/media/2026/jul/08/trump-washington-post-defamation-lawsuit",
-        "date": "2026-07-08 15:18:24"
-      }
-    ]
-  },
-  {
     "cluster_id": "7",
     "label": "said, new, market",
-    "trending_score": 0.0287,
+    "trending_score": 0.0262,
     "count_24h": 0,
-    "count_7d": 23,
+    "count_7d": 21,
     "top_articles": [
       {
         "id": "4962",
@@ -351,11 +324,38 @@
     ]
   },
   {
+    "cluster_id": "10",
+    "label": "trump, court, president",
+    "trending_score": 0.0239,
+    "count_24h": 0,
+    "count_7d": 18,
+    "top_articles": [
+      {
+        "id": "4998",
+        "title": "Marine Le Pen will run for election in 2027. Will she have to wear an electronic tag?",
+        "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-election-2027",
+        "date": "2026-07-08 17:22:01"
+      },
+      {
+        "id": "4992",
+        "title": "Far-right leader Le Pen starts campaign, faces mixed reactions in France",
+        "url": "https://www.aljazeera.com/news/2026/7/8/far-right-leader-le-pen-starts-campaign-faces-mixed-reactions-in-france?traffic_source=rss",
+        "date": "2026-07-08 16:17:12"
+      },
+      {
+        "id": "4961",
+        "title": "US judge throws out Trump’s $3.8bn defamation lawsuit against Washington Post",
+        "url": "https://www.theguardian.com/media/2026/jul/08/trump-washington-post-defamation-lawsuit",
+        "date": "2026-07-08 15:18:24"
+      }
+    ]
+  },
+  {
     "cluster_id": "2",
     "label": "police, said, shooting",
-    "trending_score": 0.0241,
+    "trending_score": 0.0227,
     "count_24h": 0,
-    "count_7d": 17,
+    "count_7d": 16,
     "top_articles": [
       {
         "id": "4983",

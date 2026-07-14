@@ -29,9 +29,9 @@
   {
     "cluster_id": "11",
     "label": "russia, ukraine, russian",
-    "trending_score": 0.0801,
+    "trending_score": 0.0773,
     "count_24h": 0,
-    "count_7d": 29,
+    "count_7d": 28,
     "top_articles": [
       {
         "id": "4988",
@@ -54,38 +54,11 @@
     ]
   },
   {
-    "cluster_id": "13",
-    "label": "burnham, said, farage",
-    "trending_score": 0.0577,
-    "count_24h": 0,
-    "count_7d": 30,
-    "top_articles": [
-      {
-        "id": "4976",
-        "title": "Farage denies stunt as Reform proposes August by-election date",
-        "url": "https://www.bbc.co.uk/news/articles/cdxd779gkv9o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:24:05"
-      },
-      {
-        "id": "4981",
-        "title": "Who is Count Binface, aiming to face Farage in by-election?",
-        "url": "https://www.bbc.co.uk/news/videos/cp8r70vpj97o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:16:30"
-      },
-      {
-        "id": "4957",
-        "title": "Treasury yet to do due diligence on finding extra money for UK’s Nato spend",
-        "url": "https://www.theguardian.com/business/2026/jul/08/treasury-due-diligence-money-uk-nato-spend",
-        "date": "2026-07-08 15:30:17"
-      }
-    ]
-  },
-  {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.0557,
+    "trending_score": 0.0543,
     "count_24h": 0,
-    "count_7d": 38,
+    "count_7d": 37,
     "top_articles": [
       {
         "id": "4986",
@@ -108,11 +81,38 @@
     ]
   },
   {
+    "cluster_id": "13",
+    "label": "burnham, said, farage",
+    "trending_score": 0.0519,
+    "count_24h": 0,
+    "count_7d": 27,
+    "top_articles": [
+      {
+        "id": "4976",
+        "title": "Farage denies stunt as Reform proposes August by-election date",
+        "url": "https://www.bbc.co.uk/news/articles/cdxd779gkv9o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:24:05"
+      },
+      {
+        "id": "4981",
+        "title": "Who is Count Binface, aiming to face Farage in by-election?",
+        "url": "https://www.bbc.co.uk/news/videos/cp8r70vpj97o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:16:30"
+      },
+      {
+        "id": "4957",
+        "title": "Treasury yet to do due diligence on finding extra money for UK’s Nato spend",
+        "url": "https://www.theguardian.com/business/2026/jul/08/treasury-due-diligence-money-uk-nato-spend",
+        "date": "2026-07-08 15:30:17"
+      }
+    ]
+  },
+  {
     "cluster_id": "12",
     "label": "israel, gaza, israeli",
-    "trending_score": 0.0489,
+    "trending_score": 0.0467,
     "count_24h": 0,
-    "count_7d": 22,
+    "count_7d": 21,
     "top_articles": [
       {
         "id": "4955",
@@ -135,38 +135,11 @@
     ]
   },
   {
-    "cluster_id": "17",
-    "label": "heat, heatwave, temperatures",
-    "trending_score": 0.0455,
-    "count_24h": 0,
-    "count_7d": 11,
-    "top_articles": [
-      {
-        "id": "4977",
-        "title": "No air con? Here's how to get the most out of your electric fan",
-        "url": "https://www.bbc.co.uk/news/articles/cly76jlxljlo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 17:07:05"
-      },
-      {
-        "id": "4884",
-        "title": "Unions in Europe press for new worker protections to counter heat stress",
-        "url": "https://www.theguardian.com/environment/2026/jul/08/unions-europe-worker-protections-heat-stress-climate-crisis",
-        "date": "2026-07-08 11:00:52"
-      },
-      {
-        "id": "4888",
-        "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
-        "url": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
-        "date": "2026-07-08 10:30:07"
-      }
-    ]
-  },
-  {
     "cluster_id": "14",
     "label": "said, court, police",
-    "trending_score": 0.0449,
+    "trending_score": 0.0437,
     "count_24h": 0,
-    "count_7d": 38,
+    "count_7d": 37,
     "top_articles": [
       {
         "id": "4975",
@@ -191,9 +164,9 @@
   {
     "cluster_id": "6",
     "label": "ai, new, tech",
-    "trending_score": 0.0437,
+    "trending_score": 0.04,
     "count_24h": 0,
-    "count_7d": 36,
+    "count_7d": 33,
     "top_articles": [
       {
         "id": "4964",
@@ -216,11 +189,38 @@
     ]
   },
   {
+    "cluster_id": "17",
+    "label": "heat, heatwave, temperatures",
+    "trending_score": 0.0372,
+    "count_24h": 0,
+    "count_7d": 9,
+    "top_articles": [
+      {
+        "id": "4977",
+        "title": "No air con? Here's how to get the most out of your electric fan",
+        "url": "https://www.bbc.co.uk/news/articles/cly76jlxljlo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:07:05"
+      },
+      {
+        "id": "4884",
+        "title": "Unions in Europe press for new worker protections to counter heat stress",
+        "url": "https://www.theguardian.com/environment/2026/jul/08/unions-europe-worker-protections-heat-stress-climate-crisis",
+        "date": "2026-07-08 11:00:52"
+      },
+      {
+        "id": "4888",
+        "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
+        "url": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
+        "date": "2026-07-08 10:30:07"
+      }
+    ]
+  },
+  {
     "cluster_id": "4",
     "label": "wimbledon, tennis, williams",
-    "trending_score": 0.04,
+    "trending_score": 0.035,
     "count_24h": 0,
-    "count_7d": 8,
+    "count_7d": 7,
     "top_articles": [
       {
         "id": "4985",
@@ -245,9 +245,9 @@
   {
     "cluster_id": "1",
     "label": "said, health, care",
-    "trending_score": 0.0304,
+    "trending_score": 0.028,
     "count_24h": 0,
-    "count_7d": 13,
+    "count_7d": 12,
     "top_articles": [
       {
         "id": "4924",
@@ -272,9 +272,9 @@
   {
     "cluster_id": "5",
     "label": "england, world, cup",
-    "trending_score": 0.0296,
+    "trending_score": 0.0246,
     "count_24h": 0,
-    "count_7d": 12,
+    "count_7d": 10,
     "top_articles": [
       {
         "id": "4931",
@@ -299,9 +299,9 @@
   {
     "cluster_id": "7",
     "label": "said, new, market",
-    "trending_score": 0.0262,
+    "trending_score": 0.0237,
     "count_24h": 0,
-    "count_7d": 21,
+    "count_7d": 19,
     "top_articles": [
       {
         "id": "4962",
@@ -324,38 +324,11 @@
     ]
   },
   {
-    "cluster_id": "10",
-    "label": "trump, court, president",
-    "trending_score": 0.0239,
-    "count_24h": 0,
-    "count_7d": 18,
-    "top_articles": [
-      {
-        "id": "4998",
-        "title": "Marine Le Pen will run for election in 2027. Will she have to wear an electronic tag?",
-        "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-election-2027",
-        "date": "2026-07-08 17:22:01"
-      },
-      {
-        "id": "4992",
-        "title": "Far-right leader Le Pen starts campaign, faces mixed reactions in France",
-        "url": "https://www.aljazeera.com/news/2026/7/8/far-right-leader-le-pen-starts-campaign-faces-mixed-reactions-in-france?traffic_source=rss",
-        "date": "2026-07-08 16:17:12"
-      },
-      {
-        "id": "4961",
-        "title": "US judge throws out Trump’s $3.8bn defamation lawsuit against Washington Post",
-        "url": "https://www.theguardian.com/media/2026/jul/08/trump-washington-post-defamation-lawsuit",
-        "date": "2026-07-08 15:18:24"
-      }
-    ]
-  },
-  {
     "cluster_id": "2",
     "label": "police, said, shooting",
-    "trending_score": 0.0227,
+    "trending_score": 0.0213,
     "count_24h": 0,
-    "count_7d": 16,
+    "count_7d": 15,
     "top_articles": [
       {
         "id": "4983",
@@ -374,6 +347,33 @@
         "title": "Pakistan military says 42 killed in fighter attacks in Balochistan",
         "url": "https://www.aljazeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss",
         "date": "2026-07-08 16:07:45"
+      }
+    ]
+  },
+  {
+    "cluster_id": "10",
+    "label": "trump, court, president",
+    "trending_score": 0.0213,
+    "count_24h": 0,
+    "count_7d": 16,
+    "top_articles": [
+      {
+        "id": "4998",
+        "title": "Marine Le Pen will run for election in 2027. Will she have to wear an electronic tag?",
+        "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-election-2027",
+        "date": "2026-07-08 17:22:01"
+      },
+      {
+        "id": "4992",
+        "title": "Far-right leader Le Pen starts campaign, faces mixed reactions in France",
+        "url": "https://www.aljazeera.com/news/2026/7/8/far-right-leader-le-pen-starts-campaign-faces-mixed-reactions-in-france?traffic_source=rss",
+        "date": "2026-07-08 16:17:12"
+      },
+      {
+        "id": "4961",
+        "title": "US judge throws out Trump’s $3.8bn defamation lawsuit against Washington Post",
+        "url": "https://www.theguardian.com/media/2026/jul/08/trump-washington-post-defamation-lawsuit",
+        "date": "2026-07-08 15:18:24"
       }
     ]
   },
@@ -407,9 +407,9 @@
   {
     "cluster_id": "8",
     "label": "image, said, new",
-    "trending_score": 0.009,
+    "trending_score": 0.0056,
     "count_24h": 0,
-    "count_7d": 8,
+    "count_7d": 5,
     "top_articles": [
       {
         "id": "4929",
@@ -434,9 +434,9 @@
   {
     "cluster_id": "15",
     "label": "china, says, conference glance",
-    "trending_score": 0.0036,
+    "trending_score": 0.0024,
     "count_24h": 0,
-    "count_7d": 3,
+    "count_7d": 2,
     "top_articles": [
       {
         "id": "4730",

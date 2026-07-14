@@ -29,9 +29,9 @@
   {
     "cluster_id": "11",
     "label": "russia, ukraine, russian",
-    "trending_score": 0.0608,
+    "trending_score": 0.0497,
     "count_24h": 0,
-    "count_7d": 22,
+    "count_7d": 18,
     "top_articles": [
       {
         "id": "4988",
@@ -56,9 +56,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.0499,
+    "trending_score": 0.0469,
     "count_24h": 0,
-    "count_7d": 34,
+    "count_7d": 32,
     "top_articles": [
       {
         "id": "4986",
@@ -83,9 +83,9 @@
   {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.0462,
+    "trending_score": 0.0423,
     "count_24h": 0,
-    "count_7d": 24,
+    "count_7d": 22,
     "top_articles": [
       {
         "id": "4976",
@@ -104,33 +104,6 @@
         "title": "Treasury yet to do due diligence on finding extra money for UK’s Nato spend",
         "url": "https://www.theguardian.com/business/2026/jul/08/treasury-due-diligence-money-uk-nato-spend",
         "date": "2026-07-08 15:30:17"
-      }
-    ]
-  },
-  {
-    "cluster_id": "14",
-    "label": "said, court, police",
-    "trending_score": 0.0414,
-    "count_24h": 0,
-    "count_7d": 35,
-    "top_articles": [
-      {
-        "id": "4975",
-        "title": "UK to change law so ringleader of Rochdale grooming gang can be deported",
-        "url": "https://www.bbc.co.uk/news/articles/cly0ly30384o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 17:26:45"
-      },
-      {
-        "id": "4990",
-        "title": "US charges Indian crime leader in Sikh activist’s assassination",
-        "url": "https://www.aljazeera.com/news/2026/7/8/us-charges-indian-crime-leader-in-sikh-activists-assassination?traffic_source=rss",
-        "date": "2026-07-08 16:44:39"
-      },
-      {
-        "id": "4984",
-        "title": "Government offers to meet woman abused by neo-Nazi MI5 agent",
-        "url": "https://www.bbc.co.uk/news/articles/c9v24wpynv1o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:23:19"
       }
     ]
   },
@@ -162,29 +135,29 @@
     ]
   },
   {
-    "cluster_id": "12",
-    "label": "israel, gaza, israeli",
-    "trending_score": 0.0356,
+    "cluster_id": "14",
+    "label": "said, court, police",
+    "trending_score": 0.0366,
     "count_24h": 0,
-    "count_7d": 16,
+    "count_7d": 31,
     "top_articles": [
       {
-        "id": "4955",
-        "title": "Photo of bound Palestinian detainee corroborates Israeli torture reports, say rights groups",
-        "url": "https://www.theguardian.com/world/2026/jul/08/photo-palestinian-prisoner-corroborates-israeli-torture-claims",
-        "date": "2026-07-08 14:23:51"
+        "id": "4975",
+        "title": "UK to change law so ringleader of Rochdale grooming gang can be deported",
+        "url": "https://www.bbc.co.uk/news/articles/cly0ly30384o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:26:45"
       },
       {
-        "id": "4938",
-        "title": "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
-        "url": "https://www.aljazeera.com/news/2026/7/8/timeline-20-years-of-hamas-rule-in-gaza-from-election-to-political-exit?traffic_source=rss",
-        "date": "2026-07-08 13:29:22"
+        "id": "4990",
+        "title": "US charges Indian crime leader in Sikh activist’s assassination",
+        "url": "https://www.aljazeera.com/news/2026/7/8/us-charges-indian-crime-leader-in-sikh-activists-assassination?traffic_source=rss",
+        "date": "2026-07-08 16:44:39"
       },
       {
-        "id": "4939",
-        "title": "Why can’t we count our dead?",
-        "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/8/why-cant-we-count-our-dead?traffic_source=rss",
-        "date": "2026-07-08 13:28:54"
+        "id": "4984",
+        "title": "Government offers to meet woman abused by neo-Nazi MI5 agent",
+        "url": "https://www.bbc.co.uk/news/articles/c9v24wpynv1o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:23:19"
       }
     ]
   },
@@ -216,29 +189,29 @@
     ]
   },
   {
-    "cluster_id": "6",
-    "label": "ai, new, tech",
-    "trending_score": 0.0291,
+    "cluster_id": "12",
+    "label": "israel, gaza, israeli",
+    "trending_score": 0.0333,
     "count_24h": 0,
-    "count_7d": 24,
+    "count_7d": 15,
     "top_articles": [
       {
-        "id": "4964",
-        "title": "These AI startups are growing revenue at faster and faster rates",
-        "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-        "date": "2026-07-08 15:41:06"
+        "id": "4955",
+        "title": "Photo of bound Palestinian detainee corroborates Israeli torture reports, say rights groups",
+        "url": "https://www.theguardian.com/world/2026/jul/08/photo-palestinian-prisoner-corroborates-israeli-torture-claims",
+        "date": "2026-07-08 14:23:51"
       },
       {
-        "id": "4965",
-        "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
-        "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
-        "date": "2026-07-08 15:00:00"
+        "id": "4938",
+        "title": "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
+        "url": "https://www.aljazeera.com/news/2026/7/8/timeline-20-years-of-hamas-rule-in-gaza-from-election-to-political-exit?traffic_source=rss",
+        "date": "2026-07-08 13:29:22"
       },
       {
-        "id": "4966",
-        "title": "Apple to produce Made in America wireless chips with Broadcom",
-        "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
-        "date": "2026-07-08 14:43:00"
+        "id": "4939",
+        "title": "Why can’t we count our dead?",
+        "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/8/why-cant-we-count-our-dead?traffic_source=rss",
+        "date": "2026-07-08 13:28:54"
       }
     ]
   },
@@ -270,29 +243,29 @@
     ]
   },
   {
-    "cluster_id": "5",
-    "label": "england, world, cup",
-    "trending_score": 0.0222,
+    "cluster_id": "6",
+    "label": "ai, new, tech",
+    "trending_score": 0.0218,
     "count_24h": 0,
-    "count_7d": 9,
+    "count_7d": 18,
     "top_articles": [
       {
-        "id": "4931",
-        "title": "Henderson has surgery in USA after breaking arm",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c70ygpg95vlo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 15:28:28"
+        "id": "4964",
+        "title": "These AI startups are growing revenue at faster and faster rates",
+        "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+        "date": "2026-07-08 15:41:06"
       },
       {
-        "id": "4930",
-        "title": "ICC contacts ECB over Stokes retirement video",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdg4me54rro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 14:10:56"
+        "id": "4965",
+        "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
+        "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
+        "date": "2026-07-08 15:00:00"
       },
       {
-        "id": "4904",
-        "title": "Beaumont to retire from international cricket",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cy047zqw8j5o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 12:58:56"
+        "id": "4966",
+        "title": "Apple to produce Made in America wireless chips with Broadcom",
+        "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
+        "date": "2026-07-08 14:43:00"
       }
     ]
   },
@@ -351,11 +324,38 @@
     ]
   },
   {
+    "cluster_id": "5",
+    "label": "england, world, cup",
+    "trending_score": 0.0172,
+    "count_24h": 0,
+    "count_7d": 7,
+    "top_articles": [
+      {
+        "id": "4931",
+        "title": "Henderson has surgery in USA after breaking arm",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c70ygpg95vlo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 15:28:28"
+      },
+      {
+        "id": "4930",
+        "title": "ICC contacts ECB over Stokes retirement video",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdg4me54rro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 14:10:56"
+      },
+      {
+        "id": "4904",
+        "title": "Beaumont to retire from international cricket",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cy047zqw8j5o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 12:58:56"
+      }
+    ]
+  },
+  {
     "cluster_id": "10",
     "label": "trump, court, president",
-    "trending_score": 0.0173,
+    "trending_score": 0.016,
     "count_24h": 0,
-    "count_7d": 13,
+    "count_7d": 12,
     "top_articles": [
       {
         "id": "4998",

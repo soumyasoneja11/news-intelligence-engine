@@ -29,9 +29,9 @@
   {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.1042,
+    "trending_score": 0.0982,
     "count_24h": 0,
-    "count_7d": 35,
+    "count_7d": 33,
     "top_articles": [
       {
         "id": "4989",
@@ -56,9 +56,9 @@
   {
     "cluster_id": "12",
     "label": "israel, gaza, israeli",
-    "trending_score": 0.0911,
+    "trending_score": 0.0867,
     "count_24h": 0,
-    "count_7d": 41,
+    "count_7d": 39,
     "top_articles": [
       {
         "id": "4955",
@@ -83,9 +83,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.0909,
+    "trending_score": 0.0865,
     "count_24h": 0,
-    "count_7d": 62,
+    "count_7d": 59,
     "top_articles": [
       {
         "id": "4986",
@@ -135,38 +135,11 @@
     ]
   },
   {
-    "cluster_id": "1",
-    "label": "said, health, care",
-    "trending_score": 0.0631,
-    "count_24h": 0,
-    "count_7d": 27,
-    "top_articles": [
-      {
-        "id": "4924",
-        "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
-        "url": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 15:05:31"
-      },
-      {
-        "id": "4949",
-        "title": "Contaminated children’s play sand sold in Australia can release toxic airborne asbestos, research finds",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/09/contaminated-childrens-play-sand-sold-in-australia-can-release-toxic-airborne-asbestos-research-finds",
-        "date": "2026-07-08 15:00:35"
-      },
-      {
-        "id": "4950",
-        "title": "Australians with cancer are living longer but diagnosis rates on the rise for younger people, report reveals",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/09/australians-with-cancer-are-living-longer-but-diagnosis-rates-on-the-rise-for-younger-people-report-reveals",
-        "date": "2026-07-08 15:00:35"
-      }
-    ]
-  },
-  {
     "cluster_id": "14",
     "label": "said, court, police",
-    "trending_score": 0.0626,
+    "trending_score": 0.0591,
     "count_24h": 0,
-    "count_7d": 53,
+    "count_7d": 50,
     "top_articles": [
       {
         "id": "4975",
@@ -189,11 +162,38 @@
     ]
   },
   {
+    "cluster_id": "1",
+    "label": "said, health, care",
+    "trending_score": 0.0584,
+    "count_24h": 0,
+    "count_7d": 25,
+    "top_articles": [
+      {
+        "id": "4924",
+        "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
+        "url": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 15:05:31"
+      },
+      {
+        "id": "4949",
+        "title": "Contaminated children’s play sand sold in Australia can release toxic airborne asbestos, research finds",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/09/contaminated-childrens-play-sand-sold-in-australia-can-release-toxic-airborne-asbestos-research-finds",
+        "date": "2026-07-08 15:00:35"
+      },
+      {
+        "id": "4950",
+        "title": "Australians with cancer are living longer but diagnosis rates on the rise for younger people, report reveals",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/09/australians-with-cancer-are-living-longer-but-diagnosis-rates-on-the-rise-for-younger-people-report-reveals",
+        "date": "2026-07-08 15:00:35"
+      }
+    ]
+  },
+  {
     "cluster_id": "6",
     "label": "ai, new, tech",
-    "trending_score": 0.057,
+    "trending_score": 0.0522,
     "count_24h": 0,
-    "count_7d": 47,
+    "count_7d": 43,
     "top_articles": [
       {
         "id": "4964",
@@ -299,9 +299,9 @@
   {
     "cluster_id": "10",
     "label": "trump, court, president",
-    "trending_score": 0.0386,
+    "trending_score": 0.0372,
     "count_24h": 0,
-    "count_7d": 29,
+    "count_7d": 28,
     "top_articles": [
       {
         "id": "4998",
@@ -326,9 +326,9 @@
   {
     "cluster_id": "2",
     "label": "police, said, shooting",
-    "trending_score": 0.0384,
+    "trending_score": 0.0369,
     "count_24h": 0,
-    "count_7d": 27,
+    "count_7d": 26,
     "top_articles": [
       {
         "id": "4983",
@@ -407,9 +407,9 @@
   {
     "cluster_id": "8",
     "label": "image, said, new",
-    "trending_score": 0.0158,
+    "trending_score": 0.0135,
     "count_24h": 0,
-    "count_7d": 14,
+    "count_7d": 12,
     "top_articles": [
       {
         "id": "4929",
@@ -434,9 +434,9 @@
   {
     "cluster_id": "15",
     "label": "china, says, conference glance",
-    "trending_score": 0.0083,
+    "trending_score": 0.0071,
     "count_24h": 0,
-    "count_7d": 7,
+    "count_7d": 6,
     "top_articles": [
       {
         "id": "4730",

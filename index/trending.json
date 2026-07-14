@@ -56,9 +56,9 @@
   {
     "cluster_id": "12",
     "label": "israel, gaza, israeli",
-    "trending_score": 0.08,
+    "trending_score": 0.0778,
     "count_24h": 0,
-    "count_7d": 36,
+    "count_7d": 35,
     "top_articles": [
       {
         "id": "4955",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.0673,
+    "trending_score": 0.0654,
     "count_24h": 0,
-    "count_7d": 35,
+    "count_7d": 34,
     "top_articles": [
       {
         "id": "4976",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "14",
     "label": "said, court, police",
-    "trending_score": 0.0556,
+    "trending_score": 0.0544,
     "count_24h": 0,
-    "count_7d": 47,
+    "count_7d": 46,
     "top_articles": [
       {
         "id": "4975",
@@ -191,9 +191,9 @@
   {
     "cluster_id": "6",
     "label": "ai, new, tech",
-    "trending_score": 0.051,
+    "trending_score": 0.0498,
     "count_24h": 0,
-    "count_7d": 42,
+    "count_7d": 41,
     "top_articles": [
       {
         "id": "4964",

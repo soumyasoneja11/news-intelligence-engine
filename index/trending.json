@@ -2,9 +2,9 @@
   {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.0833,
+    "trending_score": 0.0804,
     "count_24h": 0,
-    "count_7d": 28,
+    "count_7d": 27,
     "top_articles": [
       {
         "id": "4989",
@@ -56,9 +56,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.0455,
+    "trending_score": 0.0425,
     "count_24h": 0,
-    "count_7d": 31,
+    "count_7d": 29,
     "top_articles": [
       {
         "id": "4986",
@@ -218,9 +218,9 @@
   {
     "cluster_id": "1",
     "label": "said, health, care",
-    "trending_score": 0.0257,
+    "trending_score": 0.0234,
     "count_24h": 0,
-    "count_7d": 11,
+    "count_7d": 10,
     "top_articles": [
       {
         "id": "4924",
@@ -245,9 +245,9 @@
   {
     "cluster_id": "6",
     "label": "ai, new, tech",
-    "trending_score": 0.0218,
+    "trending_score": 0.0194,
     "count_24h": 0,
-    "count_7d": 18,
+    "count_7d": 16,
     "top_articles": [
       {
         "id": "4964",
@@ -272,9 +272,9 @@
   {
     "cluster_id": "2",
     "label": "police, said, shooting",
-    "trending_score": 0.0199,
+    "trending_score": 0.0185,
     "count_24h": 0,
-    "count_7d": 14,
+    "count_7d": 13,
     "top_articles": [
       {
         "id": "4983",
@@ -293,33 +293,6 @@
         "title": "Pakistan military says 42 killed in fighter attacks in Balochistan",
         "url": "https://www.aljazeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss",
         "date": "2026-07-08 16:07:45"
-      }
-    ]
-  },
-  {
-    "cluster_id": "7",
-    "label": "said, new, market",
-    "trending_score": 0.0187,
-    "count_24h": 0,
-    "count_7d": 15,
-    "top_articles": [
-      {
-        "id": "4962",
-        "title": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water",
-        "url": "https://www.theguardian.com/us-news/2026/jul/08/meta-datacenter-ai-wyoming-water",
-        "date": "2026-07-08 14:08:00"
-      },
-      {
-        "id": "4969",
-        "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
-        "url": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
-        "date": "2026-07-08 13:26:10"
-      },
-      {
-        "id": "4956",
-        "title": "IMF upgrades UK growth forecast as fears over impact of Iran war diminish",
-        "url": "https://www.theguardian.com/business/2026/jul/08/imf-upgrades-uk-growth-forecast-as-fears-over-impact-of-iran-war-diminish",
-        "date": "2026-07-08 13:00:32"
       }
     ]
   },
@@ -347,6 +320,33 @@
         "title": "Beaumont to retire from international cricket",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/cy047zqw8j5o?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-08 12:58:56"
+      }
+    ]
+  },
+  {
+    "cluster_id": "7",
+    "label": "said, new, market",
+    "trending_score": 0.015,
+    "count_24h": 0,
+    "count_7d": 12,
+    "top_articles": [
+      {
+        "id": "4962",
+        "title": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water",
+        "url": "https://www.theguardian.com/us-news/2026/jul/08/meta-datacenter-ai-wyoming-water",
+        "date": "2026-07-08 14:08:00"
+      },
+      {
+        "id": "4969",
+        "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
+        "url": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
+        "date": "2026-07-08 13:26:10"
+      },
+      {
+        "id": "4956",
+        "title": "IMF upgrades UK growth forecast as fears over impact of Iran war diminish",
+        "url": "https://www.theguardian.com/business/2026/jul/08/imf-upgrades-uk-growth-forecast-as-fears-over-impact-of-iran-war-diminish",
+        "date": "2026-07-08 13:00:32"
       }
     ]
   },

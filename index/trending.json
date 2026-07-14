@@ -2,9 +2,9 @@
   {
     "cluster_id": "11",
     "label": "russia, ukraine, russian",
-    "trending_score": 0.1105,
+    "trending_score": 0.1022,
     "count_24h": 0,
-    "count_7d": 40,
+    "count_7d": 37,
     "top_articles": [
       {
         "id": "4988",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.0982,
+    "trending_score": 0.0952,
     "count_24h": 0,
-    "count_7d": 33,
+    "count_7d": 32,
     "top_articles": [
       {
         "id": "4989",
@@ -83,9 +83,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.0777,
+    "trending_score": 0.0689,
     "count_24h": 0,
-    "count_7d": 53,
+    "count_7d": 47,
     "top_articles": [
       {
         "id": "4986",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.0692,
+    "trending_score": 0.0673,
     "count_24h": 0,
-    "count_7d": 36,
+    "count_7d": 35,
     "top_articles": [
       {
         "id": "4976",
@@ -135,38 +135,11 @@
     ]
   },
   {
-    "cluster_id": "1",
-    "label": "said, health, care",
-    "trending_score": 0.0584,
-    "count_24h": 0,
-    "count_7d": 25,
-    "top_articles": [
-      {
-        "id": "4924",
-        "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
-        "url": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 15:05:31"
-      },
-      {
-        "id": "4949",
-        "title": "Contaminated children’s play sand sold in Australia can release toxic airborne asbestos, research finds",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/09/contaminated-childrens-play-sand-sold-in-australia-can-release-toxic-airborne-asbestos-research-finds",
-        "date": "2026-07-08 15:00:35"
-      },
-      {
-        "id": "4950",
-        "title": "Australians with cancer are living longer but diagnosis rates on the rise for younger people, report reveals",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/09/australians-with-cancer-are-living-longer-but-diagnosis-rates-on-the-rise-for-younger-people-report-reveals",
-        "date": "2026-07-08 15:00:35"
-      }
-    ]
-  },
-  {
     "cluster_id": "14",
     "label": "said, court, police",
-    "trending_score": 0.0579,
+    "trending_score": 0.0556,
     "count_24h": 0,
-    "count_7d": 49,
+    "count_7d": 47,
     "top_articles": [
       {
         "id": "4975",
@@ -189,11 +162,38 @@
     ]
   },
   {
+    "cluster_id": "1",
+    "label": "said, health, care",
+    "trending_score": 0.0537,
+    "count_24h": 0,
+    "count_7d": 23,
+    "top_articles": [
+      {
+        "id": "4924",
+        "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
+        "url": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 15:05:31"
+      },
+      {
+        "id": "4949",
+        "title": "Contaminated children’s play sand sold in Australia can release toxic airborne asbestos, research finds",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/09/contaminated-childrens-play-sand-sold-in-australia-can-release-toxic-airborne-asbestos-research-finds",
+        "date": "2026-07-08 15:00:35"
+      },
+      {
+        "id": "4950",
+        "title": "Australians with cancer are living longer but diagnosis rates on the rise for younger people, report reveals",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/09/australians-with-cancer-are-living-longer-but-diagnosis-rates-on-the-rise-for-younger-people-report-reveals",
+        "date": "2026-07-08 15:00:35"
+      }
+    ]
+  },
+  {
     "cluster_id": "6",
     "label": "ai, new, tech",
-    "trending_score": 0.0522,
+    "trending_score": 0.051,
     "count_24h": 0,
-    "count_7d": 43,
+    "count_7d": 42,
     "top_articles": [
       {
         "id": "4964",
@@ -212,33 +212,6 @@
         "title": "Apple to produce Made in America wireless chips with Broadcom",
         "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
         "date": "2026-07-08 14:43:00"
-      }
-    ]
-  },
-  {
-    "cluster_id": "17",
-    "label": "heat, heatwave, temperatures",
-    "trending_score": 0.0496,
-    "count_24h": 0,
-    "count_7d": 12,
-    "top_articles": [
-      {
-        "id": "4977",
-        "title": "No air con? Here's how to get the most out of your electric fan",
-        "url": "https://www.bbc.co.uk/news/articles/cly76jlxljlo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 17:07:05"
-      },
-      {
-        "id": "4884",
-        "title": "Unions in Europe press for new worker protections to counter heat stress",
-        "url": "https://www.theguardian.com/environment/2026/jul/08/unions-europe-worker-protections-heat-stress-climate-crisis",
-        "date": "2026-07-08 11:00:52"
-      },
-      {
-        "id": "4888",
-        "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
-        "url": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
-        "date": "2026-07-08 10:30:07"
       }
     ]
   },
@@ -266,6 +239,33 @@
         "title": "Beaumont to retire from international cricket",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/cy047zqw8j5o?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-08 12:58:56"
+      }
+    ]
+  },
+  {
+    "cluster_id": "17",
+    "label": "heat, heatwave, temperatures",
+    "trending_score": 0.0455,
+    "count_24h": 0,
+    "count_7d": 11,
+    "top_articles": [
+      {
+        "id": "4977",
+        "title": "No air con? Here's how to get the most out of your electric fan",
+        "url": "https://www.bbc.co.uk/news/articles/cly76jlxljlo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:07:05"
+      },
+      {
+        "id": "4884",
+        "title": "Unions in Europe press for new worker protections to counter heat stress",
+        "url": "https://www.theguardian.com/environment/2026/jul/08/unions-europe-worker-protections-heat-stress-climate-crisis",
+        "date": "2026-07-08 11:00:52"
+      },
+      {
+        "id": "4888",
+        "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
+        "url": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
+        "date": "2026-07-08 10:30:07"
       }
     ]
   },
@@ -299,9 +299,9 @@
   {
     "cluster_id": "10",
     "label": "trump, court, president",
-    "trending_score": 0.0346,
+    "trending_score": 0.0332,
     "count_24h": 0,
-    "count_7d": 26,
+    "count_7d": 25,
     "top_articles": [
       {
         "id": "4998",
@@ -324,38 +324,11 @@
     ]
   },
   {
-    "cluster_id": "2",
-    "label": "police, said, shooting",
-    "trending_score": 0.0341,
-    "count_24h": 0,
-    "count_7d": 24,
-    "top_articles": [
-      {
-        "id": "4983",
-        "title": "Five crew remain missing after plane wreckage found in Pakistan",
-        "url": "https://www.bbc.co.uk/news/articles/c5yze1vvlzgo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:39:15"
-      },
-      {
-        "id": "4974",
-        "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
-        "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:12:50"
-      },
-      {
-        "id": "4993",
-        "title": "Pakistan military says 42 killed in fighter attacks in Balochistan",
-        "url": "https://www.aljazeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss",
-        "date": "2026-07-08 16:07:45"
-      }
-    ]
-  },
-  {
     "cluster_id": "7",
     "label": "said, new, market",
-    "trending_score": 0.0337,
+    "trending_score": 0.0324,
     "count_24h": 0,
-    "count_7d": 27,
+    "count_7d": 26,
     "top_articles": [
       {
         "id": "4962",
@@ -378,38 +351,38 @@
     ]
   },
   {
-    "cluster_id": "16",
-    "label": "venezuela, 01, earthquakes",
-    "trending_score": 0.0152,
+    "cluster_id": "2",
+    "label": "police, said, shooting",
+    "trending_score": 0.0298,
     "count_24h": 0,
-    "count_7d": 4,
+    "count_7d": 21,
     "top_articles": [
       {
-        "id": "4866",
-        "title": "Cubans protest after third nationwide power cut this year",
-        "url": "https://www.bbc.co.uk/news/articles/cm20g0d3ry4o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 10:56:55"
+        "id": "4983",
+        "title": "Five crew remain missing after plane wreckage found in Pakistan",
+        "url": "https://www.bbc.co.uk/news/articles/c5yze1vvlzgo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:39:15"
       },
       {
-        "id": "4817",
-        "title": "At UN, Cuba rallies support against ‘ruthless’ US blockade",
-        "url": "https://www.aljazeera.com/news/2026/7/8/at-un-cuba-rallies-support-against-ruthless-us-blockade?traffic_source=rss",
-        "date": "2026-07-08 05:18:52"
+        "id": "4974",
+        "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
+        "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:12:50"
       },
       {
-        "id": "4752",
-        "title": "Venezuela buries earthquake victims as death toll reaches 3,535",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/venezuela-buries-earthquake-victims-as-death-toll-reaches-3535?traffic_source=rss",
-        "date": "2026-07-07 20:30:06"
+        "id": "4993",
+        "title": "Pakistan military says 42 killed in fighter attacks in Balochistan",
+        "url": "https://www.aljazeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss",
+        "date": "2026-07-08 16:07:45"
       }
     ]
   },
   {
     "cluster_id": "8",
     "label": "image, said, new",
-    "trending_score": 0.0135,
+    "trending_score": 0.0124,
     "count_24h": 0,
-    "count_7d": 12,
+    "count_7d": 11,
     "top_articles": [
       {
         "id": "4929",
@@ -432,11 +405,38 @@
     ]
   },
   {
+    "cluster_id": "16",
+    "label": "venezuela, 01, earthquakes",
+    "trending_score": 0.0114,
+    "count_24h": 0,
+    "count_7d": 3,
+    "top_articles": [
+      {
+        "id": "4866",
+        "title": "Cubans protest after third nationwide power cut this year",
+        "url": "https://www.bbc.co.uk/news/articles/cm20g0d3ry4o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 10:56:55"
+      },
+      {
+        "id": "4817",
+        "title": "At UN, Cuba rallies support against ‘ruthless’ US blockade",
+        "url": "https://www.aljazeera.com/news/2026/7/8/at-un-cuba-rallies-support-against-ruthless-us-blockade?traffic_source=rss",
+        "date": "2026-07-08 05:18:52"
+      },
+      {
+        "id": "4752",
+        "title": "Venezuela buries earthquake victims as death toll reaches 3,535",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/venezuela-buries-earthquake-victims-as-death-toll-reaches-3535?traffic_source=rss",
+        "date": "2026-07-07 20:30:06"
+      }
+    ]
+  },
+  {
     "cluster_id": "15",
     "label": "china, says, conference glance",
-    "trending_score": 0.0071,
+    "trending_score": 0.0059,
     "count_24h": 0,
-    "count_7d": 6,
+    "count_7d": 5,
     "top_articles": [
       {
         "id": "4730",

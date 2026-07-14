@@ -1,37 +1,10 @@
 [
   {
-    "cluster_id": "11",
-    "label": "russia, ukraine, russian",
-    "trending_score": 0.1022,
-    "count_24h": 0,
-    "count_7d": 37,
-    "top_articles": [
-      {
-        "id": "4988",
-        "title": "NATO pledges 70 billion euros for Ukraine as Trump praises peace ‘progress’",
-        "url": "https://www.aljazeera.com/news/2026/7/8/nato-pledges-70-billion-euros-for-ukraine-as-trump-praises-peace-progress?traffic_source=rss",
-        "date": "2026-07-08 17:24:45"
-      },
-      {
-        "id": "4973",
-        "title": "Trump says Ukraine will get licence to produce Patriot missiles",
-        "url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 17:18:14"
-      },
-      {
-        "id": "4999",
-        "title": "Trump on rampage at Nato summit: what does it mean for Ukraine? – The Latest",
-        "url": "https://www.theguardian.com/news/audio/2026/jul/08/trump-on-rampage-at-nato-summit-what-does-it-mean-for-ukraine-the-latest",
-        "date": "2026-07-08 17:05:46"
-      }
-    ]
-  },
-  {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.0952,
+    "trending_score": 0.0923,
     "count_24h": 0,
-    "count_7d": 32,
+    "count_7d": 31,
     "top_articles": [
       {
         "id": "4989",
@@ -54,11 +27,38 @@
     ]
   },
   {
+    "cluster_id": "11",
+    "label": "russia, ukraine, russian",
+    "trending_score": 0.0912,
+    "count_24h": 0,
+    "count_7d": 33,
+    "top_articles": [
+      {
+        "id": "4988",
+        "title": "NATO pledges 70 billion euros for Ukraine as Trump praises peace ‘progress’",
+        "url": "https://www.aljazeera.com/news/2026/7/8/nato-pledges-70-billion-euros-for-ukraine-as-trump-praises-peace-progress?traffic_source=rss",
+        "date": "2026-07-08 17:24:45"
+      },
+      {
+        "id": "4973",
+        "title": "Trump says Ukraine will get licence to produce Patriot missiles",
+        "url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:18:14"
+      },
+      {
+        "id": "4999",
+        "title": "Trump on rampage at Nato summit: what does it mean for Ukraine? – The Latest",
+        "url": "https://www.theguardian.com/news/audio/2026/jul/08/trump-on-rampage-at-nato-summit-what-does-it-mean-for-ukraine-the-latest",
+        "date": "2026-07-08 17:05:46"
+      }
+    ]
+  },
+  {
     "cluster_id": "12",
     "label": "israel, gaza, israeli",
-    "trending_score": 0.0778,
+    "trending_score": 0.0733,
     "count_24h": 0,
-    "count_7d": 35,
+    "count_7d": 33,
     "top_articles": [
       {
         "id": "4955",
@@ -83,9 +83,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.0689,
+    "trending_score": 0.0674,
     "count_24h": 0,
-    "count_7d": 47,
+    "count_7d": 46,
     "top_articles": [
       {
         "id": "4986",
@@ -137,9 +137,9 @@
   {
     "cluster_id": "14",
     "label": "said, court, police",
-    "trending_score": 0.0544,
+    "trending_score": 0.052,
     "count_24h": 0,
-    "count_7d": 46,
+    "count_7d": 44,
     "top_articles": [
       {
         "id": "4975",
@@ -158,33 +158,6 @@
         "title": "Government offers to meet woman abused by neo-Nazi MI5 agent",
         "url": "https://www.bbc.co.uk/news/articles/c9v24wpynv1o?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-08 16:23:19"
-      }
-    ]
-  },
-  {
-    "cluster_id": "1",
-    "label": "said, health, care",
-    "trending_score": 0.0537,
-    "count_24h": 0,
-    "count_7d": 23,
-    "top_articles": [
-      {
-        "id": "4924",
-        "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
-        "url": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 15:05:31"
-      },
-      {
-        "id": "4949",
-        "title": "Contaminated children’s play sand sold in Australia can release toxic airborne asbestos, research finds",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/09/contaminated-childrens-play-sand-sold-in-australia-can-release-toxic-airborne-asbestos-research-finds",
-        "date": "2026-07-08 15:00:35"
-      },
-      {
-        "id": "4950",
-        "title": "Australians with cancer are living longer but diagnosis rates on the rise for younger people, report reveals",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/09/australians-with-cancer-are-living-longer-but-diagnosis-rates-on-the-rise-for-younger-people-report-reveals",
-        "date": "2026-07-08 15:00:35"
       }
     ]
   },
@@ -212,6 +185,33 @@
         "title": "Apple to produce Made in America wireless chips with Broadcom",
         "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
         "date": "2026-07-08 14:43:00"
+      }
+    ]
+  },
+  {
+    "cluster_id": "1",
+    "label": "said, health, care",
+    "trending_score": 0.0491,
+    "count_24h": 0,
+    "count_7d": 21,
+    "top_articles": [
+      {
+        "id": "4924",
+        "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
+        "url": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 15:05:31"
+      },
+      {
+        "id": "4949",
+        "title": "Contaminated children’s play sand sold in Australia can release toxic airborne asbestos, research finds",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/09/contaminated-childrens-play-sand-sold-in-australia-can-release-toxic-airborne-asbestos-research-finds",
+        "date": "2026-07-08 15:00:35"
+      },
+      {
+        "id": "4950",
+        "title": "Australians with cancer are living longer but diagnosis rates on the rise for younger people, report reveals",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/09/australians-with-cancer-are-living-longer-but-diagnosis-rates-on-the-rise-for-younger-people-report-reveals",
+        "date": "2026-07-08 15:00:35"
       }
     ]
   },
@@ -272,9 +272,9 @@
   {
     "cluster_id": "4",
     "label": "wimbledon, tennis, williams",
-    "trending_score": 0.045,
+    "trending_score": 0.04,
     "count_24h": 0,
-    "count_7d": 9,
+    "count_7d": 8,
     "top_articles": [
       {
         "id": "4985",
@@ -299,9 +299,9 @@
   {
     "cluster_id": "10",
     "label": "trump, court, president",
-    "trending_score": 0.0332,
+    "trending_score": 0.0319,
     "count_24h": 0,
-    "count_7d": 25,
+    "count_7d": 24,
     "top_articles": [
       {
         "id": "4998",
@@ -326,9 +326,9 @@
   {
     "cluster_id": "7",
     "label": "said, new, market",
-    "trending_score": 0.0324,
+    "trending_score": 0.0312,
     "count_24h": 0,
-    "count_7d": 26,
+    "count_7d": 25,
     "top_articles": [
       {
         "id": "4962",
@@ -353,9 +353,9 @@
   {
     "cluster_id": "2",
     "label": "police, said, shooting",
-    "trending_score": 0.0298,
+    "trending_score": 0.027,
     "count_24h": 0,
-    "count_7d": 21,
+    "count_7d": 19,
     "top_articles": [
       {
         "id": "4983",
@@ -374,33 +374,6 @@
         "title": "Pakistan military says 42 killed in fighter attacks in Balochistan",
         "url": "https://www.aljazeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss",
         "date": "2026-07-08 16:07:45"
-      }
-    ]
-  },
-  {
-    "cluster_id": "8",
-    "label": "image, said, new",
-    "trending_score": 0.0124,
-    "count_24h": 0,
-    "count_7d": 11,
-    "top_articles": [
-      {
-        "id": "4929",
-        "title": "London City sign Ballon d'Or winner Putellas",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvg7wenkklyo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 14:40:50"
-      },
-      {
-        "id": "4867",
-        "title": "Multiple cakes and stolen keepsakes: Greg James spills the tea on Taylor Swift's wedding",
-        "url": "https://www.bbc.co.uk/news/articles/cx2kd1de8l5o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 09:48:06"
-      },
-      {
-        "id": "4890",
-        "title": "Booyakasha! Sacha Baron Cohen has completed a new Ali G movie",
-        "url": "https://www.theguardian.com/film/2026/jul/08/booyakasha-sacha-baron-cohen-has-completed-a-new-ali-g-movie",
-        "date": "2026-07-08 09:35:45"
       }
     ]
   },
@@ -432,11 +405,38 @@
     ]
   },
   {
+    "cluster_id": "8",
+    "label": "image, said, new",
+    "trending_score": 0.0113,
+    "count_24h": 0,
+    "count_7d": 10,
+    "top_articles": [
+      {
+        "id": "4929",
+        "title": "London City sign Ballon d'Or winner Putellas",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvg7wenkklyo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 14:40:50"
+      },
+      {
+        "id": "4867",
+        "title": "Multiple cakes and stolen keepsakes: Greg James spills the tea on Taylor Swift's wedding",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kd1de8l5o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 09:48:06"
+      },
+      {
+        "id": "4890",
+        "title": "Booyakasha! Sacha Baron Cohen has completed a new Ali G movie",
+        "url": "https://www.theguardian.com/film/2026/jul/08/booyakasha-sacha-baron-cohen-has-completed-a-new-ali-g-movie",
+        "date": "2026-07-08 09:35:45"
+      }
+    ]
+  },
+  {
     "cluster_id": "15",
     "label": "china, says, conference glance",
-    "trending_score": 0.0059,
+    "trending_score": 0.0048,
     "count_24h": 0,
-    "count_7d": 5,
+    "count_7d": 4,
     "top_articles": [
       {
         "id": "4730",

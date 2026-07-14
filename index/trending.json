@@ -29,9 +29,9 @@
   {
     "cluster_id": "11",
     "label": "russia, ukraine, russian",
-    "trending_score": 0.0691,
+    "trending_score": 0.0608,
     "count_24h": 0,
-    "count_7d": 25,
+    "count_7d": 22,
     "top_articles": [
       {
         "id": "4988",
@@ -56,9 +56,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.0513,
+    "trending_score": 0.0499,
     "count_24h": 0,
-    "count_7d": 35,
+    "count_7d": 34,
     "top_articles": [
       {
         "id": "4986",
@@ -83,9 +83,9 @@
   {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.0481,
+    "trending_score": 0.0462,
     "count_24h": 0,
-    "count_7d": 25,
+    "count_7d": 24,
     "top_articles": [
       {
         "id": "4976",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "14",
     "label": "said, court, police",
-    "trending_score": 0.0426,
+    "trending_score": 0.0414,
     "count_24h": 0,
-    "count_7d": 36,
+    "count_7d": 35,
     "top_articles": [
       {
         "id": "4975",
@@ -131,33 +131,6 @@
         "title": "Government offers to meet woman abused by neo-Nazi MI5 agent",
         "url": "https://www.bbc.co.uk/news/articles/c9v24wpynv1o?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-08 16:23:19"
-      }
-    ]
-  },
-  {
-    "cluster_id": "12",
-    "label": "israel, gaza, israeli",
-    "trending_score": 0.04,
-    "count_24h": 0,
-    "count_7d": 18,
-    "top_articles": [
-      {
-        "id": "4955",
-        "title": "Photo of bound Palestinian detainee corroborates Israeli torture reports, say rights groups",
-        "url": "https://www.theguardian.com/world/2026/jul/08/photo-palestinian-prisoner-corroborates-israeli-torture-claims",
-        "date": "2026-07-08 14:23:51"
-      },
-      {
-        "id": "4938",
-        "title": "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
-        "url": "https://www.aljazeera.com/news/2026/7/8/timeline-20-years-of-hamas-rule-in-gaza-from-election-to-political-exit?traffic_source=rss",
-        "date": "2026-07-08 13:29:22"
-      },
-      {
-        "id": "4939",
-        "title": "Why can’t we count our dead?",
-        "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/8/why-cant-we-count-our-dead?traffic_source=rss",
-        "date": "2026-07-08 13:28:54"
       }
     ]
   },
@@ -189,29 +162,29 @@
     ]
   },
   {
-    "cluster_id": "6",
-    "label": "ai, new, tech",
-    "trending_score": 0.0352,
+    "cluster_id": "12",
+    "label": "israel, gaza, israeli",
+    "trending_score": 0.0356,
     "count_24h": 0,
-    "count_7d": 29,
+    "count_7d": 16,
     "top_articles": [
       {
-        "id": "4964",
-        "title": "These AI startups are growing revenue at faster and faster rates",
-        "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-        "date": "2026-07-08 15:41:06"
+        "id": "4955",
+        "title": "Photo of bound Palestinian detainee corroborates Israeli torture reports, say rights groups",
+        "url": "https://www.theguardian.com/world/2026/jul/08/photo-palestinian-prisoner-corroborates-israeli-torture-claims",
+        "date": "2026-07-08 14:23:51"
       },
       {
-        "id": "4965",
-        "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
-        "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
-        "date": "2026-07-08 15:00:00"
+        "id": "4938",
+        "title": "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
+        "url": "https://www.aljazeera.com/news/2026/7/8/timeline-20-years-of-hamas-rule-in-gaza-from-election-to-political-exit?traffic_source=rss",
+        "date": "2026-07-08 13:29:22"
       },
       {
-        "id": "4966",
-        "title": "Apple to produce Made in America wireless chips with Broadcom",
-        "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
-        "date": "2026-07-08 14:43:00"
+        "id": "4939",
+        "title": "Why can’t we count our dead?",
+        "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/8/why-cant-we-count-our-dead?traffic_source=rss",
+        "date": "2026-07-08 13:28:54"
       }
     ]
   },
@@ -239,6 +212,33 @@
         "title": "What must Fery do to become Wimbledon semi-finalist?",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-08 05:41:31"
+      }
+    ]
+  },
+  {
+    "cluster_id": "6",
+    "label": "ai, new, tech",
+    "trending_score": 0.0291,
+    "count_24h": 0,
+    "count_7d": 24,
+    "top_articles": [
+      {
+        "id": "4964",
+        "title": "These AI startups are growing revenue at faster and faster rates",
+        "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+        "date": "2026-07-08 15:41:06"
+      },
+      {
+        "id": "4965",
+        "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
+        "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
+        "date": "2026-07-08 15:00:00"
+      },
+      {
+        "id": "4966",
+        "title": "Apple to produce Made in America wireless chips with Broadcom",
+        "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
+        "date": "2026-07-08 14:43:00"
       }
     ]
   },
@@ -272,9 +272,9 @@
   {
     "cluster_id": "5",
     "label": "england, world, cup",
-    "trending_score": 0.0246,
+    "trending_score": 0.0222,
     "count_24h": 0,
-    "count_7d": 10,
+    "count_7d": 9,
     "top_articles": [
       {
         "id": "4931",
@@ -299,9 +299,9 @@
   {
     "cluster_id": "7",
     "label": "said, new, market",
-    "trending_score": 0.0224,
+    "trending_score": 0.0212,
     "count_24h": 0,
-    "count_7d": 18,
+    "count_7d": 17,
     "top_articles": [
       {
         "id": "4962",
@@ -326,9 +326,9 @@
   {
     "cluster_id": "2",
     "label": "police, said, shooting",
-    "trending_score": 0.0213,
+    "trending_score": 0.0199,
     "count_24h": 0,
-    "count_7d": 15,
+    "count_7d": 14,
     "top_articles": [
       {
         "id": "4983",
@@ -353,9 +353,9 @@
   {
     "cluster_id": "10",
     "label": "trump, court, president",
-    "trending_score": 0.0213,
+    "trending_score": 0.0173,
     "count_24h": 0,
-    "count_7d": 16,
+    "count_7d": 13,
     "top_articles": [
       {
         "id": "4998",
@@ -461,9 +461,9 @@
   {
     "cluster_id": "15",
     "label": "china, says, conference glance",
-    "trending_score": 0.0012,
+    "trending_score": 0.0,
     "count_24h": 0,
-    "count_7d": 1,
+    "count_7d": 0,
     "top_articles": [
       {
         "id": "4730",

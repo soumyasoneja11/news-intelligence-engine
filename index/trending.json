@@ -2,9 +2,9 @@
   {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.0536,
+    "trending_score": 0.0446,
     "count_24h": 0,
-    "count_7d": 18,
+    "count_7d": 15,
     "top_articles": [
       {
         "id": "4989",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "11",
     "label": "russia, ukraine, russian",
-    "trending_score": 0.0387,
+    "trending_score": 0.0331,
     "count_24h": 0,
-    "count_7d": 14,
+    "count_7d": 12,
     "top_articles": [
       {
         "id": "4988",
@@ -54,65 +54,11 @@
     ]
   },
   {
-    "cluster_id": "13",
-    "label": "burnham, said, farage",
-    "trending_score": 0.0288,
-    "count_24h": 0,
-    "count_7d": 15,
-    "top_articles": [
-      {
-        "id": "4976",
-        "title": "Farage denies stunt as Reform proposes August by-election date",
-        "url": "https://www.bbc.co.uk/news/articles/cdxd779gkv9o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:24:05"
-      },
-      {
-        "id": "4981",
-        "title": "Who is Count Binface, aiming to face Farage in by-election?",
-        "url": "https://www.bbc.co.uk/news/videos/cp8r70vpj97o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:16:30"
-      },
-      {
-        "id": "4957",
-        "title": "Treasury yet to do due diligence on finding extra money for UK’s Nato spend",
-        "url": "https://www.theguardian.com/business/2026/jul/08/treasury-due-diligence-money-uk-nato-spend",
-        "date": "2026-07-08 15:30:17"
-      }
-    ]
-  },
-  {
-    "cluster_id": "9",
-    "label": "world, cup, world cup",
-    "trending_score": 0.0235,
-    "count_24h": 0,
-    "count_7d": 16,
-    "top_articles": [
-      {
-        "id": "4986",
-        "title": "Man Utd agree deal for Chelsea's Santos",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr7xkgd8vdko?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 17:09:53"
-      },
-      {
-        "id": "4991",
-        "title": "Egypt criticises ‘influential refereeing’ in Argentina World Cup match",
-        "url": "https://www.aljazeera.com/sports/2026/7/8/egypt-criticises-influential-refereeing-in-argentina-world-cup-match?traffic_source=rss",
-        "date": "2026-07-08 16:41:58"
-      },
-      {
-        "id": "4982",
-        "title": "Are Argentina being treated favourably at World Cup?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 15:37:07"
-      }
-    ]
-  },
-  {
     "cluster_id": "14",
     "label": "said, court, police",
-    "trending_score": 0.0225,
+    "trending_score": 0.0201,
     "count_24h": 0,
-    "count_7d": 19,
+    "count_7d": 17,
     "top_articles": [
       {
         "id": "4975",
@@ -135,11 +81,38 @@
     ]
   },
   {
-    "cluster_id": "12",
-    "label": "israel, gaza, israeli",
-    "trending_score": 0.0222,
+    "cluster_id": "13",
+    "label": "burnham, said, farage",
+    "trending_score": 0.0192,
     "count_24h": 0,
     "count_7d": 10,
+    "top_articles": [
+      {
+        "id": "4976",
+        "title": "Farage denies stunt as Reform proposes August by-election date",
+        "url": "https://www.bbc.co.uk/news/articles/cdxd779gkv9o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:24:05"
+      },
+      {
+        "id": "4981",
+        "title": "Who is Count Binface, aiming to face Farage in by-election?",
+        "url": "https://www.bbc.co.uk/news/videos/cp8r70vpj97o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:16:30"
+      },
+      {
+        "id": "4957",
+        "title": "Treasury yet to do due diligence on finding extra money for UK’s Nato spend",
+        "url": "https://www.theguardian.com/business/2026/jul/08/treasury-due-diligence-money-uk-nato-spend",
+        "date": "2026-07-08 15:30:17"
+      }
+    ]
+  },
+  {
+    "cluster_id": "12",
+    "label": "israel, gaza, israeli",
+    "trending_score": 0.0178,
+    "count_24h": 0,
+    "count_7d": 8,
     "top_articles": [
       {
         "id": "4955",
@@ -189,38 +162,38 @@
     ]
   },
   {
-    "cluster_id": "5",
-    "label": "england, world, cup",
-    "trending_score": 0.0148,
+    "cluster_id": "9",
+    "label": "world, cup, world cup",
+    "trending_score": 0.0161,
     "count_24h": 0,
-    "count_7d": 6,
+    "count_7d": 11,
     "top_articles": [
       {
-        "id": "4931",
-        "title": "Henderson has surgery in USA after breaking arm",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c70ygpg95vlo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 15:28:28"
+        "id": "4986",
+        "title": "Man Utd agree deal for Chelsea's Santos",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr7xkgd8vdko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:09:53"
       },
       {
-        "id": "4930",
-        "title": "ICC contacts ECB over Stokes retirement video",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdg4me54rro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 14:10:56"
+        "id": "4991",
+        "title": "Egypt criticises ‘influential refereeing’ in Argentina World Cup match",
+        "url": "https://www.aljazeera.com/sports/2026/7/8/egypt-criticises-influential-refereeing-in-argentina-world-cup-match?traffic_source=rss",
+        "date": "2026-07-08 16:41:58"
       },
       {
-        "id": "4904",
-        "title": "Beaumont to retire from international cricket",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cy047zqw8j5o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 12:58:56"
+        "id": "4982",
+        "title": "Are Argentina being treated favourably at World Cup?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 15:37:07"
       }
     ]
   },
   {
     "cluster_id": "6",
     "label": "ai, new, tech",
-    "trending_score": 0.0146,
+    "trending_score": 0.0121,
     "count_24h": 0,
-    "count_7d": 12,
+    "count_7d": 10,
     "top_articles": [
       {
         "id": "4964",
@@ -245,9 +218,9 @@
   {
     "cluster_id": "1",
     "label": "said, health, care",
-    "trending_score": 0.014,
+    "trending_score": 0.0117,
     "count_24h": 0,
-    "count_7d": 6,
+    "count_7d": 5,
     "top_articles": [
       {
         "id": "4924",
@@ -270,29 +243,29 @@
     ]
   },
   {
-    "cluster_id": "4",
-    "label": "wimbledon, tennis, williams",
-    "trending_score": 0.01,
+    "cluster_id": "5",
+    "label": "england, world, cup",
+    "trending_score": 0.0099,
     "count_24h": 0,
-    "count_7d": 2,
+    "count_7d": 4,
     "top_articles": [
       {
-        "id": "4985",
-        "title": "British wildcard Fery stuns Cobolli to reach semi-finals",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c5yzvnxg6ygo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:44:01"
+        "id": "4931",
+        "title": "Henderson has surgery in USA after breaking arm",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c70ygpg95vlo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 15:28:28"
       },
       {
-        "id": "4860",
-        "title": "Arthur Fery: the Wimbledon wildcard carrying Britain’s hopes",
-        "url": "https://www.theguardian.com/sport/2026/jul/08/arthur-fery-wimbledon-wildcard-carrying-britain-hopes",
-        "date": "2026-07-08 08:00:24"
+        "id": "4930",
+        "title": "ICC contacts ECB over Stokes retirement video",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdg4me54rro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 14:10:56"
       },
       {
-        "id": "4816",
-        "title": "What must Fery do to become Wimbledon semi-finalist?",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 05:41:31"
+        "id": "4904",
+        "title": "Beaumont to retire from international cricket",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cy047zqw8j5o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 12:58:56"
       }
     ]
   },
@@ -374,6 +347,33 @@
         "title": "IMF upgrades UK growth forecast as fears over impact of Iran war diminish",
         "url": "https://www.theguardian.com/business/2026/jul/08/imf-upgrades-uk-growth-forecast-as-fears-over-impact-of-iran-war-diminish",
         "date": "2026-07-08 13:00:32"
+      }
+    ]
+  },
+  {
+    "cluster_id": "4",
+    "label": "wimbledon, tennis, williams",
+    "trending_score": 0.005,
+    "count_24h": 0,
+    "count_7d": 1,
+    "top_articles": [
+      {
+        "id": "4985",
+        "title": "British wildcard Fery stuns Cobolli to reach semi-finals",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c5yzvnxg6ygo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:44:01"
+      },
+      {
+        "id": "4860",
+        "title": "Arthur Fery: the Wimbledon wildcard carrying Britain’s hopes",
+        "url": "https://www.theguardian.com/sport/2026/jul/08/arthur-fery-wimbledon-wildcard-carrying-britain-hopes",
+        "date": "2026-07-08 08:00:24"
+      },
+      {
+        "id": "4816",
+        "title": "What must Fery do to become Wimbledon semi-finalist?",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 05:41:31"
       }
     ]
   },

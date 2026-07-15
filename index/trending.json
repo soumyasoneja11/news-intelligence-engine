@@ -2,9 +2,9 @@
   {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.0565,
+    "trending_score": 0.0536,
     "count_24h": 0,
-    "count_7d": 19,
+    "count_7d": 18,
     "top_articles": [
       {
         "id": "4989",
@@ -29,9 +29,9 @@
   {
     "cluster_id": "11",
     "label": "russia, ukraine, russian",
-    "trending_score": 0.0414,
+    "trending_score": 0.0387,
     "count_24h": 0,
-    "count_7d": 15,
+    "count_7d": 14,
     "top_articles": [
       {
         "id": "4988",
@@ -81,60 +81,6 @@
     ]
   },
   {
-    "cluster_id": "14",
-    "label": "said, court, police",
-    "trending_score": 0.0248,
-    "count_24h": 0,
-    "count_7d": 21,
-    "top_articles": [
-      {
-        "id": "4975",
-        "title": "UK to change law so ringleader of Rochdale grooming gang can be deported",
-        "url": "https://www.bbc.co.uk/news/articles/cly0ly30384o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 17:26:45"
-      },
-      {
-        "id": "4990",
-        "title": "US charges Indian crime leader in Sikh activist’s assassination",
-        "url": "https://www.aljazeera.com/news/2026/7/8/us-charges-indian-crime-leader-in-sikh-activists-assassination?traffic_source=rss",
-        "date": "2026-07-08 16:44:39"
-      },
-      {
-        "id": "4984",
-        "title": "Government offers to meet woman abused by neo-Nazi MI5 agent",
-        "url": "https://www.bbc.co.uk/news/articles/c9v24wpynv1o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:23:19"
-      }
-    ]
-  },
-  {
-    "cluster_id": "12",
-    "label": "israel, gaza, israeli",
-    "trending_score": 0.0244,
-    "count_24h": 0,
-    "count_7d": 11,
-    "top_articles": [
-      {
-        "id": "4955",
-        "title": "Photo of bound Palestinian detainee corroborates Israeli torture reports, say rights groups",
-        "url": "https://www.theguardian.com/world/2026/jul/08/photo-palestinian-prisoner-corroborates-israeli-torture-claims",
-        "date": "2026-07-08 14:23:51"
-      },
-      {
-        "id": "4938",
-        "title": "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
-        "url": "https://www.aljazeera.com/news/2026/7/8/timeline-20-years-of-hamas-rule-in-gaza-from-election-to-political-exit?traffic_source=rss",
-        "date": "2026-07-08 13:29:22"
-      },
-      {
-        "id": "4939",
-        "title": "Why can’t we count our dead?",
-        "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/8/why-cant-we-count-our-dead?traffic_source=rss",
-        "date": "2026-07-08 13:28:54"
-      }
-    ]
-  },
-  {
     "cluster_id": "9",
     "label": "world, cup, world cup",
     "trending_score": 0.0235,
@@ -162,29 +108,56 @@
     ]
   },
   {
-    "cluster_id": "6",
-    "label": "ai, new, tech",
-    "trending_score": 0.0182,
+    "cluster_id": "14",
+    "label": "said, court, police",
+    "trending_score": 0.0225,
     "count_24h": 0,
-    "count_7d": 15,
+    "count_7d": 19,
     "top_articles": [
       {
-        "id": "4964",
-        "title": "These AI startups are growing revenue at faster and faster rates",
-        "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-        "date": "2026-07-08 15:41:06"
+        "id": "4975",
+        "title": "UK to change law so ringleader of Rochdale grooming gang can be deported",
+        "url": "https://www.bbc.co.uk/news/articles/cly0ly30384o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:26:45"
       },
       {
-        "id": "4965",
-        "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
-        "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
-        "date": "2026-07-08 15:00:00"
+        "id": "4990",
+        "title": "US charges Indian crime leader in Sikh activist’s assassination",
+        "url": "https://www.aljazeera.com/news/2026/7/8/us-charges-indian-crime-leader-in-sikh-activists-assassination?traffic_source=rss",
+        "date": "2026-07-08 16:44:39"
       },
       {
-        "id": "4966",
-        "title": "Apple to produce Made in America wireless chips with Broadcom",
-        "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
-        "date": "2026-07-08 14:43:00"
+        "id": "4984",
+        "title": "Government offers to meet woman abused by neo-Nazi MI5 agent",
+        "url": "https://www.bbc.co.uk/news/articles/c9v24wpynv1o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:23:19"
+      }
+    ]
+  },
+  {
+    "cluster_id": "12",
+    "label": "israel, gaza, israeli",
+    "trending_score": 0.0222,
+    "count_24h": 0,
+    "count_7d": 10,
+    "top_articles": [
+      {
+        "id": "4955",
+        "title": "Photo of bound Palestinian detainee corroborates Israeli torture reports, say rights groups",
+        "url": "https://www.theguardian.com/world/2026/jul/08/photo-palestinian-prisoner-corroborates-israeli-torture-claims",
+        "date": "2026-07-08 14:23:51"
+      },
+      {
+        "id": "4938",
+        "title": "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
+        "url": "https://www.aljazeera.com/news/2026/7/8/timeline-20-years-of-hamas-rule-in-gaza-from-election-to-political-exit?traffic_source=rss",
+        "date": "2026-07-08 13:29:22"
+      },
+      {
+        "id": "4939",
+        "title": "Why can’t we count our dead?",
+        "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/8/why-cant-we-count-our-dead?traffic_source=rss",
+        "date": "2026-07-08 13:28:54"
       }
     ]
   },
@@ -216,33 +189,6 @@
     ]
   },
   {
-    "cluster_id": "1",
-    "label": "said, health, care",
-    "trending_score": 0.0164,
-    "count_24h": 0,
-    "count_7d": 7,
-    "top_articles": [
-      {
-        "id": "4924",
-        "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
-        "url": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 15:05:31"
-      },
-      {
-        "id": "4949",
-        "title": "Contaminated children’s play sand sold in Australia can release toxic airborne asbestos, research finds",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/09/contaminated-childrens-play-sand-sold-in-australia-can-release-toxic-airborne-asbestos-research-finds",
-        "date": "2026-07-08 15:00:35"
-      },
-      {
-        "id": "4950",
-        "title": "Australians with cancer are living longer but diagnosis rates on the rise for younger people, report reveals",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/09/australians-with-cancer-are-living-longer-but-diagnosis-rates-on-the-rise-for-younger-people-report-reveals",
-        "date": "2026-07-08 15:00:35"
-      }
-    ]
-  },
-  {
     "cluster_id": "5",
     "label": "england, world, cup",
     "trending_score": 0.0148,
@@ -266,6 +212,60 @@
         "title": "Beaumont to retire from international cricket",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/cy047zqw8j5o?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-08 12:58:56"
+      }
+    ]
+  },
+  {
+    "cluster_id": "6",
+    "label": "ai, new, tech",
+    "trending_score": 0.0146,
+    "count_24h": 0,
+    "count_7d": 12,
+    "top_articles": [
+      {
+        "id": "4964",
+        "title": "These AI startups are growing revenue at faster and faster rates",
+        "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+        "date": "2026-07-08 15:41:06"
+      },
+      {
+        "id": "4965",
+        "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
+        "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
+        "date": "2026-07-08 15:00:00"
+      },
+      {
+        "id": "4966",
+        "title": "Apple to produce Made in America wireless chips with Broadcom",
+        "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
+        "date": "2026-07-08 14:43:00"
+      }
+    ]
+  },
+  {
+    "cluster_id": "1",
+    "label": "said, health, care",
+    "trending_score": 0.014,
+    "count_24h": 0,
+    "count_7d": 6,
+    "top_articles": [
+      {
+        "id": "4924",
+        "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
+        "url": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 15:05:31"
+      },
+      {
+        "id": "4949",
+        "title": "Contaminated children’s play sand sold in Australia can release toxic airborne asbestos, research finds",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/09/contaminated-childrens-play-sand-sold-in-australia-can-release-toxic-airborne-asbestos-research-finds",
+        "date": "2026-07-08 15:00:35"
+      },
+      {
+        "id": "4950",
+        "title": "Australians with cancer are living longer but diagnosis rates on the rise for younger people, report reveals",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/09/australians-with-cancer-are-living-longer-but-diagnosis-rates-on-the-rise-for-younger-people-report-reveals",
+        "date": "2026-07-08 15:00:35"
       }
     ]
   },
@@ -297,60 +297,6 @@
     ]
   },
   {
-    "cluster_id": "7",
-    "label": "said, new, market",
-    "trending_score": 0.01,
-    "count_24h": 0,
-    "count_7d": 8,
-    "top_articles": [
-      {
-        "id": "4962",
-        "title": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water",
-        "url": "https://www.theguardian.com/us-news/2026/jul/08/meta-datacenter-ai-wyoming-water",
-        "date": "2026-07-08 14:08:00"
-      },
-      {
-        "id": "4969",
-        "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
-        "url": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
-        "date": "2026-07-08 13:26:10"
-      },
-      {
-        "id": "4956",
-        "title": "IMF upgrades UK growth forecast as fears over impact of Iran war diminish",
-        "url": "https://www.theguardian.com/business/2026/jul/08/imf-upgrades-uk-growth-forecast-as-fears-over-impact-of-iran-war-diminish",
-        "date": "2026-07-08 13:00:32"
-      }
-    ]
-  },
-  {
-    "cluster_id": "2",
-    "label": "police, said, shooting",
-    "trending_score": 0.0099,
-    "count_24h": 0,
-    "count_7d": 7,
-    "top_articles": [
-      {
-        "id": "4983",
-        "title": "Five crew remain missing after plane wreckage found in Pakistan",
-        "url": "https://www.bbc.co.uk/news/articles/c5yze1vvlzgo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:39:15"
-      },
-      {
-        "id": "4974",
-        "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
-        "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:12:50"
-      },
-      {
-        "id": "4993",
-        "title": "Pakistan military says 42 killed in fighter attacks in Balochistan",
-        "url": "https://www.aljazeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss",
-        "date": "2026-07-08 16:07:45"
-      }
-    ]
-  },
-  {
     "cluster_id": "10",
     "label": "trump, court, president",
     "trending_score": 0.0093,
@@ -374,6 +320,60 @@
         "title": "US judge throws out Trump’s $3.8bn defamation lawsuit against Washington Post",
         "url": "https://www.theguardian.com/media/2026/jul/08/trump-washington-post-defamation-lawsuit",
         "date": "2026-07-08 15:18:24"
+      }
+    ]
+  },
+  {
+    "cluster_id": "2",
+    "label": "police, said, shooting",
+    "trending_score": 0.0085,
+    "count_24h": 0,
+    "count_7d": 6,
+    "top_articles": [
+      {
+        "id": "4983",
+        "title": "Five crew remain missing after plane wreckage found in Pakistan",
+        "url": "https://www.bbc.co.uk/news/articles/c5yze1vvlzgo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:39:15"
+      },
+      {
+        "id": "4974",
+        "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
+        "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:12:50"
+      },
+      {
+        "id": "4993",
+        "title": "Pakistan military says 42 killed in fighter attacks in Balochistan",
+        "url": "https://www.aljazeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss",
+        "date": "2026-07-08 16:07:45"
+      }
+    ]
+  },
+  {
+    "cluster_id": "7",
+    "label": "said, new, market",
+    "trending_score": 0.0075,
+    "count_24h": 0,
+    "count_7d": 6,
+    "top_articles": [
+      {
+        "id": "4962",
+        "title": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water",
+        "url": "https://www.theguardian.com/us-news/2026/jul/08/meta-datacenter-ai-wyoming-water",
+        "date": "2026-07-08 14:08:00"
+      },
+      {
+        "id": "4969",
+        "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
+        "url": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
+        "date": "2026-07-08 13:26:10"
+      },
+      {
+        "id": "4956",
+        "title": "IMF upgrades UK growth forecast as fears over impact of Iran war diminish",
+        "url": "https://www.theguardian.com/business/2026/jul/08/imf-upgrades-uk-growth-forecast-as-fears-over-impact-of-iran-war-diminish",
+        "date": "2026-07-08 13:00:32"
       }
     ]
   },
@@ -434,9 +434,9 @@
   {
     "cluster_id": "0",
     "label": "league, win, lead",
-    "trending_score": 0.0022,
+    "trending_score": 0.0,
     "count_24h": 0,
-    "count_7d": 1,
+    "count_7d": 0,
     "top_articles": [
       {
         "id": "4841",

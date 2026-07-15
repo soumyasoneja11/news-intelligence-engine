@@ -2,9 +2,9 @@
   {
     "cluster_id": "3",
     "label": "iran, strait, khamenei",
-    "trending_score": 0.0774,
+    "trending_score": 0.0655,
     "count_24h": 0,
-    "count_7d": 26,
+    "count_7d": 22,
     "top_articles": [
       {
         "id": "4989",
@@ -56,9 +56,9 @@
   {
     "cluster_id": "9",
     "label": "world, cup, world cup",
-    "trending_score": 0.0396,
+    "trending_score": 0.0367,
     "count_24h": 0,
-    "count_7d": 27,
+    "count_7d": 25,
     "top_articles": [
       {
         "id": "4986",
@@ -83,9 +83,9 @@
   {
     "cluster_id": "13",
     "label": "burnham, said, farage",
-    "trending_score": 0.0365,
+    "trending_score": 0.0346,
     "count_24h": 0,
-    "count_7d": 19,
+    "count_7d": 18,
     "top_articles": [
       {
         "id": "4976",
@@ -110,9 +110,9 @@
   {
     "cluster_id": "14",
     "label": "said, court, police",
-    "trending_score": 0.0319,
+    "trending_score": 0.0296,
     "count_24h": 0,
-    "count_7d": 27,
+    "count_7d": 25,
     "top_articles": [
       {
         "id": "4975",
@@ -189,60 +189,6 @@
     ]
   },
   {
-    "cluster_id": "4",
-    "label": "wimbledon, tennis, williams",
-    "trending_score": 0.025,
-    "count_24h": 0,
-    "count_7d": 5,
-    "top_articles": [
-      {
-        "id": "4985",
-        "title": "British wildcard Fery stuns Cobolli to reach semi-finals",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c5yzvnxg6ygo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:44:01"
-      },
-      {
-        "id": "4860",
-        "title": "Arthur Fery: the Wimbledon wildcard carrying Britain’s hopes",
-        "url": "https://www.theguardian.com/sport/2026/jul/08/arthur-fery-wimbledon-wildcard-carrying-britain-hopes",
-        "date": "2026-07-08 08:00:24"
-      },
-      {
-        "id": "4816",
-        "title": "What must Fery do to become Wimbledon semi-finalist?",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 05:41:31"
-      }
-    ]
-  },
-  {
-    "cluster_id": "6",
-    "label": "ai, new, tech",
-    "trending_score": 0.0194,
-    "count_24h": 0,
-    "count_7d": 16,
-    "top_articles": [
-      {
-        "id": "4964",
-        "title": "These AI startups are growing revenue at faster and faster rates",
-        "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-        "date": "2026-07-08 15:41:06"
-      },
-      {
-        "id": "4965",
-        "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
-        "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
-        "date": "2026-07-08 15:00:00"
-      },
-      {
-        "id": "4966",
-        "title": "Apple to produce Made in America wireless chips with Broadcom",
-        "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
-        "date": "2026-07-08 14:43:00"
-      }
-    ]
-  },
-  {
     "cluster_id": "1",
     "label": "said, health, care",
     "trending_score": 0.0187,
@@ -270,56 +216,56 @@
     ]
   },
   {
-    "cluster_id": "2",
-    "label": "police, said, shooting",
-    "trending_score": 0.0156,
+    "cluster_id": "6",
+    "label": "ai, new, tech",
+    "trending_score": 0.0182,
     "count_24h": 0,
-    "count_7d": 11,
+    "count_7d": 15,
     "top_articles": [
       {
-        "id": "4983",
-        "title": "Five crew remain missing after plane wreckage found in Pakistan",
-        "url": "https://www.bbc.co.uk/news/articles/c5yze1vvlzgo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:39:15"
+        "id": "4964",
+        "title": "These AI startups are growing revenue at faster and faster rates",
+        "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+        "date": "2026-07-08 15:41:06"
       },
       {
-        "id": "4974",
-        "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
-        "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:12:50"
+        "id": "4965",
+        "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
+        "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
+        "date": "2026-07-08 15:00:00"
       },
       {
-        "id": "4993",
-        "title": "Pakistan military says 42 killed in fighter attacks in Balochistan",
-        "url": "https://www.aljazeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss",
-        "date": "2026-07-08 16:07:45"
+        "id": "4966",
+        "title": "Apple to produce Made in America wireless chips with Broadcom",
+        "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
+        "date": "2026-07-08 14:43:00"
       }
     ]
   },
   {
-    "cluster_id": "7",
-    "label": "said, new, market",
+    "cluster_id": "4",
+    "label": "wimbledon, tennis, williams",
     "trending_score": 0.015,
     "count_24h": 0,
-    "count_7d": 12,
+    "count_7d": 3,
     "top_articles": [
       {
-        "id": "4962",
-        "title": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water",
-        "url": "https://www.theguardian.com/us-news/2026/jul/08/meta-datacenter-ai-wyoming-water",
-        "date": "2026-07-08 14:08:00"
+        "id": "4985",
+        "title": "British wildcard Fery stuns Cobolli to reach semi-finals",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c5yzvnxg6ygo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:44:01"
       },
       {
-        "id": "4969",
-        "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
-        "url": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
-        "date": "2026-07-08 13:26:10"
+        "id": "4860",
+        "title": "Arthur Fery: the Wimbledon wildcard carrying Britain’s hopes",
+        "url": "https://www.theguardian.com/sport/2026/jul/08/arthur-fery-wimbledon-wildcard-carrying-britain-hopes",
+        "date": "2026-07-08 08:00:24"
       },
       {
-        "id": "4956",
-        "title": "IMF upgrades UK growth forecast as fears over impact of Iran war diminish",
-        "url": "https://www.theguardian.com/business/2026/jul/08/imf-upgrades-uk-growth-forecast-as-fears-over-impact-of-iran-war-diminish",
-        "date": "2026-07-08 13:00:32"
+        "id": "4816",
+        "title": "What must Fery do to become Wimbledon semi-finalist?",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 05:41:31"
       }
     ]
   },
@@ -351,11 +297,65 @@
     ]
   },
   {
-    "cluster_id": "10",
-    "label": "trump, court, president",
-    "trending_score": 0.012,
+    "cluster_id": "2",
+    "label": "police, said, shooting",
+    "trending_score": 0.0114,
+    "count_24h": 0,
+    "count_7d": 8,
+    "top_articles": [
+      {
+        "id": "4983",
+        "title": "Five crew remain missing after plane wreckage found in Pakistan",
+        "url": "https://www.bbc.co.uk/news/articles/c5yze1vvlzgo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:39:15"
+      },
+      {
+        "id": "4974",
+        "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
+        "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:12:50"
+      },
+      {
+        "id": "4993",
+        "title": "Pakistan military says 42 killed in fighter attacks in Balochistan",
+        "url": "https://www.aljazeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss",
+        "date": "2026-07-08 16:07:45"
+      }
+    ]
+  },
+  {
+    "cluster_id": "7",
+    "label": "said, new, market",
+    "trending_score": 0.0112,
     "count_24h": 0,
     "count_7d": 9,
+    "top_articles": [
+      {
+        "id": "4962",
+        "title": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water",
+        "url": "https://www.theguardian.com/us-news/2026/jul/08/meta-datacenter-ai-wyoming-water",
+        "date": "2026-07-08 14:08:00"
+      },
+      {
+        "id": "4969",
+        "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
+        "url": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
+        "date": "2026-07-08 13:26:10"
+      },
+      {
+        "id": "4956",
+        "title": "IMF upgrades UK growth forecast as fears over impact of Iran war diminish",
+        "url": "https://www.theguardian.com/business/2026/jul/08/imf-upgrades-uk-growth-forecast-as-fears-over-impact-of-iran-war-diminish",
+        "date": "2026-07-08 13:00:32"
+      }
+    ]
+  },
+  {
+    "cluster_id": "10",
+    "label": "trump, court, president",
+    "trending_score": 0.0106,
+    "count_24h": 0,
+    "count_7d": 8,
     "top_articles": [
       {
         "id": "4998",

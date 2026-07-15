@@ -1,248 +1,5 @@
 [
   {
-    "cluster_id": "11",
-    "label": "russia, ukraine, russian",
-    "trending_score": 0.0083,
-    "count_24h": 0,
-    "count_7d": 3,
-    "top_articles": [
-      {
-        "id": "4988",
-        "title": "NATO pledges 70 billion euros for Ukraine as Trump praises peace ‘progress’",
-        "url": "https://www.aljazeera.com/news/2026/7/8/nato-pledges-70-billion-euros-for-ukraine-as-trump-praises-peace-progress?traffic_source=rss",
-        "date": "2026-07-08 17:24:45"
-      },
-      {
-        "id": "4973",
-        "title": "Trump says Ukraine will get licence to produce Patriot missiles",
-        "url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 17:18:14"
-      },
-      {
-        "id": "4999",
-        "title": "Trump on rampage at Nato summit: what does it mean for Ukraine? – The Latest",
-        "url": "https://www.theguardian.com/news/audio/2026/jul/08/trump-on-rampage-at-nato-summit-what-does-it-mean-for-ukraine-the-latest",
-        "date": "2026-07-08 17:05:46"
-      }
-    ]
-  },
-  {
-    "cluster_id": "4",
-    "label": "wimbledon, tennis, williams",
-    "trending_score": 0.005,
-    "count_24h": 0,
-    "count_7d": 1,
-    "top_articles": [
-      {
-        "id": "4985",
-        "title": "British wildcard Fery stuns Cobolli to reach semi-finals",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c5yzvnxg6ygo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:44:01"
-      },
-      {
-        "id": "4860",
-        "title": "Arthur Fery: the Wimbledon wildcard carrying Britain’s hopes",
-        "url": "https://www.theguardian.com/sport/2026/jul/08/arthur-fery-wimbledon-wildcard-carrying-britain-hopes",
-        "date": "2026-07-08 08:00:24"
-      },
-      {
-        "id": "4816",
-        "title": "What must Fery do to become Wimbledon semi-finalist?",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 05:41:31"
-      }
-    ]
-  },
-  {
-    "cluster_id": "17",
-    "label": "heat, heatwave, temperatures",
-    "trending_score": 0.0041,
-    "count_24h": 0,
-    "count_7d": 1,
-    "top_articles": [
-      {
-        "id": "4977",
-        "title": "No air con? Here's how to get the most out of your electric fan",
-        "url": "https://www.bbc.co.uk/news/articles/cly76jlxljlo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 17:07:05"
-      },
-      {
-        "id": "4884",
-        "title": "Unions in Europe press for new worker protections to counter heat stress",
-        "url": "https://www.theguardian.com/environment/2026/jul/08/unions-europe-worker-protections-heat-stress-climate-crisis",
-        "date": "2026-07-08 11:00:52"
-      },
-      {
-        "id": "4888",
-        "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
-        "url": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
-        "date": "2026-07-08 10:30:07"
-      }
-    ]
-  },
-  {
-    "cluster_id": "14",
-    "label": "said, court, police",
-    "trending_score": 0.0035,
-    "count_24h": 0,
-    "count_7d": 3,
-    "top_articles": [
-      {
-        "id": "4975",
-        "title": "UK to change law so ringleader of Rochdale grooming gang can be deported",
-        "url": "https://www.bbc.co.uk/news/articles/cly0ly30384o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 17:26:45"
-      },
-      {
-        "id": "4990",
-        "title": "US charges Indian crime leader in Sikh activist’s assassination",
-        "url": "https://www.aljazeera.com/news/2026/7/8/us-charges-indian-crime-leader-in-sikh-activists-assassination?traffic_source=rss",
-        "date": "2026-07-08 16:44:39"
-      },
-      {
-        "id": "4984",
-        "title": "Government offers to meet woman abused by neo-Nazi MI5 agent",
-        "url": "https://www.bbc.co.uk/news/articles/c9v24wpynv1o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:23:19"
-      }
-    ]
-  },
-  {
-    "cluster_id": "3",
-    "label": "iran, strait, khamenei",
-    "trending_score": 0.003,
-    "count_24h": 0,
-    "count_7d": 1,
-    "top_articles": [
-      {
-        "id": "4989",
-        "title": "The Strait of Hormuz is now at the centre of Iranian and US calculus",
-        "url": "https://www.aljazeera.com/opinions/2026/7/8/the-strait-of-hormuz-is-now-at-the-centre-of-iranian-and-us-calculus?traffic_source=rss",
-        "date": "2026-07-08 16:48:31"
-      },
-      {
-        "id": "4995",
-        "title": "Germany urges US-Iran negotiations, offers to minesweep Hormuz",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/germany-urges-us-iran-negotiations-offers-to-minesweep-hormuz?traffic_source=rss",
-        "date": "2026-07-08 15:57:41"
-      },
-      {
-        "id": "4996",
-        "title": "Trump’s Iran strike comments shake markets, Brent crude hits two-week high",
-        "url": "https://www.aljazeera.com/economy/2026/7/8/trumps-iran-strike-comments-shake-markets-brent-crude-hits-two-week-high?traffic_source=rss",
-        "date": "2026-07-08 15:53:23"
-      }
-    ]
-  },
-  {
-    "cluster_id": "9",
-    "label": "world, cup, world cup",
-    "trending_score": 0.0029,
-    "count_24h": 0,
-    "count_7d": 2,
-    "top_articles": [
-      {
-        "id": "4986",
-        "title": "Man Utd agree deal for Chelsea's Santos",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr7xkgd8vdko?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 17:09:53"
-      },
-      {
-        "id": "4991",
-        "title": "Egypt criticises ‘influential refereeing’ in Argentina World Cup match",
-        "url": "https://www.aljazeera.com/sports/2026/7/8/egypt-criticises-influential-refereeing-in-argentina-world-cup-match?traffic_source=rss",
-        "date": "2026-07-08 16:41:58"
-      },
-      {
-        "id": "4982",
-        "title": "Are Argentina being treated favourably at World Cup?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 15:37:07"
-      }
-    ]
-  },
-  {
-    "cluster_id": "13",
-    "label": "burnham, said, farage",
-    "trending_score": 0.0019,
-    "count_24h": 0,
-    "count_7d": 1,
-    "top_articles": [
-      {
-        "id": "4976",
-        "title": "Farage denies stunt as Reform proposes August by-election date",
-        "url": "https://www.bbc.co.uk/news/articles/cdxd779gkv9o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:24:05"
-      },
-      {
-        "id": "4981",
-        "title": "Who is Count Binface, aiming to face Farage in by-election?",
-        "url": "https://www.bbc.co.uk/news/videos/cp8r70vpj97o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:16:30"
-      },
-      {
-        "id": "4957",
-        "title": "Treasury yet to do due diligence on finding extra money for UK’s Nato spend",
-        "url": "https://www.theguardian.com/business/2026/jul/08/treasury-due-diligence-money-uk-nato-spend",
-        "date": "2026-07-08 15:30:17"
-      }
-    ]
-  },
-  {
-    "cluster_id": "2",
-    "label": "police, said, shooting",
-    "trending_score": 0.0014,
-    "count_24h": 0,
-    "count_7d": 1,
-    "top_articles": [
-      {
-        "id": "4983",
-        "title": "Five crew remain missing after plane wreckage found in Pakistan",
-        "url": "https://www.bbc.co.uk/news/articles/c5yze1vvlzgo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:39:15"
-      },
-      {
-        "id": "4974",
-        "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
-        "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:12:50"
-      },
-      {
-        "id": "4993",
-        "title": "Pakistan military says 42 killed in fighter attacks in Balochistan",
-        "url": "https://www.aljazeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss",
-        "date": "2026-07-08 16:07:45"
-      }
-    ]
-  },
-  {
-    "cluster_id": "10",
-    "label": "trump, court, president",
-    "trending_score": 0.0013,
-    "count_24h": 0,
-    "count_7d": 1,
-    "top_articles": [
-      {
-        "id": "4998",
-        "title": "Marine Le Pen will run for election in 2027. Will she have to wear an electronic tag?",
-        "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-election-2027",
-        "date": "2026-07-08 17:22:01"
-      },
-      {
-        "id": "4992",
-        "title": "Far-right leader Le Pen starts campaign, faces mixed reactions in France",
-        "url": "https://www.aljazeera.com/news/2026/7/8/far-right-leader-le-pen-starts-campaign-faces-mixed-reactions-in-france?traffic_source=rss",
-        "date": "2026-07-08 16:17:12"
-      },
-      {
-        "id": "4961",
-        "title": "US judge throws out Trump’s $3.8bn defamation lawsuit against Washington Post",
-        "url": "https://www.theguardian.com/media/2026/jul/08/trump-washington-post-defamation-lawsuit",
-        "date": "2026-07-08 15:18:24"
-      }
-    ]
-  },
-  {
     "cluster_id": "0",
     "label": "league, win, lead",
     "trending_score": 0.0,
@@ -293,6 +50,87 @@
         "title": "Australians with cancer are living longer but diagnosis rates on the rise for younger people, report reveals",
         "url": "https://www.theguardian.com/australia-news/2026/jul/09/australians-with-cancer-are-living-longer-but-diagnosis-rates-on-the-rise-for-younger-people-report-reveals",
         "date": "2026-07-08 15:00:35"
+      }
+    ]
+  },
+  {
+    "cluster_id": "2",
+    "label": "police, said, shooting",
+    "trending_score": 0.0,
+    "count_24h": 0,
+    "count_7d": 0,
+    "top_articles": [
+      {
+        "id": "4983",
+        "title": "Five crew remain missing after plane wreckage found in Pakistan",
+        "url": "https://www.bbc.co.uk/news/articles/c5yze1vvlzgo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:39:15"
+      },
+      {
+        "id": "4974",
+        "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
+        "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:12:50"
+      },
+      {
+        "id": "4993",
+        "title": "Pakistan military says 42 killed in fighter attacks in Balochistan",
+        "url": "https://www.aljazeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss",
+        "date": "2026-07-08 16:07:45"
+      }
+    ]
+  },
+  {
+    "cluster_id": "3",
+    "label": "iran, strait, khamenei",
+    "trending_score": 0.0,
+    "count_24h": 0,
+    "count_7d": 0,
+    "top_articles": [
+      {
+        "id": "4989",
+        "title": "The Strait of Hormuz is now at the centre of Iranian and US calculus",
+        "url": "https://www.aljazeera.com/opinions/2026/7/8/the-strait-of-hormuz-is-now-at-the-centre-of-iranian-and-us-calculus?traffic_source=rss",
+        "date": "2026-07-08 16:48:31"
+      },
+      {
+        "id": "4995",
+        "title": "Germany urges US-Iran negotiations, offers to minesweep Hormuz",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/germany-urges-us-iran-negotiations-offers-to-minesweep-hormuz?traffic_source=rss",
+        "date": "2026-07-08 15:57:41"
+      },
+      {
+        "id": "4996",
+        "title": "Trump’s Iran strike comments shake markets, Brent crude hits two-week high",
+        "url": "https://www.aljazeera.com/economy/2026/7/8/trumps-iran-strike-comments-shake-markets-brent-crude-hits-two-week-high?traffic_source=rss",
+        "date": "2026-07-08 15:53:23"
+      }
+    ]
+  },
+  {
+    "cluster_id": "4",
+    "label": "wimbledon, tennis, williams",
+    "trending_score": 0.0,
+    "count_24h": 0,
+    "count_7d": 0,
+    "top_articles": [
+      {
+        "id": "4985",
+        "title": "British wildcard Fery stuns Cobolli to reach semi-finals",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c5yzvnxg6ygo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:44:01"
+      },
+      {
+        "id": "4860",
+        "title": "Arthur Fery: the Wimbledon wildcard carrying Britain’s hopes",
+        "url": "https://www.theguardian.com/sport/2026/jul/08/arthur-fery-wimbledon-wildcard-carrying-britain-hopes",
+        "date": "2026-07-08 08:00:24"
+      },
+      {
+        "id": "4816",
+        "title": "What must Fery do to become Wimbledon semi-finalist?",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 05:41:31"
       }
     ]
   },
@@ -405,6 +243,87 @@
     ]
   },
   {
+    "cluster_id": "9",
+    "label": "world, cup, world cup",
+    "trending_score": 0.0,
+    "count_24h": 0,
+    "count_7d": 0,
+    "top_articles": [
+      {
+        "id": "4986",
+        "title": "Man Utd agree deal for Chelsea's Santos",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr7xkgd8vdko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:09:53"
+      },
+      {
+        "id": "4991",
+        "title": "Egypt criticises ‘influential refereeing’ in Argentina World Cup match",
+        "url": "https://www.aljazeera.com/sports/2026/7/8/egypt-criticises-influential-refereeing-in-argentina-world-cup-match?traffic_source=rss",
+        "date": "2026-07-08 16:41:58"
+      },
+      {
+        "id": "4982",
+        "title": "Are Argentina being treated favourably at World Cup?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 15:37:07"
+      }
+    ]
+  },
+  {
+    "cluster_id": "10",
+    "label": "trump, court, president",
+    "trending_score": 0.0,
+    "count_24h": 0,
+    "count_7d": 0,
+    "top_articles": [
+      {
+        "id": "4998",
+        "title": "Marine Le Pen will run for election in 2027. Will she have to wear an electronic tag?",
+        "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-election-2027",
+        "date": "2026-07-08 17:22:01"
+      },
+      {
+        "id": "4992",
+        "title": "Far-right leader Le Pen starts campaign, faces mixed reactions in France",
+        "url": "https://www.aljazeera.com/news/2026/7/8/far-right-leader-le-pen-starts-campaign-faces-mixed-reactions-in-france?traffic_source=rss",
+        "date": "2026-07-08 16:17:12"
+      },
+      {
+        "id": "4961",
+        "title": "US judge throws out Trump’s $3.8bn defamation lawsuit against Washington Post",
+        "url": "https://www.theguardian.com/media/2026/jul/08/trump-washington-post-defamation-lawsuit",
+        "date": "2026-07-08 15:18:24"
+      }
+    ]
+  },
+  {
+    "cluster_id": "11",
+    "label": "russia, ukraine, russian",
+    "trending_score": 0.0,
+    "count_24h": 0,
+    "count_7d": 0,
+    "top_articles": [
+      {
+        "id": "4988",
+        "title": "NATO pledges 70 billion euros for Ukraine as Trump praises peace ‘progress’",
+        "url": "https://www.aljazeera.com/news/2026/7/8/nato-pledges-70-billion-euros-for-ukraine-as-trump-praises-peace-progress?traffic_source=rss",
+        "date": "2026-07-08 17:24:45"
+      },
+      {
+        "id": "4973",
+        "title": "Trump says Ukraine will get licence to produce Patriot missiles",
+        "url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:18:14"
+      },
+      {
+        "id": "4999",
+        "title": "Trump on rampage at Nato summit: what does it mean for Ukraine? – The Latest",
+        "url": "https://www.theguardian.com/news/audio/2026/jul/08/trump-on-rampage-at-nato-summit-what-does-it-mean-for-ukraine-the-latest",
+        "date": "2026-07-08 17:05:46"
+      }
+    ]
+  },
+  {
     "cluster_id": "12",
     "label": "israel, gaza, israeli",
     "trending_score": 0.0,
@@ -428,6 +347,60 @@
         "title": "Why can’t we count our dead?",
         "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/8/why-cant-we-count-our-dead?traffic_source=rss",
         "date": "2026-07-08 13:28:54"
+      }
+    ]
+  },
+  {
+    "cluster_id": "13",
+    "label": "burnham, said, farage",
+    "trending_score": 0.0,
+    "count_24h": 0,
+    "count_7d": 0,
+    "top_articles": [
+      {
+        "id": "4976",
+        "title": "Farage denies stunt as Reform proposes August by-election date",
+        "url": "https://www.bbc.co.uk/news/articles/cdxd779gkv9o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:24:05"
+      },
+      {
+        "id": "4981",
+        "title": "Who is Count Binface, aiming to face Farage in by-election?",
+        "url": "https://www.bbc.co.uk/news/videos/cp8r70vpj97o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:16:30"
+      },
+      {
+        "id": "4957",
+        "title": "Treasury yet to do due diligence on finding extra money for UK’s Nato spend",
+        "url": "https://www.theguardian.com/business/2026/jul/08/treasury-due-diligence-money-uk-nato-spend",
+        "date": "2026-07-08 15:30:17"
+      }
+    ]
+  },
+  {
+    "cluster_id": "14",
+    "label": "said, court, police",
+    "trending_score": 0.0,
+    "count_24h": 0,
+    "count_7d": 0,
+    "top_articles": [
+      {
+        "id": "4975",
+        "title": "UK to change law so ringleader of Rochdale grooming gang can be deported",
+        "url": "https://www.bbc.co.uk/news/articles/cly0ly30384o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:26:45"
+      },
+      {
+        "id": "4990",
+        "title": "US charges Indian crime leader in Sikh activist’s assassination",
+        "url": "https://www.aljazeera.com/news/2026/7/8/us-charges-indian-crime-leader-in-sikh-activists-assassination?traffic_source=rss",
+        "date": "2026-07-08 16:44:39"
+      },
+      {
+        "id": "4984",
+        "title": "Government offers to meet woman abused by neo-Nazi MI5 agent",
+        "url": "https://www.bbc.co.uk/news/articles/c9v24wpynv1o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:23:19"
       }
     ]
   },
@@ -482,6 +455,33 @@
         "title": "Venezuela buries earthquake victims as death toll reaches 3,535",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/venezuela-buries-earthquake-victims-as-death-toll-reaches-3535?traffic_source=rss",
         "date": "2026-07-07 20:30:06"
+      }
+    ]
+  },
+  {
+    "cluster_id": "17",
+    "label": "heat, heatwave, temperatures",
+    "trending_score": 0.0,
+    "count_24h": 0,
+    "count_7d": 0,
+    "top_articles": [
+      {
+        "id": "4977",
+        "title": "No air con? Here's how to get the most out of your electric fan",
+        "url": "https://www.bbc.co.uk/news/articles/cly76jlxljlo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 17:07:05"
+      },
+      {
+        "id": "4884",
+        "title": "Unions in Europe press for new worker protections to counter heat stress",
+        "url": "https://www.theguardian.com/environment/2026/jul/08/unions-europe-worker-protections-heat-stress-climate-crisis",
+        "date": "2026-07-08 11:00:52"
+      },
+      {
+        "id": "4888",
+        "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
+        "url": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
+        "date": "2026-07-08 10:30:07"
       }
     ]
   }

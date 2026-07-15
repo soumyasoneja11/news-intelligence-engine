@@ -1,37 +1,10 @@
 [
   {
-    "cluster_id": "3",
-    "label": "iran, strait, khamenei",
-    "trending_score": 0.0268,
-    "count_24h": 0,
-    "count_7d": 9,
-    "top_articles": [
-      {
-        "id": "4989",
-        "title": "The Strait of Hormuz is now at the centre of Iranian and US calculus",
-        "url": "https://www.aljazeera.com/opinions/2026/7/8/the-strait-of-hormuz-is-now-at-the-centre-of-iranian-and-us-calculus?traffic_source=rss",
-        "date": "2026-07-08 16:48:31"
-      },
-      {
-        "id": "4995",
-        "title": "Germany urges US-Iran negotiations, offers to minesweep Hormuz",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/germany-urges-us-iran-negotiations-offers-to-minesweep-hormuz?traffic_source=rss",
-        "date": "2026-07-08 15:57:41"
-      },
-      {
-        "id": "4996",
-        "title": "Trump’s Iran strike comments shake markets, Brent crude hits two-week high",
-        "url": "https://www.aljazeera.com/economy/2026/7/8/trumps-iran-strike-comments-shake-markets-brent-crude-hits-two-week-high?traffic_source=rss",
-        "date": "2026-07-08 15:53:23"
-      }
-    ]
-  },
-  {
     "cluster_id": "11",
     "label": "russia, ukraine, russian",
-    "trending_score": 0.0249,
+    "trending_score": 0.0193,
     "count_24h": 0,
-    "count_7d": 9,
+    "count_7d": 7,
     "top_articles": [
       {
         "id": "4988",
@@ -54,11 +27,38 @@
     ]
   },
   {
+    "cluster_id": "3",
+    "label": "iran, strait, khamenei",
+    "trending_score": 0.0179,
+    "count_24h": 0,
+    "count_7d": 6,
+    "top_articles": [
+      {
+        "id": "4989",
+        "title": "The Strait of Hormuz is now at the centre of Iranian and US calculus",
+        "url": "https://www.aljazeera.com/opinions/2026/7/8/the-strait-of-hormuz-is-now-at-the-centre-of-iranian-and-us-calculus?traffic_source=rss",
+        "date": "2026-07-08 16:48:31"
+      },
+      {
+        "id": "4995",
+        "title": "Germany urges US-Iran negotiations, offers to minesweep Hormuz",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/germany-urges-us-iran-negotiations-offers-to-minesweep-hormuz?traffic_source=rss",
+        "date": "2026-07-08 15:57:41"
+      },
+      {
+        "id": "4996",
+        "title": "Trump’s Iran strike comments shake markets, Brent crude hits two-week high",
+        "url": "https://www.aljazeera.com/economy/2026/7/8/trumps-iran-strike-comments-shake-markets-brent-crude-hits-two-week-high?traffic_source=rss",
+        "date": "2026-07-08 15:53:23"
+      }
+    ]
+  },
+  {
     "cluster_id": "14",
     "label": "said, court, police",
-    "trending_score": 0.0142,
+    "trending_score": 0.0071,
     "count_24h": 0,
-    "count_7d": 12,
+    "count_7d": 6,
     "top_articles": [
       {
         "id": "4975",
@@ -81,65 +81,11 @@
     ]
   },
   {
-    "cluster_id": "13",
-    "label": "burnham, said, farage",
-    "trending_score": 0.0135,
-    "count_24h": 0,
-    "count_7d": 7,
-    "top_articles": [
-      {
-        "id": "4976",
-        "title": "Farage denies stunt as Reform proposes August by-election date",
-        "url": "https://www.bbc.co.uk/news/articles/cdxd779gkv9o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:24:05"
-      },
-      {
-        "id": "4981",
-        "title": "Who is Count Binface, aiming to face Farage in by-election?",
-        "url": "https://www.bbc.co.uk/news/videos/cp8r70vpj97o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:16:30"
-      },
-      {
-        "id": "4957",
-        "title": "Treasury yet to do due diligence on finding extra money for UK’s Nato spend",
-        "url": "https://www.theguardian.com/business/2026/jul/08/treasury-due-diligence-money-uk-nato-spend",
-        "date": "2026-07-08 15:30:17"
-      }
-    ]
-  },
-  {
-    "cluster_id": "12",
-    "label": "israel, gaza, israeli",
-    "trending_score": 0.0111,
-    "count_24h": 0,
-    "count_7d": 5,
-    "top_articles": [
-      {
-        "id": "4955",
-        "title": "Photo of bound Palestinian detainee corroborates Israeli torture reports, say rights groups",
-        "url": "https://www.theguardian.com/world/2026/jul/08/photo-palestinian-prisoner-corroborates-israeli-torture-claims",
-        "date": "2026-07-08 14:23:51"
-      },
-      {
-        "id": "4938",
-        "title": "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
-        "url": "https://www.aljazeera.com/news/2026/7/8/timeline-20-years-of-hamas-rule-in-gaza-from-election-to-political-exit?traffic_source=rss",
-        "date": "2026-07-08 13:29:22"
-      },
-      {
-        "id": "4939",
-        "title": "Why can’t we count our dead?",
-        "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/8/why-cant-we-count-our-dead?traffic_source=rss",
-        "date": "2026-07-08 13:28:54"
-      }
-    ]
-  },
-  {
     "cluster_id": "1",
     "label": "said, health, care",
-    "trending_score": 0.0093,
+    "trending_score": 0.007,
     "count_24h": 0,
-    "count_7d": 4,
+    "count_7d": 3,
     "top_articles": [
       {
         "id": "4924",
@@ -158,87 +104,6 @@
         "title": "Australians with cancer are living longer but diagnosis rates on the rise for younger people, report reveals",
         "url": "https://www.theguardian.com/australia-news/2026/jul/09/australians-with-cancer-are-living-longer-but-diagnosis-rates-on-the-rise-for-younger-people-report-reveals",
         "date": "2026-07-08 15:00:35"
-      }
-    ]
-  },
-  {
-    "cluster_id": "5",
-    "label": "england, world, cup",
-    "trending_score": 0.0074,
-    "count_24h": 0,
-    "count_7d": 3,
-    "top_articles": [
-      {
-        "id": "4931",
-        "title": "Henderson has surgery in USA after breaking arm",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c70ygpg95vlo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 15:28:28"
-      },
-      {
-        "id": "4930",
-        "title": "ICC contacts ECB over Stokes retirement video",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdg4me54rro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 14:10:56"
-      },
-      {
-        "id": "4904",
-        "title": "Beaumont to retire from international cricket",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cy047zqw8j5o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 12:58:56"
-      }
-    ]
-  },
-  {
-    "cluster_id": "6",
-    "label": "ai, new, tech",
-    "trending_score": 0.0073,
-    "count_24h": 0,
-    "count_7d": 6,
-    "top_articles": [
-      {
-        "id": "4964",
-        "title": "These AI startups are growing revenue at faster and faster rates",
-        "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-        "date": "2026-07-08 15:41:06"
-      },
-      {
-        "id": "4965",
-        "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
-        "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
-        "date": "2026-07-08 15:00:00"
-      },
-      {
-        "id": "4966",
-        "title": "Apple to produce Made in America wireless chips with Broadcom",
-        "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
-        "date": "2026-07-08 14:43:00"
-      }
-    ]
-  },
-  {
-    "cluster_id": "2",
-    "label": "police, said, shooting",
-    "trending_score": 0.0071,
-    "count_24h": 0,
-    "count_7d": 5,
-    "top_articles": [
-      {
-        "id": "4983",
-        "title": "Five crew remain missing after plane wreckage found in Pakistan",
-        "url": "https://www.bbc.co.uk/news/articles/c5yze1vvlzgo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:39:15"
-      },
-      {
-        "id": "4974",
-        "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
-        "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 16:12:50"
-      },
-      {
-        "id": "4993",
-        "title": "Pakistan military says 42 killed in fighter attacks in Balochistan",
-        "url": "https://www.aljazeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss",
-        "date": "2026-07-08 16:07:45"
       }
     ]
   },
@@ -270,29 +135,56 @@
     ]
   },
   {
-    "cluster_id": "10",
-    "label": "trump, court, president",
-    "trending_score": 0.0053,
+    "cluster_id": "13",
+    "label": "burnham, said, farage",
+    "trending_score": 0.0058,
+    "count_24h": 0,
+    "count_7d": 3,
+    "top_articles": [
+      {
+        "id": "4976",
+        "title": "Farage denies stunt as Reform proposes August by-election date",
+        "url": "https://www.bbc.co.uk/news/articles/cdxd779gkv9o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:24:05"
+      },
+      {
+        "id": "4981",
+        "title": "Who is Count Binface, aiming to face Farage in by-election?",
+        "url": "https://www.bbc.co.uk/news/videos/cp8r70vpj97o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:16:30"
+      },
+      {
+        "id": "4957",
+        "title": "Treasury yet to do due diligence on finding extra money for UK’s Nato spend",
+        "url": "https://www.theguardian.com/business/2026/jul/08/treasury-due-diligence-money-uk-nato-spend",
+        "date": "2026-07-08 15:30:17"
+      }
+    ]
+  },
+  {
+    "cluster_id": "2",
+    "label": "police, said, shooting",
+    "trending_score": 0.0057,
     "count_24h": 0,
     "count_7d": 4,
     "top_articles": [
       {
-        "id": "4998",
-        "title": "Marine Le Pen will run for election in 2027. Will she have to wear an electronic tag?",
-        "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-election-2027",
-        "date": "2026-07-08 17:22:01"
+        "id": "4983",
+        "title": "Five crew remain missing after plane wreckage found in Pakistan",
+        "url": "https://www.bbc.co.uk/news/articles/c5yze1vvlzgo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:39:15"
       },
       {
-        "id": "4992",
-        "title": "Far-right leader Le Pen starts campaign, faces mixed reactions in France",
-        "url": "https://www.aljazeera.com/news/2026/7/8/far-right-leader-le-pen-starts-campaign-faces-mixed-reactions-in-france?traffic_source=rss",
-        "date": "2026-07-08 16:17:12"
+        "id": "4974",
+        "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
+        "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 16:12:50"
       },
       {
-        "id": "4961",
-        "title": "US judge throws out Trump’s $3.8bn defamation lawsuit against Washington Post",
-        "url": "https://www.theguardian.com/media/2026/jul/08/trump-washington-post-defamation-lawsuit",
-        "date": "2026-07-08 15:18:24"
+        "id": "4993",
+        "title": "Pakistan military says 42 killed in fighter attacks in Balochistan",
+        "url": "https://www.aljazeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss",
+        "date": "2026-07-08 16:07:45"
       }
     ]
   },
@@ -351,56 +243,83 @@
     ]
   },
   {
-    "cluster_id": "7",
-    "label": "said, new, market",
-    "trending_score": 0.0037,
+    "cluster_id": "10",
+    "label": "trump, court, president",
+    "trending_score": 0.004,
     "count_24h": 0,
     "count_7d": 3,
     "top_articles": [
       {
-        "id": "4962",
-        "title": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water",
-        "url": "https://www.theguardian.com/us-news/2026/jul/08/meta-datacenter-ai-wyoming-water",
-        "date": "2026-07-08 14:08:00"
+        "id": "4998",
+        "title": "Marine Le Pen will run for election in 2027. Will she have to wear an electronic tag?",
+        "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-election-2027",
+        "date": "2026-07-08 17:22:01"
       },
       {
-        "id": "4969",
-        "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
-        "url": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
-        "date": "2026-07-08 13:26:10"
+        "id": "4992",
+        "title": "Far-right leader Le Pen starts campaign, faces mixed reactions in France",
+        "url": "https://www.aljazeera.com/news/2026/7/8/far-right-leader-le-pen-starts-campaign-faces-mixed-reactions-in-france?traffic_source=rss",
+        "date": "2026-07-08 16:17:12"
       },
       {
-        "id": "4956",
-        "title": "IMF upgrades UK growth forecast as fears over impact of Iran war diminish",
-        "url": "https://www.theguardian.com/business/2026/jul/08/imf-upgrades-uk-growth-forecast-as-fears-over-impact-of-iran-war-diminish",
-        "date": "2026-07-08 13:00:32"
+        "id": "4961",
+        "title": "US judge throws out Trump’s $3.8bn defamation lawsuit against Washington Post",
+        "url": "https://www.theguardian.com/media/2026/jul/08/trump-washington-post-defamation-lawsuit",
+        "date": "2026-07-08 15:18:24"
       }
     ]
   },
   {
-    "cluster_id": "8",
-    "label": "image, said, new",
-    "trending_score": 0.0011,
+    "cluster_id": "5",
+    "label": "england, world, cup",
+    "trending_score": 0.0025,
     "count_24h": 0,
     "count_7d": 1,
     "top_articles": [
       {
-        "id": "4929",
-        "title": "London City sign Ballon d'Or winner Putellas",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvg7wenkklyo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 14:40:50"
+        "id": "4931",
+        "title": "Henderson has surgery in USA after breaking arm",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c70ygpg95vlo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 15:28:28"
       },
       {
-        "id": "4867",
-        "title": "Multiple cakes and stolen keepsakes: Greg James spills the tea on Taylor Swift's wedding",
-        "url": "https://www.bbc.co.uk/news/articles/cx2kd1de8l5o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-07-08 09:48:06"
+        "id": "4930",
+        "title": "ICC contacts ECB over Stokes retirement video",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdg4me54rro?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 14:10:56"
       },
       {
-        "id": "4890",
-        "title": "Booyakasha! Sacha Baron Cohen has completed a new Ali G movie",
-        "url": "https://www.theguardian.com/film/2026/jul/08/booyakasha-sacha-baron-cohen-has-completed-a-new-ali-g-movie",
-        "date": "2026-07-08 09:35:45"
+        "id": "4904",
+        "title": "Beaumont to retire from international cricket",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cy047zqw8j5o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 12:58:56"
+      }
+    ]
+  },
+  {
+    "cluster_id": "6",
+    "label": "ai, new, tech",
+    "trending_score": 0.0024,
+    "count_24h": 0,
+    "count_7d": 2,
+    "top_articles": [
+      {
+        "id": "4964",
+        "title": "These AI startups are growing revenue at faster and faster rates",
+        "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+        "date": "2026-07-08 15:41:06"
+      },
+      {
+        "id": "4965",
+        "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
+        "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
+        "date": "2026-07-08 15:00:00"
+      },
+      {
+        "id": "4966",
+        "title": "Apple to produce Made in America wireless chips with Broadcom",
+        "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
+        "date": "2026-07-08 14:43:00"
       }
     ]
   },
@@ -428,6 +347,87 @@
         "title": "Ex-Spurs boss Postecoglou takes over at Ronaldo's Al-Nassr",
         "url": "https://www.bbc.co.uk/sport/football/articles/cr47p07wk67o?at_medium=RSS&at_campaign=rss",
         "date": "2026-07-03 17:37:28"
+      }
+    ]
+  },
+  {
+    "cluster_id": "7",
+    "label": "said, new, market",
+    "trending_score": 0.0,
+    "count_24h": 0,
+    "count_7d": 0,
+    "top_articles": [
+      {
+        "id": "4962",
+        "title": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water",
+        "url": "https://www.theguardian.com/us-news/2026/jul/08/meta-datacenter-ai-wyoming-water",
+        "date": "2026-07-08 14:08:00"
+      },
+      {
+        "id": "4969",
+        "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
+        "url": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
+        "date": "2026-07-08 13:26:10"
+      },
+      {
+        "id": "4956",
+        "title": "IMF upgrades UK growth forecast as fears over impact of Iran war diminish",
+        "url": "https://www.theguardian.com/business/2026/jul/08/imf-upgrades-uk-growth-forecast-as-fears-over-impact-of-iran-war-diminish",
+        "date": "2026-07-08 13:00:32"
+      }
+    ]
+  },
+  {
+    "cluster_id": "8",
+    "label": "image, said, new",
+    "trending_score": 0.0,
+    "count_24h": 0,
+    "count_7d": 0,
+    "top_articles": [
+      {
+        "id": "4929",
+        "title": "London City sign Ballon d'Or winner Putellas",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvg7wenkklyo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 14:40:50"
+      },
+      {
+        "id": "4867",
+        "title": "Multiple cakes and stolen keepsakes: Greg James spills the tea on Taylor Swift's wedding",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kd1de8l5o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-07-08 09:48:06"
+      },
+      {
+        "id": "4890",
+        "title": "Booyakasha! Sacha Baron Cohen has completed a new Ali G movie",
+        "url": "https://www.theguardian.com/film/2026/jul/08/booyakasha-sacha-baron-cohen-has-completed-a-new-ali-g-movie",
+        "date": "2026-07-08 09:35:45"
+      }
+    ]
+  },
+  {
+    "cluster_id": "12",
+    "label": "israel, gaza, israeli",
+    "trending_score": 0.0,
+    "count_24h": 0,
+    "count_7d": 0,
+    "top_articles": [
+      {
+        "id": "4955",
+        "title": "Photo of bound Palestinian detainee corroborates Israeli torture reports, say rights groups",
+        "url": "https://www.theguardian.com/world/2026/jul/08/photo-palestinian-prisoner-corroborates-israeli-torture-claims",
+        "date": "2026-07-08 14:23:51"
+      },
+      {
+        "id": "4938",
+        "title": "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
+        "url": "https://www.aljazeera.com/news/2026/7/8/timeline-20-years-of-hamas-rule-in-gaza-from-election-to-political-exit?traffic_source=rss",
+        "date": "2026-07-08 13:29:22"
+      },
+      {
+        "id": "4939",
+        "title": "Why can’t we count our dead?",
+        "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/8/why-cant-we-count-our-dead?traffic_source=rss",
+        "date": "2026-07-08 13:28:54"
       }
     ]
   },

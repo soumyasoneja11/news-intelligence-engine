@@ -27,19 +27,6 @@
   },
   {
     "article_a": {
-      "id": "268",
-      "title": "Counting the times Kevin Durant’s shoe came off during games",
-      "url": "http://flowingdata.com/2018/05/30/counting-the-times-kevin-durants-shoe-came-off-during-games/"
-    },
-    "article_b": {
-      "id": "269",
-      "title": "Counting the times Kevin Durant’s shoe came off during games",
-      "url": "https://flowingdata.com/2018/05/30/counting-the-times-kevin-durants-shoe-came-off-during-games/"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
       "id": "413",
       "title": "Peloton Names Pamela Thomas-Graham to Its Board of Directors",
       "url": "https://www.taiwannews.com.tw/en/news/3413598"
@@ -256,6 +243,19 @@
       "id": "266",
       "title": "Waiting Game, through the steps of asylum seekers",
       "url": "http://flowingdata.com/2018/04/24/waiting-game-through-the-steps-of-asylum-seekers/"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
+      "id": "268",
+      "title": "Counting the times Kevin Durant’s shoe came off during games",
+      "url": "http://flowingdata.com/2018/05/30/counting-the-times-kevin-durants-shoe-came-off-during-games/"
+    },
+    "article_b": {
+      "id": "269",
+      "title": "Counting the times Kevin Durant’s shoe came off during games",
+      "url": "https://flowingdata.com/2018/05/30/counting-the-times-kevin-durants-shoe-came-off-during-games/"
     },
     "similarity": 1.0
   },
@@ -4027,7 +4027,7 @@
       "title": "The world's last male northern white rhino, Sudan, has died after 'age-related complications'",
       "url": "https://www.taiwannews.com.tw/en/news/3386150"
     },
-    "similarity": 0.9261434078216553
+    "similarity": 0.9261434674263
   },
   {
     "article_a": {
@@ -4092,7 +4092,7 @@
       "title": "How major US stock indexes fared Monday",
       "url": "https://www.taiwannews.com.tw/en/news/3385803"
     },
-    "similarity": 0.9231464266777039
+    "similarity": 0.9231463670730591
   },
   {
     "article_a": {

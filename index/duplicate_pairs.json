@@ -27,19 +27,6 @@
   },
   {
     "article_a": {
-      "id": "359",
-      "title": "Pakistan eliminates Zimbabwe from tri-series tournament",
-      "url": "https://www.taiwannews.com.tw/en/news/3474236"
-    },
-    "article_b": {
-      "id": "1406",
-      "title": "Pakistan eliminates Zimbabwe from tri-series tournament",
-      "url": "https://www.taiwannews.com.tw/en/news/3474223"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
       "id": "413",
       "title": "Peloton Names Pamela Thomas-Graham to Its Board of Directors",
       "url": "https://www.taiwannews.com.tw/en/news/3413598"
@@ -126,6 +113,32 @@
       "id": "2059",
       "title": "Boiling point: The week of extreme heat",
       "url": "https://www.bbc.co.uk/iplayer/episode/m002ypkf/bbc-news-boiling-point-the-week-of-extreme-heat?at_medium=RSS&at_campaign=rss"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "1986",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq?at_medium=RSS&at_campaign=rss"
+    },
+    "article_b": {
+      "id": "4009",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq/tech-now-world-cup-gamechanging-tech?at_campaign=rss&at_medium=RSS"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
+      "id": "2025",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq/tech-now-world-cup-gamechanging-tech?at_medium=RSS&at_campaign=rss"
+    },
+    "article_b": {
+      "id": "4009",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq/tech-now-world-cup-gamechanging-tech?at_campaign=rss&at_medium=RSS"
     },
     "similarity": 1.0000001192092896
   },
@@ -282,6 +295,19 @@
       "id": "741",
       "title": "Correction: Deadly Car Wash Shooting-The Latest story",
       "url": "https://www.taiwannews.com.tw/en/news/3355050"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
+      "id": "359",
+      "title": "Pakistan eliminates Zimbabwe from tri-series tournament",
+      "url": "https://www.taiwannews.com.tw/en/news/3474236"
+    },
+    "article_b": {
+      "id": "1406",
+      "title": "Pakistan eliminates Zimbabwe from tri-series tournament",
+      "url": "https://www.taiwannews.com.tw/en/news/3474223"
     },
     "similarity": 1.0
   },
@@ -3017,19 +3043,6 @@
   },
   {
     "article_a": {
-      "id": "1986",
-      "title": "Tech Now",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq?at_medium=RSS&at_campaign=rss"
-    },
-    "article_b": {
-      "id": "4009",
-      "title": "Tech Now",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq/tech-now-world-cup-gamechanging-tech?at_campaign=rss&at_medium=RSS"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
       "id": "1987",
       "title": "Tech Now",
       "url": "https://www.bbc.co.uk/iplayer/episode/m002x058?at_medium=RSS&at_campaign=rss"
@@ -3103,19 +3116,6 @@
       "id": "2212",
       "title": "Tech Now",
       "url": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "2025",
-      "title": "Tech Now",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq/tech-now-world-cup-gamechanging-tech?at_medium=RSS&at_campaign=rss"
-    },
-    "article_b": {
-      "id": "4009",
-      "title": "Tech Now",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq/tech-now-world-cup-gamechanging-tech?at_campaign=rss&at_medium=RSS"
     },
     "similarity": 1.0
   },
@@ -3793,7 +3793,7 @@
       "title": "US Congressman denies existence of Palestinians in interview",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/us-congressman-denies-existence-of-palestinians-in-interview-2?traffic_source=rss"
     },
-    "similarity": 0.9393251538276672
+    "similarity": 0.939325213432312
   },
   {
     "article_a": {
@@ -4092,7 +4092,7 @@
       "title": "How major US stock indexes fared Monday",
       "url": "https://www.taiwannews.com.tw/en/news/3385803"
     },
-    "similarity": 0.9231464266777039
+    "similarity": 0.9231463670730591
   },
   {
     "article_a": {

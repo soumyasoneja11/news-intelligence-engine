@@ -40,6 +40,19 @@
   },
   {
     "article_a": {
+      "id": "359",
+      "title": "Pakistan eliminates Zimbabwe from tri-series tournament",
+      "url": "https://www.taiwannews.com.tw/en/news/3474236"
+    },
+    "article_b": {
+      "id": "1406",
+      "title": "Pakistan eliminates Zimbabwe from tri-series tournament",
+      "url": "https://www.taiwannews.com.tw/en/news/3474223"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
       "id": "413",
       "title": "Peloton Names Pamela Thomas-Graham to Its Board of Directors",
       "url": "https://www.taiwannews.com.tw/en/news/3413598"
@@ -269,19 +282,6 @@
       "id": "741",
       "title": "Correction: Deadly Car Wash Shooting-The Latest story",
       "url": "https://www.taiwannews.com.tw/en/news/3355050"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "359",
-      "title": "Pakistan eliminates Zimbabwe from tri-series tournament",
-      "url": "https://www.taiwannews.com.tw/en/news/3474236"
-    },
-    "article_b": {
-      "id": "1406",
-      "title": "Pakistan eliminates Zimbabwe from tri-series tournament",
-      "url": "https://www.taiwannews.com.tw/en/news/3474223"
     },
     "similarity": 1.0
   },

@@ -27,6 +27,19 @@
   },
   {
     "article_a": {
+      "id": "268",
+      "title": "Counting the times Kevin Durant’s shoe came off during games",
+      "url": "http://flowingdata.com/2018/05/30/counting-the-times-kevin-durants-shoe-came-off-during-games/"
+    },
+    "article_b": {
+      "id": "269",
+      "title": "Counting the times Kevin Durant’s shoe came off during games",
+      "url": "https://flowingdata.com/2018/05/30/counting-the-times-kevin-durants-shoe-came-off-during-games/"
+    },
+    "similarity": 1.0000001192092896
+  },
+  {
+    "article_a": {
       "id": "413",
       "title": "Peloton Names Pamela Thomas-Graham to Its Board of Directors",
       "url": "https://www.taiwannews.com.tw/en/news/3413598"
@@ -113,32 +126,6 @@
       "id": "2059",
       "title": "Boiling point: The week of extreme heat",
       "url": "https://www.bbc.co.uk/iplayer/episode/m002ypkf/bbc-news-boiling-point-the-week-of-extreme-heat?at_medium=RSS&at_campaign=rss"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
-      "id": "1986",
-      "title": "Tech Now",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq?at_medium=RSS&at_campaign=rss"
-    },
-    "article_b": {
-      "id": "4009",
-      "title": "Tech Now",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq/tech-now-world-cup-gamechanging-tech?at_campaign=rss&at_medium=RSS"
-    },
-    "similarity": 1.0000001192092896
-  },
-  {
-    "article_a": {
-      "id": "2025",
-      "title": "Tech Now",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq/tech-now-world-cup-gamechanging-tech?at_medium=RSS&at_campaign=rss"
-    },
-    "article_b": {
-      "id": "4009",
-      "title": "Tech Now",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq/tech-now-world-cup-gamechanging-tech?at_campaign=rss&at_medium=RSS"
     },
     "similarity": 1.0000001192092896
   },
@@ -243,19 +230,6 @@
       "id": "266",
       "title": "Waiting Game, through the steps of asylum seekers",
       "url": "http://flowingdata.com/2018/04/24/waiting-game-through-the-steps-of-asylum-seekers/"
-    },
-    "similarity": 1.0
-  },
-  {
-    "article_a": {
-      "id": "268",
-      "title": "Counting the times Kevin Durant’s shoe came off during games",
-      "url": "http://flowingdata.com/2018/05/30/counting-the-times-kevin-durants-shoe-came-off-during-games/"
-    },
-    "article_b": {
-      "id": "269",
-      "title": "Counting the times Kevin Durant’s shoe came off during games",
-      "url": "https://flowingdata.com/2018/05/30/counting-the-times-kevin-durants-shoe-came-off-during-games/"
     },
     "similarity": 1.0
   },
@@ -3043,6 +3017,19 @@
   },
   {
     "article_a": {
+      "id": "1986",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq?at_medium=RSS&at_campaign=rss"
+    },
+    "article_b": {
+      "id": "4009",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq/tech-now-world-cup-gamechanging-tech?at_campaign=rss&at_medium=RSS"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
       "id": "1987",
       "title": "Tech Now",
       "url": "https://www.bbc.co.uk/iplayer/episode/m002x058?at_medium=RSS&at_campaign=rss"
@@ -3116,6 +3103,19 @@
       "id": "2212",
       "title": "Tech Now",
       "url": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss"
+    },
+    "similarity": 1.0
+  },
+  {
+    "article_a": {
+      "id": "2025",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq/tech-now-world-cup-gamechanging-tech?at_medium=RSS&at_campaign=rss"
+    },
+    "article_b": {
+      "id": "4009",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002xbvq/tech-now-world-cup-gamechanging-tech?at_campaign=rss&at_medium=RSS"
     },
     "similarity": 1.0
   },
@@ -3520,7 +3520,7 @@
       "title": "How major US stock indexes fared on Tuesday",
       "url": "https://www.taiwannews.com.tw/en/news/3354493"
     },
-    "similarity": 0.953129768371582
+    "similarity": 0.9531297087669373
   },
   {
     "article_a": {
